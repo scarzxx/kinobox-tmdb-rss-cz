@@ -6,13 +6,13 @@
     <description>TOP filmy</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 04 May 2025 16:53:02 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 17:23:59 +0200</lastBuildDate>
     <item>
       <title>Pasáž</title>
       <link>https://www.kinobox.cz/film/726587</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg</poster>
-      <hodnoceni>Hodnocení: 59%</hodnoceni>
-      <delka>Délka: 2h 5m</delka>
+      <hodnoceni>59%</hodnoceni>
+      <delka>2h 5m</delka>
       <year>Rok: 2025</year>
       <providers>Netflix</providers>
       <genres>Akční, Dobrodružný, Drama, Sci-fi, Adaptace knižní</genres>
@@ -22,8 +22,8 @@
       <title>V dobrém i zlém</title>
       <link>https://www.kinobox.cz/film/2672739</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/10/30/upload_15007884097453310638.jpg</poster>
-      <hodnoceni>Hodnocení: 54%</hodnoceni>
-      <delka>Délka: 1h 33m</delka>
+      <hodnoceni>54%</hodnoceni>
+      <delka>1h 33m</delka>
       <year>Rok: 2024</year>
       <providers>Netflix</providers>
       <genres>Komedie</genres>
@@ -33,8 +33,8 @@
       <title>Totální rozklad</title>
       <link>https://www.kinobox.cz/film/719257</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/26/external_file_16117980583466509805.jpg</poster>
-      <hodnoceni>Hodnocení: 58%</hodnoceni>
-      <delka>Délka: 1h 47m</delka>
+      <hodnoceni>58%</hodnoceni>
+      <delka>1h 47m</delka>
       <year>Rok: 2025</year>
       <providers>Netflix</providers>
       <genres>Akční, Krimi, Thriller</genres>
@@ -44,8 +44,8 @@
       <title>Vlny</title>
       <link>https://www.kinobox.cz/film/723825</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/06/04/upload_11447653862362434444.jpg</poster>
-      <hodnoceni>Hodnocení: 85%</hodnoceni>
-      <delka>Délka: 2h 11m</delka>
+      <hodnoceni>85%</hodnoceni>
+      <delka>2h 11m</delka>
       <year>Rok: 2024</year>
       <providers>Oneplay, Google Play, iTunes, KVIFF TV, DaFilms, Magenta TV</providers>
       <genres>Drama, Thriller, Historický</genres>
@@ -55,8 +55,8 @@
       <title>Jak vydělat milion než babička zemře</title>
       <link>https://www.kinobox.cz/film/3176014</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/01/30/external_file_13495858860882834321.jpg</poster>
-      <hodnoceni>Hodnocení: 78%</hodnoceni>
-      <delka>Délka: 2h 7m</delka>
+      <hodnoceni>78%</hodnoceni>
+      <delka>2h 7m</delka>
       <year>Rok: 2024</year>
       <providers>Netflix</providers>
       <genres>Drama, Komedie, Rodinný</genres>
@@ -66,8 +66,8 @@
       <title>Dragon</title>
       <link>https://www.kinobox.cz/film/3246879</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/20/external_file_8923585764137668592.jpg</poster>
-      <hodnoceni>Hodnocení: 78%</hodnoceni>
-      <delka>Délka: 2h 37m</delka>
+      <hodnoceni>78%</hodnoceni>
+      <delka>2h 37m</delka>
       <year>Rok: 2025</year>
       <providers>Netflix</providers>
       <genres>Drama, Romantický, Komedie</genres>
@@ -77,8 +77,8 @@
       <title>Officer On Duty</title>
       <link>https://www.kinobox.cz/film/3285848</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_17415726196785678197.jpg</poster>
-      <hodnoceni>Hodnocení: 75%</hodnoceni>
-      <delka>Délka: 2h 14m</delka>
+      <hodnoceni>75%</hodnoceni>
+      <delka>2h 14m</delka>
       <year>Rok: 2025</year>
       <providers>Netflix</providers>
       <genres>Thriller</genres>
@@ -88,8 +88,8 @@
       <title>Mord</title>
       <link>https://www.kinobox.cz/film/2655175</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/06/18/upload_7667947359247551199.jpg</poster>
-      <hodnoceni>Hodnocení: 68%</hodnoceni>
-      <delka>Délka: 1h 24m</delka>
+      <hodnoceni>68%</hodnoceni>
+      <delka>1h 24m</delka>
       <year>Rok: 2024</year>
       <providers>Max, iTunes, KVIFF TV, DaFilms</providers>
       <genres>Komedie, Drama</genres>
@@ -99,8 +99,8 @@
       <title>Byl jednou jeden král...</title>
       <link>https://www.kinobox.cz/film/4832</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/02/23/external_file_10472602821438742243.jpg</poster>
-      <hodnoceni>Hodnocení: 84%</hodnoceni>
-      <delka>Délka: 1h 47m</delka>
+      <hodnoceni>84%</hodnoceni>
+      <delka>1h 47m</delka>
       <year>Rok: 1954</year>
       <providers>Prima Plus</providers>
       <genres>Komedie, Pohádka, Rodinný, Vánoční</genres>
@@ -110,8 +110,8 @@
       <title>Pán prstenů: Válka Rohirů</title>
       <link>https://www.kinobox.cz/film/723642</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/11/27/upload_13828367844564703368.png</poster>
-      <hodnoceni>Hodnocení: 65%</hodnoceni>
-      <delka>Délka: 2h 14m</delka>
+      <hodnoceni>65%</hodnoceni>
+      <delka>2h 14m</delka>
       <year>Rok: 2024</year>
       <providers>Max, Google Play, iTunes, Rakuten</providers>
       <genres>Akční, Fantasy, Anime, Animovaný, Dobrodružný</genres>
@@ -121,8 +121,8 @@
       <title>Léto s Evženem</title>
       <link>https://www.kinobox.cz/film/2668526</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_13422895238695269656.jpg</poster>
-      <hodnoceni>Hodnocení: 53%</hodnoceni>
-      <delka>Délka: 1h 37m</delka>
+      <hodnoceni>53%</hodnoceni>
+      <delka>1h 37m</delka>
       <year>Rok: 2024</year>
       <providers>Oneplay</providers>
       <genres>Komedie, Rodinný</genres>
@@ -132,8 +132,8 @@
       <title>Společník</title>
       <link>https://www.kinobox.cz/film/2672138</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/01/15/upload_8199275422862711507.jpg</poster>
-      <hodnoceni>Hodnocení: 67%</hodnoceni>
-      <delka>Délka: 1h 37m</delka>
+      <hodnoceni>67%</hodnoceni>
+      <delka>1h 37m</delka>
       <year>Rok: 2025</year>
       <providers>Max, Google Play, iTunes, Rakuten</providers>
       <genres>Sci-fi, Thriller, Horor</genres>
@@ -143,8 +143,8 @@
       <title>Architektura ČSSR 58–89</title>
       <link>https://www.kinobox.cz/film/2655931</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/06/03/upload_14405255511401405508.jpg</poster>
-      <hodnoceni>Hodnocení: 84%</hodnoceni>
-      <delka>Délka: 2h 6m</delka>
+      <hodnoceni>84%</hodnoceni>
+      <delka>2h 6m</delka>
       <year>Rok: 2024</year>
       <providers>Netflix, KVIFF TV</providers>
       <genres>Dokumentární</genres>
@@ -154,8 +154,8 @@
       <title>Seznam tajných přání</title>
       <link>https://www.kinobox.cz/film/3181727</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/20/upload_1416216789848850559.png</poster>
-      <hodnoceni>Hodnocení: 64%</hodnoceni>
-      <delka>Délka: 2h 3m</delka>
+      <hodnoceni>64%</hodnoceni>
+      <delka>2h 3m</delka>
       <year>Rok: 2025</year>
       <providers>Netflix</providers>
       <genres>Romantický, Komedie, Drama, Adaptace knižní</genres>
@@ -165,8 +165,8 @@
       <title>Protiútok</title>
       <link>https://www.kinobox.cz/film/3181680</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_3095454424776342398.jpg</poster>
-      <hodnoceni>Hodnocení: 66%</hodnoceni>
-      <delka>Délka: 1h 25m</delka>
+      <hodnoceni>66%</hodnoceni>
+      <delka>1h 25m</delka>
       <year>Rok: 2025</year>
       <providers>Netflix</providers>
       <genres>Akční, Thriller</genres>
@@ -176,8 +176,8 @@
       <title>Amal</title>
       <link>https://www.kinobox.cz/film/3148892</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_15561331609783043551.jpg</poster>
-      <hodnoceni>Hodnocení: 72%</hodnoceni>
-      <delka>Délka: 1h 52m</delka>
+      <hodnoceni>72%</hodnoceni>
+      <delka>1h 52m</delka>
       <year>Rok: 2024</year>
       <providers>Max</providers>
       <genres>Drama</genres>
@@ -187,8 +187,8 @@
       <title>Klaus</title>
       <link>https://www.kinobox.cz/film/715575</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg</poster>
-      <hodnoceni>Hodnocení: 90%</hodnoceni>
-      <delka>Délka: 1h 36m</delka>
+      <hodnoceni>90%</hodnoceni>
+      <delka>1h 36m</delka>
       <year>Rok: 2019</year>
       <providers>Netflix</providers>
       <genres>Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční</genres>
@@ -198,8 +198,8 @@
       <title>Duna: Část druhá</title>
       <link>https://www.kinobox.cz/film/721984</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/02/29/upload_1082187277995497275.jpg</poster>
-      <hodnoceni>Hodnocení: 89%</hodnoceni>
-      <delka>Délka: 2h 47m</delka>
+      <hodnoceni>89%</hodnoceni>
+      <delka>2h 47m</delka>
       <year>Rok: 2024</year>
       <providers>Max, Google Play, iTunes, Rakuten</providers>
       <genres>Akční, Dobrodružný, Drama, Adaptace knižní, Série/Franchise, Sci-fi, Epický, Blockbuster</genres>
@@ -209,8 +209,8 @@
       <title>Aneta</title>
       <link>https://www.kinobox.cz/film/2669944</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/09/20/upload_17545864193024936470.jpg</poster>
-      <hodnoceni>Hodnocení: 70%</hodnoceni>
-      <delka>Délka: 1h 40m</delka>
+      <hodnoceni>70%</hodnoceni>
+      <delka>1h 40m</delka>
       <year>Rok: 2024</year>
       <providers>Netflix</providers>
       <genres>Dokumentární</genres>
@@ -220,8 +220,8 @@
       <title>Venom: Poslední tanec</title>
       <link>https://www.kinobox.cz/film/723512</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/10/23/upload_1085710580901298335.jpg</poster>
-      <hodnoceni>Hodnocení: 62%</hodnoceni>
-      <delka>Délka: 1h 49m</delka>
+      <hodnoceni>62%</hodnoceni>
+      <delka>1h 49m</delka>
       <year>Rok: 2024</year>
       <providers>Max, Google Play, iTunes, KVIFF TV, Rakuten, SWEET.TV</providers>
       <genres>Akční, Dobrodružný, Horor, Sci-fi, Komiksový</genres>
@@ -231,8 +231,8 @@
       <title>Furiosa: Sága Šíleného Maxe</title>
       <link>https://www.kinobox.cz/film/719658</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/04/08/upload_3063119944998439302.jpg</poster>
-      <hodnoceni>Hodnocení: 78%</hodnoceni>
-      <delka>Délka: 2h 29m</delka>
+      <hodnoceni>78%</hodnoceni>
+      <delka>2h 29m</delka>
       <year>Rok: 2024</year>
       <providers>Max, Google Play, iTunes, Rakuten</providers>
       <genres>Akční, Dobrodružný, Sci-fi, Blockbuster, Epický, Série/Franchise</genres>
@@ -242,8 +242,8 @@
       <title>Život k sežrání</title>
       <link>https://www.kinobox.cz/film/2649567</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/06/30/upload_14186203432599502899.jpg</poster>
-      <hodnoceni>Hodnocení: 71%</hodnoceni>
-      <delka>Délka: 1h 20m</delka>
+      <hodnoceni>71%</hodnoceni>
+      <delka>1h 20m</delka>
       <year>Rok: 2024</year>
       <providers>Max, KVIFF TV, DaFilms</providers>
       <genres>Animovaný, Loutkový, Dětský, Adaptace knižní, Rodinný, Komedie</genres>
@@ -253,8 +253,8 @@
       <title>Její tělo</title>
       <link>https://www.kinobox.cz/film/725717</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2023/05/11/upload_13052590893741575933.jpg</poster>
-      <hodnoceni>Hodnocení: 58%</hodnoceni>
-      <delka>Délka: 1h 48m</delka>
+      <hodnoceni>58%</hodnoceni>
+      <delka>1h 48m</delka>
       <year>Rok: 2023</year>
       <providers>Netflix, Google Play, iTunes, KVIFF TV, DaFilms</providers>
       <genres>Drama, Sportovní</genres>
@@ -264,8 +264,8 @@
       <title>Hranice lásky</title>
       <link>https://www.kinobox.cz/film/722480</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2022/07/09/obrazy-lasky135259420_588.jpg</poster>
-      <hodnoceni>Hodnocení: 55%</hodnoceni>
-      <delka>Délka: 1h 35m</delka>
+      <hodnoceni>55%</hodnoceni>
+      <delka>1h 35m</delka>
       <year>Rok: 2022</year>
       <providers>Netflix, Google Play, iTunes, KVIFF TV, DaFilms</providers>
       <genres>Drama, Erotický</genres>
@@ -275,8 +275,8 @@
       <title>Porotce č. 2</title>
       <link>https://www.kinobox.cz/film/2645644</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/10/01/upload_11401653062326142966.jpg</poster>
-      <hodnoceni>Hodnocení: 72%</hodnoceni>
-      <delka>Délka: 1h 53m</delka>
+      <hodnoceni>72%</hodnoceni>
+      <delka>1h 53m</delka>
       <year>Rok: 2024</year>
       <providers>Max, Google Play, iTunes, Rakuten</providers>
       <genres>Thriller, Drama, Krimi, Mysteriozní</genres>
@@ -286,8 +286,8 @@
       <title>Sedm</title>
       <link>https://www.kinobox.cz/film/18561</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2023/09/01/18561___external_file_11017832207419169185.jpg</poster>
-      <hodnoceni>Hodnocení: 92%</hodnoceni>
-      <delka>Délka: 2h 7m</delka>
+      <hodnoceni>92%</hodnoceni>
+      <delka>2h 7m</delka>
       <year>Rok: 1995</year>
       <providers>Netflix, Google Play, iTunes, Rakuten</providers>
       <genres>Krimi, Mysteriozní, Thriller, Film Noir, Gotický, Nezávislý</genres>
@@ -297,8 +297,8 @@
       <title>Oppenheimer</title>
       <link>https://www.kinobox.cz/film/721728</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/03/21/upload_10819431846075944983.jpg</poster>
-      <hodnoceni>Hodnocení: 86%</hodnoceni>
-      <delka>Délka: 3h</delka>
+      <hodnoceni>86%</hodnoceni>
+      <delka>3h</delka>
       <year>Rok: 2023</year>
       <providers>Netflix, Google Play, iTunes, Rakuten</providers>
       <genres>Historický, Thriller, Biografický, Podle skutečných událostí, Retro, Oscarový, Blockbuster</genres>
@@ -308,8 +308,8 @@
       <title>Deva</title>
       <link>https://www.kinobox.cz/film/3228816</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_11937847916472504226.jpg</poster>
-      <hodnoceni>Hodnocení: 64%</hodnoceni>
-      <delka>Délka: 2h 35m</delka>
+      <hodnoceni>64%</hodnoceni>
+      <delka>2h 35m</delka>
       <year>Rok: 2025</year>
       <providers>Netflix</providers>
       <genres>Akční, Thriller</genres>
@@ -319,8 +319,8 @@
       <title>Gentlemani</title>
       <link>https://www.kinobox.cz/film/438612</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2020/01/12/toff-guys-imdb172204842_1192.jpg</poster>
-      <hodnoceni>Hodnocení: 86%</hodnoceni>
-      <delka>Délka: 1h 53m</delka>
+      <hodnoceni>86%</hodnoceni>
+      <delka>1h 53m</delka>
       <year>Rok: 2020</year>
       <providers>Netflix, Google Play, iTunes</providers>
       <genres>Akční, Komedie, Krimi, Gangsterka</genres>
@@ -330,8 +330,8 @@
       <title>Exteritorium</title>
       <link>https://www.kinobox.cz/film/4153589</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/03/15/external_file_9653364672679234002.jpg</poster>
-      <hodnoceni>Hodnocení: 60%</hodnoceni>
-      <delka>Délka: 1h 49m</delka>
+      <hodnoceni>60%</hodnoceni>
+      <delka>1h 49m</delka>
       <year>Rok: 2025</year>
       <providers>Netflix</providers>
       <genres>Thriller, Akční</genres>
@@ -341,8 +341,8 @@
       <title>After Party</title>
       <link>https://www.kinobox.cz/film/2662618</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/11/08/upload_5667814742536023925.jpg</poster>
-      <hodnoceni>Hodnocení: 61%</hodnoceni>
-      <delka>Délka: 1h 29m</delka>
+      <hodnoceni>61%</hodnoceni>
+      <delka>1h 29m</delka>
       <year>Rok: 2024</year>
       <providers>Max, KVIFF TV, DaFilms</providers>
       <genres>Drama</genres>
@@ -352,8 +352,8 @@
       <title>Tři zjevení</title>
       <link>https://www.kinobox.cz/film/3514529</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/25/external_file_10085947766291620056.jpg</poster>
-      <hodnoceni>Hodnocení: 57%</hodnoceni>
-      <delka>Délka: 2h 2m</delka>
+      <hodnoceni>57%</hodnoceni>
+      <delka>2h 2m</delka>
       <year>Rok: 2025</year>
       <providers>Netflix</providers>
       <genres>Drama, Krimi, Mysteriozní</genres>
