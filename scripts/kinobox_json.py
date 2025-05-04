@@ -1,70 +1,147 @@
-import os
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
-import hashlib
+import pytz # Přidáno pro korektní časovou zónu v pubDate
+from xml.dom import minidom
+import json # Pro případnou chybu při parsování
 
-# Funkce na výpočet SHA256 hash z textu
-def get_hash(content: str) -> str:
-    return hashlib.sha256(content.encode('utf-8')).hexdigest()
+# --- KONFIGURACE ---
+# VAROVÁNÍ: Tato URL obsahuje build ID a pravděpodobně brzy přestane fungovat!
+JSON_URL = "https://www.kinobox.cz/_next/data/1qG7m8WJ-AtZ5GALF4npj/cs/filmy/trendy.json"
+OUTPUT_FILE = "feed/kinobox_trendy_rss.xml"
+PRAGUE_TZ = pytz.timezone('Europe/Prague') # Časová zóna pro data
 
-# URL Kinobox trendy JSON
-url = "https://www.kinobox.cz/_next/data/1qG7m8WJ-AtZ5GALF4npj/cs/filmy/trendy.json"
+def format_duration(total_minutes):
+    """Převede celkový počet minut na formát 'Xh Ym' nebo 'Ym'."""
+    if total_minutes is None or not isinstance(total_minutes, int) or total_minutes <= 0:
+        return None # Vracíme None, pokud není platná délka
+    hours = total_minutes // 60
+    minutes = total_minutes % 60
+    duration_str = ""
+    if hours > 0:
+        duration_str += f"{hours}h"
+    if minutes > 0:
+        if duration_str: # Přidá mezeru, pokud už máme hodiny
+             duration_str += " "
+        duration_str += f"{minutes}m"
+    return duration_str if duration_str else None # Vracíme None, pokud je výsledek prázdný
 
-# Stažení dat
-response = requests.get(url)
-data = response.json()
-films = data["pageProps"]["filmsOut"]["items"]
+print(f"Stahuji JSON data z: {JSON_URL}")
+print("VAROVÁNÍ: Pokud skript selže, zkontrolujte, zda se nezměnila URL (build ID).")
 
-# Vytvoření RSS struktury
+try:
+    response = requests.get(JSON_URL, timeout=15)
+    response.raise_for_status() # Zkontroluje chyby HTTP
+    data = response.json()
+    # Ověření cesty k filmům
+    if "pageProps" not in data or "filmsOut" not in data["pageProps"] or "items" not in data["pageProps"]["filmsOut"]:
+         raise KeyError("Chybějící klíč v očekávané cestě k filmům ('pageProps.filmsOut.items')")
+    films = data["pageProps"]["filmsOut"]["items"]
+    print(f"Nalezeno {len(films)} filmů v JSON.")
+
+except requests.exceptions.RequestException as e:
+    print(f"Chyba při stahování JSON: {e}")
+    print("Zkontrolujte URL a připojení k internetu.")
+    exit()
+except (json.JSONDecodeError, KeyError) as e:
+    print(f"Chyba při zpracování JSON nebo chybějící klíč: {e}")
+    print("Struktura JSON dat se mohla změnit nebo URL již není platná.")
+    exit()
+except Exception as e:
+     print(f"Neočekávaná chyba: {e}")
+     exit()
+
+
+# --- Vytvoření RSS struktury ---
 rss = ET.Element("rss", version="2.0")
+rss.set("xmlns:atom", "http://www.w3.org/2005/Atom") # Namespace pro atom:link
 channel = ET.SubElement(rss, "channel")
 
-ET.SubElement(channel, "title").text = "Trendy filmy – Kinobox.cz"
+ET.SubElement(channel, "title").text = "Trendy filmy – Kinobox.cz (Vlastní tagy)"
 ET.SubElement(channel, "link").text = "https://www.kinobox.cz/filmy/trendy"
-ET.SubElement(channel, "description").text = "Nejnovější trendující filmy na Kinoboxu"
+ET.SubElement(channel, "description").text = "Nejnovější trendující filmy na Kinoboxu (data v samostatných tazích)"
+ET.SubElement(channel, "language").text = "cs-cz"
+# Přidání odkazu na samotný RSS feed
+atom_link = ET.SubElement(channel, "{http://www.w3.org/2005/Atom}link")
+# !! DŮLEŽITÉ: Nahraď tuto URL skutečnou finální URL, kde bude feed hostován !!
+atom_link.set("href", "githuburl")
+atom_link.set("rel", "self")
+atom_link.set("type", "application/rss+xml")
+ET.SubElement(channel, "lastBuildDate").text = datetime.now(PRAGUE_TZ).strftime("%a, %d %b %Y %H:%M:%S %z")
+
 
 for film in films:
     item = ET.SubElement(channel, "item")
-    ET.SubElement(item, "title").text = film.get("name", "Neznámý název")
-    ET.SubElement(item, "link").text = f'https://www.kinobox.cz/film/{film["id"]}'
-    
-    # Popis
-    description = f'<img src="{film["poster"]}" width="100"/><br/>'
-    if "score" in film:
-        description += f'Hodnocení: {film["score"]}%<br/>'
-    if "genres" in film:
-        genres = ", ".join([g["name"] for g in film["genres"]])
-        description += f'Žánry: {genres}<br/>'
-    if "providers" in film:
-        providers = ", ".join([p["name"] for p in film["providers"]])
-        description += f'Dostupné na: {providers}<br/>'
-    ET.SubElement(item, "description").text = description
+    film_name = film.get("name", "Neznámý název")
+    film_id = film.get("id")
+    poster_url = film.get("poster")
+    score = film.get("score")
+    year_val = film.get("year") # Hodnota roku
+    duration_minutes = film.get("duration")
+    genres_list = film.get("genres", [])
+    providers_list = film.get("providers", [])
+    release_cz_str = film.get("releaseCz")
 
-    release = film.get("releaseCz")
-    if release:
-        pub_date = datetime.strptime(release, "%Y-%m-%d").strftime("%a, %d %b %Y 00:00:00 +0000")
-        ET.SubElement(item, "pubDate").text = pub_date
+    if not film_id:
+        print(f"Varování: Přeskakuji film '{film_name}' bez ID.")
+        continue
 
-# Serializace XML jako string (abychom ho mohli porovnat)
-new_xml_str = ET.tostring(rss, encoding="utf-8", method="xml").decode("utf-8")
-new_hash = get_hash(new_xml_str)
+    # --- Základní tagy ---
+    ET.SubElement(item, "title").text = film_name
+    link_url = f'https://www.kinobox.cz/film/{film_id}'
+    ET.SubElement(item, "link").text = link_url
+    #ET.SubElement(item, "guid", isPermaLink="true").text = link_url # GUID
 
-# Cesta k feedu
-os.makedirs("feed", exist_ok=True)
-rss_path = "feed/kinobox_trendy_rss.xml"
+    # --- Vlastní tagy podle tvé specifikace ---
+    if poster_url:
+        ET.SubElement(item, "poster").text = poster_url
 
-# Porovnání s existujícím souborem
-if os.path.exists(rss_path):
-    with open(rss_path, "r", encoding="utf-8") as f:
-        old_xml_str = f.read()
-    old_hash = get_hash(old_xml_str)
+    if score is not None:
+        ET.SubElement(item, "hodnoceni").text = f"Hodnocení: {score}%"
 
-    if new_hash == old_hash:
-        print("RSS feed se nezměnil – neukládám.")
-        exit(0)
+    duration_formatted = format_duration(duration_minutes)
+    if duration_formatted:
+        ET.SubElement(item, "delka").text = f"Délka: {duration_formatted}"
 
-# Uložení nového XML
-with open(rss_path, "w", encoding="utf-8") as f:
-    f.write(new_xml_str)
-print("RSS feed byl aktualizován.")
+    if year_val:
+        ET.SubElement(item, "year").text = f"Rok: {year_val}"
+
+    provider_names = [p.get("name") for p in providers_list if p.get("name")]
+    providers_str = ", ".join(provider_names)
+    if providers_str:
+        ET.SubElement(item, "providers").text = providers_str
+
+    genre_names = [g.get("name") for g in genres_list if g.get("name")]
+    genres_str = ", ".join(genre_names)
+    if genres_str:
+        ET.SubElement(item, "genres").text = genres_str
+
+    # --- Datum vydání ---
+    if release_cz_str:
+        try:
+            naive_dt = datetime.strptime(release_cz_str, '%Y-%m-%d')
+            aware_dt = PRAGUE_TZ.localize(naive_dt)
+            # Formát s offsetem +0100 (nebo +0200 v létě)
+            pub_date_rfc822 = aware_dt.strftime("%a, %d %b %Y %H:%M:%S %z")
+            # Pokud bys trval na UTC (+0000), použij:
+            # pub_date_rfc822 = aware_dt.astimezone(pytz.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+            ET.SubElement(item, "pubDate").text = pub_date_rfc822
+        except (ValueError, TypeError) as e:
+            print(f" Varování: Nepodařilo se naparsovat datum '{release_cz_str}' pro film '{film_name}'. Chyba: {e}")
+
+    # Tag <description> se nepřidává
+
+
+# --- Uložení do souboru s pěkným zalomením ---
+try:
+    rough_string = ET.tostring(rss, encoding='utf-8', method='xml')
+    reparsed = minidom.parseString(rough_string)
+    pretty_xml = reparsed.toprettyxml(indent="  ", encoding="utf-8")
+
+    with open(OUTPUT_FILE, "wb") as f:
+        f.write(pretty_xml)
+
+    print(f"RSS feed byl úspěšně vytvořen jako '{OUTPUT_FILE}'")
+
+except Exception as e:
+    print(f"Chyba při formátování nebo ukládání XML: {e}")
