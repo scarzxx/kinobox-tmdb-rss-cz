@@ -1,31 +1,39 @@
-name: Generate Kinobox RSS
+name: Generate RSS Feed
 
 on:
-  push:
-    branches: [ main ]  # nebo 'master' podle názvu tvé hlavní větve
   schedule:
-    - cron: '0 * * * *'  # spustí každý den ve 00:00 UTC
+    - cron: "0 0 * * *"  # Bude se spouštět každý den v půlnoci (UTC)
+  push:
+    branches:
+      - main  # Spustí se při push na hlavní větev
+  workflow_dispatch:  # Umožní ruční spuštění workflow z GitHubu
 
 jobs:
-  build:
+  generate_rss:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v2  # Zkontroluje kód ve tvém repozitáři
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.x
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'  # Verze Pythonu, kterou chceš použít
 
-    - name: Install dependencies
-      run: pip install requests
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests  # Nainstalujeme potřebné knihovny
 
-    - name: Run generator script
-      run: python kinobox_python.py
+      - name: Run Python script
+        run: |
+          python kinobox_python.py  # Spustí tvůj Python skript pro generování RSS feedu
 
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./  # publikuj vše v rootu repozitáře
+      - name: Commit and push the new RSS file
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add kinobox_trendy_rss.xml
+          git commit -m "Update RSS feed"
+          git push origin main  # Push změny zpět na repozitář
