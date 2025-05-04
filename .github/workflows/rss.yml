@@ -1,39 +1,49 @@
-name: Generate RSS Feed
+import requests
+import xml.etree.ElementTree as ET
+from datetime import datetime
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Bude se spouštět každý den v půlnoci (UTC)
-  push:
-    branches:
-      - main  # Spustí se při push na hlavní větev
-  workflow_dispatch:  # Umožní ruční spuštění workflow z GitHubu
+# URL Kinobox trendy JSON
+url = "https://www.kinobox.cz/_next/data/1qG7m8WJ-AtZ5GALF4npj/cs/filmy/trendy.json"
 
-jobs:
-  generate_rss:
-    runs-on: ubuntu-latest
+# Stažení dat
+response = requests.get(url)
+data = response.json()
 
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2  # Zkontroluje kód ve tvém repozitáři
+films = data["pageProps"]["filmsOut"]["items"]
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.8'  # Verze Pythonu, kterou chceš použít
+# Vytvoření RSS struktury
+rss = ET.Element("rss", version="2.0")
+channel = ET.SubElement(rss, "channel")
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests  # Nainstalujeme potřebné knihovny
+ET.SubElement(channel, "title").text = "Trendy filmy – Kinobox.cz"
+ET.SubElement(channel, "link").text = "https://www.kinobox.cz/filmy/trendy"
+ET.SubElement(channel, "description").text = "Nejnovější trendující filmy na Kinoboxu"
 
-      - name: Run Python script
-        run: |
-          python kinobox_python.py  # Spustí tvůj Python skript pro generování RSS feedu
+for film in films:
+    item = ET.SubElement(channel, "item")
+    ET.SubElement(item, "title").text = film.get("name", "Neznámý název")
+    ET.SubElement(item, "link").text = f'https://www.kinobox.cz/film/{film["id"]}'
+    
+    # Sestavení popisu (plakát, hodnocení, žánry)
+    description = f'<img src="{film["poster"]}" width="100"/><br/>'
+    if "score" in film:
+        description += f'Hodnocení: {film["score"]}%<br/>'
+    if "genres" in film:
+        genres = ", ".join([g["name"] for g in film["genres"]])
+        description += f'Žánry: {genres}<br/>'
+    if "providers" in film:
+        providers = ", ".join([p["name"] for p in film["providers"]])
+        description += f'Dostupné na: {providers}<br/>'
+    ET.SubElement(item, "description").text = description
 
-      - name: Commit and push the new RSS file
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add kinobox_trendy_rss.xml
-          git commit -m "Update RSS feed"
-          git push origin main  # Push změny zpět na repozitář
+    # Datum vydání jako pubDate (RSS formát)
+    release = film.get("releaseCz")
+    if release:
+        pub_date = datetime.strptime(release, "%Y-%m-%d").strftime("%a, %d %b %Y 00:00:00 +0000")
+        ET.SubElement(item, "pubDate").text = pub_date
+
+# Uložení do souboru
+tree = ET.ElementTree(rss)
+tree.write("kinobox_trendy_rss.xml", encoding="utf-8", xml_declaration=True)
+
+print("RSS feed byl vytvořen jako 'kinobox_trendy_rss.xml'")
