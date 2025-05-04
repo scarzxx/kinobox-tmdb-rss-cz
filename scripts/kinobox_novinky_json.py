@@ -57,9 +57,9 @@ rss = ET.Element("rss", version="2.0")
 rss.set("xmlns:atom", "http://www.w3.org/2005/Atom") # Namespace pro atom:link
 channel = ET.SubElement(rss, "channel")
 
-ET.SubElement(channel, "title").text = "Novinky filmy – Kinobox.cz"
+ET.SubElement(channel, "title").text = "Filmové novinky – Kinobox.cz"
 ET.SubElement(channel, "link").text = "https://www.kinobox.cz/filmy/novinky"
-ET.SubElement(channel, "description").text = "novinky filmy na Kinoboxu"
+ET.SubElement(channel, "description").text = "Nejlepší novinky"
 ET.SubElement(channel, "language").text = "cs-cz"
 # Přidání odkazu na samotný RSS feed
 atom_link = ET.SubElement(channel, "{http://www.w3.org/2005/Atom}link")
