@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Trendy filmy – Kinobox.cz (Vlastní tagy)</title>
+    <title>Trendy filmy – Kinobox.cz</title>
     <link>https://www.kinobox.cz/filmy/trendy</link>
-    <description>Nejnovější trendující filmy na Kinoboxu (data v samostatných tazích)</description>
+    <description>TOP filmy</description>
     <language>cs-cz</language>
-    <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 04 May 2025 16:31:23 +0200</lastBuildDate>
+    <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 04 May 2025 16:53:02 +0200</lastBuildDate>
     <item>
       <title>Pasáž</title>
       <link>https://www.kinobox.cz/film/726587</link>
