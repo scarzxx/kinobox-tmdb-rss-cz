@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Novinky filmy – Kinobox.cz</title>
+    <title>Filmové novinky – Kinobox.cz</title>
     <link>https://www.kinobox.cz/filmy/novinky</link>
-    <description>novinky filmy na Kinoboxu</description>
+    <description>Nejlepší novinky</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 04 May 2025 19:53:39 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 19:55:47 +0200</lastBuildDate>
     <item>
       <title>Největší fanynka</title>
       <link>https://www.kinobox.cz/film/4392092</link>
