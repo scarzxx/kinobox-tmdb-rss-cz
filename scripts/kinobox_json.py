@@ -104,7 +104,7 @@ for film in films:
         ET.SubElement(item, "delka").text = f"{duration_formatted}"
 
     if year_val:
-        ET.SubElement(item, "year").text = f"Rok: {year_val}"
+        ET.SubElement(item, "year").text = f"{year_val}"
 
     provider_names = [p.get("name") for p in providers_list if p.get("name")]
     providers_str = ", ".join(provider_names)
