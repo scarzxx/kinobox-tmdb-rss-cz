@@ -1,6 +1,7 @@
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
+import os
 
 # URL Kinobox trendy JSON
 url = "https://www.kinobox.cz/_next/data/1qG7m8WJ-AtZ5GALF4npj/cs/filmy/trendy.json"
@@ -23,7 +24,7 @@ for film in films:
     item = ET.SubElement(channel, "item")
     ET.SubElement(item, "title").text = film.get("name", "Neznámý název")
     ET.SubElement(item, "link").text = f'https://www.kinobox.cz/film/{film["id"]}'
-    
+
     # Sestavení popisu (plakát, hodnocení, žánry)
     description = f'<img src="{film["poster"]}" width="100"/><br/>'
     if "score" in film:
@@ -43,7 +44,8 @@ for film in films:
         ET.SubElement(item, "pubDate").text = pub_date
 
 # Uložení do souboru
+output_file = 'feed/kinobox_trendy_rss.xml'
 tree = ET.ElementTree(rss)
-tree.write("kinobox_trendy_rss.xml", encoding="utf-8", xml_declaration=True)
+tree.write(output_file, encoding="utf-8", xml_declaration=True)
 
-print("RSS feed byl vytvořen jako 'kinobox_trendy_rss.xml'")
+print(f"RSS feed byl vytvořen jako '{output_file}'")
