@@ -57,7 +57,7 @@ rss = ET.Element("rss", version="2.0")
 rss.set("xmlns:atom", "http://www.w3.org/2005/Atom") # Namespace pro atom:link
 channel = ET.SubElement(rss, "channel")
 
-ET.SubElement(channel, "title").text = "Trendy filmy – Kinobox.cz (Vlastní tagy)"
+ET.SubElement(channel, "title").text = "Novinky filmy – Kinobox.cz"
 ET.SubElement(channel, "link").text = "https://www.kinobox.cz/filmy/novinky"
 ET.SubElement(channel, "description").text = "Nejnovější trendující filmy na Kinoboxu (data v samostatných tazích)"
 ET.SubElement(channel, "language").text = "cs-cz"
@@ -97,14 +97,14 @@ for film in films:
         ET.SubElement(item, "poster").text = poster_url
 
     if score is not None:
-        ET.SubElement(item, "hodnoceni").text = f"Hodnocení: {score}%"
+        ET.SubElement(item, "hodnoceni").text = f"{score}%"
 
     duration_formatted = format_duration(duration_minutes)
     if duration_formatted:
-        ET.SubElement(item, "delka").text = f"Délka: {duration_formatted}"
+        ET.SubElement(item, "delka").text = f"{duration_formatted}"
 
     if year_val:
-        ET.SubElement(item, "year").text = f"Rok: {year_val}"
+        ET.SubElement(item, "year").text = f"{year_val}"
 
     provider_names = [p.get("name") for p in providers_list if p.get("name")]
     providers_str = ", ".join(provider_names)
