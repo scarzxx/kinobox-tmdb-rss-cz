@@ -1,38 +1,45 @@
-name: Build and deploy RSS feed
+name: Generate RSS feeds for Kinobox
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 */4 * * *"  # Tento cron job se spustí každé 4 hodiny
+  workflow_dispatch:  # Umožní ti spustit tento workflow ručně z GitHubu
 
 jobs:
-  build:
+  update-feeds:
+    name: Update RSS Feeds
     runs-on: ubuntu-latest
-    
+    permissions:
+      actions: write
+      contents: write
+      security-events: write
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-      
+    - name: Checkout code
+      uses: actions/checkout@v4  # Checkout kódu z repozitáře
+
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.x'
+        python-version: '3.12'
+        cache: 'pip'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r scripts/requirements.txt
+        pip install -r scripts/requirements.txt  # Instalace závislostí
 
-    - name: Run Python script
-      run: python scripts/kinobox_json.py
-      
-    - name: Check git status
-      run: git status
-
-    - name: Commit and push changes
+    - name: Generate RSS Feeds
+      id: generate_rss_feeds
       run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "github-actions@github.com"
-        git add feed/kinobox_trendy_rss.xml
-        git commit -m "Update RSS feed"
-        git push origin main
+        export LC_ALL="en_US.UTF-8"
+        export LC_CTYPE="en_US.UTF-8"
+        sudo dpkg-reconfigure locales  # Zajištění správných locale
+        python scripts/kinobox_json.py  # Spuštění Python skriptu pro generování RSS
+
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v5  # Automatizovaný commit
+      with:
+        commit_message: "📝 Update Kinobox RSS Feed"  # Commit zpráva
+        commit_options: "--no-gpg-sign"  # Bez GPG podpisu
+        branch: main  # Commit na hlavní větev
