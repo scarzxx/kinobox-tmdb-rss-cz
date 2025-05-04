@@ -1,0 +1,31 @@
+name: Generate Kinobox RSS
+
+on:
+  push:
+    branches: [ main ]  # nebo 'master' podle názvu tvé hlavní větve
+  schedule:
+    - cron: '0 * * * *'  # spustí každý den ve 00:00 UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run generator script
+      run: python kinobox_python.py
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./  # publikuj vše v rootu repozitáře
