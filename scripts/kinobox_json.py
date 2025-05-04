@@ -97,11 +97,11 @@ for film in films:
         ET.SubElement(item, "poster").text = poster_url
 
     if score is not None:
-        ET.SubElement(item, "hodnoceni").text = f"Hodnocení: {score}%"
+        ET.SubElement(item, "hodnoceni").text = f"{score}%"
 
     duration_formatted = format_duration(duration_minutes)
     if duration_formatted:
-        ET.SubElement(item, "delka").text = f"Délka: {duration_formatted}"
+        ET.SubElement(item, "delka").text = f"{duration_formatted}"
 
     if year_val:
         ET.SubElement(item, "year").text = f"Rok: {year_val}"
