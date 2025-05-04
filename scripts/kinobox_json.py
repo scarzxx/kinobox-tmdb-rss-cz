@@ -57,14 +57,14 @@ rss = ET.Element("rss", version="2.0")
 rss.set("xmlns:atom", "http://www.w3.org/2005/Atom") # Namespace pro atom:link
 channel = ET.SubElement(rss, "channel")
 
-ET.SubElement(channel, "title").text = "Trendy filmy – Kinobox.cz (Vlastní tagy)"
+ET.SubElement(channel, "title").text = "Trendy filmy – Kinobox.cz"
 ET.SubElement(channel, "link").text = "https://www.kinobox.cz/filmy/trendy"
-ET.SubElement(channel, "description").text = "Nejnovější trendující filmy na Kinoboxu (data v samostatných tazích)"
+ET.SubElement(channel, "description").text = "TOP filmy"
 ET.SubElement(channel, "language").text = "cs-cz"
 # Přidání odkazu na samotný RSS feed
 atom_link = ET.SubElement(channel, "{http://www.w3.org/2005/Atom}link")
 # !! DŮLEŽITÉ: Nahraď tuto URL skutečnou finální URL, kde bude feed hostován !!
-atom_link.set("href", "githuburl")
+atom_link.set("href", "https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml")
 atom_link.set("rel", "self")
 atom_link.set("type", "application/rss+xml")
 ET.SubElement(channel, "lastBuildDate").text = datetime.now(PRAGUE_TZ).strftime("%a, %d %b %Y %H:%M:%S %z")
