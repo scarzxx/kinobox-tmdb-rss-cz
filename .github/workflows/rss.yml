@@ -1,39 +1,46 @@
-name: Generate RSS Feed
+name: Generate RSS feeds for CS2 news
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Bude se spouštět každý den v půlnoci (UTC)
-  push:
-    branches:
-      - main  # Spustí se při push na hlavní větev
-  workflow_dispatch:  # Umožní ruční spuštění workflow z GitHubu
+    - cron: "30 */4 * * *"
+  workflow_dispatch:
 
 jobs:
-  generate_rss:
+  update-feeds:
+    name: Update RSS-Feeds
     runs-on: ubuntu-latest
-
+    permissions:
+      actions: write
+      contents: write
+      security-events: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2  # Zkontroluje kód ve tvém repozitáři
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.head_ref }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.8'  # Verze Pythonu, kterou chceš použít
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+        cache: 'pip'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests  # Nainstalujeme potřebné knihovny
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
-      - name: Run Python script
-        run: |
-          python kinobox_python.py  # Spustí tvůj Python skript pro generování RSS feedu
+    - name: Generate RSS Feeds
+      id: generate_rss_feeds
+      run: |
+        export LC_ALL="en_US.UTF-8"
+        export LC_CTYPE="en_US.UTF-8"
+        sudo dpkg-reconfigure locales
+        python kinobox_json.py
 
-      - name: Commit and push the new RSS file
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add kinobox_trendy_rss.xml
-          git commit -m "Update RSS feed"
-          git push origin main  # Push změny zpět na repozitář
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "📝 Update RSS News Feed"
+        commit_options: "--no-gpg-sign"
+        branch: master
