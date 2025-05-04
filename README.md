@@ -3,4 +3,4 @@ Tento workflow slouží k automatickému generování a aktualizaci RSS feedu s 
 
 ## Dostupné RSS kanály
 -  [Filmy Trendy](https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml)
--  [Filmy Novinky](https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml)
+-  [Filmy Novinky](https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_novinky_rss.xml)
