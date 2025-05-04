@@ -37,6 +37,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add kinobox_trendy_rss.xml  # Ujisti se, že soubor je správně uložen
+          git add feed/kinobox_trendy_rss.xml  # Přidat RSS soubor ve složce 'feed'
           git commit -m "Update RSS feed"
           git push origin main  # Push zpět do repozitáře
