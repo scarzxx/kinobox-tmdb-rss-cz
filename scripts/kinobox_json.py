@@ -1,6 +1,12 @@
+import os
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
+import hashlib
+
+# Funkce na výpočet SHA256 hash z textu
+def get_hash(content: str) -> str:
+    return hashlib.sha256(content.encode('utf-8')).hexdigest()
 
 # URL Kinobox trendy JSON
 url = "https://www.kinobox.cz/_next/data/1qG7m8WJ-AtZ5GALF4npj/cs/filmy/trendy.json"
@@ -8,7 +14,6 @@ url = "https://www.kinobox.cz/_next/data/1qG7m8WJ-AtZ5GALF4npj/cs/filmy/trendy.j
 # Stažení dat
 response = requests.get(url)
 data = response.json()
-
 films = data["pageProps"]["filmsOut"]["items"]
 
 # Vytvoření RSS struktury
@@ -24,7 +29,7 @@ for film in films:
     ET.SubElement(item, "title").text = film.get("name", "Neznámý název")
     ET.SubElement(item, "link").text = f'https://www.kinobox.cz/film/{film["id"]}'
     
-    # Sestavení popisu (plakát, hodnocení, žánry)
+    # Popis
     description = f'<img src="{film["poster"]}" width="100"/><br/>'
     if "score" in film:
         description += f'Hodnocení: {film["score"]}%<br/>'
@@ -36,14 +41,30 @@ for film in films:
         description += f'Dostupné na: {providers}<br/>'
     ET.SubElement(item, "description").text = description
 
-    # Datum vydání jako pubDate (RSS formát)
     release = film.get("releaseCz")
     if release:
         pub_date = datetime.strptime(release, "%Y-%m-%d").strftime("%a, %d %b %Y 00:00:00 +0000")
         ET.SubElement(item, "pubDate").text = pub_date
 
-# Uložení do souboru
-tree = ET.ElementTree(rss)
-tree.write("kinobox_trendy_rss.xml", encoding="utf-8", xml_declaration=True)
+# Serializace XML jako string (abychom ho mohli porovnat)
+new_xml_str = ET.tostring(rss, encoding="utf-8", method="xml").decode("utf-8")
+new_hash = get_hash(new_xml_str)
 
-print("RSS feed byl vytvořen jako 'kinobox_trendy_rss.xml'")
+# Cesta k feedu
+os.makedirs("feed", exist_ok=True)
+rss_path = "feed/kinobox_trendy_rss.xml"
+
+# Porovnání s existujícím souborem
+if os.path.exists(rss_path):
+    with open(rss_path, "r", encoding="utf-8") as f:
+        old_xml_str = f.read()
+    old_hash = get_hash(old_xml_str)
+
+    if new_hash == old_hash:
+        print("RSS feed se nezměnil – neukládám.")
+        exit(0)
+
+# Uložení nového XML
+with open(rss_path, "w", encoding="utf-8") as f:
+    f.write(new_xml_str)
+print("RSS feed byl aktualizován.")
