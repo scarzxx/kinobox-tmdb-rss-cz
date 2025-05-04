@@ -59,7 +59,7 @@ channel = ET.SubElement(rss, "channel")
 
 ET.SubElement(channel, "title").text = "Novinky filmy – Kinobox.cz"
 ET.SubElement(channel, "link").text = "https://www.kinobox.cz/filmy/novinky"
-ET.SubElement(channel, "description").text = "Nejnovější trendující filmy na Kinoboxu (data v samostatných tazích)"
+ET.SubElement(channel, "description").text = "novinky filmy na Kinoboxu"
 ET.SubElement(channel, "language").text = "cs-cz"
 # Přidání odkazu na samotný RSS feed
 atom_link = ET.SubElement(channel, "{http://www.w3.org/2005/Atom}link")
