@@ -10,33 +10,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the code from the repository
-      - name: Checkout code
-        uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      # Set up Python
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
 
-      # Install dependencies from requirements.txt
-      - name: Install dependencies
-        run: |
-          cd scripts  # Přejít do složky 'scripts'
-          pip install -r requirements.txt  # Nainstalovat závislosti
+    - name: Install dependencies
+      run: |
+        pip install -r scripts/requirements.txt
 
-      # Run Python script to generate RSS
-      - name: Run Python script to generate RSS
-        run: |
-          cd scripts  # Přejít do složky 'scripts'
-          python kinobox_json.py  # Spustit Python skript
+    - name: Run script to generate RSS feed
+      run: |
+        python scripts/kinobox_json.py
 
-      # Commit and push the generated RSS feed back to the repository
-      - name: Commit and push RSS feed
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add feed/kinobox_trendy_rss.xml  # Přidat RSS soubor ve složce 'feed'
-          git commit -m "Update RSS feed"
-          git push origin main  # Push zpět do repozitáře
+    - name: Commit and push RSS feed
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add feed/kinobox_trendy_rss.xml
+        git commit -m "Update RSS feed"
+        git push origin main
