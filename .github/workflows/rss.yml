@@ -37,6 +37,8 @@ jobs:
         sudo dpkg-reconfigure locales  # Zajištění správných locale
         python scripts/kinobox_json.py  # Spuštění Python skriptu pro generování RSS
         python scripts/kinobox_novinky_json.py
+        python scripts/tmdb_popular.py
+        
 
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v5  # Automatizovaný commit
