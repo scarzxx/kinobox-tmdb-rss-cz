@@ -43,6 +43,6 @@ jobs:
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v5  # Automatizovaný commit
       with:
-        commit_message: "📝 Aktualizace RSS kanálu Kinobox"  # Commit zpráva
+        commit_message: "📝Aktualizace RSS kanálu"  # Commit zpráva
         commit_options: "--no-gpg-sign"  # Bez GPG podpisu
         branch: main  # Commit na hlavní větev
