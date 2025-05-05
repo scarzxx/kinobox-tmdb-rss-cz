@@ -6,7 +6,7 @@
     <description>Nejlepší novinky</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 05 May 2025 14:35:41 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 20:21:03 +0200</lastBuildDate>
     <item>
       <title>Conan O’Brien: The Kennedy Center Mark Twain Prize for American Humor</title>
       <link>https://www.kinobox.cz/film/4511188</link>
@@ -15,6 +15,17 @@
       <year>2025</year>
       <providers>Netflix</providers>
       <pubDate>Sun, 04 May 2025 00:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Svět mezi námi</title>
+      <link>https://www.kinobox.cz/film/2673372</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/28/upload_3043647311694081167.jpg</poster>
+      <hodnoceni>83%</hodnoceni>
+      <delka>1h 30m</delka>
+      <year>2024</year>
+      <providers>Max</providers>
+      <genres>Dokumentární</genres>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Lee: Fotografka v první linii</title>
@@ -53,7 +64,7 @@
       <title>Exteritorium</title>
       <link>https://www.kinobox.cz/film/4153589</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/03/15/external_file_9653364672679234002.jpg</poster>
-      <hodnoceni>60%</hodnoceni>
+      <hodnoceni>59%</hodnoceni>
       <delka>1h 49m</delka>
       <year>2025</year>
       <providers>Netflix</providers>
@@ -343,17 +354,6 @@
       <year>2023</year>
       <providers>Netflix, KVIFF TV</providers>
       <genres>Animovaný, Dobrodružný, Drama, Fantasy, Rodinný, Oscarový</genres>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nejlepší na světě</title>
-      <link>https://www.kinobox.cz/film/4142284</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/03/27/upload_7478538112552729943.png</poster>
-      <hodnoceni>52%</hodnoceni>
-      <delka>1h 23m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Drama, Komedie</genres>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0200</pubDate>
     </item>
   </channel>
