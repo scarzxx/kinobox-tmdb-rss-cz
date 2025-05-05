@@ -6,7 +6,16 @@
     <description>Nejlepší novinky</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 05 May 2025 08:26:57 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 10:43:59 +0200</lastBuildDate>
+    <item>
+      <title>Conan O’Brien: The Kennedy Center Mark Twain Prize for American Humor</title>
+      <link>https://www.kinobox.cz/film/4511188</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2025/04/29/external_file_8433874160670855397.jpg</poster>
+      <delka>1h 26m</delka>
+      <year>2025</year>
+      <providers>Netflix</providers>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Největší fanynka</title>
       <link>https://www.kinobox.cz/film/4392092</link>
@@ -346,17 +355,6 @@
       <providers>Max</providers>
       <genres>Komedie</genres>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kill Tony: Kill or Be Killed</title>
-      <link>https://www.kinobox.cz/film/4322189</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/04/08/external_file_17680462969179141072.jpg</poster>
-      <hodnoceni>50%</hodnoceni>
-      <delka>2h 12m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Komedie, Talk-Show</genres>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
