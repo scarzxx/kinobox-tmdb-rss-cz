@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
-from xml.etree.ElementTree import Element, SubElement, tostring, ElementTree
+from xml.etree.ElementTree import Element, SubElement, ElementTree, tostring
+from xml.dom import minidom
 
 url = 'https://www.themoviedb.org/movie'
 headers = {'User-Agent': 'Mozilla/5.0'}
@@ -38,5 +39,8 @@ for card in cards:
     SubElement(item, 'hodnoceni').text = f"{score}%"
     SubElement(item, 'year').text = year
 
-# Uložení do souboru
-ElementTree(rss).write("feed/tmdb_popular_rss.xml", encoding="utf-8", xml_declaration=True)
+# Uložení do souboru s formátováním
+xml_str = tostring(rss, 'utf-8')
+parsed_str = minidom.parseString(xml_str)
+with open("feed/tmdb_popular_rss.xml", "w", encoding="utf-8") as f:
+    f.write(parsed_str.toprettyxml(indent="  "))
