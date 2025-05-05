@@ -10,7 +10,7 @@ soup = BeautifulSoup(response.text, 'html.parser')
 rss = Element('rss')
 rss.set('version', '2.0')
 channel = SubElement(rss, 'channel')
-SubElement(channel, 'title').text = 'TMDB trendy'
+SubElement(channel, 'title').text = 'TMDB Popular'
 SubElement(channel, 'link').text = url
 
 cards = soup.find_all('div', class_='card style_1')
@@ -39,4 +39,4 @@ for card in cards:
     SubElement(item, 'year').text = year
 
 # Uložení do souboru
-ElementTree(rss).write("tmdb_trendy.xml", encoding="utf-8", xml_declaration=True)
+ElementTree(rss).write("feed/tmdb_popular_rss.xml", encoding="utf-8", xml_declaration=True)
