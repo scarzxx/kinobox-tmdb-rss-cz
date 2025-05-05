@@ -6,7 +6,7 @@
     <description>TOP filmy</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 04 May 2025 20:22:02 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 03:25:22 +0200</lastBuildDate>
     <item>
       <title>Pasáž</title>
       <link>https://www.kinobox.cz/film/726587</link>
@@ -33,7 +33,7 @@
       <title>Totální rozklad</title>
       <link>https://www.kinobox.cz/film/719257</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/26/external_file_16117980583466509805.jpg</poster>
-      <hodnoceni>58%</hodnoceni>
+      <hodnoceni>59%</hodnoceni>
       <delka>1h 47m</delka>
       <year>2025</year>
       <providers>Netflix</providers>
@@ -107,17 +107,6 @@
       <pubDate>Fri, 11 Feb 1955 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Pán prstenů: Válka Rohirů</title>
-      <link>https://www.kinobox.cz/film/723642</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/11/27/upload_13828367844564703368.png</poster>
-      <hodnoceni>65%</hodnoceni>
-      <delka>2h 14m</delka>
-      <year>2024</year>
-      <providers>Max, Google Play, iTunes, Rakuten</providers>
-      <genres>Akční, Fantasy, Anime, Animovaný, Dobrodružný</genres>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Léto s Evženem</title>
       <link>https://www.kinobox.cz/film/2668526</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_13422895238695269656.jpg</poster>
@@ -138,6 +127,17 @@
       <providers>Max, Google Play, iTunes, Rakuten</providers>
       <genres>Sci-fi, Thriller, Horor</genres>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Pán prstenů: Válka Rohirů</title>
+      <link>https://www.kinobox.cz/film/723642</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/11/27/upload_13828367844564703368.png</poster>
+      <hodnoceni>65%</hodnoceni>
+      <delka>2h 14m</delka>
+      <year>2024</year>
+      <providers>Max, Google Play, iTunes, Rakuten</providers>
+      <genres>Akční, Fantasy, Anime, Animovaný, Dobrodružný</genres>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Architektura ČSSR 58–89</title>
@@ -162,15 +162,15 @@
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Protiútok</title>
-      <link>https://www.kinobox.cz/film/3181680</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_3095454424776342398.jpg</poster>
-      <hodnoceni>66%</hodnoceni>
-      <delka>1h 25m</delka>
-      <year>2025</year>
+      <title>Klaus</title>
+      <link>https://www.kinobox.cz/film/715575</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg</poster>
+      <hodnoceni>90%</hodnoceni>
+      <delka>1h 36m</delka>
+      <year>2019</year>
       <providers>Netflix</providers>
-      <genres>Akční, Thriller</genres>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0100</pubDate>
+      <genres>Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční</genres>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Amal</title>
@@ -184,15 +184,15 @@
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Klaus</title>
-      <link>https://www.kinobox.cz/film/715575</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg</poster>
-      <hodnoceni>90%</hodnoceni>
-      <delka>1h 36m</delka>
-      <year>2019</year>
+      <title>Protiútok</title>
+      <link>https://www.kinobox.cz/film/3181680</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_3095454424776342398.jpg</poster>
+      <hodnoceni>66%</hodnoceni>
+      <delka>1h 25m</delka>
+      <year>2025</year>
       <providers>Netflix</providers>
-      <genres>Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční</genres>
-      <pubDate>Fri, 08 Nov 2019 00:00:00 +0100</pubDate>
+      <genres>Akční, Thriller</genres>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Duna: Část druhá</title>
@@ -228,6 +228,17 @@
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
+      <title>Exteritorium</title>
+      <link>https://www.kinobox.cz/film/4153589</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2025/03/15/external_file_9653364672679234002.jpg</poster>
+      <hodnoceni>60%</hodnoceni>
+      <delka>1h 49m</delka>
+      <year>2025</year>
+      <providers>Netflix</providers>
+      <genres>Thriller, Akční</genres>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0200</pubDate>
+    </item>
+    <item>
       <title>Furiosa: Sága Šíleného Maxe</title>
       <link>https://www.kinobox.cz/film/719658</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/04/08/upload_3063119944998439302.jpg</poster>
@@ -250,6 +261,17 @@
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0200</pubDate>
     </item>
     <item>
+      <title>Hranice lásky</title>
+      <link>https://www.kinobox.cz/film/722480</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2022/07/09/obrazy-lasky135259420_588.jpg</poster>
+      <hodnoceni>55%</hodnoceni>
+      <delka>1h 35m</delka>
+      <year>2022</year>
+      <providers>Netflix, Google Play, iTunes, KVIFF TV, DaFilms</providers>
+      <genres>Drama, Erotický</genres>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0200</pubDate>
+    </item>
+    <item>
       <title>Její tělo</title>
       <link>https://www.kinobox.cz/film/725717</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2023/05/11/upload_13052590893741575933.jpg</poster>
@@ -261,15 +283,15 @@
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Hranice lásky</title>
-      <link>https://www.kinobox.cz/film/722480</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2022/07/09/obrazy-lasky135259420_588.jpg</poster>
-      <hodnoceni>55%</hodnoceni>
-      <delka>1h 35m</delka>
-      <year>2022</year>
-      <providers>Netflix, Google Play, iTunes, KVIFF TV, DaFilms</providers>
-      <genres>Drama, Erotický</genres>
-      <pubDate>Mon, 04 Jul 2022 00:00:00 +0200</pubDate>
+      <title>Oppenheimer</title>
+      <link>https://www.kinobox.cz/film/721728</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/03/21/upload_10819431846075944983.jpg</poster>
+      <hodnoceni>86%</hodnoceni>
+      <delka>3h</delka>
+      <year>2023</year>
+      <providers>Netflix, Google Play, iTunes, Rakuten</providers>
+      <genres>Historický, Thriller, Biografický, Podle skutečných událostí, Retro, Oscarový, Blockbuster</genres>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Porotce č. 2</title>
@@ -294,17 +316,6 @@
       <pubDate>Thu, 28 Mar 1996 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Oppenheimer</title>
-      <link>https://www.kinobox.cz/film/721728</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/03/21/upload_10819431846075944983.jpg</poster>
-      <hodnoceni>86%</hodnoceni>
-      <delka>3h</delka>
-      <year>2023</year>
-      <providers>Netflix, Google Play, iTunes, Rakuten</providers>
-      <genres>Historický, Thriller, Biografický, Podle skutečných událostí, Retro, Oscarový, Blockbuster</genres>
-      <pubDate>Thu, 20 Jul 2023 00:00:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Deva</title>
       <link>https://www.kinobox.cz/film/3228816</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_11937847916472504226.jpg</poster>
@@ -325,17 +336,6 @@
       <providers>Netflix, Google Play, iTunes</providers>
       <genres>Akční, Komedie, Krimi, Gangsterka</genres>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Exteritorium</title>
-      <link>https://www.kinobox.cz/film/4153589</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/03/15/external_file_9653364672679234002.jpg</poster>
-      <hodnoceni>60%</hodnoceni>
-      <delka>1h 49m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Thriller, Akční</genres>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0200</pubDate>
     </item>
     <item>
       <title>After Party</title>
