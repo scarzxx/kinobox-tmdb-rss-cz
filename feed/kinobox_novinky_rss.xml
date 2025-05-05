@@ -6,7 +6,7 @@
     <description>Nejlepší novinky</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 05 May 2025 10:43:59 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 14:35:41 +0200</lastBuildDate>
     <item>
       <title>Conan O’Brien: The Kennedy Center Mark Twain Prize for American Humor</title>
       <link>https://www.kinobox.cz/film/4511188</link>
@@ -15,6 +15,17 @@
       <year>2025</year>
       <providers>Netflix</providers>
       <pubDate>Sun, 04 May 2025 00:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Lee: Fotografka v první linii</title>
+      <link>https://www.kinobox.cz/film/732023</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/09/03/upload_11406666355414125159.jpg</poster>
+      <hodnoceni>63%</hodnoceni>
+      <delka>1h 57m</delka>
+      <year>2024</year>
+      <providers>Max, Google Play, iTunes, DaFilms</providers>
+      <genres>Drama, Historický, Biografický</genres>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Největší fanynka</title>
@@ -343,17 +354,6 @@
       <year>2025</year>
       <providers>Netflix</providers>
       <genres>Drama, Komedie</genres>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Půl na půl</title>
-      <link>https://www.kinobox.cz/film/3159135</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_13416851996093815983.jpg</poster>
-      <hodnoceni>60%</hodnoceni>
-      <delka>1h 53m</delka>
-      <year>2024</year>
-      <providers>Max</providers>
-      <genres>Komedie</genres>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0200</pubDate>
     </item>
   </channel>
