@@ -45,9 +45,19 @@
       <description>30. dub. 2025 | Hodnocení: 77%</description>
     </item>
     <item>
+      <title>CBS News Sunday Morning</title>
+      <link>https://www.themoviedb.org/tv/4026-cbs-news-sunday-morning?language=cs-CZ</link>
+      <description>28. led. 1979 | Hodnocení: 68%</description>
+    </item>
+    <item>
       <title>Meet the Press</title>
       <link>https://www.themoviedb.org/tv/4496-meet-the-press?language=cs-CZ</link>
       <description>06. lis. 1947 | Hodnocení: 41%</description>
+    </item>
+    <item>
+      <title>Match Game</title>
+      <link>https://www.themoviedb.org/tv/9-match-game?language=cs-CZ</link>
+      <description>02. čvc. 1973 | Hodnocení: 75%</description>
     </item>
     <item>
       <title>The Tonight Show Starring Jimmy Fallon</title>
@@ -65,11 +75,6 @@
       <description>01. říj. 2018 | Hodnocení: 30%</description>
     </item>
     <item>
-      <title>Match Game</title>
-      <link>https://www.themoviedb.org/tv/9-match-game?language=cs-CZ</link>
-      <description>02. čvc. 1973 | Hodnocení: 75%</description>
-    </item>
-    <item>
       <title>Real Time with Bill Maher</title>
       <link>https://www.themoviedb.org/tv/4419-real-time-with-bill-maher?language=cs-CZ</link>
       <description>21. úno. 2003 | Hodnocení: 60%</description>
@@ -78,6 +83,11 @@
       <title>Chirurgové</title>
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
       <description>27. bře. 2005 | Hodnocení: 82%</description>
+    </item>
+    <item>
+      <title>Diners, Drive-Ins and Dives</title>
+      <link>https://www.themoviedb.org/tv/4086-diners-drive-ins-and-dives?language=cs-CZ</link>
+      <description>23. dub. 2007 | Hodnocení: 67%</description>
     </item>
     <item>
       <title>Flash</title>
@@ -93,16 +103,6 @@
       <title>Zelenáč</title>
       <link>https://www.themoviedb.org/tv/79744-the-rookie?language=cs-CZ</link>
       <description>16. říj. 2018 | Hodnocení: 85%</description>
-    </item>
-    <item>
-      <title>Diners, Drive-Ins and Dives</title>
-      <link>https://www.themoviedb.org/tv/4086-diners-drive-ins-and-dives?language=cs-CZ</link>
-      <description>23. dub. 2007 | Hodnocení: 67%</description>
-    </item>
-    <item>
-      <title>El Señor de los Cielos</title>
-      <link>https://www.themoviedb.org/tv/44953-el-senor-de-los-cielos?language=cs-CZ</link>
-      <description>15. dub. 2013 | Hodnocení: 79%</description>
     </item>
   </channel>
 </rss>
