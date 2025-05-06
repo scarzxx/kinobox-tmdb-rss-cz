@@ -1,12 +1,12 @@
 import requests
 
 from bs4 import BeautifulSoup
-
 from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom import minidom
 import os
 
-url = 'https://www.themoviedb.org/tv?language=cs-CZ'
+url = 'https://www.themoviedb.org/tv?language=cs-CZ&with_watch_providers=8|119|350|1773|1899|337'
+# netflix 8, amazon 119, apple 350, skyshowtime 1773, max 1899, disney 337
 headers = {'User-Agent': 'Mozilla/5.0'}
 response = requests.get(url, headers=headers)
 soup = BeautifulSoup(response.text, 'html.parser')
@@ -49,5 +49,5 @@ os.makedirs("feed", exist_ok=True)
 # Uložení do souboru s formátováním
 xml_str = tostring(rss, 'utf-8')
 parsed_str = minidom.parseString(xml_str)
-with open("feed/tmdb_tv_ss.xml", "w", encoding="utf-8") as f:
+with open("feed/tmdb_tv_rss.xml", "w", encoding="utf-8") as f:
     f.write(parsed_str.toprettyxml(indent="  "))
