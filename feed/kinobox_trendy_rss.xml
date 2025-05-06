@@ -6,7 +6,7 @@
     <description>TOP filmy</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 06 May 2025 14:37:34 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 15:30:47 +0200</lastBuildDate>
     <item>
       <title>Pasáž</title>
       <link>https://www.kinobox.cz/film/726587</link>
@@ -165,7 +165,7 @@
       <title>Exteritorium</title>
       <link>https://www.kinobox.cz/film/4153589</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/03/15/external_file_9653364672679234002.jpg</poster>
-      <hodnoceni>59%</hodnoceni>
+      <hodnoceni>58%</hodnoceni>
       <delka>1h 49m</delka>
       <year>2025</year>
       <providers>Netflix</providers>

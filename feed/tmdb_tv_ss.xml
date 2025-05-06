@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>TMDB Seriály</title>
+    <link>https://www.themoviedb.org/tv?language=cs-CZ</link>
+    <description>Oblíbené Seriály</description>
+    <item>
+      <title>The Tonight Show Starring Johnny Carson</title>
+      <link>https://www.themoviedb.org/tv/2261-the-tonight-show-starring-johnny-carson?language=cs-CZ</link>
+      <description>01. říj. 1962 | Hodnocení: 75%</description>
+    </item>
+    <item>
+      <title>Watch What Happens Live with Andy Cohen</title>
+      <link>https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen?language=cs-CZ</link>
+      <description>16. čvc. 2009 | Hodnocení: 51%</description>
+    </item>
+    <item>
+      <title>Late Night with Seth Meyers</title>
+      <link>https://www.themoviedb.org/tv/61818-late-night-with-seth-meyers?language=cs-CZ</link>
+      <description>25. úno. 2014 | Hodnocení: 53%</description>
+    </item>
+    <item>
+      <title>The Late Show with Stephen Colbert</title>
+      <link>https://www.themoviedb.org/tv/63770-the-late-show-with-stephen-colbert?language=cs-CZ</link>
+      <description>08. zář. 2015 | Hodnocení: 64%</description>
+    </item>
+    <item>
+      <title>The Last of Us</title>
+      <link>https://www.themoviedb.org/tv/100088-the-last-of-us?language=cs-CZ</link>
+      <description>15. led. 2023 | Hodnocení: 86%</description>
+    </item>
+    <item>
+      <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
+      <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
+      <description>20. zář. 1999 | Hodnocení: 79%</description>
+    </item>
+    <item>
+      <title>The Daily Show</title>
+      <link>https://www.themoviedb.org/tv/2224-the-daily-show?language=cs-CZ</link>
+      <description>22. čvc. 1996 | Hodnocení: 64%</description>
+    </item>
+    <item>
+      <title>Eternaut</title>
+      <link>https://www.themoviedb.org/tv/226362-el-eternauta?language=cs-CZ</link>
+      <description>30. dub. 2025 | Hodnocení: 77%</description>
+    </item>
+    <item>
+      <title>CBS News Sunday Morning</title>
+      <link>https://www.themoviedb.org/tv/4026-cbs-news-sunday-morning?language=cs-CZ</link>
+      <description>28. led. 1979 | Hodnocení: 68%</description>
+    </item>
+    <item>
+      <title>Meet the Press</title>
+      <link>https://www.themoviedb.org/tv/4496-meet-the-press?language=cs-CZ</link>
+      <description>06. lis. 1947 | Hodnocení: 41%</description>
+    </item>
+    <item>
+      <title>Match Game</title>
+      <link>https://www.themoviedb.org/tv/9-match-game?language=cs-CZ</link>
+      <description>02. čvc. 1973 | Hodnocení: 75%</description>
+    </item>
+    <item>
+      <title>The Tonight Show Starring Jimmy Fallon</title>
+      <link>https://www.themoviedb.org/tv/59941-the-tonight-show-starring-jimmy-fallon?language=cs-CZ</link>
+      <description>17. úno. 2014 | Hodnocení: 58%</description>
+    </item>
+    <item>
+      <title>Good Mythical Morning</title>
+      <link>https://www.themoviedb.org/tv/65701-good-mythical-morning?language=cs-CZ</link>
+      <description>09. led. 2012 | Hodnocení: 70%</description>
+    </item>
+    <item>
+      <title>Arendsvlei</title>
+      <link>https://www.themoviedb.org/tv/241462-arendsvlei?language=cs-CZ</link>
+      <description>01. říj. 2018 | Hodnocení: 30%</description>
+    </item>
+    <item>
+      <title>Real Time with Bill Maher</title>
+      <link>https://www.themoviedb.org/tv/4419-real-time-with-bill-maher?language=cs-CZ</link>
+      <description>21. úno. 2003 | Hodnocení: 60%</description>
+    </item>
+    <item>
+      <title>Chirurgové</title>
+      <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
+      <description>27. bře. 2005 | Hodnocení: 82%</description>
+    </item>
+    <item>
+      <title>Diners, Drive-Ins and Dives</title>
+      <link>https://www.themoviedb.org/tv/4086-diners-drive-ins-and-dives?language=cs-CZ</link>
+      <description>23. dub. 2007 | Hodnocení: 67%</description>
+    </item>
+    <item>
+      <title>Flash</title>
+      <link>https://www.themoviedb.org/tv/60735-the-flash?language=cs-CZ</link>
+      <description>07. říj. 2014 | Hodnocení: 78%</description>
+    </item>
+    <item>
+      <title>Tomorrow Is Ours</title>
+      <link>https://www.themoviedb.org/tv/72879-demain-nous-appartient?language=cs-CZ</link>
+      <description>17. čvc. 2017 | Hodnocení: 63%</description>
+    </item>
+    <item>
+      <title>Zelenáč</title>
+      <link>https://www.themoviedb.org/tv/79744-the-rookie?language=cs-CZ</link>
+      <description>16. říj. 2018 | Hodnocení: 85%</description>
+    </item>
+  </channel>
+</rss>
