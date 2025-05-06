@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>TMDB Seriály</title>
-    <link>https://www.themoviedb.org/tv?language=cs-CZ&amp;with_watch_providers=8|119|350|1773|1899|337</link>
+    <link>https://www.themoviedb.org/tv?language=cs-CZ&with_watch_providers=8|119|350|1773|1899|337</link>
     <description>Oblíbené Seriály</description>
     <item>
       <title>The Last of Us</title>
