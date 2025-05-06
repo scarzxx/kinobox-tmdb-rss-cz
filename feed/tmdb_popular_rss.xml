@@ -10,11 +10,6 @@
       <description>30. dub. 2025 | Hodnocení: 68%</description>
     </item>
     <item>
-      <title>Tarzan</title>
-      <link>https://www.themoviedb.org/movie/37135-tarzan?language=cs-CZ</link>
-      <description>18. čer. 1999 | Hodnocení: 74%</description>
-    </item>
-    <item>
       <title>A Working Man</title>
       <link>https://www.themoviedb.org/movie/1197306-a-working-man?language=cs-CZ</link>
       <description>28. bře. 2025 | Hodnocení: 65%</description>
@@ -35,9 +30,19 @@
       <description>04. dub. 2025 | Hodnocení: 62%</description>
     </item>
     <item>
-      <title>Van Gogh by Vincent</title>
-      <link>https://www.themoviedb.org/movie/1471014-van-gogh-by-vincent?language=cs-CZ</link>
-      <description>26. bře. 2025 | Hodnocení: 63%</description>
+      <title>Tarzan</title>
+      <link>https://www.themoviedb.org/movie/37135-tarzan?language=cs-CZ</link>
+      <description>18. čer. 1999 | Hodnocení: 74%</description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>https://www.themoviedb.org/movie/710258-rust?language=cs-CZ</link>
+      <description>02. kvě. 2025 | Hodnocení: 65%</description>
+    </item>
+    <item>
+      <title>Smrt jednorožce</title>
+      <link>https://www.themoviedb.org/movie/1153714-death-of-a-unicorn?language=cs-CZ</link>
+      <description>28. bře. 2025 | Hodnocení: 63%</description>
     </item>
     <item>
       <title>Zloděj šperků: Lup začíná</title>
@@ -45,9 +50,14 @@
       <description>25. dub. 2025 | Hodnocení: 66%</description>
     </item>
     <item>
-      <title>Smrt jednorožce</title>
-      <link>https://www.themoviedb.org/movie/1153714-death-of-a-unicorn?language=cs-CZ</link>
-      <description>28. bře. 2025 | Hodnocení: 63%</description>
+      <title>Captain America: Nový svět</title>
+      <link>https://www.themoviedb.org/movie/822119-captain-america-brave-new-world?language=cs-CZ</link>
+      <description>14. úno. 2025 | Hodnocení: 62%</description>
+    </item>
+    <item>
+      <title>Van Gogh by Vincent</title>
+      <link>https://www.themoviedb.org/movie/1471014-van-gogh-by-vincent?language=cs-CZ</link>
+      <description>26. bře. 2025 | Hodnocení: 64%</description>
     </item>
     <item>
       <title>Čarodějnice a lovec</title>
@@ -60,19 +70,24 @@
       <description>28. bře. 2025 | Hodnocení: 65%</description>
     </item>
     <item>
-      <title>Captain America: Nový svět</title>
-      <link>https://www.themoviedb.org/movie/822119-captain-america-brave-new-world?language=cs-CZ</link>
-      <description>14. úno. 2025 | Hodnocení: 62%</description>
-    </item>
-    <item>
       <title>Saint Catherine</title>
       <link>https://www.themoviedb.org/movie/1356236-saint-catherine?language=cs-CZ</link>
-      <description>24. zář. 2024 | Hodnocení: 67%</description>
+      <description>24. zář. 2024 | Hodnocení: 66%</description>
     </item>
     <item>
-      <title>Rust</title>
-      <link>https://www.themoviedb.org/movie/710258-rust?language=cs-CZ</link>
-      <description>02. kvě. 2025 | Hodnocení: 68%</description>
+      <title>Captain Marvel</title>
+      <link>https://www.themoviedb.org/movie/299537-captain-marvel?language=cs-CZ</link>
+      <description>08. bře. 2019 | Hodnocení: 68%</description>
+    </item>
+    <item>
+      <title>Wonder Woman</title>
+      <link>https://www.themoviedb.org/movie/297762-wonder-woman?language=cs-CZ</link>
+      <description>02. čer. 2017 | Hodnocení: 72%</description>
+    </item>
+    <item>
+      <title>Black Widow</title>
+      <link>https://www.themoviedb.org/movie/497698-black-widow?language=cs-CZ</link>
+      <description>09. čvc. 2021 | Hodnocení: 72%</description>
     </item>
     <item>
       <title>Další nebezpečná laskavost</title>
@@ -85,24 +100,9 @@
       <description>18. dub. 2025 | Hodnocení: 76%</description>
     </item>
     <item>
-      <title>Desert Dawn</title>
-      <link>https://www.themoviedb.org/movie/1180906-desert-dawn?language=cs-CZ</link>
-      <description>15. kvě. 2025 | Hodnocení: 0%</description>
-    </item>
-    <item>
-      <title>Opice</title>
-      <link>https://www.themoviedb.org/movie/1124620-the-monkey?language=cs-CZ</link>
-      <description>21. úno. 2025 | Hodnocení: 59%</description>
-    </item>
-    <item>
       <title>Blade Runner 2049</title>
       <link>https://www.themoviedb.org/movie/335984-blade-runner-2049?language=cs-CZ</link>
       <description>06. říj. 2017 | Hodnocení: 76%</description>
-    </item>
-    <item>
-      <title>Wonder Woman</title>
-      <link>https://www.themoviedb.org/movie/297762-wonder-woman?language=cs-CZ</link>
-      <description>02. čer. 2017 | Hodnocení: 72%</description>
     </item>
   </channel>
 </rss>
