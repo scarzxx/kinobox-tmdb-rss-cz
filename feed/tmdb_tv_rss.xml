@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>TMDB Seriály</title>
+    <link>https://www.themoviedb.org/tv?language=cs-CZ&amp;with_watch_providers=8|119|350|1773|1899|337</link>
+    <description>Oblíbené Seriály</description>
+    <item>
+      <title>The Last of Us</title>
+      <link>https://www.themoviedb.org/tv/100088-the-last-of-us?language=cs-CZ</link>
+      <description>15. led. 2023 | Hodnocení: 86%</description>
+    </item>
+    <item>
+      <title>Eternaut</title>
+      <link>https://www.themoviedb.org/tv/226362-el-eternauta?language=cs-CZ</link>
+      <description>30. dub. 2025 | Hodnocení: 77%</description>
+    </item>
+    <item>
+      <title>Real Time with Bill Maher</title>
+      <link>https://www.themoviedb.org/tv/4419-real-time-with-bill-maher?language=cs-CZ</link>
+      <description>21. úno. 2003 | Hodnocení: 60%</description>
+    </item>
+    <item>
+      <title>Chirurgové</title>
+      <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
+      <description>27. bře. 2005 | Hodnocení: 82%</description>
+    </item>
+    <item>
+      <title>Diners, Drive-Ins and Dives</title>
+      <link>https://www.themoviedb.org/tv/4086-diners-drive-ins-and-dives?language=cs-CZ</link>
+      <description>23. dub. 2007 | Hodnocení: 67%</description>
+    </item>
+    <item>
+      <title>Flash</title>
+      <link>https://www.themoviedb.org/tv/60735-the-flash?language=cs-CZ</link>
+      <description>07. říj. 2014 | Hodnocení: 78%</description>
+    </item>
+    <item>
+      <title>Hra o trůny</title>
+      <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
+      <description>17. dub. 2011 | Hodnocení: 85%</description>
+    </item>
+    <item>
+      <title>Simpsonovi</title>
+      <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
+      <description>17. pro. 1989 | Hodnocení: 80%</description>
+    </item>
+    <item>
+      <title>Raw</title>
+      <link>https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</link>
+      <description>11. led. 1993 | Hodnocení: 68%</description>
+    </item>
+    <item>
+      <title>Lovci duchů</title>
+      <link>https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</link>
+      <description>13. zář. 2005 | Hodnocení: 83%</description>
+    </item>
+    <item>
+      <title>Kouzelná Beruška a Černý kocour</title>
+      <link>https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir?language=cs-CZ</link>
+      <description>19. říj. 2015 | Hodnocení: 80%</description>
+    </item>
+    <item>
+      <title>TY</title>
+      <link>https://www.themoviedb.org/tv/78191-you?language=cs-CZ</link>
+      <description>09. zář. 2018 | Hodnocení: 80%</description>
+    </item>
+    <item>
+      <title>LEGO Ninjago: Mistři Spinjitzu</title>
+      <link>https://www.themoviedb.org/tv/38693-ninjago-masters-of-spinjitzu?language=cs-CZ</link>
+      <description>11. led. 2012 | Hodnocení: 79%</description>
+    </item>
+    <item>
+      <title>Pán času</title>
+      <link>https://www.themoviedb.org/tv/57243-doctor-who?language=cs-CZ</link>
+      <description>26. bře. 2005 | Hodnocení: 75%</description>
+    </item>
+    <item>
+      <title>Námořní vyšetřovací služba</title>
+      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
+      <description>23. zář. 2003 | Hodnocení: 76%</description>
+    </item>
+    <item>
+      <title>Černá listina</title>
+      <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
+      <description>23. zář. 2013 | Hodnocení: 76%</description>
+    </item>
+    <item>
+      <title>Seinfeld</title>
+      <link>https://www.themoviedb.org/tv/1400-seinfeld?language=cs-CZ</link>
+      <description>05. čvc. 1989 | Hodnocení: 83%</description>
+    </item>
+    <item>
+      <title>John Oliver: Co týden dal a vzal</title>
+      <link>https://www.themoviedb.org/tv/60694-last-week-tonight-with-john-oliver?language=cs-CZ</link>
+      <description>27. dub. 2014 | Hodnocení: 79%</description>
+    </item>
+    <item>
+      <title>Rick a Morty</title>
+      <link>https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</link>
+      <description>02. pro. 2013 | Hodnocení: 87%</description>
+    </item>
+    <item>
+      <title>Městečko South Park</title>
+      <link>https://www.themoviedb.org/tv/2190-south-park?language=cs-CZ</link>
+      <description>13. srp. 1997 | Hodnocení: 84%</description>
+    </item>
+  </channel>
+</rss>
