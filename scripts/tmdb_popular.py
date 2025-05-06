@@ -4,7 +4,7 @@ from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom import minidom
 import os
 
-url = 'https://www.themoviedb.org/movie'
+url = 'https://www.themoviedb.org/movie?language=cs-CZ'
 headers = {'User-Agent': 'Mozilla/5.0'}
 response = requests.get(url, headers=headers)
 soup = BeautifulSoup(response.text, 'html.parser')
