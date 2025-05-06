@@ -38,6 +38,7 @@ jobs:
         python scripts/kinobox_json.py  # Spuštění Python skriptu pro generování RSS
         python scripts/kinobox_novinky_json.py
         python scripts/tmdb_popular.py
+        python scripts/tmdb_tv.py
         
 
     - name: Commit changes
