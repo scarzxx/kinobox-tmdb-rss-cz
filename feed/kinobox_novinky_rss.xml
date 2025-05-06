@@ -6,7 +6,17 @@
     <description>Nejlepší novinky</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 06 May 2025 08:25:28 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 10:53:42 +0200</lastBuildDate>
+    <item>
+      <title>Británie a Blitz</title>
+      <link>https://www.kinobox.cz/film/4417270</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2025/04/24/upload_5722072797653110.jpg</poster>
+      <delka>1h 17m</delka>
+      <year>2025</year>
+      <providers>Netflix</providers>
+      <genres>Dokumentární, Válečný</genres>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Conan O’Brien: The Kennedy Center Mark Twain Prize for American Humor</title>
       <link>https://www.kinobox.cz/film/4511188</link>
@@ -97,7 +107,7 @@
       <title>Totální rozklad</title>
       <link>https://www.kinobox.cz/film/719257</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/26/external_file_16117980583466509805.jpg</poster>
-      <hodnoceni>59%</hodnoceni>
+      <hodnoceni>58%</hodnoceni>
       <delka>1h 47m</delka>
       <year>2025</year>
       <providers>Netflix</providers>
@@ -344,17 +354,6 @@
       <providers>Netflix</providers>
       <genres>Drama, Sportovní, Komedie</genres>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Chlapec a volavka</title>
-      <link>https://www.kinobox.cz/film/728571</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2023/11/08/upload_17431796483349797896.jpg</poster>
-      <hodnoceni>76%</hodnoceni>
-      <delka>2h 4m</delka>
-      <year>2023</year>
-      <providers>Netflix, KVIFF TV</providers>
-      <genres>Animovaný, Dobrodružný, Drama, Fantasy, Rodinný, Oscarový</genres>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
