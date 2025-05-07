@@ -6,7 +6,7 @@
     <description>TOP filmy</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 06 May 2025 20:24:52 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 03:23:24 +0200</lastBuildDate>
     <item>
       <title>Pasáž</title>
       <link>https://www.kinobox.cz/film/726587</link>
@@ -19,17 +19,6 @@
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>V dobrém i zlém</title>
-      <link>https://www.kinobox.cz/film/2672739</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/10/30/upload_15007884097453310638.jpg</poster>
-      <hodnoceni>54%</hodnoceni>
-      <delka>1h 33m</delka>
-      <year>2024</year>
-      <providers>Netflix</providers>
-      <genres>Komedie</genres>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Totální rozklad</title>
       <link>https://www.kinobox.cz/film/719257</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/26/external_file_16117980583466509805.jpg</poster>
@@ -39,6 +28,17 @@
       <providers>Netflix</providers>
       <genres>Akční, Krimi, Thriller</genres>
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>V dobrém i zlém</title>
+      <link>https://www.kinobox.cz/film/2672739</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/10/30/upload_15007884097453310638.jpg</poster>
+      <hodnoceni>54%</hodnoceni>
+      <delka>1h 33m</delka>
+      <year>2024</year>
+      <providers>Netflix</providers>
+      <genres>Komedie</genres>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Vlny</title>
@@ -85,17 +85,6 @@
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Mord</title>
-      <link>https://www.kinobox.cz/film/2655175</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/06/18/upload_7667947359247551199.jpg</poster>
-      <hodnoceni>68%</hodnoceni>
-      <delka>1h 24m</delka>
-      <year>2024</year>
-      <providers>Max, iTunes, KVIFF TV, DaFilms</providers>
-      <genres>Komedie, Drama</genres>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Společník</title>
       <link>https://www.kinobox.cz/film/2672138</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/01/15/upload_8199275422862711507.jpg</poster>
@@ -105,6 +94,17 @@
       <providers>Max, Google Play, iTunes, Rakuten</providers>
       <genres>Sci-fi, Thriller, Horor</genres>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Léto s Evženem</title>
+      <link>https://www.kinobox.cz/film/2668526</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_13422895238695269656.jpg</poster>
+      <hodnoceni>52%</hodnoceni>
+      <delka>1h 37m</delka>
+      <year>2024</year>
+      <providers>Oneplay</providers>
+      <genres>Komedie, Rodinný</genres>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Byl jednou jeden král...</title>
@@ -118,15 +118,15 @@
       <pubDate>Fri, 11 Feb 1955 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Léto s Evženem</title>
-      <link>https://www.kinobox.cz/film/2668526</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_13422895238695269656.jpg</poster>
-      <hodnoceni>52%</hodnoceni>
-      <delka>1h 37m</delka>
+      <title>Mord</title>
+      <link>https://www.kinobox.cz/film/2655175</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/06/18/upload_7667947359247551199.jpg</poster>
+      <hodnoceni>68%</hodnoceni>
+      <delka>1h 24m</delka>
       <year>2024</year>
-      <providers>Oneplay</providers>
-      <genres>Komedie, Rodinný</genres>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 +0200</pubDate>
+      <providers>Max, iTunes, KVIFF TV, DaFilms</providers>
+      <genres>Komedie, Drama</genres>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Pán prstenů: Válka Rohirů</title>
@@ -206,17 +206,6 @@
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Protiútok</title>
-      <link>https://www.kinobox.cz/film/3181680</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_3095454424776342398.jpg</poster>
-      <hodnoceni>66%</hodnoceni>
-      <delka>1h 25m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Akční, Thriller</genres>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Venom: Poslední tanec</title>
       <link>https://www.kinobox.cz/film/723512</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/10/23/upload_1085710580901298335.jpg</poster>
@@ -226,6 +215,17 @@
       <providers>Max, Google Play, iTunes, KVIFF TV, Rakuten, SWEET.TV</providers>
       <genres>Akční, Dobrodružný, Horor, Sci-fi, Komiksový</genres>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Protiútok</title>
+      <link>https://www.kinobox.cz/film/3181680</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_3095454424776342398.jpg</poster>
+      <hodnoceni>66%</hodnoceni>
+      <delka>1h 25m</delka>
+      <year>2025</year>
+      <providers>Netflix</providers>
+      <genres>Akční, Thriller</genres>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Aneta</title>
@@ -272,17 +272,6 @@
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Oppenheimer</title>
-      <link>https://www.kinobox.cz/film/721728</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/03/21/upload_10819431846075944983.jpg</poster>
-      <hodnoceni>86%</hodnoceni>
-      <delka>3h</delka>
-      <year>2023</year>
-      <providers>Netflix, Google Play, iTunes, Rakuten</providers>
-      <genres>Historický, Thriller, Biografický, Podle skutečných událostí, Retro, Oscarový, Blockbuster</genres>
-      <pubDate>Thu, 20 Jul 2023 00:00:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Její tělo</title>
       <link>https://www.kinobox.cz/film/725717</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2023/05/11/upload_13052590893741575933.jpg</poster>
@@ -294,15 +283,15 @@
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Porotce č. 2</title>
-      <link>https://www.kinobox.cz/film/2645644</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/10/01/upload_11401653062326142966.jpg</poster>
-      <hodnoceni>72%</hodnoceni>
-      <delka>1h 53m</delka>
-      <year>2024</year>
-      <providers>Max, Google Play, iTunes, Rakuten</providers>
-      <genres>Thriller, Drama, Krimi, Mysteriozní</genres>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0100</pubDate>
+      <title>Oppenheimer</title>
+      <link>https://www.kinobox.cz/film/721728</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/03/21/upload_10819431846075944983.jpg</poster>
+      <hodnoceni>86%</hodnoceni>
+      <delka>3h</delka>
+      <year>2023</year>
+      <providers>Netflix, Google Play, iTunes, Rakuten</providers>
+      <genres>Historický, Thriller, Biografický, Podle skutečných událostí, Retro, Oscarový, Blockbuster</genres>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Sedm</title>
@@ -316,10 +305,21 @@
       <pubDate>Thu, 28 Mar 1996 00:00:00 +0100</pubDate>
     </item>
     <item>
+      <title>Porotce č. 2</title>
+      <link>https://www.kinobox.cz/film/2645644</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/10/01/upload_11401653062326142966.jpg</poster>
+      <hodnoceni>72%</hodnoceni>
+      <delka>1h 53m</delka>
+      <year>2024</year>
+      <providers>Max, Google Play, iTunes, Rakuten</providers>
+      <genres>Thriller, Drama, Krimi, Mysteriozní</genres>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Deva</title>
       <link>https://www.kinobox.cz/film/3228816</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_11937847916472504226.jpg</poster>
-      <hodnoceni>64%</hodnoceni>
+      <hodnoceni>63%</hodnoceni>
       <delka>2h 35m</delka>
       <year>2025</year>
       <providers>Netflix</providers>
@@ -338,17 +338,6 @@
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Tři zjevení</title>
-      <link>https://www.kinobox.cz/film/3514529</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/25/external_file_10085947766291620056.jpg</poster>
-      <hodnoceni>57%</hodnoceni>
-      <delka>2h 2m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Drama, Krimi, Mysteriozní</genres>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Návrat do akce</title>
       <link>https://www.kinobox.cz/film/735234</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/11/20/external_file_4406554390600214688.jpg</poster>
@@ -358,6 +347,17 @@
       <providers>Netflix</providers>
       <genres>Akční, Komedie</genres>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Chudáčci</title>
+      <link>https://www.kinobox.cz/film/720099</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2023/11/29/upload_12653663375710438038.jpg</poster>
+      <hodnoceni>80%</hodnoceni>
+      <delka>2h 21m</delka>
+      <year>2023</year>
+      <providers>Max, Disney+, Google Play, iTunes, Rakuten, SWEET.TV</providers>
+      <genres>Romantický, Sci-fi, Drama</genres>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
