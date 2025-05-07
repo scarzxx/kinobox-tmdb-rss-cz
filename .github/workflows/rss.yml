@@ -2,7 +2,7 @@ name: Generate RSS feeds for Kinobox
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Tento cron job se spustí každé 4 hodiny
+    - cron: "0 */4 * * *"  # Tento cron job se spustí každé 4 hodiny
   workflow_dispatch:  # Umožní ti spustit tento workflow ručně z GitHubu
 
 jobs:
