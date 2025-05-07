@@ -6,7 +6,18 @@
     <description>Nejlepší novinky</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 07 May 2025 14:17:06 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 18:11:22 +0200</lastBuildDate>
+    <item>
+      <title>Konkláve</title>
+      <link>https://www.kinobox.cz/film/732716</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/11/02/external_file_10912788691310912704.jpg</poster>
+      <hodnoceni>74%</hodnoceni>
+      <delka>2h</delka>
+      <year>2024</year>
+      <providers>Oneplay</providers>
+      <genres>Thriller</genres>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Británie a Blitz</title>
       <link>https://www.kinobox.cz/film/4417270</link>
@@ -32,7 +43,7 @@
       <title>Svět mezi námi</title>
       <link>https://www.kinobox.cz/film/2673372</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/28/upload_3043647311694081167.jpg</poster>
-      <hodnoceni>83%</hodnoceni>
+      <hodnoceni>82%</hodnoceni>
       <delka>1h 30m</delka>
       <year>2024</year>
       <providers>Max</providers>
@@ -263,7 +274,7 @@
       <title>Léto s Evženem</title>
       <link>https://www.kinobox.cz/film/2668526</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_13422895238695269656.jpg</poster>
-      <hodnoceni>52%</hodnoceni>
+      <hodnoceni>53%</hodnoceni>
       <delka>1h 37m</delka>
       <year>2024</year>
       <providers>Oneplay</providers>
@@ -344,17 +355,6 @@
       <year>2024</year>
       <providers>Max</providers>
       <genres>Komedie, Drama</genres>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Z chládku na led</title>
-      <link>https://www.kinobox.cz/film/4363496</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/03/27/external_file_3399227723491386335.jpg</poster>
-      <hodnoceni>62%</hodnoceni>
-      <delka>1h 57m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Drama, Sportovní, Komedie</genres>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
     </item>
   </channel>

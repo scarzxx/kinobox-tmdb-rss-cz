@@ -40,11 +40,6 @@
       <description>17. dub. 2011 | Hodnocení: 85%</description>
     </item>
     <item>
-      <title>Simpsonovi</title>
-      <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
-      <description>17. pro. 1989 | Hodnocení: 80%</description>
-    </item>
-    <item>
       <title>Raw</title>
       <link>https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</link>
       <description>11. led. 1993 | Hodnocení: 68%</description>
@@ -55,24 +50,9 @@
       <description>13. zář. 2005 | Hodnocení: 83%</description>
     </item>
     <item>
-      <title>Kouzelná Beruška a Černý kocour</title>
-      <link>https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir?language=cs-CZ</link>
-      <description>19. říj. 2015 | Hodnocení: 80%</description>
-    </item>
-    <item>
-      <title>TY</title>
-      <link>https://www.themoviedb.org/tv/78191-you?language=cs-CZ</link>
-      <description>09. zář. 2018 | Hodnocení: 81%</description>
-    </item>
-    <item>
-      <title>LEGO Ninjago: Mistři Spinjitzu</title>
-      <link>https://www.themoviedb.org/tv/38693-ninjago-masters-of-spinjitzu?language=cs-CZ</link>
-      <description>11. led. 2012 | Hodnocení: 79%</description>
-    </item>
-    <item>
-      <title>Pán času</title>
-      <link>https://www.themoviedb.org/tv/57243-doctor-who?language=cs-CZ</link>
-      <description>26. bře. 2005 | Hodnocení: 75%</description>
+      <title>Simpsonovi</title>
+      <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
+      <description>17. pro. 1989 | Hodnocení: 80%</description>
     </item>
     <item>
       <title>Námořní vyšetřovací služba</title>
@@ -80,14 +60,29 @@
       <description>23. zář. 2003 | Hodnocení: 76%</description>
     </item>
     <item>
+      <title>Kouzelná Beruška a Černý kocour</title>
+      <link>https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir?language=cs-CZ</link>
+      <description>19. říj. 2015 | Hodnocení: 80%</description>
+    </item>
+    <item>
+      <title>Pán času</title>
+      <link>https://www.themoviedb.org/tv/57243-doctor-who?language=cs-CZ</link>
+      <description>26. bře. 2005 | Hodnocení: 75%</description>
+    </item>
+    <item>
+      <title>TY</title>
+      <link>https://www.themoviedb.org/tv/78191-you?language=cs-CZ</link>
+      <description>09. zář. 2018 | Hodnocení: 81%</description>
+    </item>
+    <item>
       <title>Černá listina</title>
       <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
       <description>23. zář. 2013 | Hodnocení: 76%</description>
     </item>
     <item>
-      <title>Seinfeld</title>
-      <link>https://www.themoviedb.org/tv/1400-seinfeld?language=cs-CZ</link>
-      <description>05. čvc. 1989 | Hodnocení: 83%</description>
+      <title>LEGO Ninjago: Mistři Spinjitzu</title>
+      <link>https://www.themoviedb.org/tv/38693-ninjago-masters-of-spinjitzu?language=cs-CZ</link>
+      <description>11. led. 2012 | Hodnocení: 79%</description>
     </item>
     <item>
       <title>John Oliver: Co týden dal a vzal</title>
@@ -103,6 +98,11 @@
       <title>Městečko South Park</title>
       <link>https://www.themoviedb.org/tv/2190-south-park?language=cs-CZ</link>
       <description>13. srp. 1997 | Hodnocení: 84%</description>
+    </item>
+    <item>
+      <title>S.W.A.T.</title>
+      <link>https://www.themoviedb.org/tv/71790-s-w-a-t?language=cs-CZ</link>
+      <description>02. lis. 2017 | Hodnocení: 81%</description>
     </item>
   </channel>
 </rss>
