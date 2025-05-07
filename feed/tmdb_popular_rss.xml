@@ -12,7 +12,7 @@
     <item>
       <title>Thunderbolts*</title>
       <link>https://www.themoviedb.org/movie/986056-thunderbolts?language=cs-CZ</link>
-      <description>02. kvě. 2025 | Hodnocení: 76%</description>
+      <description>02. kvě. 2025 | Hodnocení: 75%</description>
     </item>
     <item>
       <title>Čeština</title>
@@ -37,7 +37,7 @@
     <item>
       <title>Rust</title>
       <link>https://www.themoviedb.org/movie/710258-rust?language=cs-CZ</link>
-      <description>02. kvě. 2025 | Hodnocení: 65%</description>
+      <description>02. kvě. 2025 | Hodnocení: 64%</description>
     </item>
     <item>
       <title>Smrt jednorožce</title>
@@ -50,19 +50,19 @@
       <description>25. dub. 2025 | Hodnocení: 66%</description>
     </item>
     <item>
+      <title>Warfare</title>
+      <link>https://www.themoviedb.org/movie/1241436-warfare?language=cs-CZ</link>
+      <description>11. dub. 2025 | Hodnocení: 71%</description>
+    </item>
+    <item>
       <title>Captain America: Nový svět</title>
       <link>https://www.themoviedb.org/movie/822119-captain-america-brave-new-world?language=cs-CZ</link>
       <description>14. úno. 2025 | Hodnocení: 62%</description>
     </item>
     <item>
-      <title>Van Gogh by Vincent</title>
-      <link>https://www.themoviedb.org/movie/1471014-van-gogh-by-vincent?language=cs-CZ</link>
-      <description>26. bře. 2025 | Hodnocení: 64%</description>
-    </item>
-    <item>
       <title>Čarodějnice a lovec</title>
       <link>https://www.themoviedb.org/movie/324544-in-the-lost-lands?language=cs-CZ</link>
-      <description>07. bře. 2025 | Hodnocení: 64%</description>
+      <description>07. bře. 2025 | Hodnocení: 63%</description>
     </item>
     <item>
       <title>Day of Reckoning</title>
@@ -90,6 +90,11 @@
       <description>09. čvc. 2021 | Hodnocení: 72%</description>
     </item>
     <item>
+      <title>Van Gogh by Vincent</title>
+      <link>https://www.themoviedb.org/movie/1471014-van-gogh-by-vincent?language=cs-CZ</link>
+      <description>26. bře. 2025 | Hodnocení: 64%</description>
+    </item>
+    <item>
       <title>Další nebezpečná laskavost</title>
       <link>https://www.themoviedb.org/movie/974573-another-simple-favor?language=cs-CZ</link>
       <description>07. bře. 2025 | Hodnocení: 63%</description>
@@ -98,11 +103,6 @@
       <title>Hříšníci</title>
       <link>https://www.themoviedb.org/movie/1233413-sinners?language=cs-CZ</link>
       <description>18. dub. 2025 | Hodnocení: 76%</description>
-    </item>
-    <item>
-      <title>Blade Runner 2049</title>
-      <link>https://www.themoviedb.org/movie/335984-blade-runner-2049?language=cs-CZ</link>
-      <description>06. říj. 2017 | Hodnocení: 76%</description>
     </item>
   </channel>
 </rss>

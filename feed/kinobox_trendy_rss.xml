@@ -6,7 +6,7 @@
     <description>TOP filmy</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 07 May 2025 08:26:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 14:17:05 +0200</lastBuildDate>
     <item>
       <title>Pasáž</title>
       <link>https://www.kinobox.cz/film/726587</link>
@@ -39,6 +39,17 @@
       <providers>Netflix</providers>
       <genres>Komedie</genres>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Konkláve</title>
+      <link>https://www.kinobox.cz/film/732716</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/11/02/external_file_10912788691310912704.jpg</poster>
+      <hodnoceni>74%</hodnoceni>
+      <delka>2h</delka>
+      <year>2024</year>
+      <providers>Oneplay</providers>
+      <genres>Thriller</genres>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Vlny</title>
@@ -165,7 +176,7 @@
       <title>Exteritorium</title>
       <link>https://www.kinobox.cz/film/4153589</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/03/15/external_file_9653364672679234002.jpg</poster>
-      <hodnoceni>58%</hodnoceni>
+      <hodnoceni>57%</hodnoceni>
       <delka>1h 49m</delka>
       <year>2025</year>
       <providers>Netflix</providers>
@@ -220,7 +231,7 @@
       <title>Protiútok</title>
       <link>https://www.kinobox.cz/film/3181680</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_3095454424776342398.jpg</poster>
-      <hodnoceni>66%</hodnoceni>
+      <hodnoceni>65%</hodnoceni>
       <delka>1h 25m</delka>
       <year>2025</year>
       <providers>Netflix</providers>
@@ -347,17 +358,6 @@
       <providers>Netflix</providers>
       <genres>Akční, Komedie</genres>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Chudáčci</title>
-      <link>https://www.kinobox.cz/film/720099</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2023/11/29/upload_12653663375710438038.jpg</poster>
-      <hodnoceni>80%</hodnoceni>
-      <delka>2h 21m</delka>
-      <year>2023</year>
-      <providers>Max, Disney+, Google Play, iTunes, Rakuten, SWEET.TV</providers>
-      <genres>Romantický, Sci-fi, Drama</genres>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
