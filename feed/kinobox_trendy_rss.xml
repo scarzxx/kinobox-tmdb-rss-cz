@@ -6,7 +6,7 @@
     <description>TOP filmy</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 08 May 2025 18:11:16 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 22:10:24 +0200</lastBuildDate>
     <item>
       <title>Pasáž</title>
       <link>https://www.kinobox.cz/film/726587</link>
@@ -286,7 +286,7 @@
       <title>Hranice přežití</title>
       <link>https://www.kinobox.cz/film/2674367</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/11/06/upload_15000185663009945535.jpg</poster>
-      <hodnoceni>54%</hodnoceni>
+      <hodnoceni>53%</hodnoceni>
       <delka>1h 31m</delka>
       <year>2024</year>
       <providers>Max, Google Play</providers>
