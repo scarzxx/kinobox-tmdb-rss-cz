@@ -6,7 +6,7 @@
     <description>Nejlepší novinky</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 08 May 2025 06:13:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 10:12:43 +0200</lastBuildDate>
     <item>
       <title>Konkláve</title>
       <link>https://www.kinobox.cz/film/732716</link>
@@ -16,6 +16,17 @@
       <year>2024</year>
       <providers>Oneplay</providers>
       <genres>Thriller</genres>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ztracená kulka 3</title>
+      <link>https://www.kinobox.cz/film/3181609</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2025/04/23/external_file_4283419837420099320.jpg</poster>
+      <hodnoceni>59%</hodnoceni>
+      <delka>1h 51m</delka>
+      <year>2025</year>
+      <providers>Netflix</providers>
+      <genres>Akční, Krimi, Thriller, Drama</genres>
       <pubDate>Wed, 07 May 2025 00:00:00 +0200</pubDate>
     </item>
     <item>
@@ -106,6 +117,17 @@
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0200</pubDate>
     </item>
     <item>
+      <title>The Curse of the Dutchman</title>
+      <link>https://www.kinobox.cz/film/3181878</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/04/external_file_16792738014987841924.jpg</poster>
+      <hodnoceni>43%</hodnoceni>
+      <delka>16m</delka>
+      <year>2025</year>
+      <providers>Max</providers>
+      <genres>Horor</genres>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0200</pubDate>
+    </item>
+    <item>
       <title>Brett Goldstein: The Second Best Night of Your Life</title>
       <link>https://www.kinobox.cz/film/4290538</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/04/10/external_file_16168043765561260635.jpg</poster>
@@ -186,7 +208,7 @@
       <title>Výbušná rychlost</title>
       <link>https://www.kinobox.cz/film/3856140</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/03/05/external_file_5479460431864143178.jpg</poster>
-      <hodnoceni>63%</hodnoceni>
+      <hodnoceni>62%</hodnoceni>
       <delka>2h 14m</delka>
       <year>2025</year>
       <providers>Netflix</providers>
@@ -333,28 +355,6 @@
       <year>2025</year>
       <providers>Netflix</providers>
       <genres>Dokumentární</genres>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Králové Šumavy</title>
-      <link>https://www.kinobox.cz/film/733070</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/10/08/external_file_2466426865922312350.jpg</poster>
-      <hodnoceni>65%</hodnoceni>
-      <delka>1h 10m</delka>
-      <year>2024</year>
-      <providers>Oneplay</providers>
-      <genres>Animovaný, Dokumentární, Biografický</genres>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Pozdě, ale přece</title>
-      <link>https://www.kinobox.cz/film/3153036</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_9584222568086490259.jpg</poster>
-      <hodnoceni>58%</hodnoceni>
-      <delka>1h 29m</delka>
-      <year>2024</year>
-      <providers>Max</providers>
-      <genres>Komedie, Drama</genres>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
     </item>
   </channel>
