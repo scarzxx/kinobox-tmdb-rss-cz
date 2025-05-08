@@ -20,6 +20,11 @@
       <description>28. bře. 2025 | Hodnocení: 65%</description>
     </item>
     <item>
+      <title>Warfare</title>
+      <link>https://www.themoviedb.org/movie/1241436-warfare?language=cs-CZ</link>
+      <description>11. dub. 2025 | Hodnocení: 71%</description>
+    </item>
+    <item>
       <title>Minecraft film</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie?language=cs-CZ</link>
       <description>04. dub. 2025 | Hodnocení: 62%</description>
@@ -38,11 +43,6 @@
       <title>Tarzan</title>
       <link>https://www.themoviedb.org/movie/37135-tarzan?language=cs-CZ</link>
       <description>18. čer. 1999 | Hodnocení: 74%</description>
-    </item>
-    <item>
-      <title>Warfare</title>
-      <link>https://www.themoviedb.org/movie/1241436-warfare?language=cs-CZ</link>
-      <description>11. dub. 2025 | Hodnocení: 71%</description>
     </item>
     <item>
       <title>Black Widow</title>
@@ -67,7 +67,12 @@
     <item>
       <title>Zloděj šperků: Lup začíná</title>
       <link>https://www.themoviedb.org/movie/1225915?language=cs-CZ</link>
-      <description>25. dub. 2025 | Hodnocení: 63%</description>
+      <description>25. dub. 2025 | Hodnocení: 65%</description>
+    </item>
+    <item>
+      <title>Ztracená kulka 3</title>
+      <link>https://www.themoviedb.org/movie/1144430-balle-perdue-3?language=cs-CZ</link>
+      <description>07. kvě. 2025 | Hodnocení: 81%</description>
     </item>
     <item>
       <title>Čarodějnice a lovec</title>
@@ -87,7 +92,7 @@
     <item>
       <title>Další nebezpečná laskavost</title>
       <link>https://www.themoviedb.org/movie/974573-another-simple-favor?language=cs-CZ</link>
-      <description>07. bře. 2025 | Hodnocení: 63%</description>
+      <description>07. bře. 2025 | Hodnocení: 62%</description>
     </item>
     <item>
       <title>Saint Catherine</title>
@@ -98,11 +103,6 @@
       <title>Wonder Woman</title>
       <link>https://www.themoviedb.org/movie/297762-wonder-woman?language=cs-CZ</link>
       <description>02. čer. 2017 | Hodnocení: 72%</description>
-    </item>
-    <item>
-      <title>Hříšníci</title>
-      <link>https://www.themoviedb.org/movie/1233413-sinners?language=cs-CZ</link>
-      <description>18. dub. 2025 | Hodnocení: 76%</description>
     </item>
   </channel>
 </rss>
