@@ -6,12 +6,12 @@
     <description>TOP filmy</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 08 May 2025 10:12:42 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 14:16:21 +0200</lastBuildDate>
     <item>
       <title>Pasáž</title>
       <link>https://www.kinobox.cz/film/726587</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg</poster>
-      <hodnoceni>59%</hodnoceni>
+      <hodnoceni>58%</hodnoceni>
       <delka>2h 5m</delka>
       <year>2025</year>
       <providers>Netflix</providers>

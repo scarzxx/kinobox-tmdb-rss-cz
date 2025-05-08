@@ -15,14 +15,14 @@
       <description>02. kvě. 2025 | Hodnocení: 75%</description>
     </item>
     <item>
-      <title>Čeština</title>
-      <link>https://www.themoviedb.org/movie/1197306-a-working-man?language=cs-CZ</link>
-      <description>28. bře. 2025 | Hodnocení: 65%</description>
-    </item>
-    <item>
       <title>Warfare</title>
       <link>https://www.themoviedb.org/movie/1241436-warfare?language=cs-CZ</link>
-      <description>11. dub. 2025 | Hodnocení: 72%</description>
+      <description>11. dub. 2025 | Hodnocení: 71%</description>
+    </item>
+    <item>
+      <title>A Working Man</title>
+      <link>https://www.themoviedb.org/movie/1197306-a-working-man?language=cs-CZ</link>
+      <description>28. bře. 2025 | Hodnocení: 65%</description>
     </item>
     <item>
       <title>Minecraft film</title>
@@ -55,11 +55,6 @@
       <description>28. bře. 2025 | Hodnocení: 64%</description>
     </item>
     <item>
-      <title>Captain America: Nový svět</title>
-      <link>https://www.themoviedb.org/movie/822119-captain-america-brave-new-world?language=cs-CZ</link>
-      <description>14. úno. 2025 | Hodnocení: 62%</description>
-    </item>
-    <item>
       <title>Captain Marvel</title>
       <link>https://www.themoviedb.org/movie/299537-captain-marvel?language=cs-CZ</link>
       <description>08. bře. 2019 | Hodnocení: 68%</description>
@@ -67,7 +62,12 @@
     <item>
       <title>Zloděj šperků: Lup začíná</title>
       <link>https://www.themoviedb.org/movie/1225915?language=cs-CZ</link>
-      <description>25. dub. 2025 | Hodnocení: 65%</description>
+      <description>25. dub. 2025 | Hodnocení: 66%</description>
+    </item>
+    <item>
+      <title>Captain America: Nový svět</title>
+      <link>https://www.themoviedb.org/movie/822119-captain-america-brave-new-world?language=cs-CZ</link>
+      <description>14. úno. 2025 | Hodnocení: 62%</description>
     </item>
     <item>
       <title>Ztracená kulka 3</title>
@@ -78,11 +78,6 @@
       <title>Čarodějnice a lovec</title>
       <link>https://www.themoviedb.org/movie/324544-in-the-lost-lands?language=cs-CZ</link>
       <description>07. bře. 2025 | Hodnocení: 63%</description>
-    </item>
-    <item>
-      <title>Van Gogh by Vincent</title>
-      <link>https://www.themoviedb.org/movie/1471014-van-gogh-by-vincent?language=cs-CZ</link>
-      <description>26. bře. 2025 | Hodnocení: 64%</description>
     </item>
     <item>
       <title>Day of Reckoning</title>
@@ -103,6 +98,11 @@
       <title>Wonder Woman</title>
       <link>https://www.themoviedb.org/movie/297762-wonder-woman?language=cs-CZ</link>
       <description>02. čer. 2017 | Hodnocení: 72%</description>
+    </item>
+    <item>
+      <title>Van Gogh by Vincent</title>
+      <link>https://www.themoviedb.org/movie/1471014-van-gogh-by-vincent?language=cs-CZ</link>
+      <description>26. bře. 2025 | Hodnocení: 64%</description>
     </item>
   </channel>
 </rss>
