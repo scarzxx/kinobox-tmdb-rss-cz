@@ -6,7 +6,7 @@
     <description>TOP filmy</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 08 May 2025 22:10:24 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 02:43:20 +0200</lastBuildDate>
     <item>
       <title>Pasáž</title>
       <link>https://www.kinobox.cz/film/726587</link>
@@ -52,17 +52,6 @@
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Vlny</title>
-      <link>https://www.kinobox.cz/film/723825</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/06/04/upload_11447653862362434444.jpg</poster>
-      <hodnoceni>85%</hodnoceni>
-      <delka>2h 11m</delka>
-      <year>2024</year>
-      <providers>Oneplay, Google Play, iTunes, KVIFF TV, DaFilms, Magenta TV</providers>
-      <genres>Drama, Thriller, Historický</genres>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Jak vydělat milion než babička zemře</title>
       <link>https://www.kinobox.cz/film/3176014</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/01/30/external_file_13495858860882834321.jpg</poster>
@@ -72,6 +61,17 @@
       <providers>Netflix</providers>
       <genres>Drama, Komedie, Rodinný</genres>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Vlny</title>
+      <link>https://www.kinobox.cz/film/723825</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/06/04/upload_11447653862362434444.jpg</poster>
+      <hodnoceni>85%</hodnoceni>
+      <delka>2h 11m</delka>
+      <year>2024</year>
+      <providers>Oneplay, Google Play, iTunes, KVIFF TV, DaFilms, Magenta TV</providers>
+      <genres>Drama, Thriller, Historický</genres>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Dragon</title>
@@ -129,15 +129,26 @@
       <pubDate>Fri, 11 Feb 1955 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Mord</title>
-      <link>https://www.kinobox.cz/film/2655175</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/06/18/upload_7667947359247551199.jpg</poster>
-      <hodnoceni>68%</hodnoceni>
-      <delka>1h 24m</delka>
+      <title>Hranice přežití</title>
+      <link>https://www.kinobox.cz/film/2674367</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/11/06/upload_15000185663009945535.jpg</poster>
+      <hodnoceni>53%</hodnoceni>
+      <delka>1h 31m</delka>
       <year>2024</year>
-      <providers>Max, iTunes, KVIFF TV, DaFilms</providers>
-      <genres>Komedie, Drama</genres>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0100</pubDate>
+      <providers>Max, Google Play</providers>
+      <genres>Sci-fi, Thriller, Akční</genres>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Architektura ČSSR 58–89</title>
+      <link>https://www.kinobox.cz/film/2655931</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/06/03/upload_14405255511401405508.jpg</poster>
+      <hodnoceni>83%</hodnoceni>
+      <delka>2h 6m</delka>
+      <year>2024</year>
+      <providers>Netflix, KVIFF TV</providers>
+      <genres>Dokumentární</genres>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Pán prstenů: Válka Rohirů</title>
@@ -151,15 +162,15 @@
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Architektura ČSSR 58–89</title>
-      <link>https://www.kinobox.cz/film/2655931</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/06/03/upload_14405255511401405508.jpg</poster>
-      <hodnoceni>83%</hodnoceni>
-      <delka>2h 6m</delka>
+      <title>Mord</title>
+      <link>https://www.kinobox.cz/film/2655175</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/06/18/upload_7667947359247551199.jpg</poster>
+      <hodnoceni>68%</hodnoceni>
+      <delka>1h 24m</delka>
       <year>2024</year>
-      <providers>Netflix, KVIFF TV</providers>
-      <genres>Dokumentární</genres>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 +0200</pubDate>
+      <providers>Max, iTunes, KVIFF TV, DaFilms</providers>
+      <genres>Komedie, Drama</genres>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Exteritorium</title>
@@ -239,17 +250,6 @@
       <pubDate>Thu, 23 May 2024 00:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Aneta</title>
-      <link>https://www.kinobox.cz/film/2669944</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/09/20/upload_17545864193024936470.jpg</poster>
-      <hodnoceni>70%</hodnoceni>
-      <delka>1h 40m</delka>
-      <year>2024</year>
-      <providers>Netflix</providers>
-      <genres>Dokumentární</genres>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Život k sežrání</title>
       <link>https://www.kinobox.cz/film/2649567</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/06/30/upload_14186203432599502899.jpg</poster>
@@ -261,15 +261,15 @@
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Protiútok</title>
-      <link>https://www.kinobox.cz/film/3181680</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_3095454424776342398.jpg</poster>
-      <hodnoceni>65%</hodnoceni>
-      <delka>1h 25m</delka>
-      <year>2025</year>
+      <title>Aneta</title>
+      <link>https://www.kinobox.cz/film/2669944</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/09/20/upload_17545864193024936470.jpg</poster>
+      <hodnoceni>70%</hodnoceni>
+      <delka>1h 40m</delka>
+      <year>2024</year>
       <providers>Netflix</providers>
-      <genres>Akční, Thriller</genres>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0100</pubDate>
+      <genres>Dokumentární</genres>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Hranice lásky</title>
@@ -283,15 +283,15 @@
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Hranice přežití</title>
-      <link>https://www.kinobox.cz/film/2674367</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/11/06/upload_15000185663009945535.jpg</poster>
-      <hodnoceni>53%</hodnoceni>
-      <delka>1h 31m</delka>
-      <year>2024</year>
-      <providers>Max, Google Play</providers>
-      <genres>Sci-fi, Thriller, Akční</genres>
-      <pubDate>Thu, 07 Nov 2024 00:00:00 +0100</pubDate>
+      <title>Protiútok</title>
+      <link>https://www.kinobox.cz/film/3181680</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_3095454424776342398.jpg</poster>
+      <hodnoceni>65%</hodnoceni>
+      <delka>1h 25m</delka>
+      <year>2025</year>
+      <providers>Netflix</providers>
+      <genres>Akční, Thriller</genres>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Její tělo</title>
@@ -316,6 +316,17 @@
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0200</pubDate>
     </item>
     <item>
+      <title>Porotce č. 2</title>
+      <link>https://www.kinobox.cz/film/2645644</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/10/01/upload_11401653062326142966.jpg</poster>
+      <hodnoceni>72%</hodnoceni>
+      <delka>1h 53m</delka>
+      <year>2024</year>
+      <providers>Max, Google Play, iTunes, Rakuten</providers>
+      <genres>Thriller, Drama, Krimi, Mysteriozní</genres>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Sedm</title>
       <link>https://www.kinobox.cz/film/18561</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2023/09/01/18561___external_file_11017832207419169185.jpg</poster>
@@ -336,17 +347,6 @@
       <providers>Netflix</providers>
       <genres>Akční, Thriller</genres>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Porotce č. 2</title>
-      <link>https://www.kinobox.cz/film/2645644</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/10/01/upload_11401653062326142966.jpg</poster>
-      <hodnoceni>72%</hodnoceni>
-      <delka>1h 53m</delka>
-      <year>2024</year>
-      <providers>Max, Google Play, iTunes, Rakuten</providers>
-      <genres>Thriller, Drama, Krimi, Mysteriozní</genres>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Gentlemani</title>
