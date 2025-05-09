@@ -17,7 +17,7 @@
     <item>
       <title>Thunderbolts*</title>
       <link>https://www.themoviedb.org/movie/986056-thunderbolts?language=cs-CZ</link>
-      <description>02. kvě. 2025 | Hodnocení: 75%</description>
+      <description>02. kvě. 2025 | Hodnocení: 76%</description>
     </item>
     <item>
       <title>A Working Man</title>
@@ -27,7 +27,7 @@
     <item>
       <title>Ztracená kulka 3</title>
       <link>https://www.themoviedb.org/movie/1144430-balle-perdue-3?language=cs-CZ</link>
-      <description>07. kvě. 2025 | Hodnocení: 75%</description>
+      <description>07. kvě. 2025 | Hodnocení: 74%</description>
     </item>
     <item>
       <title>Rust</title>
@@ -40,19 +40,24 @@
       <description>04. dub. 2025 | Hodnocení: 62%</description>
     </item>
     <item>
-      <title>Totální rozklad</title>
-      <link>https://www.themoviedb.org/movie/668489-havoc?language=cs-CZ</link>
-      <description>25. dub. 2025 | Hodnocení: 66%</description>
-    </item>
-    <item>
       <title>Tarzan</title>
       <link>https://www.themoviedb.org/movie/37135-tarzan?language=cs-CZ</link>
       <description>18. čer. 1999 | Hodnocení: 74%</description>
     </item>
     <item>
+      <title>Totální rozklad</title>
+      <link>https://www.themoviedb.org/movie/668489-havoc?language=cs-CZ</link>
+      <description>25. dub. 2025 | Hodnocení: 66%</description>
+    </item>
+    <item>
       <title>Captain America: Nový svět</title>
       <link>https://www.themoviedb.org/movie/822119-captain-america-brave-new-world?language=cs-CZ</link>
       <description>14. úno. 2025 | Hodnocení: 61%</description>
+    </item>
+    <item>
+      <title>Smrt jednorožce</title>
+      <link>https://www.themoviedb.org/movie/1153714-death-of-a-unicorn?language=cs-CZ</link>
+      <description>28. bře. 2025 | Hodnocení: 64%</description>
     </item>
     <item>
       <title>Čarodějnice a lovec</title>
@@ -65,19 +70,9 @@
       <description>25. dub. 2025 | Hodnocení: 67%</description>
     </item>
     <item>
-      <title>Smrt jednorožce</title>
-      <link>https://www.themoviedb.org/movie/1153714-death-of-a-unicorn?language=cs-CZ</link>
-      <description>28. bře. 2025 | Hodnocení: 64%</description>
-    </item>
-    <item>
       <title>Další nebezpečná laskavost</title>
       <link>https://www.themoviedb.org/movie/974573-another-simple-favor?language=cs-CZ</link>
       <description>07. bře. 2025 | Hodnocení: 61%</description>
-    </item>
-    <item>
-      <title>Van Gogh by Vincent</title>
-      <link>https://www.themoviedb.org/movie/1471014-van-gogh-by-vincent?language=cs-CZ</link>
-      <description>26. bře. 2025 | Hodnocení: 64%</description>
     </item>
     <item>
       <title>Hříšníci</title>
@@ -85,24 +80,29 @@
       <description>18. dub. 2025 | Hodnocení: 76%</description>
     </item>
     <item>
-      <title>Black Widow</title>
-      <link>https://www.themoviedb.org/movie/497698-black-widow?language=cs-CZ</link>
-      <description>09. čvc. 2021 | Hodnocení: 72%</description>
-    </item>
-    <item>
-      <title>Day of Reckoning</title>
-      <link>https://www.themoviedb.org/movie/1414048-day-of-reckoning?language=cs-CZ</link>
-      <description>28. bře. 2025 | Hodnocení: 67%</description>
-    </item>
-    <item>
       <title>Saint Catherine</title>
       <link>https://www.themoviedb.org/movie/1356236-saint-catherine?language=cs-CZ</link>
       <description>24. zář. 2024 | Hodnocení: 62%</description>
     </item>
     <item>
+      <title>Van Gogh by Vincent</title>
+      <link>https://www.themoviedb.org/movie/1471014-van-gogh-by-vincent?language=cs-CZ</link>
+      <description>26. bře. 2025 | Hodnocení: 64%</description>
+    </item>
+    <item>
+      <title>Black Widow</title>
+      <link>https://www.themoviedb.org/movie/497698-black-widow?language=cs-CZ</link>
+      <description>09. čvc. 2021 | Hodnocení: 72%</description>
+    </item>
+    <item>
       <title>Opice</title>
       <link>https://www.themoviedb.org/movie/1124620-the-monkey?language=cs-CZ</link>
       <description>21. úno. 2025 | Hodnocení: 59%</description>
+    </item>
+    <item>
+      <title>Day of Reckoning</title>
+      <link>https://www.themoviedb.org/movie/1414048-day-of-reckoning?language=cs-CZ</link>
+      <description>28. bře. 2025 | Hodnocení: 67%</description>
     </item>
   </channel>
 </rss>
