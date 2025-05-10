@@ -57,7 +57,7 @@
     <item>
       <title>Smrt jednorožce</title>
       <link>https://www.themoviedb.org/movie/1153714-death-of-a-unicorn?language=cs-CZ</link>
-      <description>28. bře. 2025 | Hodnocení: 64%</description>
+      <description>28. bře. 2025 | Hodnocení: 65%</description>
     </item>
     <item>
       <title>Čarodějnice a lovec</title>
@@ -75,11 +75,6 @@
       <description>07. bře. 2025 | Hodnocení: 61%</description>
     </item>
     <item>
-      <title>Hříšníci</title>
-      <link>https://www.themoviedb.org/movie/1233413-sinners?language=cs-CZ</link>
-      <description>18. dub. 2025 | Hodnocení: 76%</description>
-    </item>
-    <item>
       <title>Saint Catherine</title>
       <link>https://www.themoviedb.org/movie/1356236-saint-catherine?language=cs-CZ</link>
       <description>24. zář. 2024 | Hodnocení: 62%</description>
@@ -90,19 +85,24 @@
       <description>26. bře. 2025 | Hodnocení: 64%</description>
     </item>
     <item>
+      <title>Hříšníci</title>
+      <link>https://www.themoviedb.org/movie/1233413-sinners?language=cs-CZ</link>
+      <description>18. dub. 2025 | Hodnocení: 76%</description>
+    </item>
+    <item>
       <title>Black Widow</title>
       <link>https://www.themoviedb.org/movie/497698-black-widow?language=cs-CZ</link>
       <description>09. čvc. 2021 | Hodnocení: 72%</description>
     </item>
     <item>
-      <title>Opice</title>
-      <link>https://www.themoviedb.org/movie/1124620-the-monkey?language=cs-CZ</link>
-      <description>21. úno. 2025 | Hodnocení: 59%</description>
-    </item>
-    <item>
       <title>Day of Reckoning</title>
       <link>https://www.themoviedb.org/movie/1414048-day-of-reckoning?language=cs-CZ</link>
       <description>28. bře. 2025 | Hodnocení: 67%</description>
+    </item>
+    <item>
+      <title>The Glenarma Tapes</title>
+      <link>https://www.themoviedb.org/movie/1136721-the-glenarma-tapes?language=cs-CZ</link>
+      <description>02. dub. 2024 | Hodnocení: 61%</description>
     </item>
   </channel>
 </rss>
