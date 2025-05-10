@@ -5,14 +5,14 @@
     <link>https://www.themoviedb.org/tv?language=cs-CZ&amp;with_watch_providers=8|119|350|1773|1899|337</link>
     <description>Oblíbené Seriály</description>
     <item>
+      <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
+      <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
+      <description>20. zář. 1999 | Hodnocení: 79%</description>
+    </item>
+    <item>
       <title>The Last of Us</title>
       <link>https://www.themoviedb.org/tv/100088-the-last-of-us?language=cs-CZ</link>
       <description>15. led. 2023 | Hodnocení: 86%</description>
-    </item>
-    <item>
-      <title>Real Time with Bill Maher</title>
-      <link>https://www.themoviedb.org/tv/4419-real-time-with-bill-maher?language=cs-CZ</link>
-      <description>21. úno. 2003 | Hodnocení: 60%</description>
     </item>
     <item>
       <title>Diners, Drive-Ins and Dives</title>
@@ -30,9 +30,9 @@
       <description>27. bře. 2005 | Hodnocení: 82%</description>
     </item>
     <item>
-      <title>Flash</title>
-      <link>https://www.themoviedb.org/tv/60735-the-flash?language=cs-CZ</link>
-      <description>07. říj. 2014 | Hodnocení: 78%</description>
+      <title>Zelenáč</title>
+      <link>https://www.themoviedb.org/tv/79744-the-rookie?language=cs-CZ</link>
+      <description>16. říj. 2018 | Hodnocení: 85%</description>
     </item>
     <item>
       <title>Hra o trůny</title>
@@ -40,14 +40,14 @@
       <description>17. dub. 2011 | Hodnocení: 85%</description>
     </item>
     <item>
+      <title>Dva a půl chlapa</title>
+      <link>https://www.themoviedb.org/tv/2691-two-and-a-half-men?language=cs-CZ</link>
+      <description>22. zář. 2003 | Hodnocení: 75%</description>
+    </item>
+    <item>
       <title>Simpsonovi</title>
       <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
       <description>17. pro. 1989 | Hodnocení: 80%</description>
-    </item>
-    <item>
-      <title>Pán času</title>
-      <link>https://www.themoviedb.org/tv/57243-doctor-who?language=cs-CZ</link>
-      <description>26. bře. 2005 | Hodnocení: 75%</description>
     </item>
     <item>
       <title>Raw</title>
@@ -75,6 +75,16 @@
       <description>23. zář. 2003 | Hodnocení: 76%</description>
     </item>
     <item>
+      <title>Právo a pořádek</title>
+      <link>https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</link>
+      <description>13. zář. 1990 | Hodnocení: 74%</description>
+    </item>
+    <item>
+      <title>Kriminálka Las Vegas</title>
+      <link>https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation?language=cs-CZ</link>
+      <description>06. říj. 2000 | Hodnocení: 76%</description>
+    </item>
+    <item>
       <title>TY</title>
       <link>https://www.themoviedb.org/tv/78191-you?language=cs-CZ</link>
       <description>09. zář. 2018 | Hodnocení: 81%</description>
@@ -85,24 +95,14 @@
       <description>27. dub. 2014 | Hodnocení: 79%</description>
     </item>
     <item>
-      <title>Černá listina</title>
-      <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
-      <description>23. zář. 2013 | Hodnocení: 76%</description>
+      <title>Gumballův úžasný svět</title>
+      <link>https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</link>
+      <description>03. kvě. 2011 | Hodnocení: 85%</description>
     </item>
     <item>
-      <title>Andor</title>
-      <link>https://www.themoviedb.org/tv/83867-star-wars-andor?language=cs-CZ</link>
-      <description>21. zář. 2022 | Hodnocení: 82%</description>
-    </item>
-    <item>
-      <title>Dancing with the Stars</title>
-      <link>https://www.themoviedb.org/tv/1508-dancing-with-the-stars?language=cs-CZ</link>
-      <description>01. čer. 2005 | Hodnocení: 60%</description>
-    </item>
-    <item>
-      <title>The Graham Norton Show</title>
-      <link>https://www.themoviedb.org/tv/1220-the-graham-norton-show?language=cs-CZ</link>
-      <description>22. úno. 2007 | Hodnocení: 72%</description>
+      <title>Havaj 5-0</title>
+      <link>https://www.themoviedb.org/tv/32798-hawaii-five-0?language=cs-CZ</link>
+      <description>20. zář. 2010 | Hodnocení: 78%</description>
     </item>
   </channel>
 </rss>
