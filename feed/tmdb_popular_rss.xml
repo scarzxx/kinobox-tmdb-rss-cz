@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>TMDB Popular</title>
+    <link>https://www.themoviedb.org/movie?language=cs-CZ</link>
+    <description>Top filmy z TMDB</description>
+    <item>
+      <title>Warfare</title>
+      <link>https://www.themoviedb.org/movie/1241436-warfare?language=cs-CZ</link>
+      <description>11. dub. 2025 | Hodnocení: 72%</description>
+    </item>
+    <item>
+      <title>Exteritorium</title>
+      <link>https://www.themoviedb.org/movie/1233069-exterritorial?language=cs-CZ</link>
+      <description>30. dub. 2025 | Hodnocení: 67%</description>
+    </item>
+    <item>
+      <title>Thunderbolts*</title>
+      <link>https://www.themoviedb.org/movie/986056-thunderbolts?language=cs-CZ</link>
+      <description>02. kvě. 2025 | Hodnocení: 75%</description>
+    </item>
+    <item>
+      <title>Ztracená kulka 3</title>
+      <link>https://www.themoviedb.org/movie/1144430-balle-perdue-3?language=cs-CZ</link>
+      <description>07. kvě. 2025 | Hodnocení: 73%</description>
+    </item>
+    <item>
+      <title>A Working Man</title>
+      <link>https://www.themoviedb.org/movie/1197306-a-working-man?language=cs-CZ</link>
+      <description>28. bře. 2025 | Hodnocení: 65%</description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>https://www.themoviedb.org/movie/710258-rust?language=cs-CZ</link>
+      <description>02. kvě. 2025 | Hodnocení: 63%</description>
+    </item>
+    <item>
+      <title>Minecraft film</title>
+      <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie?language=cs-CZ</link>
+      <description>04. dub. 2025 | Hodnocení: 62%</description>
+    </item>
+    <item>
+      <title>Totální rozklad</title>
+      <link>https://www.themoviedb.org/movie/668489-havoc?language=cs-CZ</link>
+      <description>25. dub. 2025 | Hodnocení: 65%</description>
+    </item>
+    <item>
+      <title>Captain America: Nový svět</title>
+      <link>https://www.themoviedb.org/movie/822119-captain-america-brave-new-world?language=cs-CZ</link>
+      <description>14. úno. 2025 | Hodnocení: 61%</description>
+    </item>
+    <item>
+      <title>Tarzan</title>
+      <link>https://www.themoviedb.org/movie/37135-tarzan?language=cs-CZ</link>
+      <description>18. čer. 1999 | Hodnocení: 74%</description>
+    </item>
+    <item>
+      <title>Brave Citizen</title>
+      <link>https://www.themoviedb.org/movie/897160?language=cs-CZ</link>
+      <description>25. říj. 2023 | Hodnocení: 71%</description>
+    </item>
+    <item>
+      <title>Zloděj šperků: Lup začíná</title>
+      <link>https://www.themoviedb.org/movie/1225915?language=cs-CZ</link>
+      <description>25. dub. 2025 | Hodnocení: 66%</description>
+    </item>
+    <item>
+      <title>Smrt jednorožce</title>
+      <link>https://www.themoviedb.org/movie/1153714-death-of-a-unicorn?language=cs-CZ</link>
+      <description>28. bře. 2025 | Hodnocení: 65%</description>
+    </item>
+    <item>
+      <title>Zúčtování</title>
+      <link>https://www.themoviedb.org/movie/302946-the-accountant?language=cs-CZ</link>
+      <description>03. říj. 2016 | Hodnocení: 71%</description>
+    </item>
+    <item>
+      <title>Čarodějnice a lovec</title>
+      <link>https://www.themoviedb.org/movie/324544-in-the-lost-lands?language=cs-CZ</link>
+      <description>07. bře. 2025 | Hodnocení: 63%</description>
+    </item>
+    <item>
+      <title>Conjuring the Cult</title>
+      <link>https://www.themoviedb.org/movie/1359977-conjuring-the-cult?language=cs-CZ</link>
+      <description>01. říj. 2024 | Hodnocení: 39%</description>
+    </item>
+    <item>
+      <title>Hříšníci</title>
+      <link>https://www.themoviedb.org/movie/1233413-sinners?language=cs-CZ</link>
+      <description>18. dub. 2025 | Hodnocení: 76%</description>
+    </item>
+    <item>
+      <title>Van Gogh by Vincent</title>
+      <link>https://www.themoviedb.org/movie/1471014-van-gogh-by-vincent?language=cs-CZ</link>
+      <description>26. bře. 2025 | Hodnocení: 64%</description>
+    </item>
+    <item>
+      <title>Saint Catherine</title>
+      <link>https://www.themoviedb.org/movie/1356236-saint-catherine?language=cs-CZ</link>
+      <description>24. zář. 2024 | Hodnocení: 64%</description>
+    </item>
+    <item>
+      <title>Další nebezpečná laskavost</title>
+      <link>https://www.themoviedb.org/movie/974573-another-simple-favor?language=cs-CZ</link>
+      <description>07. bře. 2025 | Hodnocení: 61%</description>
+    </item>
+  </channel>
+</rss>
