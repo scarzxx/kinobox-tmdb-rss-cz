@@ -6,7 +6,7 @@
     <description>TOP filmy</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 10 May 2025 06:10:22 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 10:10:28 +0200</lastBuildDate>
     <item>
       <title>Pasáž</title>
       <link>https://www.kinobox.cz/film/726587</link>
@@ -341,7 +341,7 @@
       <title>Deva</title>
       <link>https://www.kinobox.cz/film/3228816</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_11937847916472504226.jpg</poster>
-      <hodnoceni>67%</hodnoceni>
+      <hodnoceni>66%</hodnoceni>
       <delka>2h 35m</delka>
       <year>2025</year>
       <providers>Netflix</providers>
