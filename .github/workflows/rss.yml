@@ -35,10 +35,10 @@ jobs:
         export LC_ALL="en_US.UTF-8"
         export LC_CTYPE="en_US.UTF-8"
         sudo dpkg-reconfigure locales  # Zajištění správných locale
-        python scripts/kinobox_json.py  # Spuštění Python skriptu pro generování RSS
+        # python scripts/kinobox_json.py  # Spuštění Python skriptu pro generování RSS
         python scripts/kinobox_novinky_json.py
         python scripts/tmdb_popular.py
-        python scripts/tmdb_tv.py
+        # python scripts/tmdb_tv.py
         
 
     - name: Commit changes
