@@ -6,7 +6,7 @@
     <description>TOP filmy</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 11 May 2025 22:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 00:00:04 +0200</lastBuildDate>
     <item>
       <title>Konkláve</title>
       <link>https://www.kinobox.cz/film/732716</link>
@@ -217,6 +217,17 @@
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
+      <title>Furiosa: Sága Šíleného Maxe</title>
+      <link>https://www.kinobox.cz/film/719658</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/04/08/upload_3063119944998439302.jpg</poster>
+      <hodnoceni>78%</hodnoceni>
+      <delka>2h 29m</delka>
+      <year>2024</year>
+      <providers>Max, Google Play, iTunes, Rakuten</providers>
+      <genres>Akční, Dobrodružný, Sci-fi, Blockbuster, Epický, Série/Franchise</genres>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0200</pubDate>
+    </item>
+    <item>
       <title>Duna: Část druhá</title>
       <link>https://www.kinobox.cz/film/721984</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2024/02/29/upload_1082187277995497275.jpg</poster>
@@ -237,17 +248,6 @@
       <providers>Max, Google Play, iTunes, KVIFF TV, Rakuten, SWEET.TV</providers>
       <genres>Akční, Dobrodružný, Horor, Sci-fi, Komiksový</genres>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Furiosa: Sága Šíleného Maxe</title>
-      <link>https://www.kinobox.cz/film/719658</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/04/08/upload_3063119944998439302.jpg</poster>
-      <hodnoceni>78%</hodnoceni>
-      <delka>2h 29m</delka>
-      <year>2024</year>
-      <providers>Max, Google Play, iTunes, Rakuten</providers>
-      <genres>Akční, Dobrodružný, Sci-fi, Blockbuster, Epický, Série/Franchise</genres>
-      <pubDate>Thu, 23 May 2024 00:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Život k sežrání</title>
@@ -272,17 +272,6 @@
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Aneta</title>
-      <link>https://www.kinobox.cz/film/2669944</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/09/20/upload_17545864193024936470.jpg</poster>
-      <hodnoceni>70%</hodnoceni>
-      <delka>1h 40m</delka>
-      <year>2024</year>
-      <providers>Netflix</providers>
-      <genres>Dokumentární</genres>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Gentlemani</title>
       <link>https://www.kinobox.cz/film/438612</link>
       <poster>https://1263469901.rsc.cdn77.org/images/2020/01/12/toff-guys-imdb172204842_1192.jpg</poster>
@@ -292,6 +281,17 @@
       <providers>Netflix, Google Play, iTunes</providers>
       <genres>Akční, Komedie, Krimi, Gangsterka</genres>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Aneta</title>
+      <link>https://www.kinobox.cz/film/2669944</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2024/09/20/upload_17545864193024936470.jpg</poster>
+      <hodnoceni>70%</hodnoceni>
+      <delka>1h 40m</delka>
+      <year>2024</year>
+      <providers>Netflix</providers>
+      <genres>Dokumentární</genres>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Oppenheimer</title>
@@ -349,15 +349,15 @@
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Protiútok</title>
-      <link>https://www.kinobox.cz/film/3181680</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_3095454424776342398.jpg</poster>
-      <hodnoceni>65%</hodnoceni>
-      <delka>1h 25m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Akční, Thriller</genres>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0100</pubDate>
+      <title>Chudáčci</title>
+      <link>https://www.kinobox.cz/film/720099</link>
+      <poster>https://1263469901.rsc.cdn77.org/images/2023/11/29/upload_12653663375710438038.jpg</poster>
+      <hodnoceni>80%</hodnoceni>
+      <delka>2h 21m</delka>
+      <year>2023</year>
+      <providers>Max, Disney+, Google Play, iTunes, Rakuten, SWEET.TV</providers>
+      <genres>Romantický, Sci-fi, Drama</genres>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
