@@ -1,30 +1,20 @@
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
-import pytz # Přidáno pro korektní časovou zónu v pubDate
+import pytz
 from xml.dom import minidom
-import json # Pro případnou chybu při parsování
+import json
 
 # --- KONFIGURACE ---
 # VAROVÁNÍ: Tato URL obsahuje build ID a pravděpodobně brzy přestane fungovat!
-JSON_URL = "https://www.kinobox.cz/_next/data/1qG7m8WJ-AtZ5GALF4npj/cs/filmy/trendy.json"
+# Může být nutné ji aktualizovat z https://www.kinobox.cz/_next/data/[build_id]/cs/filmy/trendy.json
+# kde [build_id] najdete ve zdrojovém kódu stránky https://www.kinobox.cz/filmy/trendy
+JSON_URL = "https://www.kinobox.cz/_next/data/QElPo9wDTJ4y2ojoTuYqm/cs/filmy/trendy.json"
 OUTPUT_FILE = "feed/kinobox_trendy_rss.xml"
-PRAGUE_TZ = pytz.timezone('Europe/Prague') # Časová zóna pro data
+PRAGUE_TZ = pytz.timezone('Europe/Prague') # Tato se už nepoužije pro pubDate v itemu, ale necháme ji pro lastBuildDate kanálu
 
-def format_duration(total_minutes):
-    """Převede celkový počet minut na formát 'Xh Ym' nebo 'Ym'."""
-    if total_minutes is None or not isinstance(total_minutes, int) or total_minutes <= 0:
-        return None # Vracíme None, pokud není platná délka
-    hours = total_minutes // 60
-    minutes = total_minutes % 60
-    duration_str = ""
-    if hours > 0:
-        duration_str += f"{hours}h"
-    if minutes > 0:
-        if duration_str: # Přidá mezeru, pokud už máme hodiny
-             duration_str += " "
-        duration_str += f"{minutes}m"
-    return duration_str if duration_str else None # Vracíme None, pokud je výsledek prázdný
+# Funkce format_duration už není potřeba, protože délka nebude v description
+# def format_duration(total_minutes): ...
 
 print(f"Stahuji JSON data z: {JSON_URL}")
 print("VAROVÁNÍ: Pokud skript selže, zkontrolujte, zda se nezměnila URL (build ID).")
@@ -52,94 +42,83 @@ except Exception as e:
      exit()
 
 
-# --- Vytvoření RSS struktury ---
+# --- Vytvoření RSS struktury kanálu ---
 rss = ET.Element("rss", version="2.0")
-rss.set("xmlns:atom", "http://www.w3.org/2005/Atom") # Namespace pro atom:link
+rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
 channel = ET.SubElement(rss, "channel")
 
+# Informace o kanálu (ponechány standardní)
 ET.SubElement(channel, "title").text = "Trendy filmy – Kinobox.cz"
 ET.SubElement(channel, "link").text = "https://www.kinobox.cz/filmy/trendy"
-ET.SubElement(channel, "description").text = "TOP filmy"
+ET.SubElement(channel, "description").text = "Aktuálně nejvíce trendy filmy na Kinobox.cz"
 ET.SubElement(channel, "language").text = "cs-cz"
-# Přidání odkazu na samotný RSS feed
+# Odkaz na samotný RSS feed (ponechán)
 atom_link = ET.SubElement(channel, "{http://www.w3.org/2005/Atom}link")
 # !! DŮLEŽITÉ: Nahraď tuto URL skutečnou finální URL, kde bude feed hostován !!
 atom_link.set("href", "https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml")
 atom_link.set("rel", "self")
 atom_link.set("type", "application/rss+xml")
+# Datum poslední sestavení feedu (ponecháno standardní)
 ET.SubElement(channel, "lastBuildDate").text = datetime.now(PRAGUE_TZ).strftime("%a, %d %b %Y %H:%M:%S %z")
 
 
+# --- Zpracování jednotlivých filmů (itemů) ---
 for film in films:
     item = ET.SubElement(channel, "item")
     film_name = film.get("name", "Neznámý název")
     film_id = film.get("id")
-    poster_url = film.get("poster")
-    score = film.get("score")
-    year_val = film.get("year") # Hodnota roku
-    duration_minutes = film.get("duration")
+    # Načítáme data, ale pro item použijeme jen žánry
     genres_list = film.get("genres", [])
-    providers_list = film.get("providers", [])
-    release_cz_str = film.get("releaseCz")
 
     if not film_id:
         print(f"Varování: Přeskakuji film '{film_name}' bez ID.")
         continue
 
-    # --- Základní tagy ---
+    # --- Standardní tagy pro item: title, link, description ---
+
+    # Tag <title>
     ET.SubElement(item, "title").text = film_name
+
+    # Tag <link>
     link_url = f'https://www.kinobox.cz/film/{film_id}'
     ET.SubElement(item, "link").text = link_url
-    #ET.SubElement(item, "guid", isPermaLink="true").text = link_url # GUID
 
-    # --- Vlastní tagy podle tvé specifikace ---
-    if poster_url:
-        ET.SubElement(item, "poster").text = poster_url
-
-    if score is not None:
-        ET.SubElement(item, "hodnoceni").text = f"{score}%"
-
-    duration_formatted = format_duration(duration_minutes)
-    if duration_formatted:
-        ET.SubElement(item, "delka").text = f"{duration_formatted}"
-
-    if year_val:
-        ET.SubElement(item, "year").text = f"{year_val}"
-
-    provider_names = [p.get("name") for p in providers_list if p.get("name")]
-    providers_str = ", ".join(provider_names)
-    if providers_str:
-        ET.SubElement(item, "providers").text = providers_str
-
+    # Tag <description> - POUZE ŽÁNRY
     genre_names = [g.get("name") for g in genres_list if g.get("name")]
-    genres_str = ", ".join(genre_names)
-    if genres_str:
-        ET.SubElement(item, "genres").text = genres_str
+    description_text = "" # Inicializace prázdného textu pro description
+    if genre_names:
+         # V description bude jen řádek s žánry
+         description_text = f"Žánry: {', '.join(genre_names)}"
 
-    # --- Datum vydání ---
-    if release_cz_str:
-        try:
-            naive_dt = datetime.strptime(release_cz_str, '%Y-%m-%d')
-            aware_dt = PRAGUE_TZ.localize(naive_dt)
-            # Formát s offsetem +0100 (nebo +0200 v létě)
-            pub_date_rfc822 = aware_dt.strftime("%a, %d %b %Y %H:%M:%S %z")
-            # Pokud bys trval na UTC (+0000), použij:
-            # pub_date_rfc822 = aware_dt.astimezone(pytz.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
-            ET.SubElement(item, "pubDate").text = pub_date_rfc822
-        except (ValueError, TypeError) as e:
-            print(f" Varování: Nepodařilo se naparsovat datum '{release_cz_str}' pro film '{film_name}'. Chyba: {e}")
+    # Přidání tagu <description> - jen pokud description_text není prázdný (tj. pokud film má žánry)
+    if description_text:
+         ET.SubElement(item, "description").text = description_text
+    # Else: Pokud film nemá žánry, tag <description> pro tento item nebude přidán.
 
-    # Tag <description> se nepřidává
+    # --- Ostatní standardní tagy pro item (guid, pubDate) jsou VYNECHÁNY podle požadavku ---
+    # Pokud bys je v budoucnu chtěl vrátit, odkomentuj příslušné řádky:
+    # ET.SubElement(item, "guid", isPermaLink="true").text = link_url
+    # ... logika pro pubDate ...
+    # ET.SubElement(item, "pubDate").text = pub_date_rfc822
 
 
-# --- Uložení do souboru s pěkným zalomením ---
+# --- Uložení do souboru s pěkným zalomením (nemění se) ---
 try:
-    rough_string = ET.tostring(rss, encoding='utf-8', method='xml')
+    rough_string = ET.tostring(rss, encoding='utf-8', method='xml', xml_declaration=True)
     reparsed = minidom.parseString(rough_string)
     pretty_xml = reparsed.toprettyxml(indent="  ", encoding="utf-8")
 
-    with open(OUTPUT_FILE, "wb") as f:
-        f.write(pretty_xml)
+    pretty_xml_lines = pretty_xml.decode('utf-8').splitlines()
+    first_content_line_index = 0
+    for i, line in enumerate(pretty_xml_lines):
+        if line.strip().startswith('<rss'):
+             first_content_line_index = i
+             break
+    clean_xml_output = '\n'.join(pretty_xml_lines[:1] + pretty_xml_lines[first_content_line_index:])
+
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write(clean_xml_output)
 
     print(f"RSS feed byl úspěšně vytvořen jako '{OUTPUT_FILE}'")
 
