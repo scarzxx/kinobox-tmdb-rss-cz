@@ -1,362 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Filmové novinky – Kinobox.cz</title>
+    <title>Novinky – Kinobox.cz</title>
     <link>https://www.kinobox.cz/filmy/novinky</link>
-    <description>Nejlepší novinky</description>
+    <description>Nejnovější filmy přidané na Kinobox.cz (jen základní info)</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 12 May 2025 06:13:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 19:25:10 +0200</lastBuildDate>
     <item>
       <title>Babičky</title>
       <link>https://www.kinobox.cz/film/3227733</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/04/10/external_file_1233618106098953107.jpg</poster>
-      <hodnoceni>66%</hodnoceni>
-      <delka>1h 52m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Komedie</genres>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Komedie</description>
     </item>
     <item>
       <title>Bad Influence</title>
       <link>https://www.kinobox.cz/film/3171095</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_18358285207980936918.jpg</poster>
-      <hodnoceni>48%</hodnoceni>
-      <delka>1h 46m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Drama, Thriller, Romantický, Adaptace knižní</genres>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Drama, Thriller, Romantický, Adaptace knižní</description>
     </item>
     <item>
       <title>The Diplomat</title>
       <link>https://www.kinobox.cz/film/3285958</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_820949916919460898.jpg</poster>
-      <hodnoceni>79%</hodnoceni>
-      <delka>2h 17m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Thriller</genres>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Thriller</description>
     </item>
     <item>
       <title>Diagnosis: Dissent</title>
       <link>https://www.kinobox.cz/film/3165775</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_15183251033768266189.jpg</poster>
-      <hodnoceni>78%</hodnoceni>
-      <delka>1h 58m</delka>
-      <year>2024</year>
-      <providers>Max</providers>
-      <genres>Drama, Historický</genres>
-      <pubDate>Thu, 08 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Drama, Historický</description>
     </item>
     <item>
       <title>Forever-Forever</title>
       <link>https://www.kinobox.cz/film/3161527</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_5045624378544712547.jpg</poster>
-      <hodnoceni>64%</hodnoceni>
-      <delka>1h 47m</delka>
-      <year>2024</year>
-      <providers>Max</providers>
-      <genres>Drama</genres>
-      <pubDate>Thu, 08 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Drama</description>
     </item>
     <item>
       <title>Hold Me Close</title>
       <link>https://www.kinobox.cz/film/3169516</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_5684428026527660310.jpg</poster>
-      <hodnoceni>61%</hodnoceni>
-      <delka>1h 38m</delka>
-      <year>2024</year>
-      <providers>Netflix</providers>
-      <genres>Romantický, Drama, Fantasy</genres>
-      <pubDate>Thu, 08 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Romantický, Drama, Fantasy</description>
     </item>
     <item>
       <title>The Haunted Apartment</title>
       <link>https://www.kinobox.cz/film/3169519</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_2419986027858985986.jpg</poster>
-      <hodnoceni>65%</hodnoceni>
-      <delka>1h 43m</delka>
-      <year>2024</year>
-      <providers>Netflix</providers>
-      <genres>Horor, Thriller, Mysteriozní</genres>
-      <pubDate>Thu, 08 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Horor, Thriller, Mysteriozní</description>
     </item>
     <item>
       <title>Konkláve</title>
       <link>https://www.kinobox.cz/film/732716</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/11/02/external_file_10912788691310912704.jpg</poster>
-      <hodnoceni>74%</hodnoceni>
-      <delka>2h</delka>
-      <year>2024</year>
-      <providers>Oneplay</providers>
-      <genres>Thriller</genres>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Thriller</description>
     </item>
     <item>
       <title>Mateřské mléko</title>
       <link>https://www.kinobox.cz/film/4567297</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/05/09/external_file_15841985182487772605.jpg</poster>
-      <delka>1h 38m</delka>
-      <year>2023</year>
-      <providers>Max</providers>
-      <genres>Drama, Komedie</genres>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Drama, Komedie</description>
     </item>
     <item>
       <title>Ztracená kulka 3</title>
       <link>https://www.kinobox.cz/film/3181609</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/04/23/external_file_4283419837420099320.jpg</poster>
-      <hodnoceni>74%</hodnoceni>
-      <delka>1h 51m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Akční, Krimi, Thriller, Drama</genres>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Akční, Krimi, Thriller, Drama</description>
     </item>
     <item>
       <title>Británie a Blitz</title>
       <link>https://www.kinobox.cz/film/4417270</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/04/24/upload_5722072797653110.jpg</poster>
-      <hodnoceni>69%</hodnoceni>
-      <delka>1h 17m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Dokumentární, Válečný</genres>
-      <pubDate>Mon, 05 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Dokumentární, Válečný</description>
     </item>
     <item>
       <title>Conan O'Brien: Cena Marka Twaina za humor</title>
       <link>https://www.kinobox.cz/film/4511188</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/04/29/external_file_8433874160670855397.jpg</poster>
-      <hodnoceni>80%</hodnoceni>
-      <delka>1h 26m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Komedie</genres>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Komedie</description>
     </item>
     <item>
       <title>Svět mezi námi</title>
       <link>https://www.kinobox.cz/film/2673372</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/28/upload_3043647311694081167.jpg</poster>
-      <hodnoceni>81%</hodnoceni>
-      <delka>1h 30m</delka>
-      <year>2024</year>
-      <providers>Max</providers>
-      <genres>Dokumentární</genres>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Dokumentární</description>
     </item>
     <item>
       <title>Lee: Fotografka v první linii</title>
       <link>https://www.kinobox.cz/film/732023</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/09/03/upload_11406666355414125159.jpg</poster>
-      <hodnoceni>64%</hodnoceni>
-      <delka>1h 57m</delka>
-      <year>2024</year>
-      <providers>Max, Google Play, iTunes, DaFilms</providers>
-      <genres>Drama, Historický, Biografický</genres>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Drama, Historický, Biografický</description>
     </item>
     <item>
       <title>Největší fanynka</title>
       <link>https://www.kinobox.cz/film/4392092</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/04/19/external_file_17694963015284948246.jpg</poster>
-      <hodnoceni>45%</hodnoceni>
-      <delka>1h 31m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Komedie</genres>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Komedie</description>
     </item>
     <item>
       <title>V zemi našich bratrů</title>
       <link>https://www.kinobox.cz/film/2655301</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/05/29/upload_5697672719499303447.jpg</poster>
-      <hodnoceni>71%</hodnoceni>
-      <delka>1h 35m</delka>
-      <year>2024</year>
-      <providers>Max</providers>
-      <genres>Drama</genres>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Drama</description>
     </item>
     <item>
       <title>Exteritorium</title>
       <link>https://www.kinobox.cz/film/4153589</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/03/15/external_file_9653364672679234002.jpg</poster>
-      <hodnoceni>55%</hodnoceni>
-      <delka>1h 49m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Thriller, Akční</genres>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Thriller, Akční</description>
     </item>
     <item>
       <title>Růže z Versailles</title>
       <link>https://www.kinobox.cz/film/4503435</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/04/22/external_file_6402215732177288110.jpg</poster>
-      <hodnoceni>59%</hodnoceni>
-      <delka>1h 53m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Drama, Animovaný, Historický, Adaptace knižní, Anime</genres>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Drama, Animovaný, Historický, Adaptace knižní, Anime</description>
     </item>
     <item>
       <title>The Curse of the Dutchman</title>
       <link>https://www.kinobox.cz/film/3181878</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/04/external_file_16792738014987841924.jpg</poster>
-      <hodnoceni>43%</hodnoceni>
-      <delka>16m</delka>
-      <year>2025</year>
-      <providers>Max</providers>
-      <genres>Horor</genres>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Horor</description>
     </item>
     <item>
       <title>Brett Goldstein: The Second Best Night of Your Life</title>
       <link>https://www.kinobox.cz/film/4290538</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/04/10/external_file_16168043765561260635.jpg</poster>
-      <hodnoceni>63%</hodnoceni>
-      <delka>1h 9m</delka>
-      <year>2025</year>
-      <providers>Max</providers>
-      <genres>Komedie, Stand-up</genres>
-      <pubDate>Sat, 26 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Komedie, Stand-up</description>
     </item>
     <item>
       <title>Totální rozklad</title>
       <link>https://www.kinobox.cz/film/719257</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/02/26/external_file_16117980583466509805.jpg</poster>
-      <hodnoceni>58%</hodnoceni>
-      <delka>1h 47m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Akční, Krimi, Thriller</genres>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Akční, Krimi, Thriller</description>
     </item>
     <item>
       <title>Trenéři psů</title>
       <link>https://www.kinobox.cz/film/3164997</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_16343623955191952217.jpg</poster>
-      <hodnoceni>56%</hodnoceni>
-      <delka>1h 30m</delka>
-      <year>2024</year>
-      <providers>Max</providers>
-      <genres>Komedie</genres>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Komedie</description>
     </item>
     <item>
       <title>Zloděj šperků: Lup začíná</title>
       <link>https://www.kinobox.cz/film/3181576</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/03/30/external_file_12869420391639345431.jpg</poster>
-      <hodnoceni>52%</hodnoceni>
-      <delka>1h 58m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Akční, Thriller, Krimi</genres>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Akční, Thriller, Krimi</description>
     </item>
     <item>
       <title>2nd Miracle in Cell No. 7</title>
       <link>https://www.kinobox.cz/film/3169518</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_12763053772651884652.jpg</poster>
-      <hodnoceni>75%</hodnoceni>
-      <delka>2h 27m</delka>
-      <year>2024</year>
-      <providers>Netflix</providers>
-      <genres>Drama, Komedie, Rodinný</genres>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Drama, Komedie, Rodinný</description>
     </item>
     <item>
       <title>Aku Jati, Aku Asperger</title>
       <link>https://www.kinobox.cz/film/3165741</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_17474742886598671178.jpg</poster>
-      <hodnoceni>57%</hodnoceni>
-      <delka>1h 28m</delka>
-      <year>2024</year>
-      <providers>Netflix</providers>
-      <genres>Komedie, Drama, Romantický</genres>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Komedie, Drama, Romantický</description>
     </item>
     <item>
       <title>Internát</title>
       <link>https://www.kinobox.cz/film/2655397</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/05/30/upload_15159261453388547514.jpg</poster>
-      <hodnoceni>68%</hodnoceni>
-      <delka>1h 58m</delka>
-      <year>2024</year>
-      <providers>Max</providers>
-      <genres>Drama</genres>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Drama</description>
     </item>
     <item>
       <title>Výbušná rychlost</title>
       <link>https://www.kinobox.cz/film/3856140</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/03/05/external_file_5479460431864143178.jpg</poster>
-      <hodnoceni>60%</hodnoceni>
-      <delka>2h 14m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Drama, Krimi, Akční, Thriller, Remake</genres>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Drama, Krimi, Akční, Thriller, Remake</description>
     </item>
     <item>
       <title>Luskoun: Kulu a jeho cesta</title>
       <link>https://www.kinobox.cz/film/3856240</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/03/26/external_file_14837762264927752995.jpg</poster>
-      <hodnoceni>76%</hodnoceni>
-      <delka>1h 30m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Dokumentární, Přírodopisný</genres>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Dokumentární, Přírodopisný</description>
     </item>
     <item>
       <title>Bob a Bobek ve filmu: Na stopě Mrkvojeda</title>
       <link>https://www.kinobox.cz/film/2673642</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2024/12/03/upload_1561400043912260518.jpg</poster>
-      <hodnoceni>71%</hodnoceni>
-      <delka>1h 20m</delka>
-      <year>2024</year>
-      <providers>Netflix</providers>
-      <genres>Animovaný, Dětský, Rodinný, Série/Franchise</genres>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Animovaný, Dětský, Rodinný, Série/Franchise</description>
     </item>
     <item>
       <title>Bombový útok v Oklahoma City: Americká noční můra</title>
       <link>https://www.kinobox.cz/film/4392065</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/04/04/upload_6413249031311690120.png</poster>
-      <hodnoceni>69%</hodnoceni>
-      <delka>1h 25m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Dokumentární</genres>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Dokumentární</description>
     </item>
     <item>
       <title>iRukojmí</title>
       <link>https://www.kinobox.cz/film/3851411</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/03/22/external_file_5831686434380029384.jpg</poster>
-      <hodnoceni>54%</hodnoceni>
-      <delka>1h 40m</delka>
-      <year>2025</year>
-      <providers>Netflix</providers>
-      <genres>Drama, Krimi, Thriller, Podle skutečných událostí</genres>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Drama, Krimi, Thriller, Podle skutečných událostí</description>
     </item>
     <item>
       <title>Společník</title>
       <link>https://www.kinobox.cz/film/2672138</link>
-      <poster>https://1263469901.rsc.cdn77.org/images/2025/01/15/upload_8199275422862711507.jpg</poster>
-      <hodnoceni>66%</hodnoceni>
-      <delka>1h 37m</delka>
-      <year>2025</year>
-      <providers>Max, Google Play, iTunes, Rakuten</providers>
-      <genres>Sci-fi, Thriller, Horor</genres>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0200</pubDate>
+      <description>Žánry: Sci-fi, Thriller, Horor</description>
     </item>
   </channel>
 </rss>
