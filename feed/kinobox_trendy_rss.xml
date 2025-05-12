@@ -6,7 +6,7 @@
     <description>Aktuálně nejvíce trendy filmy na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 12 May 2025 22:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 00:00:04 +0200</lastBuildDate>
     <item>
       <title>Konkláve</title>
       <link>https://www.kinobox.cz/film/732716</link>
@@ -38,14 +38,14 @@
       <description>Žánry: Drama, Thriller, Historický</description>
     </item>
     <item>
-      <title>Dragon</title>
-      <link>https://www.kinobox.cz/film/3246879</link>
-      <description>Žánry: Drama, Romantický, Komedie</description>
-    </item>
-    <item>
       <title>Hranice přežití</title>
       <link>https://www.kinobox.cz/film/2674367</link>
       <description>Žánry: Sci-fi, Thriller, Akční</description>
+    </item>
+    <item>
+      <title>Dragon</title>
+      <link>https://www.kinobox.cz/film/3246879</link>
+      <description>Žánry: Drama, Romantický, Komedie</description>
     </item>
     <item>
       <title>Officer On Duty</title>
@@ -78,14 +78,14 @@
       <description>Žánry: Dokumentární</description>
     </item>
     <item>
-      <title>Pán prstenů: Válka Rohirů</title>
-      <link>https://www.kinobox.cz/film/723642</link>
-      <description>Žánry: Akční, Fantasy, Anime, Animovaný, Dobrodružný</description>
-    </item>
-    <item>
       <title>Seznam tajných přání</title>
       <link>https://www.kinobox.cz/film/3181727</link>
       <description>Žánry: Romantický, Komedie, Drama, Adaptace knižní</description>
+    </item>
+    <item>
+      <title>Pán prstenů: Válka Rohirů</title>
+      <link>https://www.kinobox.cz/film/723642</link>
+      <description>Žánry: Akční, Fantasy, Anime, Animovaný, Dobrodružný</description>
     </item>
     <item>
       <title>Mord</title>
@@ -133,16 +133,6 @@
       <description>Žánry: Akční, Komedie, Krimi, Gangsterka</description>
     </item>
     <item>
-      <title>Aneta</title>
-      <link>https://www.kinobox.cz/film/2669944</link>
-      <description>Žánry: Dokumentární</description>
-    </item>
-    <item>
-      <title>Oppenheimer</title>
-      <link>https://www.kinobox.cz/film/721728</link>
-      <description>Žánry: Historický, Thriller, Biografický, Podle skutečných událostí, Retro, Oscarový, Blockbuster</description>
-    </item>
-    <item>
       <title>Porotce č. 2</title>
       <link>https://www.kinobox.cz/film/2645644</link>
       <description>Žánry: Thriller, Drama, Krimi, Mysteriozní</description>
@@ -151,6 +141,16 @@
       <title>Sedm</title>
       <link>https://www.kinobox.cz/film/18561</link>
       <description>Žánry: Krimi, Mysteriozní, Thriller, Film Noir, Gotický, Nezávislý</description>
+    </item>
+    <item>
+      <title>Oppenheimer</title>
+      <link>https://www.kinobox.cz/film/721728</link>
+      <description>Žánry: Historický, Thriller, Biografický, Podle skutečných událostí, Retro, Oscarový, Blockbuster</description>
+    </item>
+    <item>
+      <title>Aneta</title>
+      <link>https://www.kinobox.cz/film/2669944</link>
+      <description>Žánry: Dokumentární</description>
     </item>
     <item>
       <title>Její tělo</title>
