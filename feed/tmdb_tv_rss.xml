@@ -85,11 +85,6 @@
       <description>06. říj. 2000 | Hodnocení: 76%</description>
     </item>
     <item>
-      <title>John Oliver: Co týden dal a vzal</title>
-      <link>https://www.themoviedb.org/tv/60694-last-week-tonight-with-john-oliver?language=cs-CZ</link>
-      <description>27. dub. 2014 | Hodnocení: 79%</description>
-    </item>
-    <item>
       <title>Griffinovi</title>
       <link>https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</link>
       <description>31. led. 1999 | Hodnocení: 74%</description>
@@ -103,6 +98,11 @@
       <title>Gumballův úžasný svět</title>
       <link>https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</link>
       <description>03. kvě. 2011 | Hodnocení: 85%</description>
+    </item>
+    <item>
+      <title>Černá listina</title>
+      <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
+      <description>23. zář. 2013 | Hodnocení: 76%</description>
     </item>
   </channel>
 </rss>
