@@ -84,7 +84,7 @@ for film in films:
     ET.SubElement(item, "link").text = link_url
 
    #permalink
-   ET.SubElement(item, "guid", isPermaLink="true").text = link_url
+    ET.SubElement(item, "guid", isPermaLink="true").text = link_url
 
     # Tag <description> - POUZE ŽÁNRY
     genre_names = [g.get("name") for g in genres_list if g.get("name")]
