@@ -1,108 +1,131 @@
-<?xml version="1.0" ?>
-<rss version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>TMDB Popular</title>
-    <link>https://www.themoviedb.org/movie?language=cs-CZ</link>
-    <description>Top filmy z TMDB</description>
+    <title>TMDB Populární filmy</title>
+    <link>https://www.themoviedb.org/movie</link>
+    <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
+    <language>en-us</language>
+    <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Tue, 13 May 2025 19:56:47 +0200</lastBuildDate>
     <item>
       <title>Warfare</title>
-      <link>https://www.themoviedb.org/movie/1241436-warfare?language=cs-CZ</link>
-      <description>11. dub. 2025 | Hodnocení: 71%</description>
+      <link>https://www.themoviedb.org/movie/1241436-warfare</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1241436-warfare</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/j8tqBXwH2PxBPzbtO19BTF9Ukbf.jpg" alt="Warfare poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
-      <title>Ztracená kulka 3</title>
-      <link>https://www.themoviedb.org/movie/1144430-balle-perdue-3?language=cs-CZ</link>
-      <description>07. kvě. 2025 | Hodnocení: 68%</description>
+      <title>Last Bullet</title>
+      <link>https://www.themoviedb.org/movie/1144430-balle-perdue-3</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1144430-balle-perdue-3</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/qycPITRqXgPai7zj1gKffjCdSB5.jpg" alt="Last Bullet poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p>]]></description>
     </item>
     <item>
-      <title>Cínový vojáček</title>
-      <link>https://www.themoviedb.org/movie/977294-tin-soldier?language=cs-CZ</link>
-      <description>08. kvě. 2025 | Hodnocení: 0%</description>
+      <title>Tin Soldier</title>
+      <link>https://www.themoviedb.org/movie/977294-tin-soldier</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/977294-tin-soldier</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" alt="Tin Soldier poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 0%</p>]]></description>
     </item>
     <item>
       <title>Thunderbolts*</title>
-      <link>https://www.themoviedb.org/movie/986056-thunderbolts?language=cs-CZ</link>
-      <description>02. kvě. 2025 | Hodnocení: 75%</description>
+      <link>https://www.themoviedb.org/movie/986056-thunderbolts</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/986056-thunderbolts</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg" alt="Thunderbolts* poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p>]]></description>
     </item>
     <item>
-      <title>Exteritorium</title>
-      <link>https://www.themoviedb.org/movie/1233069-exterritorial?language=cs-CZ</link>
-      <description>30. dub. 2025 | Hodnocení: 67%</description>
+      <title>Exterritorial</title>
+      <link>https://www.themoviedb.org/movie/1233069-exterritorial</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1233069-exterritorial</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg" alt="Exterritorial poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
     </item>
     <item>
       <title>A Working Man</title>
-      <link>https://www.themoviedb.org/movie/1197306-a-working-man?language=cs-CZ</link>
-      <description>28. bře. 2025 | Hodnocení: 65%</description>
+      <link>https://www.themoviedb.org/movie/1197306-a-working-man</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1197306-a-working-man</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" alt="A Working Man poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
     </item>
     <item>
-      <title>Minecraft film</title>
-      <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie?language=cs-CZ</link>
-      <description>04. dub. 2025 | Hodnocení: 62%</description>
+      <title>A Minecraft Movie</title>
+      <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/950387-a-minecraft-movie</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/iPPTGh2OXuIv6d7cwuoPkw8govp.jpg" alt="A Minecraft Movie poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 62%</p>]]></description>
     </item>
     <item>
       <title>Brave Citizen</title>
-      <link>https://www.themoviedb.org/movie/897160?language=cs-CZ</link>
-      <description>25. říj. 2023 | Hodnocení: 71%</description>
+      <link>https://www.themoviedb.org/movie/897160</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/897160</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6Ea5i6APeTfm4hHh6dg5Z733JVS.jpg" alt="Brave Citizen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
       <title>Conjuring the Cult</title>
-      <link>https://www.themoviedb.org/movie/1359977-conjuring-the-cult?language=cs-CZ</link>
-      <description>01. říj. 2024 | Hodnocení: 42%</description>
+      <link>https://www.themoviedb.org/movie/1359977-conjuring-the-cult</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1359977-conjuring-the-cult</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t4MiAeYpjL7saYvqvcn9xtOfA4K.jpg" alt="Conjuring the Cult poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 42%</p>]]></description>
     </item>
     <item>
       <title>Rust</title>
-      <link>https://www.themoviedb.org/movie/710258-rust?language=cs-CZ</link>
-      <description>02. kvě. 2025 | Hodnocení: 63%</description>
+      <link>https://www.themoviedb.org/movie/710258-rust</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/710258-rust</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg" alt="Rust poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
     </item>
     <item>
-      <title>Captain America: Nový svět</title>
-      <link>https://www.themoviedb.org/movie/822119-captain-america-brave-new-world?language=cs-CZ</link>
-      <description>14. úno. 2025 | Hodnocení: 61%</description>
+      <title>Captain America: Brave New World</title>
+      <link>https://www.themoviedb.org/movie/822119-captain-america-brave-new-world</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/822119-captain-america-brave-new-world</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg" alt="Captain America: Brave New World poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 61%</p>]]></description>
     </item>
     <item>
-      <title>Špatný vliv</title>
-      <link>https://www.themoviedb.org/movie/1323784-mala-influencia?language=cs-CZ</link>
-      <description>09. kvě. 2025 | Hodnocení: 57%</description>
+      <title>Bad Influence</title>
+      <link>https://www.themoviedb.org/movie/1323784-mala-influencia</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1323784-mala-influencia</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ghhooCOqQDqC6vhS1SVN2tCE0k8.jpg" alt="Bad Influence poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 57%</p>]]></description>
     </item>
     <item>
       <title>Stream</title>
-      <link>https://www.themoviedb.org/movie/1260820-stream?language=cs-CZ</link>
-      <description>06. úno. 2024 | Hodnocení: 65%</description>
+      <link>https://www.themoviedb.org/movie/1260820-stream</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1260820-stream</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/aqLBOmJ59FdEMXARmpDnwHrcfV2.jpg" alt="Stream poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
     </item>
     <item>
-      <title>Čarodějnice a lovec</title>
-      <link>https://www.themoviedb.org/movie/324544-in-the-lost-lands?language=cs-CZ</link>
-      <description>07. bře. 2025 | Hodnocení: 63%</description>
+      <title>In the Lost Lands</title>
+      <link>https://www.themoviedb.org/movie/324544-in-the-lost-lands</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/324544-in-the-lost-lands</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg" alt="In the Lost Lands poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
     </item>
     <item>
-      <title>Totální rozklad</title>
-      <link>https://www.themoviedb.org/movie/668489-havoc?language=cs-CZ</link>
-      <description>25. dub. 2025 | Hodnocení: 65%</description>
+      <title>Havoc</title>
+      <link>https://www.themoviedb.org/movie/668489-havoc</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/668489-havoc</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg" alt="Havoc poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
     </item>
     <item>
-      <title>Smrt jednorožce</title>
-      <link>https://www.themoviedb.org/movie/1153714-death-of-a-unicorn?language=cs-CZ</link>
-      <description>28. bře. 2025 | Hodnocení: 65%</description>
+      <title>Death of a Unicorn</title>
+      <link>https://www.themoviedb.org/movie/1153714-death-of-a-unicorn</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1153714-death-of-a-unicorn</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lXR32JepFwD1UHkplWqtBP1K79z.jpg" alt="Death of a Unicorn poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
     </item>
     <item>
-      <title>Zúčtování</title>
-      <link>https://www.themoviedb.org/movie/302946-the-accountant?language=cs-CZ</link>
-      <description>03. říj. 2016 | Hodnocení: 71%</description>
+      <title>The Accountant</title>
+      <link>https://www.themoviedb.org/movie/302946-the-accountant</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/302946-the-accountant</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg" alt="The Accountant poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
-      <title>Nezvratný osud: Pokrevní linie</title>
-      <link>https://www.themoviedb.org/movie/574475-final-destination-bloodlines?language=cs-CZ</link>
-      <description>16. kvě. 2025 | Hodnocení: 71%</description>
+      <title>Final Destination Bloodlines</title>
+      <link>https://www.themoviedb.org/movie/574475-final-destination-bloodlines</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/574475-final-destination-bloodlines</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/cAoktVUBhGyULRoxV6mZ2LB3x7I.jpg" alt="Final Destination Bloodlines poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p>]]></description>
     </item>
     <item>
-      <title>Hříšníci</title>
-      <link>https://www.themoviedb.org/movie/1233413-sinners?language=cs-CZ</link>
-      <description>18. dub. 2025 | Hodnocení: 76%</description>
+      <title>Sinners</title>
+      <link>https://www.themoviedb.org/movie/1233413-sinners</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1233413-sinners</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg" alt="Sinners poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p>]]></description>
     </item>
     <item>
-      <title>Zloděj šperků: Lup začíná</title>
-      <link>https://www.themoviedb.org/movie/1225915?language=cs-CZ</link>
-      <description>25. dub. 2025 | Hodnocení: 67%</description>
+      <title>Jewel Thief: The Heist Begins</title>
+      <link>https://www.themoviedb.org/movie/1225915</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1225915</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg" alt="Jewel Thief: The Heist Begins poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
     </item>
   </channel>
 </rss>
