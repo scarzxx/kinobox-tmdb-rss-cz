@@ -97,7 +97,7 @@ for film in films:
 
     # --- Ostatní standardní tagy pro item (guid, pubDate) jsou VYNECHÁNY podle požadavku ---
     # Pokud bys je v budoucnu chtěl vrátit, odkomentuj příslušné řádky:
-    # ET.SubElement(item, "guid", isPermaLink="true").text = link_url
+     ET.SubElement(item, "guid", isPermaLink="true").text = link_url
     # ... logika pro pubDate ...
     # ET.SubElement(item, "pubDate").text = pub_date_rfc822
 
