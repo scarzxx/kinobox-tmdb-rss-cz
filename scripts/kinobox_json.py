@@ -83,6 +83,9 @@ for film in films:
     link_url = f'https://www.kinobox.cz/film/{film_id}'
     ET.SubElement(item, "link").text = link_url
 
+   #permalink
+   ET.SubElement(item, "guid", isPermaLink="true").text = link_url
+
     # Tag <description> - POUZE ŽÁNRY
     genre_names = [g.get("name") for g in genres_list if g.get("name")]
     description_text = "" # Inicializace prázdného textu pro description
@@ -97,7 +100,7 @@ for film in films:
 
     # --- Ostatní standardní tagy pro item (guid, pubDate) jsou VYNECHÁNY podle požadavku ---
     # Pokud bys je v budoucnu chtěl vrátit, odkomentuj příslušné řádky:
-     ET.SubElement(item, "guid", isPermaLink="true").text = link_url
+     #ET.SubElement(item, "guid", isPermaLink="true").text = link_url
     # ... logika pro pubDate ...
     # ET.SubElement(item, "pubDate").text = pub_date_rfc822
 
