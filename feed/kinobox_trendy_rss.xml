@@ -6,7 +6,12 @@
     <description>Aktuálně nejvíce trendy filmy na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 14 May 2025 08:27:21 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 10:00:03 +0200</lastBuildDate>
+    <item>
+      <title>Na plech</title>
+      <link>https://www.kinobox.cz/film/2666286</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/28/upload_14992614937913032432.jpg" alt="Na plech plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie</p>]]></description>
+    </item>
     <item>
       <title>Konkláve</title>
       <link>https://www.kinobox.cz/film/732716</link>
@@ -161,11 +166,6 @@
       <title>Aneta</title>
       <link>https://www.kinobox.cz/film/2669944</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/09/20/upload_17545864193024936470.jpg" alt="Aneta plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Chudáčci</title>
-      <link>https://www.kinobox.cz/film/720099</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/11/29/upload_12653663375710438038.jpg" alt="Chudáčci plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Romantický, Sci-fi, Drama</p>]]></description>
     </item>
   </channel>
 </rss>
