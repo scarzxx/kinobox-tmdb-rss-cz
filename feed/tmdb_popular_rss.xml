@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 14 May 2025 02:43:17 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 06:12:55 +0200</lastBuildDate>
     <item>
       <title>Warfare</title>
       <link>https://www.themoviedb.org/movie/1241436-warfare</link>
@@ -32,6 +32,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg" alt="Thunderbolts* poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p>]]></description>
     </item>
     <item>
+      <title>Snow White</title>
+      <link>https://www.themoviedb.org/movie/447273-snow-white</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/447273-snow-white</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oLxWocqheC8XbXbxqJ3x422j9PW.jpg" alt="Snow White poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 44%</p>]]></description>
+    </item>
+    <item>
       <title>Exterritorial</title>
       <link>https://www.themoviedb.org/movie/1233069-exterritorial</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1233069-exterritorial</guid>
@@ -47,7 +53,7 @@
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/950387-a-minecraft-movie</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/iPPTGh2OXuIv6d7cwuoPkw8govp.jpg" alt="A Minecraft Movie poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 62%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg" alt="A Minecraft Movie poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
     </item>
     <item>
       <title>Brave Citizen</title>
@@ -65,7 +71,7 @@
       <title>Rust</title>
       <link>https://www.themoviedb.org/movie/710258-rust</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/710258-rust</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg" alt="Rust poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg" alt="Rust poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 64%</p>]]></description>
     </item>
     <item>
       <title>Captain America: Brave New World</title>
@@ -83,19 +89,13 @@
       <title>Stream</title>
       <link>https://www.themoviedb.org/movie/1260820-stream</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1260820-stream</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/aqLBOmJ59FdEMXARmpDnwHrcfV2.jpg" alt="Stream poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/aqLBOmJ59FdEMXARmpDnwHrcfV2.jpg" alt="Stream poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
       <title>In the Lost Lands</title>
       <link>https://www.themoviedb.org/movie/324544-in-the-lost-lands</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/324544-in-the-lost-lands</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg" alt="In the Lost Lands poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
-    </item>
-    <item>
-      <title>Havoc</title>
-      <link>https://www.themoviedb.org/movie/668489-havoc</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/668489-havoc</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg" alt="Havoc poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
     </item>
     <item>
       <title>Death of a Unicorn</title>
@@ -110,22 +110,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg" alt="The Accountant poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
+      <title>Havoc</title>
+      <link>https://www.themoviedb.org/movie/668489-havoc</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/668489-havoc</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg" alt="Havoc poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
+    </item>
+    <item>
       <title>Final Destination Bloodlines</title>
       <link>https://www.themoviedb.org/movie/574475-final-destination-bloodlines</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/574475-final-destination-bloodlines</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/cAoktVUBhGyULRoxV6mZ2LB3x7I.jpg" alt="Final Destination Bloodlines poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/cAoktVUBhGyULRoxV6mZ2LB3x7I.jpg" alt="Final Destination Bloodlines poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p>]]></description>
     </item>
     <item>
       <title>Sinners</title>
       <link>https://www.themoviedb.org/movie/1233413-sinners</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1233413-sinners</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg" alt="Sinners poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p>]]></description>
-    </item>
-    <item>
-      <title>Jewel Thief: The Heist Begins</title>
-      <link>https://www.themoviedb.org/movie/1225915</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1225915</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg" alt="Jewel Thief: The Heist Begins poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
     </item>
   </channel>
 </rss>
