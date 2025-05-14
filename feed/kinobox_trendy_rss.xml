@@ -6,7 +6,7 @@
     <description>Aktuálně nejvíce trendy filmy na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 13 May 2025 20:13:33 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 06:26:26 +0200</lastBuildDate>
     <item>
       <title>Konkláve</title>
       <link>https://www.kinobox.cz/film/732716</link>
@@ -63,14 +63,14 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_13422895238695269656.jpg" alt="Léto s Evženem plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Rodinný</p>]]></description>
     </item>
     <item>
-      <title>Byl jednou jeden král...</title>
-      <link>https://www.kinobox.cz/film/4832</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/02/23/external_file_10472602821438742243.jpg" alt="Byl jednou jeden král... plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Pohádka, Rodinný, Vánoční</p>]]></description>
-    </item>
-    <item>
       <title>Exteritorium</title>
       <link>https://www.kinobox.cz/film/4153589</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/15/external_file_9653364672679234002.jpg" alt="Exteritorium plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller, Akční</p>]]></description>
+    </item>
+    <item>
+      <title>Byl jednou jeden král...</title>
+      <link>https://www.kinobox.cz/film/4832</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/02/23/external_file_10472602821438742243.jpg" alt="Byl jednou jeden král... plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Pohádka, Rodinný, Vánoční</p>]]></description>
     </item>
     <item>
       <title>Architektura ČSSR 58–89</title>
@@ -98,14 +98,14 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg" alt="Klaus plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční</p>]]></description>
     </item>
     <item>
-      <title>Amal</title>
-      <link>https://www.kinobox.cz/film/3148892</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_15561331609783043551.jpg" alt="Amal plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
       <title>Furiosa: Sága Šíleného Maxe</title>
       <link>https://www.kinobox.cz/film/719658</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/04/08/upload_3063119944998439302.jpg" alt="Furiosa: Sága Šíleného Maxe plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Sci-fi, Blockbuster, Epický, Série/Franchise</p>]]></description>
+    </item>
+    <item>
+      <title>Amal</title>
+      <link>https://www.kinobox.cz/film/3148892</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_15561331609783043551.jpg" alt="Amal plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama</p>]]></description>
     </item>
     <item>
       <title>Duna: Část druhá</title>
@@ -148,11 +148,6 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/03/21/upload_10819431846075944983.jpg" alt="Oppenheimer plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Historický, Thriller, Biografický, Podle skutečných událostí, Retro, Oscarový, Blockbuster</p>]]></description>
     </item>
     <item>
-      <title>Aneta</title>
-      <link>https://www.kinobox.cz/film/2669944</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/09/20/upload_17545864193024936470.jpg" alt="Aneta plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
       <title>Její tělo</title>
       <link>https://www.kinobox.cz/film/725717</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/05/11/upload_13052590893741575933.jpg" alt="Její tělo plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama, Sportovní</p>]]></description>
@@ -161,6 +156,11 @@
       <title>Deva</title>
       <link>https://www.kinobox.cz/film/3228816</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_11937847916472504226.jpg" alt="Deva plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Thriller</p>]]></description>
+    </item>
+    <item>
+      <title>Aneta</title>
+      <link>https://www.kinobox.cz/film/2669944</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/09/20/upload_17545864193024936470.jpg" alt="Aneta plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dokumentární</p>]]></description>
     </item>
     <item>
       <title>Chudáčci</title>
