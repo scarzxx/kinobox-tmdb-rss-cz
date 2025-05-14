@@ -6,7 +6,7 @@
     <description>Aktuálně nejvíce trendy filmy na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 14 May 2025 22:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 00:00:04 +0200</lastBuildDate>
     <item>
       <title>Na plech</title>
       <link>https://www.kinobox.cz/film/2666286</link>
@@ -18,14 +18,14 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/02/external_file_10912788691310912704.jpg" alt="Konkláve plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller</p>]]></description>
     </item>
     <item>
-      <title>Pasáž</title>
-      <link>https://www.kinobox.cz/film/726587</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg" alt="Pasáž plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Drama, Sci-fi, Adaptace knižní</p>]]></description>
-    </item>
-    <item>
       <title>Totální rozklad</title>
       <link>https://www.kinobox.cz/film/719257</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/26/external_file_16117980583466509805.jpg" alt="Totální rozklad plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Krimi, Thriller</p>]]></description>
+    </item>
+    <item>
+      <title>Pasáž</title>
+      <link>https://www.kinobox.cz/film/726587</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg" alt="Pasáž plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Drama, Sci-fi, Adaptace knižní</p>]]></description>
     </item>
     <item>
       <title>V dobrém i zlém</title>
@@ -93,11 +93,6 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/27/upload_13828367844564703368.png" alt="Pán prstenů: Válka Rohirů plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Fantasy, Anime, Animovaný, Dobrodružný</p>]]></description>
     </item>
     <item>
-      <title>Mord</title>
-      <link>https://www.kinobox.cz/film/2655175</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/18/upload_7667947359247551199.jpg" alt="Mord plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Drama</p>]]></description>
-    </item>
-    <item>
       <title>Klaus</title>
       <link>https://www.kinobox.cz/film/715575</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg" alt="Klaus plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční</p>]]></description>
@@ -108,9 +103,9 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/04/08/upload_3063119944998439302.jpg" alt="Furiosa: Sága Šíleného Maxe plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Sci-fi, Blockbuster, Epický, Série/Franchise</p>]]></description>
     </item>
     <item>
-      <title>Amal</title>
-      <link>https://www.kinobox.cz/film/3148892</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_15561331609783043551.jpg" alt="Amal plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama</p>]]></description>
+      <title>Mord</title>
+      <link>https://www.kinobox.cz/film/2655175</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/18/upload_7667947359247551199.jpg" alt="Mord plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Drama</p>]]></description>
     </item>
     <item>
       <title>Duna: Část druhá</title>
@@ -123,9 +118,9 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/23/upload_1085710580901298335.jpg" alt="Venom: Poslední tanec plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Horor, Sci-fi, Komiksový</p>]]></description>
     </item>
     <item>
-      <title>Život k sežrání</title>
-      <link>https://www.kinobox.cz/film/2649567</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/30/upload_14186203432599502899.jpg" alt="Život k sežrání plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Animovaný, Loutkový, Dětský, Adaptace knižní, Rodinný, Komedie</p>]]></description>
+      <title>Amal</title>
+      <link>https://www.kinobox.cz/film/3148892</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_15561331609783043551.jpg" alt="Amal plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama</p>]]></description>
     </item>
     <item>
       <title>Hranice lásky</title>
@@ -133,14 +128,14 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2022/07/09/obrazy-lasky135259420_588.jpg" alt="Hranice lásky plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama, Erotický</p>]]></description>
     </item>
     <item>
+      <title>Život k sežrání</title>
+      <link>https://www.kinobox.cz/film/2649567</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/30/upload_14186203432599502899.jpg" alt="Život k sežrání plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Animovaný, Loutkový, Dětský, Adaptace knižní, Rodinný, Komedie</p>]]></description>
+    </item>
+    <item>
       <title>Gentlemani</title>
       <link>https://www.kinobox.cz/film/438612</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2020/01/12/toff-guys-imdb172204842_1192.jpg" alt="Gentlemani plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Komedie, Krimi, Gangsterka</p>]]></description>
-    </item>
-    <item>
-      <title>Porotce č. 2</title>
-      <link>https://www.kinobox.cz/film/2645644</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/01/upload_11401653062326142966.jpg" alt="Porotce č. 2 plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller, Drama, Krimi, Mysteriozní</p>]]></description>
     </item>
     <item>
       <title>Sedm</title>
@@ -163,9 +158,14 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_11937847916472504226.jpg" alt="Deva plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Thriller</p>]]></description>
     </item>
     <item>
-      <title>Aneta</title>
-      <link>https://www.kinobox.cz/film/2669944</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/09/20/upload_17545864193024936470.jpg" alt="Aneta plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dokumentární</p>]]></description>
+      <title>The Diplomat</title>
+      <link>https://www.kinobox.cz/film/3285958</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_820949916919460898.jpg" alt="The Diplomat plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller, Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Porotce č. 2</title>
+      <link>https://www.kinobox.cz/film/2645644</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/01/upload_11401653062326142966.jpg" alt="Porotce č. 2 plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller, Drama, Krimi, Mysteriozní</p>]]></description>
     </item>
   </channel>
 </rss>
