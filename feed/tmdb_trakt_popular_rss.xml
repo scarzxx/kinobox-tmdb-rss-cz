@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:custom="http://example.com/rss/custom" version="2.0">
+  <channel>
+    <title>TMDB Populární filmy</title>
+    <link>https://www.themoviedb.org/movie</link>
+    <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
+    <language>en-us</language>
+    <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Thu, 15 May 2025 06:08:14 +0000</lastBuildDate>
+    <item>
+      <title>Warfare</title>
+      <link>https://www.themoviedb.org/movie/1241436-warfare</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1241436-warfare</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/j8tqBXwH2PxBPzbtO19BTF9Ukbf.jpg" alt="Warfare poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 72%</p><p><a href="https://www.themoviedb.org/movie/1241436-warfare">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Minecraft film</title>
+      <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/950387-a-minecraft-movie</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ero3vaug7pjzZl6caD1a8wRTP6o.jpg" alt="Minecraft film poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 64%</p><p><a href="https://www.themoviedb.org/movie/950387-a-minecraft-movie">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Cínový vojáček</title>
+      <link>https://www.themoviedb.org/movie/977294-tin-soldier</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/977294-tin-soldier</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" alt="Cínový vojáček poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 60%</p><p><a href="https://www.themoviedb.org/movie/977294-tin-soldier">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Ztracená kulka 3</title>
+      <link>https://www.themoviedb.org/movie/1144430-balle-perdue-3</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1144430-balle-perdue-3</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/qycPITRqXgPai7zj1gKffjCdSB5.jpg" alt="Ztracená kulka 3 poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 68%</p><p><a href="https://www.themoviedb.org/movie/1144430-balle-perdue-3">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Sněhurka</title>
+      <link>https://www.themoviedb.org/movie/447273-snow-white</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/447273-snow-white</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/5lTVWco3rGR1D9UGIR4mPtIcPJs.jpg" alt="Sněhurka poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 43%</p><p><a href="https://www.themoviedb.org/movie/447273-snow-white">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Thunderbolts*</title>
+      <link>https://www.themoviedb.org/movie/986056-thunderbolts</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/986056-thunderbolts</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/stSXsgnWLpy0PKleovcw2bHLsMb.jpg" alt="Thunderbolts* poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 75%</p><p><a href="https://www.themoviedb.org/movie/986056-thunderbolts">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>A Working Man</title>
+      <link>https://www.themoviedb.org/movie/1197306-a-working-man</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1197306-a-working-man</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" alt="A Working Man poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 65%</p><p><a href="https://www.themoviedb.org/movie/1197306-a-working-man">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Brave Citizen</title>
+      <link>https://www.themoviedb.org/movie/897160</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/897160</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6Ea5i6APeTfm4hHh6dg5Z733JVS.jpg" alt="Brave Citizen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 71%</p><p><a href="https://www.themoviedb.org/movie/897160">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Exteritorium</title>
+      <link>https://www.themoviedb.org/movie/1233069-exterritorial</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1233069-exterritorial</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ugb5dWuBbybIWVhzwT2iAbSBzvm.jpg" alt="Exteritorium poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 67%</p><p><a href="https://www.themoviedb.org/movie/1233069-exterritorial">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Conjuring the Cult</title>
+      <link>https://www.themoviedb.org/movie/1359977-conjuring-the-cult</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1359977-conjuring-the-cult</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t4MiAeYpjL7saYvqvcn9xtOfA4K.jpg" alt="Conjuring the Cult poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 44%</p><p><a href="https://www.themoviedb.org/movie/1359977-conjuring-the-cult">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Nezvratný osud: Pokrevní linie</title>
+      <link>https://www.themoviedb.org/movie/574475-final-destination-bloodlines</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/574475-final-destination-bloodlines</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/cAoktVUBhGyULRoxV6mZ2LB3x7I.jpg" alt="Nezvratný osud: Pokrevní linie poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 72%</p><p><a href="https://www.themoviedb.org/movie/574475-final-destination-bloodlines">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Captain America: Nový svět</title>
+      <link>https://www.themoviedb.org/movie/822119-captain-america-brave-new-world</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/822119-captain-america-brave-new-world</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/xiOSc0AqaZ99LEQcUVbxnXFdp20.jpg" alt="Captain America: Nový svět poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 61%</p><p><a href="https://www.themoviedb.org/movie/822119-captain-america-brave-new-world">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Špatný vliv</title>
+      <link>https://www.themoviedb.org/movie/1323784-mala-influencia</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1323784-mala-influencia</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ghhooCOqQDqC6vhS1SVN2tCE0k8.jpg" alt="Špatný vliv poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 55%</p><p><a href="https://www.themoviedb.org/movie/1323784-mala-influencia">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>https://www.themoviedb.org/movie/710258-rust</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/710258-rust</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg" alt="Rust poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 64%</p><p><a href="https://www.themoviedb.org/movie/710258-rust">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Stream</title>
+      <link>https://www.themoviedb.org/movie/1260820-stream</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1260820-stream</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/aqLBOmJ59FdEMXARmpDnwHrcfV2.jpg" alt="Stream poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 63%</p><p><a href="https://www.themoviedb.org/movie/1260820-stream">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Čarodějnice a lovec</title>
+      <link>https://www.themoviedb.org/movie/324544-in-the-lost-lands</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/324544-in-the-lost-lands</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/q7sbtq6n1qH0oAXm5CmmgGWdtZZ.jpg" alt="Čarodějnice a lovec poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 64%</p><p><a href="https://www.themoviedb.org/movie/324544-in-the-lost-lands">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Smrt jednorožce</title>
+      <link>https://www.themoviedb.org/movie/1153714-death-of-a-unicorn</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1153714-death-of-a-unicorn</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bsR0baCDA5Rsj76hr5bKgXlqmDW.jpg" alt="Smrt jednorožce poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 65%</p><p><a href="https://www.themoviedb.org/movie/1153714-death-of-a-unicorn">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Totální rozklad</title>
+      <link>https://www.themoviedb.org/movie/668489-havoc</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/668489-havoc</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4FiHzLcUpCNXYn756YM54efZYVz.jpg" alt="Totální rozklad poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 65%</p><p><a href="https://www.themoviedb.org/movie/668489-havoc">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Hříšníci</title>
+      <link>https://www.themoviedb.org/movie/1233413-sinners</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1233413-sinners</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/f2jqDuw8aoW5dB9vMKPBNQSSurC.jpg" alt="Hříšníci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 76%</p><p><a href="https://www.themoviedb.org/movie/1233413-sinners">Více na TMDB</a></p>]]></description>
+    </item>
+    <item>
+      <title>Zúčtování</title>
+      <link>https://www.themoviedb.org/movie/302946-the-accountant</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/302946-the-accountant</guid>
+      <description><![CDATA[<p><img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rREfqCTK5hj0rPTeoAKjFKHmVkU.jpg" alt="Zúčtování poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /></p><p>Hodnocení: 71%</p><p><a href="https://www.themoviedb.org/movie/302946-the-accountant">Více na TMDB</a></p>]]></description>
+    </item>
+  </channel>
+</rss>
