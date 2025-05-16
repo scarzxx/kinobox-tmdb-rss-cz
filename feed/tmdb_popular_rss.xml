@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 16 May 2025 02:44:13 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 06:13:37 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -32,22 +32,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/qycPITRqXgPai7zj1gKffjCdSB5.jpg" alt="Last Bullet poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p>]]></description>
     </item>
     <item>
-      <title>Snow White</title>
-      <link>https://www.themoviedb.org/movie/447273-snow-white</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/447273-snow-white</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/xWWg47tTfparvjK0WJNX4xL8lW2.jpg" alt="Snow White poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 43%</p>]]></description>
-    </item>
-    <item>
-      <title>Thunderbolts*</title>
-      <link>https://www.themoviedb.org/movie/986056-thunderbolts</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/986056-thunderbolts</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg" alt="Thunderbolts* poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p>]]></description>
-    </item>
-    <item>
       <title>A Working Man</title>
       <link>https://www.themoviedb.org/movie/1197306-a-working-man</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1197306-a-working-man</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" alt="A Working Man poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
+    </item>
+    <item>
+      <title>Snow White</title>
+      <link>https://www.themoviedb.org/movie/447273-snow-white</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/447273-snow-white</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/xWWg47tTfparvjK0WJNX4xL8lW2.jpg" alt="Snow White poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 43%</p>]]></description>
     </item>
     <item>
       <title>Brave Citizen</title>
@@ -56,22 +50,28 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6Ea5i6APeTfm4hHh6dg5Z733JVS.jpg" alt="Brave Citizen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
+      <title>Thunderbolts*</title>
+      <link>https://www.themoviedb.org/movie/986056-thunderbolts</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/986056-thunderbolts</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg" alt="Thunderbolts* poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p>]]></description>
+    </item>
+    <item>
       <title>Conjuring the Cult</title>
       <link>https://www.themoviedb.org/movie/1359977-conjuring-the-cult</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1359977-conjuring-the-cult</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t4MiAeYpjL7saYvqvcn9xtOfA4K.jpg" alt="Conjuring the Cult poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 44%</p>]]></description>
-    </item>
-    <item>
-      <title>Exterritorial</title>
-      <link>https://www.themoviedb.org/movie/1233069-exterritorial</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1233069-exterritorial</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg" alt="Exterritorial poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 66%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t4MiAeYpjL7saYvqvcn9xtOfA4K.jpg" alt="Conjuring the Cult poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 42%</p>]]></description>
     </item>
     <item>
       <title>Final Destination Bloodlines</title>
       <link>https://www.themoviedb.org/movie/574475-final-destination-bloodlines</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/574475-final-destination-bloodlines</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/cAoktVUBhGyULRoxV6mZ2LB3x7I.jpg" alt="Final Destination Bloodlines poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p>]]></description>
+    </item>
+    <item>
+      <title>Exterritorial</title>
+      <link>https://www.themoviedb.org/movie/1233069-exterritorial</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1233069-exterritorial</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg" alt="Exterritorial poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 66%</p>]]></description>
     </item>
     <item>
       <title>Captain America: Brave New World</title>
