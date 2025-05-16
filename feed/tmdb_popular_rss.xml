@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 16 May 2025 06:13:37 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 10:12:41 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -23,25 +23,25 @@
       <title>Tin Soldier</title>
       <link>https://www.themoviedb.org/movie/977294-tin-soldier</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/977294-tin-soldier</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" alt="Tin Soldier poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 59%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" alt="Tin Soldier poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 57%</p>]]></description>
+    </item>
+    <item>
+      <title>Snow White</title>
+      <link>https://www.themoviedb.org/movie/447273-snow-white</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/447273-snow-white</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oLxWocqheC8XbXbxqJ3x422j9PW.jpg" alt="Snow White poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 44%</p>]]></description>
     </item>
     <item>
       <title>Last Bullet</title>
       <link>https://www.themoviedb.org/movie/1144430-balle-perdue-3</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1144430-balle-perdue-3</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/qycPITRqXgPai7zj1gKffjCdSB5.jpg" alt="Last Bullet poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/qycPITRqXgPai7zj1gKffjCdSB5.jpg" alt="Last Bullet poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
     </item>
     <item>
       <title>A Working Man</title>
       <link>https://www.themoviedb.org/movie/1197306-a-working-man</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1197306-a-working-man</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" alt="A Working Man poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
-    </item>
-    <item>
-      <title>Snow White</title>
-      <link>https://www.themoviedb.org/movie/447273-snow-white</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/447273-snow-white</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/xWWg47tTfparvjK0WJNX4xL8lW2.jpg" alt="Snow White poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 43%</p>]]></description>
     </item>
     <item>
       <title>Brave Citizen</title>
@@ -89,7 +89,7 @@
       <title>Stream</title>
       <link>https://www.themoviedb.org/movie/1260820-stream</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1260820-stream</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/nnyjtBfUYA8ASHA9OhADrX0sMNQ.jpg" alt="Stream poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/nnyjtBfUYA8ASHA9OhADrX0sMNQ.jpg" alt="Stream poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 66%</p>]]></description>
     </item>
     <item>
       <title>Rust</title>
