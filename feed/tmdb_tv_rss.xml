@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 17 May 2025 14:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 16:00:03 +0200</lastBuildDate>
     <item>
       <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
       <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
@@ -14,16 +14,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg" alt="Zákon a pořádek: Útvar pro zvláštní oběti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 20. zář. 1999</p>]]></description>
     </item>
     <item>
-      <title>The Last of Us</title>
-      <link>https://www.themoviedb.org/tv/100088-the-last-of-us?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/100088-the-last-of-us?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg" alt="The Last of Us poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 15. led. 2023</p>]]></description>
-    </item>
-    <item>
       <title>Diners, Drive-Ins and Dives</title>
       <link>https://www.themoviedb.org/tv/4086-diners-drive-ins-and-dives?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/4086-diners-drive-ins-and-dives?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/zeTYGOpVDI68gw47A5EmNhGDP7c.jpg" alt="Diners, Drive-Ins and Dives poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p><p>První vysílání: 23. dub. 2007</p>]]></description>
+    </item>
+    <item>
+      <title>The Last of Us</title>
+      <link>https://www.themoviedb.org/tv/100088-the-last-of-us?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/100088-the-last-of-us?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg" alt="The Last of Us poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 15. led. 2023</p>]]></description>
     </item>
     <item>
       <title>Chirurgové</title>
@@ -74,28 +74,28 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/A9QDK4OWpv41W27kCv0LXe30k9S.jpg" alt="Dva a půl chlapa poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 22. zář. 2003</p>]]></description>
     </item>
     <item>
-      <title>Námořní vyšetřovací služba</title>
-      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
-    </item>
-    <item>
       <title>John Oliver: Co týden dal a vzal</title>
       <link>https://www.themoviedb.org/tv/60694-last-week-tonight-with-john-oliver?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/60694-last-week-tonight-with-john-oliver?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/b12eM3FXNjN7yM7XYTIdmeQRud9.jpg" alt="John Oliver: Co týden dal a vzal poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 27. dub. 2014</p>]]></description>
     </item>
     <item>
-      <title>Gumballův úžasný svět</title>
-      <link>https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pekAF7dErv5aXR4wyvWLF04sF6s.jpg" alt="Gumballův úžasný svět poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 03. kvě. 2011</p>]]></description>
+      <title>Námořní vyšetřovací služba</title>
+      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
     </item>
     <item>
       <title>Havaj 5-0</title>
       <link>https://www.themoviedb.org/tv/32798-hawaii-five-0?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/32798-hawaii-five-0?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg" alt="Havaj 5-0 poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 20. zář. 2010</p>]]></description>
+    </item>
+    <item>
+      <title>Gumballův úžasný svět</title>
+      <link>https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pekAF7dErv5aXR4wyvWLF04sF6s.jpg" alt="Gumballův úžasný svět poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 03. kvě. 2011</p>]]></description>
     </item>
     <item>
       <title>Andor</title>
@@ -110,22 +110,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bg0sYGdpPETndv7fCsUwLxcBaXy.jpg" alt="Kouzelná Beruška a Černý kocour poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 19. říj. 2015</p>]]></description>
     </item>
     <item>
-      <title>Černá listina</title>
-      <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
-    </item>
-    <item>
-      <title>Eternaut</title>
-      <link>https://www.themoviedb.org/tv/226362-el-eternauta?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/226362-el-eternauta?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jyZ5icZ8M9MAxGDO6d5WDva0aDs.jpg" alt="Eternaut poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 30. dub. 2025</p>]]></description>
+      <title>The Real Housewives of New York City</title>
+      <link>https://www.themoviedb.org/tv/14808-the-real-housewives-of-new-york-city?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/14808-the-real-housewives-of-new-york-city?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8RyKqPXef4YqkT40ZEr1wbP0dmk.jpg" alt="The Real Housewives of New York City poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 58%</p><p>První vysílání: 04. bře. 2008</p>]]></description>
     </item>
     <item>
       <title>Griffinovi</title>
       <link>https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg" alt="Griffinovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 31. led. 1999</p>]]></description>
+    </item>
+    <item>
+      <title>Černá listina</title>
+      <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
     </item>
   </channel>
 </rss>
