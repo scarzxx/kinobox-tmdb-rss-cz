@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 17 May 2025 04:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 06:00:03 +0200</lastBuildDate>
     <item>
       <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
       <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
@@ -92,12 +92,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/b12eM3FXNjN7yM7XYTIdmeQRud9.jpg" alt="John Oliver: Co týden dal a vzal poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 27. dub. 2014</p>]]></description>
     </item>
     <item>
-      <title>Kouzelná Beruška a Černý kocour</title>
-      <link>https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bg0sYGdpPETndv7fCsUwLxcBaXy.jpg" alt="Kouzelná Beruška a Černý kocour poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 19. říj. 2015</p>]]></description>
-    </item>
-    <item>
       <title>Gumballův úžasný svět</title>
       <link>https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</guid>
@@ -108,6 +102,12 @@
       <link>https://www.themoviedb.org/tv/32798-hawaii-five-0?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/32798-hawaii-five-0?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg" alt="Havaj 5-0 poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 20. zář. 2010</p>]]></description>
+    </item>
+    <item>
+      <title>Kouzelná Beruška a Černý kocour</title>
+      <link>https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bg0sYGdpPETndv7fCsUwLxcBaXy.jpg" alt="Kouzelná Beruška a Černý kocour poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 19. říj. 2015</p>]]></description>
     </item>
     <item>
       <title>Černá listina</title>
@@ -122,10 +122,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jyZ5icZ8M9MAxGDO6d5WDva0aDs.jpg" alt="Eternaut poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 30. dub. 2025</p>]]></description>
     </item>
     <item>
-      <title>Myšlenky zločince</title>
-      <link>https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
+      <title>Griffinovi</title>
+      <link>https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg" alt="Griffinovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 31. led. 1999</p>]]></description>
     </item>
   </channel>
 </rss>
