@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 17 May 2025 10:10:48 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 14:14:25 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -41,7 +41,7 @@
       <title>Final Destination Bloodlines</title>
       <link>https://www.themoviedb.org/movie/574475-final-destination-bloodlines</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/574475-final-destination-bloodlines</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" alt="Final Destination Bloodlines poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" alt="Final Destination Bloodlines poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p>]]></description>
     </item>
     <item>
       <title>Last Bullet</title>
@@ -77,7 +77,7 @@
       <title>Bambi: A Life in the Woods</title>
       <link>https://www.themoviedb.org/movie/1094473-bambi-l-histoire-d-une-vie-dans-les-bois</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1094473-bambi-l-histoire-d-une-vie-dans-les-bois</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg" alt="Bambi: A Life in the Woods poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg" alt="Bambi: A Life in the Woods poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 61%</p>]]></description>
     </item>
     <item>
       <title>Captain America: Brave New World</title>
@@ -110,12 +110,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg" alt="Rust poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 64%</p>]]></description>
     </item>
     <item>
-      <title>Havoc</title>
-      <link>https://www.themoviedb.org/movie/668489-havoc</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/668489-havoc</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg" alt="Havoc poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
-    </item>
-    <item>
       <title>Death of a Unicorn</title>
       <link>https://www.themoviedb.org/movie/1153714-death-of-a-unicorn</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1153714-death-of-a-unicorn</guid>
@@ -126,6 +120,12 @@
       <link>https://www.themoviedb.org/movie/1011477-karate-kid-legends</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1011477-karate-kid-legends</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ckI6bmQDvvGy20FPTIW1kfGKGRK.jpg" alt="Karate Kid: Legends poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p>]]></description>
+    </item>
+    <item>
+      <title>Havoc</title>
+      <link>https://www.themoviedb.org/movie/668489-havoc</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/668489-havoc</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg" alt="Havoc poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
     </item>
   </channel>
 </rss>
