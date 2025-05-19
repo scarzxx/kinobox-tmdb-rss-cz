@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 19 May 2025 02:46:30 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 06:17:47 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -17,7 +17,7 @@
       <title>Snow White</title>
       <link>https://www.themoviedb.org/movie/447273-snow-white</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/447273-snow-white</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oLxWocqheC8XbXbxqJ3x422j9PW.jpg" alt="Snow White poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 43%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oLxWocqheC8XbXbxqJ3x422j9PW.jpg" alt="Snow White poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 44%</p>]]></description>
     </item>
     <item>
       <title>Final Destination Bloodlines</title>
@@ -71,7 +71,7 @@
       <title>Conjuring the Cult</title>
       <link>https://www.themoviedb.org/movie/1359977-conjuring-the-cult</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1359977-conjuring-the-cult</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t4MiAeYpjL7saYvqvcn9xtOfA4K.jpg" alt="Conjuring the Cult poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 55%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t4MiAeYpjL7saYvqvcn9xtOfA4K.jpg" alt="Conjuring the Cult poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 57%</p>]]></description>
     </item>
     <item>
       <title>Brave Citizen</title>
@@ -101,7 +101,7 @@
       <title>In the Lost Lands</title>
       <link>https://www.themoviedb.org/movie/324544-in-the-lost-lands</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/324544-in-the-lost-lands</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg" alt="In the Lost Lands poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 64%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg" alt="In the Lost Lands poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
     </item>
     <item>
       <title>The Haunting at Saint Joseph's</title>
