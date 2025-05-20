@@ -6,7 +6,7 @@
     <description>Aktuálně nejvíce trendy filmy na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 20 May 2025 22:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 00:00:03 +0200</lastBuildDate>
     <item>
       <title>Na plech</title>
       <link>https://www.kinobox.cz/film/2666286</link>
@@ -53,11 +53,6 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/external_file_8923585764137668592.jpg" alt="Dragon plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama, Romantický, Komedie</p>]]></description>
     </item>
     <item>
-      <title>Officer On Duty</title>
-      <link>https://www.kinobox.cz/film/3285848</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_17415726196785678197.jpg" alt="Officer On Duty plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller</p>]]></description>
-    </item>
-    <item>
       <title>Společník</title>
       <link>https://www.kinobox.cz/film/2672138</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/upload_8199275422862711507.jpg" alt="Společník plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Sci-fi, Thriller, Horor</p>]]></description>
@@ -66,6 +61,11 @@
       <title>Exteritorium</title>
       <link>https://www.kinobox.cz/film/4153589</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/15/external_file_9653364672679234002.jpg" alt="Exteritorium plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller, Akční</p>]]></description>
+    </item>
+    <item>
+      <title>Officer On Duty</title>
+      <link>https://www.kinobox.cz/film/3285848</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_17415726196785678197.jpg" alt="Officer On Duty plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller</p>]]></description>
     </item>
     <item>
       <title>Léto s Evženem</title>
@@ -133,24 +133,24 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2020/01/12/toff-guys-imdb172204842_1192.jpg" alt="Gentlemani plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Komedie, Krimi, Gangsterka</p>]]></description>
     </item>
     <item>
-      <title>Mord</title>
-      <link>https://www.kinobox.cz/film/2655175</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/18/upload_7667947359247551199.jpg" alt="Mord plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Drama</p>]]></description>
-    </item>
-    <item>
       <title>Venom: Poslední tanec</title>
       <link>https://www.kinobox.cz/film/723512</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/23/upload_1085710580901298335.jpg" alt="Venom: Poslední tanec plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Horor, Sci-fi, Komiksový</p>]]></description>
     </item>
     <item>
-      <title>Život k sežrání</title>
-      <link>https://www.kinobox.cz/film/2649567</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/30/upload_14186203432599502899.jpg" alt="Život k sežrání plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Animovaný, Loutkový, Dětský, Adaptace knižní, Rodinný, Komedie</p>]]></description>
-    </item>
-    <item>
       <title>Babičky</title>
       <link>https://www.kinobox.cz/film/3227733</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/10/external_file_1233618106098953107.jpg" alt="Babičky plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie</p>]]></description>
+    </item>
+    <item>
+      <title>Mord</title>
+      <link>https://www.kinobox.cz/film/2655175</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/18/upload_7667947359247551199.jpg" alt="Mord plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Život k sežrání</title>
+      <link>https://www.kinobox.cz/film/2649567</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/30/upload_14186203432599502899.jpg" alt="Život k sežrání plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Animovaný, Loutkový, Dětský, Adaptace knižní, Rodinný, Komedie</p>]]></description>
     </item>
     <item>
       <title>Svět mezi námi</title>
@@ -163,9 +163,9 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/09/01/18561___external_file_11017832207419169185.jpg" alt="Sedm plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Krimi, Mysteriozní, Thriller, Film Noir, Gotický, Nezávislý</p>]]></description>
     </item>
     <item>
-      <title>Oppenheimer</title>
-      <link>https://www.kinobox.cz/film/721728</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/03/21/upload_10819431846075944983.jpg" alt="Oppenheimer plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Historický, Thriller, Biografický, Podle skutečných událostí, Retro, Oscarový, Blockbuster</p>]]></description>
+      <title>Deva</title>
+      <link>https://www.kinobox.cz/film/3228816</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_11937847916472504226.jpg" alt="Deva plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Thriller</p>]]></description>
     </item>
   </channel>
 </rss>
