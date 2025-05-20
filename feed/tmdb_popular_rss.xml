@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 19 May 2025 22:10:03 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 02:44:30 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -17,7 +17,7 @@
       <title>Final Destination Bloodlines</title>
       <link>https://www.themoviedb.org/movie/574475-final-destination-bloodlines</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/574475-final-destination-bloodlines</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" alt="Final Destination Bloodlines poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" alt="Final Destination Bloodlines poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
       <title>Snow White</title>
@@ -35,7 +35,7 @@
       <title>Warfare</title>
       <link>https://www.themoviedb.org/movie/1241436-warfare</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1241436-warfare</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" alt="Warfare poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" alt="Warfare poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p>]]></description>
     </item>
     <item>
       <title>The Great Escape</title>
