@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 21 May 2025 10:12:45 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 14:16:50 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -95,7 +95,7 @@
       <title>The Haunting at Saint Joseph's</title>
       <link>https://www.themoviedb.org/movie/1092073-the-haunting-at-saint-joseph-s</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1092073-the-haunting-at-saint-joseph-s</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/eDzQFxs0KTzHUPkIR0c44TSGJUR.jpg" alt="The Haunting at Saint Joseph's poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 41%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/eDzQFxs0KTzHUPkIR0c44TSGJUR.jpg" alt="The Haunting at Saint Joseph's poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 46%</p>]]></description>
     </item>
     <item>
       <title>In the Lost Lands</title>
