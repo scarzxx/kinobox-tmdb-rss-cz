@@ -6,7 +6,7 @@
     <description>Aktuálně nejvíce trendy filmy na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 21 May 2025 22:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 00:00:04 +0200</lastBuildDate>
     <item>
       <title>Na plech</title>
       <link>https://www.kinobox.cz/film/2666286</link>
@@ -28,11 +28,6 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/30/upload_15007884097453310638.jpg" alt="V dobrém i zlém plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie</p>]]></description>
     </item>
     <item>
-      <title>Pasáž</title>
-      <link>https://www.kinobox.cz/film/726587</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg" alt="Pasáž plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Drama, Sci-fi, Adaptace knižní</p>]]></description>
-    </item>
-    <item>
       <title>Jak vydělat milion než babička zemře</title>
       <link>https://www.kinobox.cz/film/3176014</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/30/external_file_13495858860882834321.jpg" alt="Jak vydělat milion než babička zemře plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama, Komedie, Rodinný</p>]]></description>
@@ -41,6 +36,11 @@
       <title>Hranice přežití</title>
       <link>https://www.kinobox.cz/film/2674367</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/06/upload_15000185663009945535.jpg" alt="Hranice přežití plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Sci-fi, Thriller, Akční</p>]]></description>
+    </item>
+    <item>
+      <title>Pasáž</title>
+      <link>https://www.kinobox.cz/film/726587</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg" alt="Pasáž plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Drama, Sci-fi, Adaptace knižní</p>]]></description>
     </item>
     <item>
       <title>Vlny</title>
@@ -53,24 +53,24 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/external_file_8923585764137668592.jpg" alt="Dragon plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama, Romantický, Komedie</p>]]></description>
     </item>
     <item>
-      <title>Společník</title>
-      <link>https://www.kinobox.cz/film/2672138</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/upload_8199275422862711507.jpg" alt="Společník plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Sci-fi, Thriller, Horor</p>]]></description>
-    </item>
-    <item>
       <title>Exteritorium</title>
       <link>https://www.kinobox.cz/film/4153589</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/15/external_file_9653364672679234002.jpg" alt="Exteritorium plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller, Akční</p>]]></description>
     </item>
     <item>
-      <title>Officer On Duty</title>
-      <link>https://www.kinobox.cz/film/3285848</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_17415726196785678197.jpg" alt="Officer On Duty plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller</p>]]></description>
+      <title>Společník</title>
+      <link>https://www.kinobox.cz/film/2672138</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/upload_8199275422862711507.jpg" alt="Společník plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Sci-fi, Thriller, Horor</p>]]></description>
     </item>
     <item>
       <title>Léto s Evženem</title>
       <link>https://www.kinobox.cz/film/2668526</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_13422895238695269656.jpg" alt="Léto s Evženem plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Rodinný</p>]]></description>
+    </item>
+    <item>
+      <title>Officer On Duty</title>
+      <link>https://www.kinobox.cz/film/3285848</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_17415726196785678197.jpg" alt="Officer On Duty plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller</p>]]></description>
     </item>
     <item>
       <title>Byl jednou jeden král...</title>
@@ -123,6 +123,11 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/02/29/upload_1082187277995497275.jpg" alt="Duna: Část druhá plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Drama, Adaptace knižní, Série/Franchise, Sci-fi, Epický, Blockbuster</p>]]></description>
     </item>
     <item>
+      <title>Babičky</title>
+      <link>https://www.kinobox.cz/film/3227733</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/10/external_file_1233618106098953107.jpg" alt="Babičky plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie</p>]]></description>
+    </item>
+    <item>
       <title>Hranice lásky</title>
       <link>https://www.kinobox.cz/film/722480</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2022/07/09/obrazy-lasky135259420_588.jpg" alt="Hranice lásky plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama, Erotický</p>]]></description>
@@ -138,9 +143,9 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/23/upload_1085710580901298335.jpg" alt="Venom: Poslední tanec plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Horor, Sci-fi, Komiksový</p>]]></description>
     </item>
     <item>
-      <title>Babičky</title>
-      <link>https://www.kinobox.cz/film/3227733</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/10/external_file_1233618106098953107.jpg" alt="Babičky plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie</p>]]></description>
+      <title>Svět mezi námi</title>
+      <link>https://www.kinobox.cz/film/2673372</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/28/upload_3043647311694081167.jpg" alt="Svět mezi námi plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dokumentární</p>]]></description>
     </item>
     <item>
       <title>Mord</title>
@@ -151,11 +156,6 @@
       <title>Život k sežrání</title>
       <link>https://www.kinobox.cz/film/2649567</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/30/upload_14186203432599502899.jpg" alt="Život k sežrání plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Animovaný, Loutkový, Dětský, Adaptace knižní, Rodinný, Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Svět mezi námi</title>
-      <link>https://www.kinobox.cz/film/2673372</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/28/upload_3043647311694081167.jpg" alt="Svět mezi námi plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dokumentární</p>]]></description>
     </item>
     <item>
       <title>Sedm</title>
