@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 20 May 2025 22:10:21 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 02:44:06 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -47,19 +47,19 @@
       <title>Tin Soldier</title>
       <link>https://www.themoviedb.org/movie/977294-tin-soldier</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/977294-tin-soldier</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" alt="Tin Soldier poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 52%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" alt="Tin Soldier poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 50%</p>]]></description>
     </item>
     <item>
       <title>Bambi: A Life in the Woods</title>
       <link>https://www.themoviedb.org/movie/1094473-bambi-l-histoire-d-une-vie-dans-les-bois</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1094473-bambi-l-histoire-d-une-vie-dans-les-bois</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg" alt="Bambi: A Life in the Woods poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 61%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg" alt="Bambi: A Life in the Woods poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 60%</p>]]></description>
     </item>
     <item>
       <title>Mission: Impossible - The Final Reckoning</title>
       <link>https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" alt="Mission: Impossible - The Final Reckoning poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" alt="Mission: Impossible - The Final Reckoning poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p>]]></description>
     </item>
     <item>
       <title>Thunderbolts*</title>
