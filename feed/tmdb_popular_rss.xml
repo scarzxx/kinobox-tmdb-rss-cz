@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 23 May 2025 14:16:21 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 18:10:25 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -20,22 +20,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" alt="Final Destination Bloodlines poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
-      <title>The Great Escape</title>
-      <link>https://www.themoviedb.org/movie/1480799-the-great-escape</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1480799-the-great-escape</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/h7shL668vhC2wsZQSBWzxkMuZ8K.jpg" alt="The Great Escape poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 62%</p>]]></description>
-    </item>
-    <item>
       <title>A Working Man</title>
       <link>https://www.themoviedb.org/movie/1197306-a-working-man</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1197306-a-working-man</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" alt="A Working Man poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
-    </item>
-    <item>
-      <title>Warfare</title>
-      <link>https://www.themoviedb.org/movie/1241436-warfare</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1241436-warfare</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" alt="Warfare poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" alt="A Working Man poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 66%</p>]]></description>
     </item>
     <item>
       <title>Snow White</title>
@@ -50,10 +38,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" alt="Mission: Impossible - The Final Reckoning poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
+      <title>Warfare</title>
+      <link>https://www.themoviedb.org/movie/1241436-warfare</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1241436-warfare</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" alt="Warfare poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p>]]></description>
+    </item>
+    <item>
       <title>Tin Soldier</title>
       <link>https://www.themoviedb.org/movie/977294-tin-soldier</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/977294-tin-soldier</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" alt="Tin Soldier poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 54%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" alt="Tin Soldier poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 52%</p>]]></description>
     </item>
     <item>
       <title>Lilo &amp; Stitch</title>
@@ -68,16 +62,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg" alt="Bambi: A Life in the Woods poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 59%</p>]]></description>
     </item>
     <item>
-      <title>The Haunting at Saint Joseph's</title>
-      <link>https://www.themoviedb.org/movie/1092073-the-haunting-at-saint-joseph-s</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1092073-the-haunting-at-saint-joseph-s</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/eDzQFxs0KTzHUPkIR0c44TSGJUR.jpg" alt="The Haunting at Saint Joseph's poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 46%</p>]]></description>
-    </item>
-    <item>
       <title>Thunderbolts*</title>
       <link>https://www.themoviedb.org/movie/986056-thunderbolts</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/986056-thunderbolts</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg" alt="Thunderbolts* poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p>]]></description>
+    </item>
+    <item>
+      <title>The Haunting at Saint Joseph's</title>
+      <link>https://www.themoviedb.org/movie/1092073-the-haunting-at-saint-joseph-s</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1092073-the-haunting-at-saint-joseph-s</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/eDzQFxs0KTzHUPkIR0c44TSGJUR.jpg" alt="The Haunting at Saint Joseph's poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 46%</p>]]></description>
     </item>
     <item>
       <title>Exterritorial</title>
@@ -98,22 +92,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lCI5y1KkjgMoTkZiCleqji00XeE.jpg" alt="Last Bullet poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p>]]></description>
     </item>
     <item>
-      <title>Conjuring the Cult</title>
-      <link>https://www.themoviedb.org/movie/1359977-conjuring-the-cult</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1359977-conjuring-the-cult</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t4MiAeYpjL7saYvqvcn9xtOfA4K.jpg" alt="Conjuring the Cult poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 55%</p>]]></description>
-    </item>
-    <item>
       <title>In the Lost Lands</title>
       <link>https://www.themoviedb.org/movie/324544-in-the-lost-lands</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/324544-in-the-lost-lands</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg" alt="In the Lost Lands poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 64%</p>]]></description>
     </item>
     <item>
-      <title>From the Shadows</title>
-      <link>https://www.themoviedb.org/movie/1180763-from-the-shadows</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1180763-from-the-shadows</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/22aFuf6UnDaGP9G5CLfF92Cj1nf.jpg" alt="From the Shadows poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 31%</p>]]></description>
+      <title>Conjuring the Cult</title>
+      <link>https://www.themoviedb.org/movie/1359977-conjuring-the-cult</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1359977-conjuring-the-cult</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t4MiAeYpjL7saYvqvcn9xtOfA4K.jpg" alt="Conjuring the Cult poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 55%</p>]]></description>
+    </item>
+    <item>
+      <title>Jewel Thief: The Heist Begins</title>
+      <link>https://www.themoviedb.org/movie/1225915</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1225915</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg" alt="Jewel Thief: The Heist Begins poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p>]]></description>
     </item>
     <item>
       <title>The Legend of Ochi</title>
@@ -126,6 +120,12 @@
       <link>https://www.themoviedb.org/movie/822119-captain-america-brave-new-world</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/822119-captain-america-brave-new-world</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg" alt="Captain America: Brave New World poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 61%</p>]]></description>
+    </item>
+    <item>
+      <title>Sinners</title>
+      <link>https://www.themoviedb.org/movie/1233413-sinners</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1233413-sinners</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg" alt="Sinners poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p>]]></description>
     </item>
   </channel>
 </rss>
