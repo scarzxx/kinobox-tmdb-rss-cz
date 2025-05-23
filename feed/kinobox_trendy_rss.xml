@@ -6,7 +6,7 @@
     <description>Aktuálně nejvíce trendy filmy na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 23 May 2025 10:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 12:00:03 +0200</lastBuildDate>
     <item>
       <title>Na plech</title>
       <link>https://www.kinobox.cz/film/2666286</link>
@@ -88,6 +88,11 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/03/upload_14405255511401405508.jpg" alt="Architektura ČSSR 58–89 plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dokumentární</p>]]></description>
     </item>
     <item>
+      <title>Mickey 17</title>
+      <link>https://www.kinobox.cz/film/2636619</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/24/upload_15612315283578093043.jpg" alt="Mickey 17 plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dobrodružný, Drama, Sci-fi, Komedie</p>]]></description>
+    </item>
+    <item>
       <title>Seznam tajných přání</title>
       <link>https://www.kinobox.cz/film/3181727</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/upload_1416216789848850559.png" alt="Seznam tajných přání plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Romantický, Komedie, Drama, Adaptace knižní</p>]]></description>
@@ -161,11 +166,6 @@
       <title>Sedm</title>
       <link>https://www.kinobox.cz/film/18561</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/09/01/18561___external_file_11017832207419169185.jpg" alt="Sedm plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Krimi, Mysteriozní, Thriller, Film Noir, Gotický, Nezávislý</p>]]></description>
-    </item>
-    <item>
-      <title>Deva</title>
-      <link>https://www.kinobox.cz/film/3228816</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/06/external_file_11937847916472504226.jpg" alt="Deva plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Thriller</p>]]></description>
     </item>
   </channel>
 </rss>
