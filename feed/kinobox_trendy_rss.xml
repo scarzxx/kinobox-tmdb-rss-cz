@@ -6,7 +6,7 @@
     <description>Aktuálně nejvíce trendy filmy na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 23 May 2025 22:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 00:00:04 +0200</lastBuildDate>
     <item>
       <title>Na plech</title>
       <link>https://www.kinobox.cz/film/2666286</link>
@@ -53,24 +53,14 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/upload_8199275422862711507.jpg" alt="Společník plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Sci-fi, Thriller, Horor</p>]]></description>
     </item>
     <item>
-      <title>Dragon</title>
-      <link>https://www.kinobox.cz/film/3246879</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/external_file_8923585764137668592.jpg" alt="Dragon plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama, Romantický, Komedie</p>]]></description>
-    </item>
-    <item>
       <title>Léto s Evženem</title>
       <link>https://www.kinobox.cz/film/2668526</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_13422895238695269656.jpg" alt="Léto s Evženem plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Rodinný</p>]]></description>
     </item>
     <item>
-      <title>Pasáž</title>
-      <link>https://www.kinobox.cz/film/726587</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg" alt="Pasáž plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Drama, Sci-fi, Adaptace knižní</p>]]></description>
-    </item>
-    <item>
-      <title>Officer On Duty</title>
-      <link>https://www.kinobox.cz/film/3285848</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_17415726196785678197.jpg" alt="Officer On Duty plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller</p>]]></description>
+      <title>Dragon</title>
+      <link>https://www.kinobox.cz/film/3246879</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/external_file_8923585764137668592.jpg" alt="Dragon plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama, Romantický, Komedie</p>]]></description>
     </item>
     <item>
       <title>The Diplomat</title>
@@ -78,9 +68,24 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_820949916919460898.jpg" alt="The Diplomat plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller, Drama</p>]]></description>
     </item>
     <item>
+      <title>Mickey 17</title>
+      <link>https://www.kinobox.cz/film/2636619</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/24/upload_15612315283578093043.jpg" alt="Mickey 17 plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dobrodružný, Drama, Sci-fi, Komedie</p>]]></description>
+    </item>
+    <item>
+      <title>Officer On Duty</title>
+      <link>https://www.kinobox.cz/film/3285848</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_17415726196785678197.jpg" alt="Officer On Duty plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller</p>]]></description>
+    </item>
+    <item>
       <title>Byl jednou jeden král...</title>
       <link>https://www.kinobox.cz/film/4832</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/02/23/external_file_10472602821438742243.jpg" alt="Byl jednou jeden král... plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Pohádka, Rodinný, Vánoční</p>]]></description>
+    </item>
+    <item>
+      <title>Pasáž</title>
+      <link>https://www.kinobox.cz/film/726587</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg" alt="Pasáž plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Drama, Sci-fi, Adaptace knižní</p>]]></description>
     </item>
     <item>
       <title>Architektura ČSSR 58–89</title>
@@ -88,19 +93,14 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/03/upload_14405255511401405508.jpg" alt="Architektura ČSSR 58–89 plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dokumentární</p>]]></description>
     </item>
     <item>
-      <title>Mickey 17</title>
-      <link>https://www.kinobox.cz/film/2636619</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/24/upload_15612315283578093043.jpg" alt="Mickey 17 plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dobrodružný, Drama, Sci-fi, Komedie</p>]]></description>
+      <title>Lovec Kraven</title>
+      <link>https://www.kinobox.cz/film/723503</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_1030726229074471834.jpg" alt="Lovec Kraven plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Sci-fi, Komiksový</p>]]></description>
     </item>
     <item>
       <title>Seznam tajných přání</title>
       <link>https://www.kinobox.cz/film/3181727</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/upload_1416216789848850559.png" alt="Seznam tajných přání plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Romantický, Komedie, Drama, Adaptace knižní</p>]]></description>
-    </item>
-    <item>
-      <title>Lovec Kraven</title>
-      <link>https://www.kinobox.cz/film/723503</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_1030726229074471834.jpg" alt="Lovec Kraven plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Sci-fi, Komiksový</p>]]></description>
     </item>
     <item>
       <title>Diagnóza: Disent</title>
@@ -158,14 +158,14 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/30/upload_14186203432599502899.jpg" alt="Život k sežrání plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Animovaný, Loutkový, Dětský, Adaptace knižní, Rodinný, Komedie</p>]]></description>
     </item>
     <item>
-      <title>Mord</title>
-      <link>https://www.kinobox.cz/film/2655175</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/18/upload_7667947359247551199.jpg" alt="Mord plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Drama</p>]]></description>
-    </item>
-    <item>
       <title>Sedm</title>
       <link>https://www.kinobox.cz/film/18561</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/09/01/18561___external_file_11017832207419169185.jpg" alt="Sedm plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Krimi, Mysteriozní, Thriller, Film Noir, Gotický, Nezávislý</p>]]></description>
+    </item>
+    <item>
+      <title>Mord</title>
+      <link>https://www.kinobox.cz/film/2655175</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/18/upload_7667947359247551199.jpg" alt="Mord plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Drama</p>]]></description>
     </item>
   </channel>
 </rss>
