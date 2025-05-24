@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 24 May 2025 14:14:25 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 18:09:10 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -23,7 +23,7 @@
       <title>Lilo &amp; Stitch</title>
       <link>https://www.themoviedb.org/movie/552524-lilo-stitch</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/552524-lilo-stitch</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" alt="Lilo & Stitch poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" alt="Lilo & Stitch poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 69%</p>]]></description>
     </item>
     <item>
       <title>A Working Man</title>
@@ -50,10 +50,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" alt="Mission: Impossible - The Final Reckoning poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p>]]></description>
     </item>
     <item>
+      <title>The Great Escape</title>
+      <link>https://www.themoviedb.org/movie/1480799-the-great-escape</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1480799-the-great-escape</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/h7shL668vhC2wsZQSBWzxkMuZ8K.jpg" alt="The Great Escape poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 62%</p>]]></description>
+    </item>
+    <item>
       <title>Tin Soldier</title>
       <link>https://www.themoviedb.org/movie/977294-tin-soldier</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/977294-tin-soldier</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" alt="Tin Soldier poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 52%</p>]]></description>
+    </item>
+    <item>
+      <title>The Legend of Ochi</title>
+      <link>https://www.themoviedb.org/movie/896536-the-legend-of-ochi</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/896536-the-legend-of-ochi</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wVujUVvY4qvKARAslItQ4ARKqtz.jpg" alt="The Legend of Ochi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 61%</p>]]></description>
     </item>
     <item>
       <title>Thunderbolts*</title>
@@ -74,10 +86,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg" alt="Bambi: A Life in the Woods poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 60%</p>]]></description>
     </item>
     <item>
-      <title>The Haunting at Saint Joseph's</title>
-      <link>https://www.themoviedb.org/movie/1092073-the-haunting-at-saint-joseph-s</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1092073-the-haunting-at-saint-joseph-s</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/eDzQFxs0KTzHUPkIR0c44TSGJUR.jpg" alt="The Haunting at Saint Joseph's poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 46%</p>]]></description>
+      <title>Exterritorial</title>
+      <link>https://www.themoviedb.org/movie/1233069-exterritorial</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1233069-exterritorial</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg" alt="Exterritorial poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
     </item>
     <item>
       <title>Last Bullet</title>
@@ -92,40 +104,28 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6Ea5i6APeTfm4hHh6dg5Z733JVS.jpg" alt="Brave Citizen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
-      <title>Exterritorial</title>
-      <link>https://www.themoviedb.org/movie/1233069-exterritorial</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1233069-exterritorial</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg" alt="Exterritorial poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
-    </item>
-    <item>
       <title>In the Lost Lands</title>
       <link>https://www.themoviedb.org/movie/324544-in-the-lost-lands</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/324544-in-the-lost-lands</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg" alt="In the Lost Lands poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 64%</p>]]></description>
     </item>
     <item>
+      <title>The Haunting at Saint Joseph's</title>
+      <link>https://www.themoviedb.org/movie/1092073-the-haunting-at-saint-joseph-s</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1092073-the-haunting-at-saint-joseph-s</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/eDzQFxs0KTzHUPkIR0c44TSGJUR.jpg" alt="The Haunting at Saint Joseph's poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 46%</p>]]></description>
+    </item>
+    <item>
+      <title>Captain America: Brave New World</title>
+      <link>https://www.themoviedb.org/movie/822119-captain-america-brave-new-world</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/822119-captain-america-brave-new-world</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg" alt="Captain America: Brave New World poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 61%</p>]]></description>
+    </item>
+    <item>
       <title>Conjuring the Cult</title>
       <link>https://www.themoviedb.org/movie/1359977-conjuring-the-cult</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1359977-conjuring-the-cult</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t4MiAeYpjL7saYvqvcn9xtOfA4K.jpg" alt="Conjuring the Cult poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 54%</p>]]></description>
-    </item>
-    <item>
-      <title>Jewel Thief - The Heist Begins</title>
-      <link>https://www.themoviedb.org/movie/1225915-the-heist-begins</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1225915-the-heist-begins</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg" alt="Jewel Thief - The Heist Begins poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p>]]></description>
-    </item>
-    <item>
-      <title>Fear Street: Prom Queen</title>
-      <link>https://www.themoviedb.org/movie/1001414-fear-street-prom-queen</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1001414-fear-street-prom-queen</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg" alt="Fear Street: Prom Queen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 52%</p>]]></description>
-    </item>
-    <item>
-      <title>The Legend of Ochi</title>
-      <link>https://www.themoviedb.org/movie/896536-the-legend-of-ochi</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/896536-the-legend-of-ochi</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wVujUVvY4qvKARAslItQ4ARKqtz.jpg" alt="The Legend of Ochi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 61%</p>]]></description>
     </item>
   </channel>
 </rss>
