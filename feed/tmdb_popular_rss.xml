@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 24 May 2025 02:41:50 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 06:10:16 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -32,16 +32,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oLxWocqheC8XbXbxqJ3x422j9PW.jpg" alt="Snow White poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 43%</p>]]></description>
     </item>
     <item>
-      <title>Mission: Impossible - The Final Reckoning</title>
-      <link>https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" alt="Mission: Impossible - The Final Reckoning poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
-    </item>
-    <item>
       <title>Warfare</title>
       <link>https://www.themoviedb.org/movie/1241436-warfare</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1241436-warfare</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" alt="Warfare poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p>]]></description>
+    </item>
+    <item>
+      <title>Mission: Impossible - The Final Reckoning</title>
+      <link>https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" alt="Mission: Impossible - The Final Reckoning poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
       <title>Tin Soldier</title>
