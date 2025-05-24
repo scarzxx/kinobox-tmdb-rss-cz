@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 24 May 2025 06:10:16 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 10:10:26 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -41,7 +41,7 @@
       <title>Mission: Impossible - The Final Reckoning</title>
       <link>https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" alt="Mission: Impossible - The Final Reckoning poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" alt="Mission: Impossible - The Final Reckoning poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p>]]></description>
     </item>
     <item>
       <title>Tin Soldier</title>
@@ -53,7 +53,13 @@
       <title>Lilo &amp; Stitch</title>
       <link>https://www.themoviedb.org/movie/552524-lilo-stitch</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/552524-lilo-stitch</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" alt="Lilo & Stitch poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" alt="Lilo & Stitch poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
+    </item>
+    <item>
+      <title>Until Dawn</title>
+      <link>https://www.themoviedb.org/movie/1232546-until-dawn</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1232546-until-dawn</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/juA4IWO52Fecx8lhAsxmDgy3M3.jpg" alt="Until Dawn poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
     </item>
     <item>
       <title>Bambi: A Life in the Woods</title>
@@ -74,6 +80,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/eDzQFxs0KTzHUPkIR0c44TSGJUR.jpg" alt="The Haunting at Saint Joseph's poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 46%</p>]]></description>
     </item>
     <item>
+      <title>Last Bullet</title>
+      <link>https://www.themoviedb.org/movie/1144430-balle-perdue-3</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1144430-balle-perdue-3</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lCI5y1KkjgMoTkZiCleqji00XeE.jpg" alt="Last Bullet poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p>]]></description>
+    </item>
+    <item>
       <title>Exterritorial</title>
       <link>https://www.themoviedb.org/movie/1233069-exterritorial</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1233069-exterritorial</guid>
@@ -84,12 +96,6 @@
       <link>https://www.themoviedb.org/movie/897160</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/897160</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6Ea5i6APeTfm4hHh6dg5Z733JVS.jpg" alt="Brave Citizen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
-    </item>
-    <item>
-      <title>Last Bullet</title>
-      <link>https://www.themoviedb.org/movie/1144430-balle-perdue-3</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1144430-balle-perdue-3</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lCI5y1KkjgMoTkZiCleqji00XeE.jpg" alt="Last Bullet poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p>]]></description>
     </item>
     <item>
       <title>In the Lost Lands</title>
@@ -110,22 +116,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg" alt="Jewel Thief - The Heist Begins poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p>]]></description>
     </item>
     <item>
+      <title>Fear Street: Prom Queen</title>
+      <link>https://www.themoviedb.org/movie/1001414-fear-street-prom-queen</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1001414-fear-street-prom-queen</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg" alt="Fear Street: Prom Queen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 53%</p>]]></description>
+    </item>
+    <item>
       <title>The Legend of Ochi</title>
       <link>https://www.themoviedb.org/movie/896536-the-legend-of-ochi</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/896536-the-legend-of-ochi</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wVujUVvY4qvKARAslItQ4ARKqtz.jpg" alt="The Legend of Ochi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 60%</p>]]></description>
-    </item>
-    <item>
-      <title>Captain America: Brave New World</title>
-      <link>https://www.themoviedb.org/movie/822119-captain-america-brave-new-world</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/822119-captain-america-brave-new-world</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg" alt="Captain America: Brave New World poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 61%</p>]]></description>
-    </item>
-    <item>
-      <title>Sinners</title>
-      <link>https://www.themoviedb.org/movie/1233413-sinners</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1233413-sinners</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg" alt="Sinners poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p>]]></description>
     </item>
   </channel>
 </rss>
