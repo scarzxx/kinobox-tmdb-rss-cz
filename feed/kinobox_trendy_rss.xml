@@ -6,7 +6,7 @@
     <description>Aktuálně nejvíce trendy filmy na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 May 2025 22:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 00:00:04 +0200</lastBuildDate>
     <item>
       <title>Na plech</title>
       <link>https://www.kinobox.cz/film/2666286</link>
@@ -38,6 +38,11 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/06/upload_15000185663009945535.jpg" alt="Hranice přežití plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Sci-fi, Thriller, Akční</p>]]></description>
     </item>
     <item>
+      <title>Mickey 17</title>
+      <link>https://www.kinobox.cz/film/2636619</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/24/upload_15612315283578093043.jpg" alt="Mickey 17 plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dobrodružný, Drama, Sci-fi, Komedie</p>]]></description>
+    </item>
+    <item>
       <title>Vlny</title>
       <link>https://www.kinobox.cz/film/723825</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/04/upload_11447653862362434444.jpg" alt="Vlny plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama, Thriller, Historický, Blockbuster</p>]]></description>
@@ -53,24 +58,19 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/upload_8199275422862711507.jpg" alt="Společník plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Sci-fi, Thriller, Horor</p>]]></description>
     </item>
     <item>
-      <title>Mickey 17</title>
-      <link>https://www.kinobox.cz/film/2636619</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/24/upload_15612315283578093043.jpg" alt="Mickey 17 plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dobrodružný, Drama, Sci-fi, Komedie</p>]]></description>
-    </item>
-    <item>
       <title>Léto s Evženem</title>
       <link>https://www.kinobox.cz/film/2668526</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_13422895238695269656.jpg" alt="Léto s Evženem plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Rodinný</p>]]></description>
     </item>
     <item>
-      <title>Dragon</title>
-      <link>https://www.kinobox.cz/film/3246879</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/external_file_8923585764137668592.jpg" alt="Dragon plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama, Romantický, Komedie</p>]]></description>
-    </item>
-    <item>
       <title>The Diplomat</title>
       <link>https://www.kinobox.cz/film/3285958</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_820949916919460898.jpg" alt="The Diplomat plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller, Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Dragon</title>
+      <link>https://www.kinobox.cz/film/3246879</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/external_file_8923585764137668592.jpg" alt="Dragon plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama, Romantický, Komedie</p>]]></description>
     </item>
     <item>
       <title>Byl jednou jeden král...</title>
@@ -83,9 +83,9 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_17415726196785678197.jpg" alt="Officer On Duty plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller</p>]]></description>
     </item>
     <item>
-      <title>Pasáž</title>
-      <link>https://www.kinobox.cz/film/726587</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg" alt="Pasáž plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Drama, Sci-fi, Adaptace knižní</p>]]></description>
+      <title>Lovec Kraven</title>
+      <link>https://www.kinobox.cz/film/723503</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_1030726229074471834.jpg" alt="Lovec Kraven plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Sci-fi, Komiksový</p>]]></description>
     </item>
     <item>
       <title>Architektura ČSSR 58–89</title>
@@ -93,14 +93,14 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/03/upload_14405255511401405508.jpg" alt="Architektura ČSSR 58–89 plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dokumentární</p>]]></description>
     </item>
     <item>
-      <title>Lovec Kraven</title>
-      <link>https://www.kinobox.cz/film/723503</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_1030726229074471834.jpg" alt="Lovec Kraven plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Sci-fi, Komiksový</p>]]></description>
-    </item>
-    <item>
       <title>Seznam tajných přání</title>
       <link>https://www.kinobox.cz/film/3181727</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/upload_1416216789848850559.png" alt="Seznam tajných přání plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Romantický, Komedie, Drama, Adaptace knižní</p>]]></description>
+    </item>
+    <item>
+      <title>Pasáž</title>
+      <link>https://www.kinobox.cz/film/726587</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg" alt="Pasáž plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Drama, Sci-fi, Adaptace knižní</p>]]></description>
     </item>
     <item>
       <title>Diagnóza: Disent</title>
@@ -123,14 +123,14 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/10/external_file_1233618106098953107.jpg" alt="Babičky plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie</p>]]></description>
     </item>
     <item>
-      <title>Pán prstenů: Válka Rohirů</title>
-      <link>https://www.kinobox.cz/film/723642</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/27/upload_13828367844564703368.png" alt="Pán prstenů: Válka Rohirů plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Fantasy, Anime, Animovaný, Dobrodružný</p>]]></description>
-    </item>
-    <item>
       <title>Duna: Část druhá</title>
       <link>https://www.kinobox.cz/film/721984</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/02/29/upload_1082187277995497275.jpg" alt="Duna: Část druhá plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Drama, Adaptace knižní, Série/Franchise, Sci-fi, Epický, Blockbuster</p>]]></description>
+    </item>
+    <item>
+      <title>Pán prstenů: Válka Rohirů</title>
+      <link>https://www.kinobox.cz/film/723642</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/27/upload_13828367844564703368.png" alt="Pán prstenů: Válka Rohirů plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Fantasy, Anime, Animovaný, Dobrodružný</p>]]></description>
     </item>
     <item>
       <title>Gentlemani</title>
