@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 May 2025 02:49:42 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 06:16:23 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -36,6 +36,12 @@
       <link>https://www.themoviedb.org/movie/447273-snow-white</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/447273-snow-white</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oLxWocqheC8XbXbxqJ3x422j9PW.jpg" alt="Snow White poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 43%</p>]]></description>
+    </item>
+    <item>
+      <title>Until Dawn</title>
+      <link>https://www.themoviedb.org/movie/1232546-until-dawn</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1232546-until-dawn</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/juA4IWO52Fecx8lhAsxmDgy3M3.jpg" alt="Until Dawn poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
     </item>
     <item>
       <title>Warfare</title>
@@ -72,12 +78,6 @@
       <link>https://www.themoviedb.org/movie/986056-thunderbolts</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/986056-thunderbolts</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg" alt="Thunderbolts* poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p>]]></description>
-    </item>
-    <item>
-      <title>Until Dawn</title>
-      <link>https://www.themoviedb.org/movie/1232546-until-dawn</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1232546-until-dawn</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/juA4IWO52Fecx8lhAsxmDgy3M3.jpg" alt="Until Dawn poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
     </item>
     <item>
       <title>Bambi: A Life in the Woods</title>
