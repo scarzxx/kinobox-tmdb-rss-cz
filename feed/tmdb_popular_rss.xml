@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 May 2025 18:09:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 22:09:03 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -65,13 +65,13 @@
       <title>Fountain of Youth</title>
       <link>https://www.themoviedb.org/movie/1098006-fountain-of-youth</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1098006-fountain-of-youth</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg" alt="Fountain of Youth poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg" alt="Fountain of Youth poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 66%</p>]]></description>
     </item>
     <item>
       <title>Fear Street: Prom Queen</title>
       <link>https://www.themoviedb.org/movie/1001414-fear-street-prom-queen</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1001414-fear-street-prom-queen</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg" alt="Fear Street: Prom Queen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 54%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg" alt="Fear Street: Prom Queen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 53%</p>]]></description>
     </item>
     <item>
       <title>The Great Escape</title>
