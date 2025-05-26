@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 May 2025 22:09:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 02:45:21 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -41,7 +41,7 @@
       <title>Until Dawn</title>
       <link>https://www.themoviedb.org/movie/1232546-until-dawn</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1232546-until-dawn</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/juA4IWO52Fecx8lhAsxmDgy3M3.jpg" alt="Until Dawn poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/juA4IWO52Fecx8lhAsxmDgy3M3.jpg" alt="Until Dawn poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 64%</p>]]></description>
     </item>
     <item>
       <title>Snow White</title>
@@ -119,13 +119,13 @@
       <title>Rosario</title>
       <link>https://www.themoviedb.org/movie/1297028-rosario</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1297028-rosario</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/beLZhuHT97849WkWgty2X1hkWUa.jpg" alt="Rosario poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 49%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/beLZhuHT97849WkWgty2X1hkWUa.jpg" alt="Rosario poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 53%</p>]]></description>
     </item>
     <item>
       <title>Last Bullet</title>
       <link>https://www.themoviedb.org/movie/1144430-balle-perdue-3</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1144430-balle-perdue-3</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lCI5y1KkjgMoTkZiCleqji00XeE.jpg" alt="Last Bullet poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lCI5y1KkjgMoTkZiCleqji00XeE.jpg" alt="Last Bullet poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
     </item>
   </channel>
 </rss>
