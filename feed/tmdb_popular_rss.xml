@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 26 May 2025 06:15:36 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 10:18:41 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -89,7 +89,7 @@
       <title>Rosario</title>
       <link>https://www.themoviedb.org/movie/1297028-rosario</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1297028-rosario</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/beLZhuHT97849WkWgty2X1hkWUa.jpg" alt="Rosario poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 53%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/beLZhuHT97849WkWgty2X1hkWUa.jpg" alt="Rosario poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 50%</p>]]></description>
     </item>
     <item>
       <title>Thunderbolts*</title>
