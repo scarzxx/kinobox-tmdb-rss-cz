@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 26 May 2025 10:18:41 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 14:16:11 +0200</lastBuildDate>
     <item>
       <title>A Minecraft Movie</title>
       <link>https://www.themoviedb.org/movie/950387-a-minecraft-movie</link>
@@ -23,7 +23,7 @@
       <title>Final Destination Bloodlines</title>
       <link>https://www.themoviedb.org/movie/574475-final-destination-bloodlines</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/574475-final-destination-bloodlines</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" alt="Final Destination Bloodlines poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" alt="Final Destination Bloodlines poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p>]]></description>
     </item>
     <item>
       <title>Mission: Impossible - The Final Reckoning</title>
@@ -62,16 +62,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" alt="Warfare poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p>]]></description>
     </item>
     <item>
-      <title>Fountain of Youth</title>
-      <link>https://www.themoviedb.org/movie/1098006-fountain-of-youth</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1098006-fountain-of-youth</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg" alt="Fountain of Youth poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 66%</p>]]></description>
-    </item>
-    <item>
       <title>Fear Street: Prom Queen</title>
       <link>https://www.themoviedb.org/movie/1001414-fear-street-prom-queen</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1001414-fear-street-prom-queen</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg" alt="Fear Street: Prom Queen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 54%</p>]]></description>
+    </item>
+    <item>
+      <title>Fountain of Youth</title>
+      <link>https://www.themoviedb.org/movie/1098006-fountain-of-youth</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1098006-fountain-of-youth</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg" alt="Fountain of Youth poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 66%</p>]]></description>
     </item>
     <item>
       <title>The Great Escape</title>
@@ -101,7 +101,7 @@
       <title>Bambi: A Life in the Woods</title>
       <link>https://www.themoviedb.org/movie/1094473-bambi-l-histoire-d-une-vie-dans-les-bois</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1094473-bambi-l-histoire-d-une-vie-dans-les-bois</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg" alt="Bambi: A Life in the Woods poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 60%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg" alt="Bambi: A Life in the Woods poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 59%</p>]]></description>
     </item>
     <item>
       <title>Exterritorial</title>
@@ -110,16 +110,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg" alt="Exterritorial poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
     </item>
     <item>
+      <title>Last Bullet</title>
+      <link>https://www.themoviedb.org/movie/1144430-balle-perdue-3</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1144430-balle-perdue-3</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/qycPITRqXgPai7zj1gKffjCdSB5.jpg" alt="Last Bullet poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
+    </item>
+    <item>
       <title>Brave Citizen</title>
       <link>https://www.themoviedb.org/movie/897160</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/897160</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6Ea5i6APeTfm4hHh6dg5Z733JVS.jpg" alt="Brave Citizen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
-    </item>
-    <item>
-      <title>Last Bullet</title>
-      <link>https://www.themoviedb.org/movie/1144430-balle-perdue-3</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1144430-balle-perdue-3</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lCI5y1KkjgMoTkZiCleqji00XeE.jpg" alt="Last Bullet poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
     </item>
     <item>
       <title>In the Lost Lands</title>
