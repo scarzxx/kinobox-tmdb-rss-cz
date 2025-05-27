@@ -6,12 +6,12 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 27 May 2025 18:11:24 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 22:10:13 +0200</lastBuildDate>
     <item>
       <title>Lilo &amp; Stitch</title>
       <link>https://www.themoviedb.org/movie/552524-lilo-stitch</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/552524-lilo-stitch</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" alt="Lilo & Stitch poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mKKqV23MQ0uakJS8OCE2TfV5jNS.jpg" alt="Lilo & Stitch poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p>]]></description>
     </item>
     <item>
       <title>A Minecraft Movie</title>
