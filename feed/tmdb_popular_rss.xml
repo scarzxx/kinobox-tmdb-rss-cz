@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 28 May 2025 14:16:55 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 18:09:54 +0200</lastBuildDate>
     <item>
       <title>Lilo &amp; Stitch</title>
       <link>https://www.themoviedb.org/movie/552524-lilo-stitch</link>
@@ -50,16 +50,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg" alt="Fountain of Youth poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
     </item>
     <item>
-      <title>The Legend of Ochi</title>
-      <link>https://www.themoviedb.org/movie/896536-the-legend-of-ochi</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/896536-the-legend-of-ochi</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wVujUVvY4qvKARAslItQ4ARKqtz.jpg" alt="The Legend of Ochi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
-    </item>
-    <item>
       <title>Fear Street: Prom Queen</title>
       <link>https://www.themoviedb.org/movie/1001414-fear-street-prom-queen</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1001414-fear-street-prom-queen</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg" alt="Fear Street: Prom Queen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 54%</p>]]></description>
+    </item>
+    <item>
+      <title>The Legend of Ochi</title>
+      <link>https://www.themoviedb.org/movie/896536-the-legend-of-ochi</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/896536-the-legend-of-ochi</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wVujUVvY4qvKARAslItQ4ARKqtz.jpg" alt="The Legend of Ochi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
     </item>
     <item>
       <title>Warfare</title>
@@ -74,22 +74,34 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oLxWocqheC8XbXbxqJ3x422j9PW.jpg" alt="Snow White poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 43%</p>]]></description>
     </item>
     <item>
-      <title>The Great Escape</title>
-      <link>https://www.themoviedb.org/movie/1480799-the-great-escape</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1480799-the-great-escape</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/h7shL668vhC2wsZQSBWzxkMuZ8K.jpg" alt="The Great Escape poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 62%</p>]]></description>
-    </item>
-    <item>
       <title>Tin Soldier</title>
       <link>https://www.themoviedb.org/movie/977294-tin-soldier</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/977294-tin-soldier</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" alt="Tin Soldier poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 52%</p>]]></description>
     </item>
     <item>
+      <title>The Great Escape</title>
+      <link>https://www.themoviedb.org/movie/1480799-the-great-escape</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1480799-the-great-escape</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/h7shL668vhC2wsZQSBWzxkMuZ8K.jpg" alt="The Great Escape poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 62%</p>]]></description>
+    </item>
+    <item>
       <title>Rosario</title>
       <link>https://www.themoviedb.org/movie/1297028-rosario</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1297028-rosario</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/beLZhuHT97849WkWgty2X1hkWUa.jpg" alt="Rosario poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 50%</p>]]></description>
+    </item>
+    <item>
+      <title>Lilo &amp; Stitch</title>
+      <link>https://www.themoviedb.org/movie/11544-lilo-stitch</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/11544-lilo-stitch</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg" alt="Lilo & Stitch poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p>]]></description>
+    </item>
+    <item>
+      <title>Sikandar</title>
+      <link>https://www.themoviedb.org/movie/1257960</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1257960</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t48miSSfe7COqgbgMyRIyPVTBoM.jpg" alt="Sikandar poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 48%</p>]]></description>
     </item>
     <item>
       <title>Thunderbolts*</title>
@@ -104,22 +116,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg" alt="Exterritorial poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
     </item>
     <item>
-      <title>Lilo &amp; Stitch</title>
-      <link>https://www.themoviedb.org/movie/11544-lilo-stitch</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/11544-lilo-stitch</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg" alt="Lilo & Stitch poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p>]]></description>
-    </item>
-    <item>
-      <title>Bambi: A Life in the Woods</title>
-      <link>https://www.themoviedb.org/movie/1094473-bambi-l-histoire-d-une-vie-dans-les-bois</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1094473-bambi-l-histoire-d-une-vie-dans-les-bois</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg" alt="Bambi: A Life in the Woods poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 59%</p>]]></description>
-    </item>
-    <item>
       <title>Brave Citizen</title>
       <link>https://www.themoviedb.org/movie/897160</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/897160</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6Ea5i6APeTfm4hHh6dg5Z733JVS.jpg" alt="Brave Citizen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6Ea5i6APeTfm4hHh6dg5Z733JVS.jpg" alt="Brave Citizen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 69%</p>]]></description>
     </item>
     <item>
       <title>In the Lost Lands</title>
