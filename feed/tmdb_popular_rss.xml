@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 29 May 2025 02:44:15 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 06:14:14 +0200</lastBuildDate>
     <item>
       <title>Lilo &amp; Stitch</title>
       <link>https://www.themoviedb.org/movie/552524-lilo-stitch</link>
@@ -42,6 +42,12 @@
       <link>https://www.themoviedb.org/movie/1197306-a-working-man</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1197306-a-working-man</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" alt="A Working Man poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
+    </item>
+    <item>
+      <title>Sikandar</title>
+      <link>https://www.themoviedb.org/movie/1257960</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1257960</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t48miSSfe7COqgbgMyRIyPVTBoM.jpg" alt="Sikandar poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 48%</p>]]></description>
     </item>
     <item>
       <title>Fountain of Youth</title>
@@ -98,12 +104,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg" alt="Lilo & Stitch poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p>]]></description>
     </item>
     <item>
-      <title>Sikandar</title>
-      <link>https://www.themoviedb.org/movie/1257960</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1257960</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t48miSSfe7COqgbgMyRIyPVTBoM.jpg" alt="Sikandar poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 48%</p>]]></description>
-    </item>
-    <item>
       <title>Thunderbolts*</title>
       <link>https://www.themoviedb.org/movie/986056-thunderbolts</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/986056-thunderbolts</guid>
@@ -119,7 +119,7 @@
       <title>Brave Citizen</title>
       <link>https://www.themoviedb.org/movie/897160</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/897160</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6Ea5i6APeTfm4hHh6dg5Z733JVS.jpg" alt="Brave Citizen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/zR9j2auEEQIaBbi7uTIFtDChmmA.jpg" alt="Brave Citizen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p>]]></description>
     </item>
     <item>
       <title>In the Lost Lands</title>
