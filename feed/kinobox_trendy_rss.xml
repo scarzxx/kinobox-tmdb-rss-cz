@@ -6,7 +6,7 @@
     <description>Aktuálně nejvíce trendy filmy na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 29 May 2025 22:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 00:00:05 +0200</lastBuildDate>
     <item>
       <title>Na plech</title>
       <link>https://www.kinobox.cz/film/2666286</link>
@@ -98,24 +98,24 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_17415726196785678197.jpg" alt="Officer On Duty plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller</p>]]></description>
     </item>
     <item>
-      <title>Seznam tajných přání</title>
-      <link>https://www.kinobox.cz/film/3181727</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/upload_1416216789848850559.png" alt="Seznam tajných přání plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Romantický, Komedie, Drama, Adaptace knižní</p>]]></description>
-    </item>
-    <item>
-      <title>Pasáž</title>
-      <link>https://www.kinobox.cz/film/726587</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg" alt="Pasáž plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Drama, Sci-fi, Adaptace knižní</p>]]></description>
-    </item>
-    <item>
       <title>Babičky</title>
       <link>https://www.kinobox.cz/film/3227733</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/10/external_file_1233618106098953107.jpg" alt="Babičky plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie</p>]]></description>
     </item>
     <item>
+      <title>Seznam tajných přání</title>
+      <link>https://www.kinobox.cz/film/3181727</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/upload_1416216789848850559.png" alt="Seznam tajných přání plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Romantický, Komedie, Drama, Adaptace knižní</p>]]></description>
+    </item>
+    <item>
       <title>Furiosa: Sága Šíleného Maxe</title>
       <link>https://www.kinobox.cz/film/719658</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/04/08/upload_3063119944998439302.jpg" alt="Furiosa: Sága Šíleného Maxe plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Sci-fi, Blockbuster, Epický, Série/Franchise</p>]]></description>
+    </item>
+    <item>
+      <title>Pasáž</title>
+      <link>https://www.kinobox.cz/film/726587</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg" alt="Pasáž plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Drama, Sci-fi, Adaptace knižní</p>]]></description>
     </item>
     <item>
       <title>Klaus</title>
@@ -153,14 +153,14 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/30/upload_14186203432599502899.jpg" alt="Život k sežrání plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Animovaný, Loutkový, Dětský, Adaptace knižní, Rodinný, Komedie</p>]]></description>
     </item>
     <item>
-      <title>Sedm</title>
-      <link>https://www.kinobox.cz/film/18561</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/09/01/18561___external_file_11017832207419169185.jpg" alt="Sedm plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Krimi, Mysteriozní, Thriller, Film Noir, Gotický, Nezávislý</p>]]></description>
-    </item>
-    <item>
       <title>Zúčtování</title>
       <link>https://www.kinobox.cz/film/434561</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2016/09/09/the-accountant-2121132842_1192.jpg" alt="Zúčtování plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Drama, Krimi, Thriller, Retro</p>]]></description>
+    </item>
+    <item>
+      <title>Sedm</title>
+      <link>https://www.kinobox.cz/film/18561</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/09/01/18561___external_file_11017832207419169185.jpg" alt="Sedm plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Krimi, Mysteriozní, Thriller, Film Noir, Gotický, Nezávislý</p>]]></description>
     </item>
     <item>
       <title>Mord</title>
