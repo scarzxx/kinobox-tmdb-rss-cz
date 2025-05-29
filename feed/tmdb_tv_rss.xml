@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 29 May 2025 08:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 10:00:02 +0200</lastBuildDate>
     <item>
       <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
       <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
@@ -56,16 +56,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg" alt="Griffinovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 31. led. 1999</p>]]></description>
     </item>
     <item>
-      <title>Zelenáč</title>
-      <link>https://www.themoviedb.org/tv/79744-the-rookie?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/79744-the-rookie?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" alt="Zelenáč poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 16. říj. 2018</p>]]></description>
-    </item>
-    <item>
       <title>Simpsonovi</title>
       <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/poTtFCp1LjEl187NuqD6ekFplb6.jpg" alt="Simpsonovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 17. pro. 1989</p>]]></description>
+    </item>
+    <item>
+      <title>Zelenáč</title>
+      <link>https://www.themoviedb.org/tv/79744-the-rookie?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/79744-the-rookie?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" alt="Zelenáč poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 16. říj. 2018</p>]]></description>
     </item>
     <item>
       <title>Myšlenky zločince</title>
@@ -110,6 +110,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/b12eM3FXNjN7yM7XYTIdmeQRud9.jpg" alt="John Oliver: Co týden dal a vzal poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 27. dub. 2014</p>]]></description>
     </item>
     <item>
+      <title>Příběh služebnice</title>
+      <link>https://www.themoviedb.org/tv/69478-the-handmaid-s-tale?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/69478-the-handmaid-s-tale?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vj18GvYHwZqCGsXmcQ3DDg4NbWM.jpg" alt="Příběh služebnice poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 26. dub. 2017</p>]]></description>
+    </item>
+    <item>
       <title>Dva a půl chlapa</title>
       <link>https://www.themoviedb.org/tv/2691-two-and-a-half-men?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/2691-two-and-a-half-men?language=cs-CZ</guid>
@@ -120,12 +126,6 @@
       <link>https://www.themoviedb.org/tv/58841-chicago-p-d?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/58841-chicago-p-d?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg" alt="Policie Chicago poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 08. led. 2014</p>]]></description>
-    </item>
-    <item>
-      <title>Star Trek: Nová generace</title>
-      <link>https://www.themoviedb.org/tv/655-star-trek-the-next-generation?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/655-star-trek-the-next-generation?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg" alt="Star Trek: Nová generace poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 28. zář. 1987</p>]]></description>
     </item>
   </channel>
 </rss>
