@@ -6,12 +6,12 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 29 May 2025 22:10:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 02:43:47 +0200</lastBuildDate>
     <item>
       <title>Lilo &amp; Stitch</title>
       <link>https://www.themoviedb.org/movie/552524-lilo-stitch</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/552524-lilo-stitch</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mKKqV23MQ0uakJS8OCE2TfV5jNS.jpg" alt="Lilo & Stitch poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/Y6pjszkKQUZ5uBbiGg7KWiCksJ.jpg" alt="Lilo & Stitch poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
       <title>A Minecraft Movie</title>
@@ -71,7 +71,7 @@
       <title>The Legend of Ochi</title>
       <link>https://www.themoviedb.org/movie/896536-the-legend-of-ochi</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/896536-the-legend-of-ochi</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wVujUVvY4qvKARAslItQ4ARKqtz.jpg" alt="The Legend of Ochi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wVujUVvY4qvKARAslItQ4ARKqtz.jpg" alt="The Legend of Ochi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 62%</p>]]></description>
     </item>
     <item>
       <title>Snow White</title>
@@ -83,7 +83,7 @@
       <title>Rosario</title>
       <link>https://www.themoviedb.org/movie/1297028-rosario</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1297028-rosario</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/h91QHXPCb96x2J5mahqyW8QZay2.jpg" alt="Rosario poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 48%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/h91QHXPCb96x2J5mahqyW8QZay2.jpg" alt="Rosario poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 47%</p>]]></description>
     </item>
     <item>
       <title>Lilo &amp; Stitch</title>
