@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 31 May 2025 08:06:12 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 10:11:16 +0200</lastBuildDate>
     <item>
       <title>Lilo &amp; Stitch</title>
       <link>https://www.themoviedb.org/movie/552524-lilo-stitch</link>
@@ -41,7 +41,7 @@
       <title>Sikandar</title>
       <link>https://www.themoviedb.org/movie/1257960</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1257960</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t48miSSfe7COqgbgMyRIyPVTBoM.jpg" alt="Sikandar poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 48%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t48miSSfe7COqgbgMyRIyPVTBoM.jpg" alt="Sikandar poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 49%</p>]]></description>
     </item>
     <item>
       <title>Mission: Impossible - The Final Reckoning</title>
