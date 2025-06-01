@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 01 Jun 2025 14:15:10 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 18:09:34 +0200</lastBuildDate>
     <item>
       <title>Lilo &amp; Stitch</title>
       <link>https://www.themoviedb.org/movie/552524-lilo-stitch</link>
@@ -20,16 +20,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg" alt="A Minecraft Movie poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
     </item>
     <item>
+      <title>Sikandar</title>
+      <link>https://www.themoviedb.org/movie/1257960</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1257960</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t48miSSfe7COqgbgMyRIyPVTBoM.jpg" alt="Sikandar poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 51%</p>]]></description>
+    </item>
+    <item>
       <title>Final Destination Bloodlines</title>
       <link>https://www.themoviedb.org/movie/574475-final-destination-bloodlines</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/574475-final-destination-bloodlines</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" alt="Final Destination Bloodlines poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p>]]></description>
-    </item>
-    <item>
-      <title>Sikandar</title>
-      <link>https://www.themoviedb.org/movie/1257960</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1257960</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t48miSSfe7COqgbgMyRIyPVTBoM.jpg" alt="Sikandar poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 50%</p>]]></description>
     </item>
     <item>
       <title>A Working Man</title>
@@ -56,16 +56,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg" alt="Sinners poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p>]]></description>
     </item>
     <item>
-      <title>Warfare</title>
-      <link>https://www.themoviedb.org/movie/1241436-warfare</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1241436-warfare</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" alt="Warfare poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p>]]></description>
+      <title>Lilo &amp; Stitch</title>
+      <link>https://www.themoviedb.org/movie/11544-lilo-stitch</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/11544-lilo-stitch</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg" alt="Lilo & Stitch poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p>]]></description>
     </item>
     <item>
       <title>Fountain of Youth</title>
       <link>https://www.themoviedb.org/movie/1098006-fountain-of-youth</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1098006-fountain-of-youth</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg" alt="Fountain of Youth poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 64%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg" alt="Fountain of Youth poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
+    </item>
+    <item>
+      <title>Warfare</title>
+      <link>https://www.themoviedb.org/movie/1241436-warfare</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1241436-warfare</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" alt="Warfare poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p>]]></description>
     </item>
     <item>
       <title>Fear Street: Prom Queen</title>
@@ -74,22 +80,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg" alt="Fear Street: Prom Queen poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 54%</p>]]></description>
     </item>
     <item>
-      <title>Lilo &amp; Stitch</title>
-      <link>https://www.themoviedb.org/movie/11544-lilo-stitch</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/11544-lilo-stitch</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg" alt="Lilo & Stitch poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p>]]></description>
-    </item>
-    <item>
       <title>Snow White</title>
       <link>https://www.themoviedb.org/movie/447273-snow-white</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/447273-snow-white</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oLxWocqheC8XbXbxqJ3x422j9PW.jpg" alt="Snow White poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 43%</p>]]></description>
-    </item>
-    <item>
-      <title>Rosario</title>
-      <link>https://www.themoviedb.org/movie/1297028-rosario</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1297028-rosario</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/h91QHXPCb96x2J5mahqyW8QZay2.jpg" alt="Rosario poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 49%</p>]]></description>
     </item>
     <item>
       <title>Captain America: Brave New World</title>
@@ -107,13 +101,19 @@
       <title>Tin Soldier</title>
       <link>https://www.themoviedb.org/movie/977294-tin-soldier</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/977294-tin-soldier</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lFFDrFLXywFhy6khHes1LCFVMsL.jpg" alt="Tin Soldier poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 49%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6HU667T8fxoIvgsgu2eyaznntsp.jpg" alt="Tin Soldier poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 49%</p>]]></description>
     </item>
     <item>
-      <title>The Great Escape</title>
-      <link>https://www.themoviedb.org/movie/1480799-the-great-escape</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1480799-the-great-escape</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/h7shL668vhC2wsZQSBWzxkMuZ8K.jpg" alt="The Great Escape poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 57%</p>]]></description>
+      <title>Rosario</title>
+      <link>https://www.themoviedb.org/movie/1297028-rosario</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1297028-rosario</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/h91QHXPCb96x2J5mahqyW8QZay2.jpg" alt="Rosario poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 49%</p>]]></description>
+    </item>
+    <item>
+      <title>The Containment</title>
+      <link>https://www.themoviedb.org/movie/568770-poseida</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/568770-poseida</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/nHNwBOccmQ7rK9yQI1HUSnHm1Ny.jpg" alt="The Containment poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p>]]></description>
     </item>
     <item>
       <title>Thunderbolts*</title>
@@ -122,10 +122,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg" alt="Thunderbolts* poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p>]]></description>
     </item>
     <item>
-      <title>Exterritorial</title>
-      <link>https://www.themoviedb.org/movie/1233069-exterritorial</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1233069-exterritorial</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg" alt="Exterritorial poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
+      <title>Panda Bear in Africa</title>
+      <link>https://www.themoviedb.org/movie/676685-pandabeer-in-afrika</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/676685-pandabeer-in-afrika</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wxpu7svVqA0ALYpofQBPujGelN3.jpg" alt="Panda Bear in Africa poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 64%</p>]]></description>
     </item>
   </channel>
 </rss>
