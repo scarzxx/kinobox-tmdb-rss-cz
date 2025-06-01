@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 01 Jun 2025 12:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 14:00:03 +0200</lastBuildDate>
     <item>
       <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
       <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
@@ -80,12 +80,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg" alt="Havaj 5-0 poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 20. zář. 2010</p>]]></description>
     </item>
     <item>
-      <title>Myšlenky zločince</title>
-      <link>https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
-    </item>
-    <item>
       <title>Černá listina</title>
       <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</guid>
@@ -110,22 +104,28 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/xgfjxyV3g1S68opzuvG6G87muDp.jpg" alt="Dva a půl chlapa poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 22. zář. 2003</p>]]></description>
     </item>
     <item>
+      <title>Myšlenky zločince</title>
+      <link>https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
+    </item>
+    <item>
       <title>Hra o trůny</title>
       <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
     </item>
     <item>
+      <title>Mladí Titáni do toho!</title>
+      <link>https://www.themoviedb.org/tv/45140-teen-titans-go?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/45140-teen-titans-go?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/w0pwKXGhS39cmxFAAtycmJTqwXW.jpg" alt="Mladí Titáni do toho! poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p><p>První vysílání: 23. dub. 2013</p>]]></description>
+    </item>
+    <item>
       <title>Gumballův úžasný svět</title>
       <link>https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pekAF7dErv5aXR4wyvWLF04sF6s.jpg" alt="Gumballův úžasný svět poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 03. kvě. 2011</p>]]></description>
-    </item>
-    <item>
-      <title>Star Trek: Nová generace</title>
-      <link>https://www.themoviedb.org/tv/655-star-trek-the-next-generation?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/655-star-trek-the-next-generation?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg" alt="Star Trek: Nová generace poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 28. zář. 1987</p>]]></description>
     </item>
   </channel>
 </rss>
