@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 01 Jun 2025 10:11:14 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 14:15:10 +0200</lastBuildDate>
     <item>
       <title>Lilo &amp; Stitch</title>
       <link>https://www.themoviedb.org/movie/552524-lilo-stitch</link>
@@ -38,16 +38,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" alt="A Working Man poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
     </item>
     <item>
+      <title>Mission: Impossible - The Final Reckoning</title>
+      <link>https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" alt="Mission: Impossible - The Final Reckoning poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p>]]></description>
+    </item>
+    <item>
       <title>Until Dawn</title>
       <link>https://www.themoviedb.org/movie/1232546-until-dawn</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1232546-until-dawn</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/juA4IWO52Fecx8lhAsxmDgy3M3.jpg" alt="Until Dawn poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible - The Final Reckoning</title>
-      <link>https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" alt="Mission: Impossible - The Final Reckoning poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
       <title>Sinners</title>
@@ -122,10 +122,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg" alt="Thunderbolts* poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p>]]></description>
     </item>
     <item>
-      <title>Abduct</title>
-      <link>https://www.themoviedb.org/movie/1448938-abduct</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/1448938-abduct</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2ZTp5eQ8C8W70rvXCkbdHQW0sM9.jpg" alt="Abduct poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 46%</p>]]></description>
+      <title>Exterritorial</title>
+      <link>https://www.themoviedb.org/movie/1233069-exterritorial</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1233069-exterritorial</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg" alt="Exterritorial poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 67%</p>]]></description>
     </item>
   </channel>
 </rss>
