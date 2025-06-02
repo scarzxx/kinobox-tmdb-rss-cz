@@ -4,13 +4,86 @@ from datetime import datetime
 import pytz
 from xml.dom import minidom # Stále potřebujeme pro pěkné formátování a manipulaci s CDATA
 import json
+import re
+import sys
 import os
+
+# --- Funkce pro získání aktuálního Build ID ---
+def get_kinobox_build_id(source_url="https://www.kinobox.cz/filmy"):
+    """
+    Stáhne HTML stránky Kinoboxu a pokusí se z něj extrahovat
+    aktuální Next.js build ID.
+    """
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36'
+        }
+        print(f"Stahuji HTML pro získání Build ID z: {source_url}")
+        response = requests.get(source_url, headers=headers, timeout=15)
+        response.raise_for_status()
+        html_content = response.text
+
+        pattern_next_data = r'<script id="__NEXT_DATA__".*?>.*?"buildId":"([a-zA-Z0-9_-]+)".*?</script>'
+        match_next_data = re.search(pattern_next_data, html_content, re.DOTALL)
+        if match_next_data:
+            build_id = match_next_data.group(1)
+            if len(build_id) > 10:
+                print(f"Build ID nalezeno v __NEXT_DATA__: {build_id}")
+                return build_id
+
+        pattern_static = r'/_next/static/([a-zA-Z0-9_-]{15,})/_(?:buildManifest|ssgManifest)\.js'
+        match_static = re.search(pattern_static, html_content)
+        if match_static:
+            build_id = match_static.group(1)
+            print(f"Build ID nalezeno ve statické cestě k manifestu: {build_id}")
+            return build_id
+
+        pattern_static_generic = r'/_next/static/([a-zA-Z0-9_-]{15,})/'
+        matches_generic = re.findall(pattern_static_generic, html_content)
+        if matches_generic:
+            build_id = matches_generic[0]
+            print(f"Nalezeno potenciální Build ID (obecný vzor): {build_id}")
+            return build_id
+
+        print("Build ID nenalezeno žádnou z metod.", file=sys.stderr)
+        return None
+    except requests.exceptions.RequestException as e:
+        print(f"Chyba při stahování URL {source_url} pro získání Build ID: {e}", file=sys.stderr)
+        return None
+    except Exception as e:
+        print(f"Neočekávaná chyba při získávání Build ID: {e}", file=sys.stderr)
+        return None
+
+# --- KONFIGURACE ---
+BASE_KINOBOX_URL = "https://www.kinobox.cz"
+TARGET_DATA_PATH = "/cs/filmy/novinky.json"
+
+print("-" * 30)
+print("Získávám aktuální Kinobox Build ID...")
+build_id_source_url = f"{BASE_KINOBOX_URL}/filmy/novinky"
+actual_build_id = get_kinobox_build_id(source_url=build_id_source_url)
+
+if not actual_build_id:
+    print(f"\nNepodařilo se získat Build ID z {build_id_source_url}, zkouším {BASE_KINOBOX_URL}/filmy...")
+    actual_build_id = get_kinobox_build_id(source_url=f"{BASE_KINOBOX_URL}/filmy")
+
+if not actual_build_id:
+    print("Chyba: Nepodařilo se získat aktuální Kinobox Build ID. Skript nemůže pokračovat.", file=sys.stderr)
+    sys.exit(1)
+
+print(f"Aktuální Build ID: {actual_build_id}")
+print("-" * 30)
+
+# --- Sestavení dynamické URL pro JSON data ---
+JSON_URL = f"{BASE_KINOBOX_URL}/_next/data/{actual_build_id}{TARGET_DATA_PATH}"
+print(f"Sestavená URL pro JSON data: {JSON_URL}")
+
 
 # --- KONFIGURACE ---
 # VAROVÁNÍ: Tato URL obsahuje build ID a pravděpodobně brzy přestane fungovat!
 # Může být nutné ji aktualizovat z https://www.kinobox.cz/_next/data/[build_id]/cs/filmy/novinky.json
 # kde [build_id] najdete ve zdrojovém kódu stránky https://www.kinobox.cz/filmy/novinky
-JSON_URL = "https://www.kinobox.cz/_next/data/f5npQT84kcgxw3mp0b84H/cs/filmy/novinky.json"
+# JSON_URL = "https://www.kinobox.cz/_next/data/f5npQT84kcgxw3mp0b84H/cs/filmy/novinky.json"
 OUTPUT_FILE = "feed/kinobox_novinky_rss.xml"
 PRAGUE_TZ = pytz.timezone('Europe/Prague')
 
