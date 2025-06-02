@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 02 Jun 2025 06:20:25 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 10:14:01 +0200</lastBuildDate>
     <item>
       <title>Lilo &amp; Stitch</title>
       <link>https://www.themoviedb.org/movie/552524-lilo-stitch</link>
@@ -107,7 +107,7 @@
       <title>Rosario</title>
       <link>https://www.themoviedb.org/movie/1297028-rosario</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/1297028-rosario</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/beLZhuHT97849WkWgty2X1hkWUa.jpg" alt="Rosario poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 49%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/beLZhuHT97849WkWgty2X1hkWUa.jpg" alt="Rosario poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 50%</p>]]></description>
     </item>
     <item>
       <title>The Containment</title>
@@ -116,16 +116,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/nHNwBOccmQ7rK9yQI1HUSnHm1Ny.jpg" alt="The Containment poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p>]]></description>
     </item>
     <item>
+      <title>Mountainhead</title>
+      <link>https://www.themoviedb.org/movie/1417059-mountainhead</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/movie/1417059-mountainhead</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg" alt="Mountainhead poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 60%</p>]]></description>
+    </item>
+    <item>
       <title>Thunderbolts*</title>
       <link>https://www.themoviedb.org/movie/986056-thunderbolts</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/986056-thunderbolts</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg" alt="Thunderbolts* poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p>]]></description>
-    </item>
-    <item>
-      <title>Panda Bear in Africa</title>
-      <link>https://www.themoviedb.org/movie/676685-pandabeer-in-afrika</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/movie/676685-pandabeer-in-afrika</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wxpu7svVqA0ALYpofQBPujGelN3.jpg" alt="Panda Bear in Africa poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p>]]></description>
     </item>
   </channel>
 </rss>
