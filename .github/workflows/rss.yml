@@ -2,8 +2,8 @@ name: Generate RSS feeds for Kinobox
 
 on:
   schedule:
-    - cron: "0 */4 * * *"  # Tento cron job se spustí každé 4 hodiny
-  workflow_dispatch:  # Umožní ti spustit tento workflow ručně z GitHubu
+    - cron: "0 */4 * * *"  # This cron job runs every 4 hours
+  workflow_dispatch:  # Allows you to trigger this workflow manually from GitHub
 
 jobs:
   update-feeds:
@@ -31,11 +31,21 @@ jobs:
 
     - name: Generate RSS Feeds
       id: generate_rss_feeds
+      env: # <--- Zde přidáváme proměnné prostředí z GitHub Secrets
+        TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        TRAKT_CLIENT_ID: ${{ secrets.TRAKT_CLIENT_ID }}
+        # Volitelně můžete přidat i další proměnné prostředí pro locale, pokud jsou opravdu potřeba
+        # a předchozí exporty nestačily. Ale často stačí jen nastavit LANG a LC_ALL.
+        LANG: en_US.UTF-8
+        LC_ALL: en_US.UTF-8
       run: |
-        export LC_ALL="en_US.UTF-8"
-        export LC_CTYPE="en_US.UTF-8"
-        sudo dpkg-reconfigure locales  # Zajištění správných locale
-        # python scripts/kinobox_trendy.py  # Spuštění Python skriptu pro generování RSS
+        # Následující řádky pro locale jsou většinou zbytečné v GitHub Actions,
+        # protože prostředí je již nastaveno a sudo není doporučeno, pokud není nezbytně nutné.
+        # export LC_ALL="en_US.UTF-8"
+        # export LC_CTYPE="en_US.UTF-8"
+        # sudo dpkg-reconfigure locales
+        
+        # Spuštění vašich Python skriptů
         python scripts/kinobox_novinky_json.py
         python scripts/tmdb_popular.py
         # python scripts/tmdb_tv.py
