@@ -6,7 +6,7 @@
     <description>Aktuálně nejvíce trendy filmy na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/kinobox_trendy_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 02 Jun 2025 22:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 00:00:04 +0200</lastBuildDate>
     <item>
       <title>Na plech</title>
       <link>https://www.kinobox.cz/film/2666286</link>
@@ -48,14 +48,14 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/04/upload_11447653862362434444.jpg" alt="Vlny plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Drama, Thriller, Historický, Blockbuster</p>]]></description>
     </item>
     <item>
+      <title>Radost na dosah</title>
+      <link>https://www.kinobox.cz/film/2682014</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/26/upload_1755087863109055321.jpg" alt="Radost na dosah plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Romantický</p>]]></description>
+    </item>
+    <item>
       <title>Společník</title>
       <link>https://www.kinobox.cz/film/2672138</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/upload_8199275422862711507.jpg" alt="Společník plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Sci-fi, Thriller, Horor</p>]]></description>
-    </item>
-    <item>
-      <title>V dobrém i zlém</title>
-      <link>https://www.kinobox.cz/film/2672739</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/30/upload_15007884097453310638.jpg" alt="V dobrém i zlém plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie</p>]]></description>
     </item>
     <item>
       <title>The Diplomat</title>
@@ -63,9 +63,9 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_820949916919460898.jpg" alt="The Diplomat plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Thriller, Drama</p>]]></description>
     </item>
     <item>
-      <title>Radost na dosah</title>
-      <link>https://www.kinobox.cz/film/2682014</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/26/upload_1755087863109055321.jpg" alt="Radost na dosah plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Romantický</p>]]></description>
+      <title>V dobrém i zlém</title>
+      <link>https://www.kinobox.cz/film/2672739</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/10/30/upload_15007884097453310638.jpg" alt="V dobrém i zlém plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie</p>]]></description>
     </item>
     <item>
       <title>Léto s Evženem</title>
@@ -88,11 +88,6 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/02/23/external_file_10472602821438742243.jpg" alt="Byl jednou jeden král... plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie, Pohádka, Rodinný, Vánoční</p>]]></description>
     </item>
     <item>
-      <title>Architektura ČSSR 58–89</title>
-      <link>https://www.kinobox.cz/film/2655931</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/03/upload_14405255511401405508.jpg" alt="Architektura ČSSR 58–89 plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
       <title>Babičky</title>
       <link>https://www.kinobox.cz/film/3227733</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/10/external_file_1233618106098953107.jpg" alt="Babičky plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Komedie</p>]]></description>
@@ -108,19 +103,24 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/04/08/upload_3063119944998439302.jpg" alt="Furiosa: Sága Šíleného Maxe plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Sci-fi, Blockbuster, Epický, Série/Franchise</p>]]></description>
     </item>
     <item>
-      <title>Klaus</title>
-      <link>https://www.kinobox.cz/film/715575</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg" alt="Klaus plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční</p>]]></description>
-    </item>
-    <item>
       <title>Duna: Část druhá</title>
       <link>https://www.kinobox.cz/film/721984</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/02/29/upload_1082187277995497275.jpg" alt="Duna: Část druhá plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Dobrodružný, Drama, Adaptace knižní, Série/Franchise, Sci-fi, Epický, Blockbuster</p>]]></description>
     </item>
     <item>
+      <title>Klaus</title>
+      <link>https://www.kinobox.cz/film/715575</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg" alt="Klaus plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční</p>]]></description>
+    </item>
+    <item>
       <title>Gentlemani</title>
       <link>https://www.kinobox.cz/film/438612</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2020/01/12/toff-guys-imdb172204842_1192.jpg" alt="Gentlemani plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Akční, Komedie, Krimi, Gangsterka</p>]]></description>
+    </item>
+    <item>
+      <title>Architektura ČSSR 58–89</title>
+      <link>https://www.kinobox.cz/film/2655931</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/03/upload_14405255511401405508.jpg" alt="Architektura ČSSR 58–89 plagát" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Žánry: Dokumentární</p>]]></description>
     </item>
     <item>
       <title>Dragon</title>
