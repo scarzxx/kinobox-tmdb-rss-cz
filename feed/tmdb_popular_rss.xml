@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější filmy na TheMovieDB.org</description>
     <language>en-us</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_popular_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 01 Jun 2025 22:09:16 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 02:47:09 +0200</lastBuildDate>
     <item>
       <title>Lilo &amp; Stitch</title>
       <link>https://www.themoviedb.org/movie/552524-lilo-stitch</link>
@@ -41,7 +41,7 @@
       <title>Mission: Impossible - The Final Reckoning</title>
       <link>https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</link>
       <guid isPermaLink="true">https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" alt="Mission: Impossible - The Final Reckoning poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/iKPsC9EFUafRP9SrUznI61getVP.jpg" alt="Mission: Impossible - The Final Reckoning poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p>]]></description>
     </item>
     <item>
       <title>Until Dawn</title>
