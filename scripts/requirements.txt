@@ -3,3 +3,4 @@ beautifulsoup4
 feedgen 
 lxml 
 pytz
+python-dotenv
