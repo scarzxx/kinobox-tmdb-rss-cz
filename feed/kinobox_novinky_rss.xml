@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Jun 2025 08:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 10:13:37 +0200</lastBuildDate>
+    <item>
+      <title>Tudum: A Netflix Global Fan Event</title>
+      <link>https://www.kinobox.cz/film/4646720</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/03/external_file_13201630128131898425.jpg" alt="Tudum: A Netflix Global Fan Event plagát" style="max-width: 100%; height: auto;" />]]></description>
+    </item>
     <item>
       <title>Life &amp; Love</title>
       <link>https://www.kinobox.cz/film/3142573</link>
@@ -161,11 +166,6 @@
       <title>Hold Me Close</title>
       <link>https://www.kinobox.cz/film/3169516</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_5684428026527660310.jpg" alt="Hold Me Close plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Drama, Fantasy</p>]]></description>
-    </item>
-    <item>
-      <title>Navždy - Navždy</title>
-      <link>https://www.kinobox.cz/film/3161527</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_5045624378544712547.jpg" alt="Navždy - Navždy plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
   </channel>
 </rss>
