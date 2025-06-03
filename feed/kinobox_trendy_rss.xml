@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Tue, 03 Jun 2025 22:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 00:00:04 +0200</lastBuildDate>
     <item>
       <title>Na plech</title>
       <link>https://www.kinobox.cz/film/2666286</link>
@@ -59,18 +59,18 @@
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Vlny</title>
-      <link>https://www.kinobox.cz/film/723825</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/06/04/upload_11447653862362434444.jpg" alt="Vlny plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 85%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Thriller, Historický, Blockbuster&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 131 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_723825</guid>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Radost na dosah</title>
       <link>https://www.kinobox.cz/film/2682014</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/11/26/upload_1755087863109055321.jpg" alt="Radost na dosah plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 35%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie, Romantický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 89 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_2682014</guid>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vlny</title>
+      <link>https://www.kinobox.cz/film/723825</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/06/04/upload_11447653862362434444.jpg" alt="Vlny plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 85%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Thriller, Historický, Blockbuster&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 131 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_723825</guid>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Společník</title>
@@ -87,18 +87,18 @@
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>V dobrém i zlém</title>
-      <link>https://www.kinobox.cz/film/2672739</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/10/30/upload_15007884097453310638.jpg" alt="V dobrém i zlém plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 54%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 93 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2672739</guid>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Léto s Evženem</title>
       <link>https://www.kinobox.cz/film/2668526</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_13422895238695269656.jpg" alt="Léto s Evženem plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 53%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie, Rodinný&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 97 min&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_2668526</guid>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>V dobrém i zlém</title>
+      <link>https://www.kinobox.cz/film/2672739</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/10/30/upload_15007884097453310638.jpg" alt="V dobrém i zlém plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 54%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 93 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2672739</guid>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lovec Kraven</title>
@@ -150,13 +150,6 @@
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Klaus</title>
-      <link>https://www.kinobox.cz/film/715575</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg" alt="Klaus plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 90%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2019&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 96 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 7+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_715575</guid>
-      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Gentlemani</title>
       <link>https://www.kinobox.cz/film/438612</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2020/01/12/toff-guys-imdb172204842_1192.jpg" alt="Gentlemani plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 86%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2020&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Komedie, Krimi, Gangsterka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 113 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
@@ -164,18 +157,11 @@
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Architektura ČSSR 58–89</title>
-      <link>https://www.kinobox.cz/film/2655931</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/06/03/upload_14405255511401405508.jpg" alt="Architektura ČSSR 58–89 plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 83%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Dokumentární&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 126 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 10+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2655931</guid>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dragon</title>
-      <link>https://www.kinobox.cz/film/3246879</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/external_file_8923585764137668592.jpg" alt="Dragon plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 78%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Romantický, Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 157 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_3246879</guid>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Klaus</title>
+      <link>https://www.kinobox.cz/film/715575</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg" alt="Klaus plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 90%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2019&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 96 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 7+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_715575</guid>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Svět mezi námi</title>
@@ -185,13 +171,6 @@
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pasáž</title>
-      <link>https://www.kinobox.cz/film/726587</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg" alt="Pasáž plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 58%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Dobrodružný, Drama, Sci-fi, Adaptace knižní&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 125 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 13+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_726587</guid>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Hranice lásky</title>
       <link>https://www.kinobox.cz/film/722480</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2022/07/09/obrazy-lasky135259420_588.jpg" alt="Hranice lásky plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 55%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Erotický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 95 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
@@ -199,11 +178,18 @@
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Seznam tajných přání</title>
-      <link>https://www.kinobox.cz/film/3181727</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/upload_1416216789848850559.png" alt="Seznam tajných přání plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 65%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Romantický, Komedie, Drama, Adaptace knižní&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 123 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 13+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_3181727</guid>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Pasáž</title>
+      <link>https://www.kinobox.cz/film/726587</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/10/18/external_file_10321834882886073787.jpg" alt="Pasáž plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 58%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Dobrodružný, Drama, Sci-fi, Adaptace knižní&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 125 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 13+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_726587</guid>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dragon</title>
+      <link>https://www.kinobox.cz/film/3246879</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/external_file_8923585764137668592.jpg" alt="Dragon plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 78%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Romantický, Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 157 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_3246879</guid>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pán prstenů: Válka Rohirů</title>
@@ -213,11 +199,25 @@
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Život k sežrání</title>
-      <link>https://www.kinobox.cz/film/2649567</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/06/30/upload_14186203432599502899.jpg" alt="Život k sežrání plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 72%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Animovaný, Loutkový, Dětský, Adaptace knižní, Rodinný, Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 80 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 1+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2649567</guid>
-      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <title>Seznam tajných přání</title>
+      <link>https://www.kinobox.cz/film/3181727</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/02/20/upload_1416216789848850559.png" alt="Seznam tajných přání plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 65%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Romantický, Komedie, Drama, Adaptace knižní&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 123 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 13+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_3181727</guid>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Němá tajemství</title>
+      <link>https://www.kinobox.cz/film/723287</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/08/30/external_file_11515338581731621082.jpg" alt="Němá tajemství plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 75%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2023&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Mysteriozní, Drama, Krimi, Romantický, Psychologický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 107 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_723287</guid>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Architektura ČSSR 58–89</title>
+      <link>https://www.kinobox.cz/film/2655931</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/06/03/upload_14405255511401405508.jpg" alt="Architektura ČSSR 58–89 plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 83%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Dokumentární&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 126 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 10+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2655931</guid>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sedm</title>
@@ -227,11 +227,11 @@
       <pubDate>Thu, 28 Mar 1996 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Zúčtování</title>
-      <link>https://www.kinobox.cz/film/434561</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2016/09/09/the-accountant-2121132842_1192.jpg" alt="Zúčtování plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 79%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2016&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Drama, Krimi, Thriller, Retro&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 128 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_434561</guid>
-      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Život k sežrání</title>
+      <link>https://www.kinobox.cz/film/2649567</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/06/30/upload_14186203432599502899.jpg" alt="Život k sežrání plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 72%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Animovaný, Loutkový, Dětský, Adaptace knižní, Rodinný, Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 80 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 1+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2649567</guid>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
