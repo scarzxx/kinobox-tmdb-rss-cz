@@ -1,4 +1,3 @@
 venv/
-# Ignore the Trakt secrets file
-scripts/.trakt_secrets.env
+# Ignore the secrets files
 scripts/.env
