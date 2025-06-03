@@ -37,6 +37,7 @@ try:
     response = requests.get(url, headers=headers)
     response.raise_for_status()
     data = response.json()
+    print(f"Počet nalezených filmů: {len(data.get('results', []))}")
 except requests.exceptions.HTTPError as http_err:
     print(f"HTTP chyba při volání API: {http_err}")
     print(f"Odpověď serveru: {response.text}")
@@ -55,7 +56,12 @@ fg.language('cs-CZ')
 IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500"
 
 if 'results' in data and data['results']:
-    for movie in data['results']:
+    processed_movies = list(data['results']) # Vytvoří kopii seznamu filmů
+    processed_movies.reverse() # Obrátí pořadí filmů, aby nejnovější byly nahoře
+    for movie in processed_movies: # Pro každý film v obráceném pořadí
+        
+        # --- Přidání položky do RSS feedu ---
+    #for movie in data['results']:
         fe = fg.add_entry()
         fe.id(f"tmdb_movie_{movie['id']}")
         fe.title(movie['title']) #title = cz | original_title = en
