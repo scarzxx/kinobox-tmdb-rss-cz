@@ -58,7 +58,7 @@ if 'results' in data and data['results']:
     for movie in data['results']:
         fe = fg.add_entry()
         fe.id(f"tmdb_movie_{movie['id']}")
-        fe.title(movie['original_title']) #title cz | original_title = en
+        fe.title(movie['title']) #title = cz | original_title = en
 
         movie_url = f"https://www.themoviedb.org/movie/{movie['id']}"
         fe.link(href=movie_url)
