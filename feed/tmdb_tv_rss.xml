@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Jun 2025 04:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 06:00:02 +0200</lastBuildDate>
     <item>
       <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
       <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
@@ -62,6 +62,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/poTtFCp1LjEl187NuqD6ekFplb6.jpg" alt="Simpsonovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 17. pro. 1989</p>]]></description>
     </item>
     <item>
+      <title>Lovci duchů</title>
+      <link>https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
+    </item>
+    <item>
       <title>Havaj 5-0</title>
       <link>https://www.themoviedb.org/tv/32798-hawaii-five-0?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/32798-hawaii-five-0?language=cs-CZ</guid>
@@ -72,6 +78,12 @@
       <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
+    </item>
+    <item>
+      <title>Policie Chicago</title>
+      <link>https://www.themoviedb.org/tv/58841-chicago-p-d?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/58841-chicago-p-d?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg" alt="Policie Chicago poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 08. led. 2014</p>]]></description>
     </item>
     <item>
       <title>John Oliver: Co týden dal a vzal</title>
@@ -110,22 +122,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
     </item>
     <item>
-      <title>Star Trek: Nová generace</title>
-      <link>https://www.themoviedb.org/tv/655-star-trek-the-next-generation?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/655-star-trek-the-next-generation?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg" alt="Star Trek: Nová generace poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 28. zář. 1987</p>]]></description>
-    </item>
-    <item>
       <title>Keeping Up with the Kardashians</title>
       <link>https://www.themoviedb.org/tv/14814-keeping-up-with-the-kardashians?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/14814-keeping-up-with-the-kardashians?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/nddXOC8wYpIDv7giLzjjqIg8WDA.jpg" alt="Keeping Up with the Kardashians poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 14. říj. 2007</p>]]></description>
-    </item>
-    <item>
-      <title>Upíří deníky</title>
-      <link>https://www.themoviedb.org/tv/18165-the-vampire-diaries?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/18165-the-vampire-diaries?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/49WSEvAFYVtOzEM22Ee81JUKRI7.jpg" alt="Upíří deníky poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 10. zář. 2009</p>]]></description>
     </item>
   </channel>
 </rss>
