@@ -156,8 +156,8 @@ else:
             continue
 
         # ID položky (guid v RSS)
-        #fe.id(f'kinobox_film_{film_id}') # Původní ID, ale použijeme URL pro lepší kompatibilitu s RSS
-        fe.guid(guid=f'{BASE_KINOBOX_URL}/film/{film_id}', permalink=True) # <--- ZMĚNA ZDE! # Použijeme URL jako ID, což je vhodné pro RSS
+        fe.id(f'kinobox_film_{film_id}') # Původní ID, ale použijeme URL pro lepší kompatibilitu s RSS
+        #fe.guid(guid=f'{BASE_KINOBOX_URL}/film/{film_id}', permalink=True) # <--- ZMĚNA ZDE! # Použijeme URL jako ID, což je vhodné pro RSS
 
         # Titulek položky
         fe.title(film_name)
