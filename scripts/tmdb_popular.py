@@ -1,14 +1,14 @@
 import requests
 import json
 from feedgen.feed import FeedGenerator
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from dotenv import load_dotenv
 import os
 
 # --- Načtení .env souboru ---
 load_dotenv()
 
-# Získá absolutní cestu k adresáři, kde se skript nachází (např. .../kinobox_rss/scripts)
+# Absolutní cesta k adresáři skriptu
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # --- API klíče ---
@@ -16,7 +16,6 @@ TMDB_API_KEY = os.environ.get("TMDB_API_KEY")
 TRAKT_CLIENT_ID = os.environ.get("TRAKT_CLIENT_ID")
 OUTPUT_FILE = os.path.join(script_dir, os.pardir, "feed", "tmdb_popular_rss.xml")
 
-# Kontrola, zda je API klíč nastaven
 if not TMDB_API_KEY:
     raise ValueError("TMDB_API_KEY není nastavena v prostředí.")
 if not TRAKT_CLIENT_ID:
@@ -25,48 +24,39 @@ if not TRAKT_CLIENT_ID:
 if TMDB_API_KEY == "token" or not TMDB_API_KEY:
     exit("API klíč není nastaven. Ukončuji skript.")
 
-# --- TMDB API volání (více stránek) ---
 headers = {
     "accept": "application/json",
     "Authorization": f"Bearer {TMDB_API_KEY}"
 }
 
-data = {"results": []}
-
-for pages in range(1, 3):  # stránka 1 a 2
-    url = f"https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=cs-CZ&page={pages}&sort_by=popularity.desc"
-    
+# --- Načtení více stránek z TMDB ---
+all_results = []
+for page in range(1, 3):  # stránka 1 a 2
+    url = f"https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=cs-CZ&page={page}&sort_by=popularity.desc"
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()
         page_data = response.json()
         if 'results' in page_data:
-            data['results'].extend(page_data['results'])
-    except requests.exceptions.HTTPError as http_err:
-        print(f"HTTP chyba na stránce {pages}: {http_err}")
-        print(f"Odpověď serveru: {response.text}")
-    except requests.exceptions.RequestException as req_err:
-        print(f"Chyba při volání API na stránce {pages}: {req_err}")
-    except json.JSONDecodeError:
-        print(f"Chyba při dekódování JSON odpovědi na stránce {pages}. Odpověď serveru:\n{response.text}")
+            all_results.extend(page_data['results'])
+    except requests.exceptions.RequestException as e:
+        print(f"Chyba při načítání stránky {page}: {e}")
 
 # --- Tvorba RSS Feedu ---
 fg = FeedGenerator()
 fg.title('Oblíbené filmy - TheMovieDB')
 fg.link(href='https://www.themoviedb.org/', rel='alternate')
-fg.description('Seznam nejoblíbenější filmů z TheMovieDB.')
+fg.description('Seznam nejoblíbenějších filmů z TheMovieDB.')
 fg.language('cs-CZ')
 
 IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500"
 
-if 'results' in data and data['results']:
-    for movie in data['results']:
+if all_results:
+    for idx, movie in enumerate(all_results):
         fe = fg.add_entry()
         fe.id(f"tmdb_movie_{movie['id']}")
-        fe.title(movie['title'])  # title = cz | original_title = en
-
-        movie_url = f"https://www.themoviedb.org/movie/{movie['id']}"
-        fe.link(href=movie_url)
+        fe.title(movie['title'])
+        fe.link(href=f"https://www.themoviedb.org/movie/{movie['id']}")
 
         description_html = ""
         if movie.get('poster_path'):
@@ -78,7 +68,6 @@ if 'results' in data and data['results']:
             description_html += f"<p>Hodnocení: {movie['vote_average']}/10 ({movie.get('vote_count', 0)} hlasů)</p>"
 
         # --- Trakt API ---
-        trakt_url = None
         if TRAKT_CLIENT_ID:
             trakt_api_url = f"https://api.trakt.tv/search/tmdb/{movie['id']}?type=movie"
             trakt_headers = {
@@ -99,13 +88,9 @@ if 'results' in data and data['results']:
 
         fe.description(description_html, isSummary=False)
 
-        if movie.get('release_date'):
-            try:
-                release_dt = datetime.strptime(movie['release_date'], '%Y-%m-%d')
-                release_dt_aware = release_dt.replace(tzinfo=timezone.utc)
-                fe.pubDate(release_dt_aware)
-            except ValueError:
-                print(f"Varování: Neplatný formát data pro film {movie['title']}: {movie['release_date']}")
+        # --- Umělé pubDate pro zachování pořadí ---
+        fake_pubdate = datetime.now(timezone.utc) - timedelta(seconds=idx)
+        fe.pubDate(fake_pubdate)
 
 else:
     print("Nebyly nalezeny žádné filmy pro vytvoření RSS feedu.")
@@ -113,7 +98,6 @@ else:
 # --- Uložení RSS feedu ---
 rss_feed_xml = fg.rss_str(pretty=True)
 
-# Kontrola a vytvoření adresáře, pokud neexistuje
 output_dir = os.path.dirname(OUTPUT_FILE)
 if output_dir and not os.path.exists(output_dir):
     print(f"Vytvářím adresář: {output_dir}")
