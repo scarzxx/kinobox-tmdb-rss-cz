@@ -33,7 +33,7 @@ headers = {
 
 data = {"results": []}
 
-for pages in range(2, 1):  # stránka 1 a 2
+for pages in range(2, 0, -1):  # stránka 1 a 2
     url = f"https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=cs-CZ&page={pages}&sort_by=popularity.desc"
     
     try:
