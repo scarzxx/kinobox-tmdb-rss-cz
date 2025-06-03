@@ -25,30 +25,25 @@ if not TRAKT_CLIENT_ID:
 if TMDB_API_KEY == "token" or not TMDB_API_KEY:
     exit("API klíč není nastaven. Ukončuji skript.")
 
-# --- TMDB API volání (více stránek) ---
+# --- TMDB API volání ---
+url = "https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=cs-CZ&page=1&sort_by=popularity.desc"
 headers = {
     "accept": "application/json",
     "Authorization": f"Bearer {TMDB_API_KEY}"
 }
 
 data = {"results": []}
-
-for pages in range(2, 0, -1):  # stránka 1 a 2
-    url = f"https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=cs-CZ&page={pages}&sort_by=popularity.desc"
-    
-    try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-        page_data = response.json()
-        if 'results' in page_data:
-            data['results'].extend(page_data['results'])
-    except requests.exceptions.HTTPError as http_err:
-        print(f"HTTP chyba na stránce {pages}: {http_err}")
-        print(f"Odpověď serveru: {response.text}")
-    except requests.exceptions.RequestException as req_err:
-        print(f"Chyba při volání API na stránce {pages}: {req_err}")
-    except json.JSONDecodeError:
-        print(f"Chyba při dekódování JSON odpovědi na stránce {pages}. Odpověď serveru:\n{response.text}")
+try:
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+    data = response.json()
+except requests.exceptions.HTTPError as http_err:
+    print(f"HTTP chyba při volání API: {http_err}")
+    print(f"Odpověď serveru: {response.text}")
+except requests.exceptions.RequestException as req_err:
+    print(f"Chyba při volání API: {req_err}")
+except json.JSONDecodeError:
+    print(f"Chyba při dekódování JSON odpovědi. Odpověď serveru:\n{response.text}")
 
 # --- Tvorba RSS Feedu ---
 fg = FeedGenerator()
@@ -63,7 +58,7 @@ if 'results' in data and data['results']:
     for movie in data['results']:
         fe = fg.add_entry()
         fe.id(f"tmdb_movie_{movie['id']}")
-        fe.title(movie['title'])  # title = cz | original_title = en
+        fe.title(movie['original_title']) #title cz | original_title = en
 
         movie_url = f"https://www.themoviedb.org/movie/{movie['id']}"
         fe.link(href=movie_url)
@@ -94,6 +89,9 @@ if 'results' in data and data['results']:
                     slug = trakt_data[0]['movie']['ids']['slug']
                     trakt_url = f"https://trakt.tv/movies/{slug}"
                     description_html += f"<p><strong>Trakt:</strong> <a href='{trakt_url}'>{trakt_url}</a></p>"
+                    
+                    # Nepovinné: přidání jako vlastní element <trakt> do feedu (můžeš odkomentovat):
+                    # fe.extend({'trakt': trakt_url})
             except requests.exceptions.RequestException as e:
                 print(f"Chyba při získávání Trakt URL pro {movie['title']}: {e}")
 
@@ -113,11 +111,11 @@ else:
 # --- Uložení RSS feedu ---
 rss_feed_xml = fg.rss_str(pretty=True)
 
-# Kontrola a vytvoření adresáře, pokud neexistuje
+   # Kontrola a vytvoření adresáře, pokud neexistuje
 output_dir = os.path.dirname(OUTPUT_FILE)
 if output_dir and not os.path.exists(output_dir):
-    print(f"Vytvářím adresář: {output_dir}")
-    os.makedirs(output_dir)
+        print(f"Vytvářím adresář: {output_dir}")
+        os.makedirs(output_dir)
 
 try:
     with open(OUTPUT_FILE, "wb") as f:
