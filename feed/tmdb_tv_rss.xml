@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 04 Jun 2025 02:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 04:00:03 +0200</lastBuildDate>
     <item>
       <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
       <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
@@ -92,16 +92,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
     </item>
     <item>
-      <title>Policie Chicago</title>
-      <link>https://www.themoviedb.org/tv/58841-chicago-p-d?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/58841-chicago-p-d?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg" alt="Policie Chicago poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 08. led. 2014</p>]]></description>
-    </item>
-    <item>
       <title>Dva a půl chlapa</title>
       <link>https://www.themoviedb.org/tv/2691-two-and-a-half-men?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/2691-two-and-a-half-men?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/xgfjxyV3g1S68opzuvG6G87muDp.jpg" alt="Dva a půl chlapa poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 22. zář. 2003</p>]]></description>
+    </item>
+    <item>
+      <title>Policie Chicago</title>
+      <link>https://www.themoviedb.org/tv/58841-chicago-p-d?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/58841-chicago-p-d?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg" alt="Policie Chicago poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 08. led. 2014</p>]]></description>
     </item>
     <item>
       <title>Hra o trůny</title>
