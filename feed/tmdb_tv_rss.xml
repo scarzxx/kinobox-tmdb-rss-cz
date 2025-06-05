@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 05 Jun 2025 02:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 04:00:02 +0200</lastBuildDate>
     <item>
       <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
       <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
@@ -30,6 +30,12 @@
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lQybEErJhFc1jkrOjeo5bPTUeUB.jpg" alt="Chirurgové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 27. bře. 2005</p>]]></description>
+    </item>
+    <item>
+      <title>Raw</title>
+      <link>https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg" alt="Raw poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p><p>První vysílání: 11. led. 1993</p>]]></description>
     </item>
     <item>
       <title>Griffinovi</title>
@@ -120,12 +126,6 @@
       <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
-    </item>
-    <item>
-      <title>Mladí Titáni do toho!</title>
-      <link>https://www.themoviedb.org/tv/45140-teen-titans-go?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/45140-teen-titans-go?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/w0pwKXGhS39cmxFAAtycmJTqwXW.jpg" alt="Mladí Titáni do toho! poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p><p>První vysílání: 23. dub. 2013</p>]]></description>
     </item>
   </channel>
 </rss>
