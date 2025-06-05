@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 05 Jun 2025 06:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 08:00:02 +0200</lastBuildDate>
     <item>
       <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
       <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
@@ -80,6 +80,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/b12eM3FXNjN7yM7XYTIdmeQRud9.jpg" alt="John Oliver: Co týden dal a vzal poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 27. dub. 2014</p>]]></description>
     </item>
     <item>
+      <title>Po stopách duchů</title>
+      <link>https://www.themoviedb.org/tv/17937-ghost-adventures?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/17937-ghost-adventures?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/xLJZuDxdeUqRFHFlqs0mIk9faMR.jpg" alt="Po stopách duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 17. říj. 2008</p>]]></description>
+    </item>
+    <item>
       <title>Lovci duchů</title>
       <link>https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</guid>
@@ -90,12 +96,6 @@
       <link>https://www.themoviedb.org/tv/32798-hawaii-five-0?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/32798-hawaii-five-0?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg" alt="Havaj 5-0 poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 20. zář. 2010</p>]]></description>
-    </item>
-    <item>
-      <title>Rick a Morty</title>
-      <link>https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4LnVjEIlDG4PCyY7PDSBJxgeRWD.jpg" alt="Rick a Morty poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 02. pro. 2013</p>]]></description>
     </item>
     <item>
       <title>Černá listina</title>
@@ -116,16 +116,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg" alt="Policie Chicago poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 08. led. 2014</p>]]></description>
     </item>
     <item>
+      <title>Rick a Morty</title>
+      <link>https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4LnVjEIlDG4PCyY7PDSBJxgeRWD.jpg" alt="Rick a Morty poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 02. pro. 2013</p>]]></description>
+    </item>
+    <item>
       <title>Gumballův úžasný svět</title>
       <link>https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pekAF7dErv5aXR4wyvWLF04sF6s.jpg" alt="Gumballův úžasný svět poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 03. kvě. 2011</p>]]></description>
-    </item>
-    <item>
-      <title>Hra o trůny</title>
-      <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
     </item>
   </channel>
 </rss>
