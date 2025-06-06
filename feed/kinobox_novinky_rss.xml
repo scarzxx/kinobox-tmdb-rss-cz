@@ -6,21 +6,21 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 06 Jun 2025 10:12:57 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 14:16:35 +0200</lastBuildDate>
     <item>
       <title>Dvě tváře zločinu</title>
       <link>https://www.kinobox.cz/film/2662712</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/external_file_4305395094718020588.jpg" alt="Dvě tváře zločinu plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Biografický</p>]]></description>
     </item>
     <item>
-      <title>Mamífera</title>
-      <link>https://www.kinobox.cz/film/3149571</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_2950694465203517770.jpg" alt="Mamífera plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama</p>]]></description>
+      <title>Magnetický muž</title>
+      <link>https://www.kinobox.cz/film/3155832</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_327471003619973135.jpg" alt="Magnetický muž plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Dobrodružný, Komedie</p>]]></description>
     </item>
     <item>
-      <title>The Magnet Man</title>
-      <link>https://www.kinobox.cz/film/3155832</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_327471003619973135.jpg" alt="The Magnet Man plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+      <title>Mateřský instinkt</title>
+      <link>https://www.kinobox.cz/film/3149571</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_2950694465203517770.jpg" alt="Mateřský instinkt plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama</p>]]></description>
     </item>
     <item>
       <title>Uninvited</title>
@@ -31,11 +31,6 @@
       <title>Dražen</title>
       <link>https://www.kinobox.cz/film/3165737</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_17519062325357939564.jpg" alt="Dražen plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Tudum: A Netflix Global Fan Event</title>
-      <link>https://www.kinobox.cz/film/4646720</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/03/external_file_13201630128131898425.jpg" alt="Tudum: A Netflix Global Fan Event plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: TV pořad</p>]]></description>
     </item>
     <item>
       <title>Mountainhead</title>
@@ -166,6 +161,11 @@
       <title>My Future You</title>
       <link>https://www.kinobox.cz/film/4555046</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/07/external_file_6088533495649568748.jpg" alt="My Future You plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Komedie, Fantasy</p>]]></description>
+    </item>
+    <item>
+      <title>Na plech</title>
+      <link>https://www.kinobox.cz/film/2666286</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/28/upload_14992614937913032432.jpg" alt="Na plech plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
     </item>
   </channel>
 </rss>
