@@ -6,7 +6,27 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 06 Jun 2025 06:15:47 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 10:12:57 +0200</lastBuildDate>
+    <item>
+      <title>Dvě tváře zločinu</title>
+      <link>https://www.kinobox.cz/film/2662712</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/external_file_4305395094718020588.jpg" alt="Dvě tváře zločinu plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Biografický</p>]]></description>
+    </item>
+    <item>
+      <title>Mamífera</title>
+      <link>https://www.kinobox.cz/film/3149571</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_2950694465203517770.jpg" alt="Mamífera plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama</p>]]></description>
+    </item>
+    <item>
+      <title>The Magnet Man</title>
+      <link>https://www.kinobox.cz/film/3155832</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_327471003619973135.jpg" alt="The Magnet Man plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Uninvited</title>
+      <link>https://www.kinobox.cz/film/3169520</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_9877455417138348171.jpg" alt="Uninvited plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller</p>]]></description>
+    </item>
     <item>
       <title>Dražen</title>
       <link>https://www.kinobox.cz/film/3165737</link>
@@ -66,6 +86,11 @@
       <title>Radost na dosah</title>
       <link>https://www.kinobox.cz/film/2682014</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/26/upload_1755087863109055321.jpg" alt="Radost na dosah plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Romantický</p>]]></description>
+    </item>
+    <item>
+      <title>Sikandar</title>
+      <link>https://www.kinobox.cz/film/3181451</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/04/external_file_9128943648578965344.jpg" alt="Sikandar plagát" style="max-width: 100%; height: auto;" />]]></description>
     </item>
     <item>
       <title>Americká letecká elita: Thunderbirds</title>
@@ -141,31 +166,6 @@
       <title>My Future You</title>
       <link>https://www.kinobox.cz/film/4555046</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/07/external_file_6088533495649568748.jpg" alt="My Future You plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Komedie, Fantasy</p>]]></description>
-    </item>
-    <item>
-      <title>Na plech</title>
-      <link>https://www.kinobox.cz/film/2666286</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/28/upload_14992614937913032432.jpg" alt="Na plech plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Babičky</title>
-      <link>https://www.kinobox.cz/film/3227733</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/10/external_file_1233618106098953107.jpg" alt="Babičky plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Bad Influence</title>
-      <link>https://www.kinobox.cz/film/3171095</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_18358285207980936918.jpg" alt="Bad Influence plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller, Romantický, Adaptace knižní</p>]]></description>
-    </item>
-    <item>
-      <title>The Diplomat</title>
-      <link>https://www.kinobox.cz/film/3285958</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_820949916919460898.jpg" alt="The Diplomat plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller, Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Diagnóza: Disent</title>
-      <link>https://www.kinobox.cz/film/3165775</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_15183251033768266189.jpg" alt="Diagnóza: Disent plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Historický</p>]]></description>
     </item>
   </channel>
 </rss>
