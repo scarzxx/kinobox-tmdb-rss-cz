@@ -6,11 +6,16 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 09 Jun 2025 06:21:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 10:14:24 +0200</lastBuildDate>
     <item>
       <title>Dvě tváře zločinu</title>
       <link>https://www.kinobox.cz/film/2662712</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/external_file_4305395094718020588.jpg" alt="Dvě tváře zločinu plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Biografický</p>]]></description>
+    </item>
+    <item>
+      <title>K.O.</title>
+      <link>https://www.kinobox.cz/film/4210056</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/14/external_file_10487886701773155413.jpg" alt="K.O. plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Akční, Drama</p>]]></description>
     </item>
     <item>
       <title>Poslední kapka</title>
@@ -161,11 +166,6 @@
       <title>Lovec Kraven</title>
       <link>https://www.kinobox.cz/film/723503</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_1030726229074471834.jpg" alt="Lovec Kraven plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Akční, Dobrodružný, Sci-fi, Komiksový</p>]]></description>
-    </item>
-    <item>
-      <title>Vini Jr.</title>
-      <link>https://www.kinobox.cz/film/4503769</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/23/external_file_5689751343228965465.jpg" alt="Vini Jr. plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Sportovní, Biografický</p>]]></description>
     </item>
   </channel>
 </rss>
