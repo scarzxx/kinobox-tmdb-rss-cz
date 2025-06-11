@@ -6,7 +6,7 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Jun 2025 06:18:41 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 10:12:59 +0200</lastBuildDate>
     <item>
       <title>Dvě tváře zločinu</title>
       <link>https://www.kinobox.cz/film/2662712</link>
@@ -46,6 +46,11 @@
       <title>Dražen</title>
       <link>https://www.kinobox.cz/film/3165737</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_17519062325357939564.jpg" alt="Dražen plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Totální provar: Tragédie na festivalu Astroworld</title>
+      <link>https://www.kinobox.cz/film/4564088</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/10/external_file_18164329066836997242.jpg" alt="Totální provar: Tragédie na festivalu Astroworld plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
     <item>
       <title>Mountainhead</title>
@@ -161,11 +166,6 @@
       <title>Kóje 234</title>
       <link>https://www.kinobox.cz/film/3159904</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_16184571384074391977.jpg" alt="Kóje 234 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller</p>]]></description>
-    </item>
-    <item>
-      <title>Lovec Kraven</title>
-      <link>https://www.kinobox.cz/film/723503</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_1030726229074471834.jpg" alt="Lovec Kraven plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Akční, Dobrodružný, Sci-fi, Komiksový</p>]]></description>
     </item>
   </channel>
 </rss>
