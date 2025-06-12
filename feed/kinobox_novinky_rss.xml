@@ -6,7 +6,22 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Jun 2025 06:16:38 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 10:13:21 +0200</lastBuildDate>
+    <item>
+      <title>Titan: Neštěstí jménem OceanGate</title>
+      <link>https://www.kinobox.cz/film/4483307</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/28/external_file_10185248258331172553.jpg" alt="Titan: Neštěstí jménem OceanGate plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
+    </item>
+    <item>
+      <title>Viva a Vida</title>
+      <link>https://www.kinobox.cz/film/4613215</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/23/external_file_3163418353761626700.jpg" alt="Viva a Vida plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama, Romantický</p>]]></description>
+    </item>
+    <item>
+      <title>V našich časech</title>
+      <link>https://www.kinobox.cz/film/4589282</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/20/external_file_4316691513099659810.jpg" alt="V našich časech plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Sci-fi, Romantický, Komedie, Drama</p>]]></description>
+    </item>
     <item>
       <title>Dvě tváře zločinu</title>
       <link>https://www.kinobox.cz/film/2662712</link>
@@ -151,21 +166,6 @@
       <title>Ex Ex Lovers</title>
       <link>https://www.kinobox.cz/film/3285253</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_16639143926779776721.jpg" alt="Ex Ex Lovers plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Dalia a červená kniha</title>
-      <link>https://www.kinobox.cz/film/3164384</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_10948244813031958460.jpg" alt="Dalia a červená kniha plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dobrodružný, Drama, Fantasy, Animovaný</p>]]></description>
-    </item>
-    <item>
-      <title>Jako v peřince</title>
-      <link>https://www.kinobox.cz/film/3153642</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_1203387117058440321.jpg" alt="Jako v peřince plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Krátkometrážní</p>]]></description>
-    </item>
-    <item>
-      <title>Kóje 234</title>
-      <link>https://www.kinobox.cz/film/3159904</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_16184571384074391977.jpg" alt="Kóje 234 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller</p>]]></description>
     </item>
   </channel>
 </rss>
