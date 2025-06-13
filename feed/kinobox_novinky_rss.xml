@@ -6,7 +6,17 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 13 Jun 2025 06:17:35 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 10:12:48 +0200</lastBuildDate>
+    <item>
+      <title>Poslední den</title>
+      <link>https://www.kinobox.cz/film/2655283</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/05/29/upload_1027458410387696577.jpg" alt="Poslední den plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Přes mraky a skály</title>
+      <link>https://www.kinobox.cz/film/2655308</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/05/29/upload_11541079594723798088.jpg" alt="Přes mraky a skály plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
     <item>
       <title>Titan: Neštěstí jménem OceanGate</title>
       <link>https://www.kinobox.cz/film/4483307</link>
@@ -156,16 +166,6 @@
       <title>Syn</title>
       <link>https://www.kinobox.cz/film/3158659</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_14810148187466566365.jpg" alt="Syn plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Sully: Zázrak na řece Hudson</title>
-      <link>https://www.kinobox.cz/film/434715</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2016/08/28/sully195257842_1192.jpg" alt="Sully: Zázrak na řece Hudson plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Biografický</p>]]></description>
-    </item>
-    <item>
-      <title>Ex Ex Lovers</title>
-      <link>https://www.kinobox.cz/film/3285253</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_16639143926779776721.jpg" alt="Ex Ex Lovers plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Komedie</p>]]></description>
     </item>
   </channel>
 </rss>
