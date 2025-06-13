@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 13 Jun 2025 14:17:17 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 18:10:46 +0200</lastBuildDate>
+    <item>
+      <title>Substance</title>
+      <link>https://www.kinobox.cz/film/2652570</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/09/30/upload_5010775436198100271.jpg" alt="Substance plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Satira, Drama, Horor</p>]]></description>
+    </item>
     <item>
       <title>Poslední den</title>
       <link>https://www.kinobox.cz/film/2655283</link>
@@ -161,11 +166,6 @@
       <title>Její druhá šance</title>
       <link>https://www.kinobox.cz/film/3147488</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_7862927020823377862.jpg" alt="Její druhá šance plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Syn</title>
-      <link>https://www.kinobox.cz/film/3158659</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_14810148187466566365.jpg" alt="Syn plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
   </channel>
 </rss>
