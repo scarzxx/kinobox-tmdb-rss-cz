@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sat, 14 Jun 2025 22:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 00:00:04 +0200</lastBuildDate>
     <item>
       <title>Na plech</title>
       <link>https://www.kinobox.cz/film/2666286</link>
@@ -66,6 +66,13 @@
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Substance</title>
+      <link>https://www.kinobox.cz/film/2652570</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/09/30/upload_5010775436198100271.jpg" alt="Substance plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 72%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Satira, Drama, Horor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 141 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2652570</guid>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Společník</title>
       <link>https://www.kinobox.cz/film/2672138</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/upload_8199275422862711507.jpg" alt="Společník plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 67%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Sci-fi, Thriller, Horor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 97 min&lt;/p&gt;</description>
@@ -87,18 +94,18 @@
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Substance</title>
-      <link>https://www.kinobox.cz/film/2652570</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/09/30/upload_5010775436198100271.jpg" alt="Substance plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 72%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Satira, Drama, Horor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 141 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2652570</guid>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Diagnóza: Disent</title>
       <link>https://www.kinobox.cz/film/3165775</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_15183251033768266189.jpg" alt="Diagnóza: Disent plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 73%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Historický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 118 min&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_3165775</guid>
       <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poslední kapka</title>
+      <link>https://www.kinobox.cz/film/4531203</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/05/15/upload_1139774459937312975.png" alt="Poslední kapka plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 69%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Thriller&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 105 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_4531203</guid>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lovec Kraven</title>
@@ -115,11 +122,11 @@
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Poslední kapka</title>
-      <link>https://www.kinobox.cz/film/4531203</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/05/15/upload_1139774459937312975.png" alt="Poslední kapka plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 69%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Thriller&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 105 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_4531203</guid>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <title>Byl jednou jeden král...</title>
+      <link>https://www.kinobox.cz/film/4832</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/02/23/external_file_10472602821438742243.jpg" alt="Byl jednou jeden král... plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 84%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 1954&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie, Pohádka, Rodinný, Vánoční&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 107 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_4832</guid>
+      <pubDate>Fri, 11 Feb 1955 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Léto s Evženem</title>
@@ -127,13 +134,6 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_13422895238695269656.jpg" alt="Léto s Evženem plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 53%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie, Rodinný&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 97 min&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_2668526</guid>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Byl jednou jeden král...</title>
-      <link>https://www.kinobox.cz/film/4832</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/02/23/external_file_10472602821438742243.jpg" alt="Byl jednou jeden král... plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 84%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 1954&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie, Pohádka, Rodinný, Vánoční&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 107 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_4832</guid>
-      <pubDate>Fri, 11 Feb 1955 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Němá tajemství</title>
@@ -199,13 +199,6 @@
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Zúčtování</title>
-      <link>https://www.kinobox.cz/film/434561</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2016/09/09/the-accountant-2121132842_1192.jpg" alt="Zúčtování plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 79%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2016&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Drama, Krimi, Thriller, Retro&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 128 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_434561</guid>
-      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ztracená v svitu hvězd</title>
       <link>https://www.kinobox.cz/film/4530984</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/04/30/upload_17881988252910604181.png" alt="Ztracená v svitu hvězd plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 73%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Animovaný, Komedie, Anime&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 96 min&lt;/p&gt;</description>
@@ -220,6 +213,13 @@
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Zúčtování</title>
+      <link>https://www.kinobox.cz/film/434561</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2016/09/09/the-accountant-2121132842_1192.jpg" alt="Zúčtování plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 79%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2016&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Drama, Krimi, Thriller, Retro&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 128 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_434561</guid>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Nejhorší člověk na světě</title>
       <link>https://www.kinobox.cz/film/722591</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2022/03/17/verdens-verste-menneske0906163508_4967.jpg" alt="Nejhorší člověk na světě plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 74%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2021&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Komedie, Romantický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 128 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
@@ -227,11 +227,11 @@
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sedm</title>
-      <link>https://www.kinobox.cz/film/18561</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/09/01/18561___external_file_11017832207419169185.jpg" alt="Sedm plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 92%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 1995&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Krimi, Mysteriozní, Thriller, Film Noir, Gotický, Nezávislý&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 127 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_18561</guid>
-      <pubDate>Thu, 28 Mar 1996 00:00:00 +0000</pubDate>
+      <title>Černá vdova</title>
+      <link>https://www.kinobox.cz/film/3181284</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/05/19/external_file_7921524903352175175.jpg" alt="Černá vdova plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 58%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Krimi, Drama, Thriller&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 122 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_3181284</guid>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
