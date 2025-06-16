@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 16 Jun 2025 06:21:59 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 10:14:03 +0200</lastBuildDate>
+    <item>
+      <title>A Business Proposal</title>
+      <link>https://www.kinobox.cz/film/3270304</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/08/external_file_979438485141895500.jpg" alt="A Business Proposal plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Komedie, Romantický</p>]]></description>
+    </item>
     <item>
       <title>Substance</title>
       <link>https://www.kinobox.cz/film/2652570</link>
@@ -161,11 +166,6 @@
       <title>Espantaho</title>
       <link>https://www.kinobox.cz/film/3169522</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_10071360367293172651.jpg" alt="Espantaho plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor</p>]]></description>
-    </item>
-    <item>
-      <title>Její druhá šance</title>
-      <link>https://www.kinobox.cz/film/3147488</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_7862927020823377862.jpg" alt="Její druhá šance plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
   </channel>
 </rss>
