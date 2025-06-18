@@ -6,7 +6,7 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Jun 2025 02:45:02 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 06:18:27 +0200</lastBuildDate>
     <item>
       <title>A Business Proposal</title>
       <link>https://www.kinobox.cz/film/3270304</link>
@@ -41,6 +41,11 @@
       <title>V našich časech</title>
       <link>https://www.kinobox.cz/film/4589282</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/20/external_file_4316691513099659810.jpg" alt="V našich časech plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Sci-fi, Romantický, Komedie, Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Totální provar: Tragédie na festivalu Astroworld</title>
+      <link>https://www.kinobox.cz/film/4564088</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/10/external_file_18164329066836997242.jpg" alt="Totální provar: Tragédie na festivalu Astroworld plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
     <item>
       <title>Dvě tváře zločinu</title>
@@ -81,11 +86,6 @@
       <title>Dražen</title>
       <link>https://www.kinobox.cz/film/3165737</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_17519062325357939564.jpg" alt="Dražen plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Totální provar: Tragédie na festivalu Astroworld</title>
-      <link>https://www.kinobox.cz/film/4564088</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/10/external_file_18164329066836997242.jpg" alt="Totální provar: Tragédie na festivalu Astroworld plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
     <item>
       <title>Mountainhead</title>
