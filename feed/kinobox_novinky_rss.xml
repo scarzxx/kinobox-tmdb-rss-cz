@@ -6,7 +6,17 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Jun 2025 06:18:27 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 10:13:18 +0200</lastBuildDate>
+    <item>
+      <title>Latinská krev: Balada o Neyi Matogrossovi</title>
+      <link>https://www.kinobox.cz/film/3305573</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/11/external_file_99813335102672014.jpg" alt="Latinská krev: Balada o Neyi Matogrossovi plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Totální provar: Starosta chaosu</title>
+      <link>https://www.kinobox.cz/film/4675539</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/10/external_file_9144705536873370358.jpg" alt="Totální provar: Starosta chaosu plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
+    </item>
     <item>
       <title>A Business Proposal</title>
       <link>https://www.kinobox.cz/film/3270304</link>
@@ -156,16 +166,6 @@
       <title>Mimo stopu 2: V jednom kole</title>
       <link>https://www.kinobox.cz/film/4503703</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/23/external_file_9939406257879596440.jpg" alt="Mimo stopu 2: V jednom kole plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Ulice strachu: Královna plesu</title>
-      <link>https://www.kinobox.cz/film/3324275</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/25/external_file_5332325516389852155.jpg" alt="Ulice strachu: Královna plesu plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor, Teenagerský, Série/Franchise</p>]]></description>
-    </item>
-    <item>
-      <title>Espantaho</title>
-      <link>https://www.kinobox.cz/film/3169522</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_10071360367293172651.jpg" alt="Espantaho plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor</p>]]></description>
     </item>
   </channel>
 </rss>
