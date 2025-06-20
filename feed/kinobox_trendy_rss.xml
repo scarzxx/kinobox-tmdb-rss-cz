@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Fri, 20 Jun 2025 08:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 10:00:04 +0200</lastBuildDate>
     <item>
       <title>Na plech</title>
       <link>https://www.kinobox.cz/film/2666286</link>
@@ -22,6 +22,13 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/11/02/external_file_10912788691310912704.jpg" alt="Konkláve plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 74%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Thriller&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 120 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_732716</guid>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Minecraft film</title>
+      <link>https://www.kinobox.cz/film/436035</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/02/28/upload_16097421981739274289.jpg" alt="Minecraft film plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 64%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Dobrodružný, Fantasy, Adaptace videohry, Rodinný, Blockbuster&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 101 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_436035</guid>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Totální rozklad</title>
@@ -225,13 +232,6 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2022/03/17/verdens-verste-menneske0906163508_4967.jpg" alt="Nejhorší člověk na světě plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 75%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2021&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Komedie, Romantický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 128 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_722591</guid>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dvě tváře zločinu</title>
-      <link>https://www.kinobox.cz/film/2662712</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/external_file_4305395094718020588.jpg" alt="Dvě tváře zločinu plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 54%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Krimi, Biografický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 122 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2662712</guid>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
