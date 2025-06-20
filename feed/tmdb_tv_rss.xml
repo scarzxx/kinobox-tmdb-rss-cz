@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Jun 2025 14:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 16:00:02 +0200</lastBuildDate>
     <item>
       <title>Chirurgové</title>
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
@@ -20,16 +20,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
     </item>
     <item>
-      <title>Policie Chicago</title>
-      <link>https://www.themoviedb.org/tv/58841-chicago-p-d?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/58841-chicago-p-d?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg" alt="Policie Chicago poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 08. led. 2014</p>]]></description>
-    </item>
-    <item>
       <title>Mladí Titáni do toho!</title>
       <link>https://www.themoviedb.org/tv/45140-teen-titans-go?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/45140-teen-titans-go?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/w0pwKXGhS39cmxFAAtycmJTqwXW.jpg" alt="Mladí Titáni do toho! poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p><p>První vysílání: 23. dub. 2013</p>]]></description>
+    </item>
+    <item>
+      <title>Pokémon</title>
+      <link>https://www.themoviedb.org/tv/60572?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60572?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg" alt="Pokémon poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 01. dub. 1997</p>]]></description>
     </item>
     <item>
       <title>Hra o trůny</title>
@@ -44,22 +44,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/alUltjrEWyIAw7Bhm1ffXKciNfi.jpg" alt="Bobovy burgery poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 09. led. 2011</p>]]></description>
     </item>
     <item>
-      <title>Pokémon</title>
-      <link>https://www.themoviedb.org/tv/60572?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/60572?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg" alt="Pokémon poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 01. dub. 1997</p>]]></description>
-    </item>
-    <item>
-      <title>C.I.D.</title>
-      <link>https://www.themoviedb.org/tv/15226-c-i-d?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/15226-c-i-d?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/26uEr3docGiJVEDlqepAjf99Vlq.jpg" alt="C.I.D. poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 61%</p><p>První vysílání: 21. led. 1998</p>]]></description>
-    </item>
-    <item>
-      <title>Prolhané krásky</title>
-      <link>https://www.themoviedb.org/tv/31917-pretty-little-liars?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/31917-pretty-little-liars?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/sMX0U1I0bR0SqgQ909mziK8KsXB.jpg" alt="Prolhané krásky poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 08. čer. 2010</p>]]></description>
+      <title>Hlasiťákovi</title>
+      <link>https://www.themoviedb.org/tv/68073-the-loud-house?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/68073-the-loud-house?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg" alt="Hlasiťákovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 02. kvě. 2016</p>]]></description>
     </item>
     <item>
       <title>Lovci duchů</title>
@@ -68,22 +56,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
     </item>
     <item>
-      <title>Phineas a Ferb</title>
-      <link>https://www.themoviedb.org/tv/1877-phineas-and-ferb?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1877-phineas-and-ferb?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/PL8tyQ3yuy60iZpBQ4YRm8tFWy.jpg" alt="Phineas a Ferb poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 17. srp. 2007</p>]]></description>
+      <title>Seinfeld</title>
+      <link>https://www.themoviedb.org/tv/1400-seinfeld?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1400-seinfeld?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" alt="Seinfeld poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 05. čvc. 1989</p>]]></description>
     </item>
     <item>
-      <title>Gumballův úžasný svět</title>
-      <link>https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/37606-the-amazing-world-of-gumball?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pekAF7dErv5aXR4wyvWLF04sF6s.jpg" alt="Gumballův úžasný svět poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 03. kvě. 2011</p>]]></description>
+      <title>Prolhané krásky</title>
+      <link>https://www.themoviedb.org/tv/31917-pretty-little-liars?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/31917-pretty-little-liars?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/sMX0U1I0bR0SqgQ909mziK8KsXB.jpg" alt="Prolhané krásky poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 08. čer. 2010</p>]]></description>
     </item>
     <item>
-      <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
-      <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg" alt="Zákon a pořádek: Útvar pro zvláštní oběti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 20. zář. 1999</p>]]></description>
+      <title>Želvy Ninja</title>
+      <link>https://www.themoviedb.org/tv/51817-teenage-mutant-ninja-turtles?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/51817-teenage-mutant-ninja-turtles?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg" alt="Želvy Ninja poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 28. zář. 2012</p>]]></description>
     </item>
     <item>
       <title>Zelenáč</title>
@@ -92,22 +80,28 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" alt="Zelenáč poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 16. říj. 2018</p>]]></description>
     </item>
     <item>
-      <title>Griffinovi</title>
-      <link>https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg" alt="Griffinovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 31. led. 1999</p>]]></description>
+      <title>Dva a půl chlapa</title>
+      <link>https://www.themoviedb.org/tv/2691-two-and-a-half-men?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/2691-two-and-a-half-men?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/xgfjxyV3g1S68opzuvG6G87muDp.jpg" alt="Dva a půl chlapa poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 22. zář. 2003</p>]]></description>
     </item>
     <item>
-      <title>Simpsonovi</title>
-      <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/poTtFCp1LjEl187NuqD6ekFplb6.jpg" alt="Simpsonovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 17. pro. 1989</p>]]></description>
+      <title>Phineas a Ferb</title>
+      <link>https://www.themoviedb.org/tv/1877-phineas-and-ferb?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1877-phineas-and-ferb?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/PL8tyQ3yuy60iZpBQ4YRm8tFWy.jpg" alt="Phineas a Ferb poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 17. srp. 2007</p>]]></description>
     </item>
     <item>
-      <title>Námořní vyšetřovací služba</title>
-      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
+      <title>One Tree Hill</title>
+      <link>https://www.themoviedb.org/tv/269-one-tree-hill?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/269-one-tree-hill?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/5g32Z4iM3kHeFLGIFNaedKxtldy.jpg" alt="One Tree Hill poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
+    </item>
+    <item>
+      <title>Miles from Tomorrowland</title>
+      <link>https://www.themoviedb.org/tv/62181-miles-from-tomorrowland?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/62181-miles-from-tomorrowland?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/qrFeGDHg7XStVlRIxBDOTGSEZav.jpg" alt="Miles from Tomorrowland poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p><p>První vysílání: 06. úno. 2015</p>]]></description>
     </item>
     <item>
       <title>Právo a pořádek</title>
@@ -116,16 +110,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg" alt="Právo a pořádek poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 13. zář. 1990</p>]]></description>
     </item>
     <item>
-      <title>Omylem, ale naschvál</title>
-      <link>https://www.themoviedb.org/tv/279060-fue-sin-querer-queriendo?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/279060-fue-sin-querer-queriendo?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/gNc8wna9IjIDUxtSeqLrjOjCpRe.jpg" alt="Omylem, ale naschvál poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 05. čer. 2025</p>]]></description>
-    </item>
-    <item>
       <title>Tlapková patrola</title>
       <link>https://www.themoviedb.org/tv/57532-paw-patrol?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/57532-paw-patrol?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pghhyJGRs4EA03ka6WV1QOo4pUu.jpg" alt="Tlapková patrola poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 12. srp. 2013</p>]]></description>
+    </item>
+    <item>
+      <title>Griffinovi</title>
+      <link>https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg" alt="Griffinovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 31. led. 1999</p>]]></description>
+    </item>
+    <item>
+      <title>Námořní vyšetřovací služba</title>
+      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
     </item>
   </channel>
 </rss>
