@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Jun 2025 10:14:11 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 14:18:07 +0200</lastBuildDate>
+    <item>
+      <title>Dva metry nad zemí</title>
+      <link>https://www.kinobox.cz/film/4720669</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/23/external_file_5432804038445598097.jpg" alt="Dva metry nad zemí plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
     <item>
       <title>Grenfell: Odhalení</title>
       <link>https://www.kinobox.cz/film/4636606</link>
@@ -161,11 +166,6 @@
       <title>Rafael Nadal: král antuky</title>
       <link>https://www.kinobox.cz/film/4511444</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/30/upload_8325907215385026201.jpg" alt="Rafael Nadal: král antuky plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Biografický</p>]]></description>
-    </item>
-    <item>
-      <title>Ukradené mládí</title>
-      <link>https://www.kinobox.cz/film/3149412</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_6867561044303039260.jpg" alt="Ukradené mládí plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
   </channel>
 </rss>
