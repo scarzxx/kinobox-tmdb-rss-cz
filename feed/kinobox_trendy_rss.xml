@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Mon, 23 Jun 2025 22:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 00:00:05 +0200</lastBuildDate>
     <item>
       <title>Na plech</title>
       <link>https://www.kinobox.cz/film/2666286</link>
@@ -52,6 +52,13 @@
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Poslední kapka</title>
+      <link>https://www.kinobox.cz/film/4531203</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/05/15/upload_1139774459937312975.png" alt="Poslední kapka plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 63%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Thriller&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 105 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_4531203</guid>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Hranice přežití</title>
       <link>https://www.kinobox.cz/film/2674367</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/11/06/upload_15000185663009945535.jpg" alt="Hranice přežití plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 54%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Sci-fi, Thriller, Akční&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 91 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
@@ -64,13 +71,6 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/11/26/upload_1755087863109055321.jpg" alt="Radost na dosah plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 36%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie, Romantický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 89 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_2682014</guid>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Poslední kapka</title>
-      <link>https://www.kinobox.cz/film/4531203</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/05/15/upload_1139774459937312975.png" alt="Poslední kapka plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 63%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Thriller&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 105 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_4531203</guid>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Exteritorium</title>
@@ -185,18 +185,11 @@
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Léto s Evženem</title>
-      <link>https://www.kinobox.cz/film/2668526</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_13422895238695269656.jpg" alt="Léto s Evženem plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 53%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie, Rodinný&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 97 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2668526</guid>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Svět mezi námi</title>
-      <link>https://www.kinobox.cz/film/2673372</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/02/28/upload_3043647311694081167.jpg" alt="Svět mezi námi plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 82%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Dokumentární&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 90 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2673372</guid>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <title>Dvě tváře zločinu</title>
+      <link>https://www.kinobox.cz/film/2662712</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/external_file_4305395094718020588.jpg" alt="Dvě tváře zločinu plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 54%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Krimi, Biografický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 122 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2662712</guid>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Černá vdova</title>
@@ -206,18 +199,18 @@
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dvě tváře zločinu</title>
-      <link>https://www.kinobox.cz/film/2662712</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/external_file_4305395094718020588.jpg" alt="Dvě tváře zločinu plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 54%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Krimi, Biografický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 122 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2662712</guid>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <title>Svět mezi námi</title>
+      <link>https://www.kinobox.cz/film/2673372</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/02/28/upload_3043647311694081167.jpg" alt="Svět mezi námi plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 82%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Dokumentární&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 90 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2673372</guid>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Zúčtování</title>
-      <link>https://www.kinobox.cz/film/434561</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2016/09/09/the-accountant-2121132842_1192.jpg" alt="Zúčtování plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 79%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2016&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Drama, Krimi, Thriller, Retro&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 128 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_434561</guid>
-      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Léto s Evženem</title>
+      <link>https://www.kinobox.cz/film/2668526</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_13422895238695269656.jpg" alt="Léto s Evženem plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 53%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie, Rodinný&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 97 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2668526</guid>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nejhorší člověk na světě</title>
@@ -225,6 +218,13 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2022/03/17/verdens-verste-menneske0906163508_4967.jpg" alt="Nejhorší člověk na světě plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 75%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2021&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Komedie, Romantický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 128 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_722591</guid>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zúčtování</title>
+      <link>https://www.kinobox.cz/film/434561</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2016/09/09/the-accountant-2121132842_1192.jpg" alt="Zúčtování plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 79%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2016&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Drama, Krimi, Thriller, Retro&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 128 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_434561</guid>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Officer On Duty</title>
