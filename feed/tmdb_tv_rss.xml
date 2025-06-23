@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Jun 2025 08:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 10:00:02 +0200</lastBuildDate>
     <item>
       <title>Chirurgové</title>
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
@@ -30,12 +30,6 @@
       <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
-    </item>
-    <item>
-      <title>Mladí Titáni do toho!</title>
-      <link>https://www.themoviedb.org/tv/45140-teen-titans-go?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/45140-teen-titans-go?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/w0pwKXGhS39cmxFAAtycmJTqwXW.jpg" alt="Mladí Titáni do toho! poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p><p>První vysílání: 23. dub. 2013</p>]]></description>
     </item>
     <item>
       <title>Pokémon</title>
@@ -78,6 +72,12 @@
       <link>https://www.themoviedb.org/tv/18165-the-vampire-diaries?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/18165-the-vampire-diaries?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/49WSEvAFYVtOzEM22Ee81JUKRI7.jpg" alt="Upíří deníky poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 10. zář. 2009</p>]]></description>
+    </item>
+    <item>
+      <title>Mladí Titáni do toho!</title>
+      <link>https://www.themoviedb.org/tv/45140-teen-titans-go?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/45140-teen-titans-go?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/w0pwKXGhS39cmxFAAtycmJTqwXW.jpg" alt="Mladí Titáni do toho! poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p><p>První vysílání: 23. dub. 2013</p>]]></description>
     </item>
     <item>
       <title>Lovci duchů</title>
