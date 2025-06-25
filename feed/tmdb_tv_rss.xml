@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 25 Jun 2025 12:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 14:00:02 +0200</lastBuildDate>
     <item>
       <title>Hlasiťákovi</title>
       <link>https://www.themoviedb.org/tv/68073-the-loud-house?language=cs-CZ</link>
@@ -18,12 +18,6 @@
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lQybEErJhFc1jkrOjeo5bPTUeUB.jpg" alt="Chirurgové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 27. bře. 2005</p>]]></description>
-    </item>
-    <item>
-      <title>Wabbit</title>
-      <link>https://www.themoviedb.org/tv/65763-new-looney-tunes?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/65763-new-looney-tunes?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/AdROLFTm3nSnqcmkhPabqdRuETZ.jpg" alt="Wabbit poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 21. zář. 2015</p>]]></description>
     </item>
     <item>
       <title>Havaj 5-0</title>
@@ -126,6 +120,12 @@
       <link>https://www.themoviedb.org/tv/45140-teen-titans-go?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/45140-teen-titans-go?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/w0pwKXGhS39cmxFAAtycmJTqwXW.jpg" alt="Mladí Titáni do toho! poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 65%</p><p>První vysílání: 23. dub. 2013</p>]]></description>
+    </item>
+    <item>
+      <title>Steven Universe</title>
+      <link>https://www.themoviedb.org/tv/61175-steven-universe?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/61175-steven-universe?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/qkcZqbfvXEenUAwoFi6YTBB3WLO.jpg" alt="Steven Universe poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 04. lis. 2013</p>]]></description>
     </item>
   </channel>
 </rss>
