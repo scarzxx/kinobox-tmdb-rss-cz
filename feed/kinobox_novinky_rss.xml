@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 25 Jun 2025 06:20:32 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 10:13:35 +0200</lastBuildDate>
+    <item>
+      <title>Totální provar: Hovnivá plavba</title>
+      <link>https://www.kinobox.cz/film/4675538</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/10/external_file_17023146633984446038.jpg" alt="Totální provar: Hovnivá plavba plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
+    </item>
     <item>
       <title>Dva metry nad zemí</title>
       <link>https://www.kinobox.cz/film/4720669</link>
@@ -161,11 +166,6 @@
       <title>Everything About My Wife</title>
       <link>https://www.kinobox.cz/film/3181290</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/04/external_file_13815707398056920426.jpg" alt="Everything About My Wife plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Romantický</p>]]></description>
-    </item>
-    <item>
-      <title>Rafael Nadal: král antuky</title>
-      <link>https://www.kinobox.cz/film/4511444</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/30/upload_8325907215385026201.jpg" alt="Rafael Nadal: král antuky plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Biografický</p>]]></description>
     </item>
   </channel>
 </rss>
