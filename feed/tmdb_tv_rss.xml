@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 26 Jun 2025 04:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 06:00:03 +0200</lastBuildDate>
     <item>
       <title>Hlasiťákovi</title>
       <link>https://www.themoviedb.org/tv/68073-the-loud-house?language=cs-CZ</link>
@@ -74,12 +74,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
     </item>
     <item>
-      <title>Havaj 5-0</title>
-      <link>https://www.themoviedb.org/tv/32798-hawaii-five-0?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/32798-hawaii-five-0?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg" alt="Havaj 5-0 poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 20. zář. 2010</p>]]></description>
-    </item>
-    <item>
       <title>Právo a pořádek</title>
       <link>https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</guid>
@@ -120,6 +114,12 @@
       <link>https://www.themoviedb.org/tv/1419-castle?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1419-castle?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/1WpZAy0rkxEWx2L9Ft6ysPBz5qi.jpg" alt="Castle na zabití poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 09. bře. 2009</p>]]></description>
+    </item>
+    <item>
+      <title>Havaj 5-0</title>
+      <link>https://www.themoviedb.org/tv/32798-hawaii-five-0?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/32798-hawaii-five-0?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg" alt="Havaj 5-0 poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 20. zář. 2010</p>]]></description>
     </item>
     <item>
       <title>Steven Universe</title>
