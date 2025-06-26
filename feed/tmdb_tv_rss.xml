@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 26 Jun 2025 08:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 10:00:02 +0200</lastBuildDate>
     <item>
       <title>Hlasiťákovi</title>
       <link>https://www.themoviedb.org/tv/68073-the-loud-house?language=cs-CZ</link>
@@ -38,16 +38,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/41EWXLXTZO4MLb2BL28mWZuydyq.jpg" alt="Show Toma a Jerryho poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p><p>První vysílání: 09. dub. 2014</p>]]></description>
     </item>
     <item>
-      <title>Star Wars: Povstalci</title>
-      <link>https://www.themoviedb.org/tv/60554-star-wars-rebels?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/60554-star-wars-rebels?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jmgR8330sKEJehr27rQ3bODnrlP.jpg" alt="Star Wars: Povstalci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 13. říj. 2014</p>]]></description>
-    </item>
-    <item>
       <title>Omylem, ale naschvál</title>
       <link>https://www.themoviedb.org/tv/279060-fue-sin-querer-queriendo?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/279060-fue-sin-querer-queriendo?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/gNc8wna9IjIDUxtSeqLrjOjCpRe.jpg" alt="Omylem, ale naschvál poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 05. čer. 2025</p>]]></description>
+    </item>
+    <item>
+      <title>Star Wars: Povstalci</title>
+      <link>https://www.themoviedb.org/tv/60554-star-wars-rebels?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60554-star-wars-rebels?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jmgR8330sKEJehr27rQ3bODnrlP.jpg" alt="Star Wars: Povstalci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 13. říj. 2014</p>]]></description>
     </item>
     <item>
       <title>Zelenáč</title>
