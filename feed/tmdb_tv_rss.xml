@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 27 Jun 2025 02:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 04:00:02 +0200</lastBuildDate>
     <item>
       <title>Pokémon</title>
       <link>https://www.themoviedb.org/tv/60572?language=cs-CZ</link>
@@ -104,16 +104,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg" alt="Zákon a pořádek: Útvar pro zvláštní oběti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 20. zář. 1999</p>]]></description>
     </item>
     <item>
+      <title>Plamínek a čtyřkoláci</title>
+      <link>https://www.themoviedb.org/tv/64198-blaze-and-the-monster-machines?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/64198-blaze-and-the-monster-machines?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg" alt="Plamínek a čtyřkoláci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p><p>První vysílání: 13. říj. 2014</p>]]></description>
+    </item>
+    <item>
       <title>Čas na dobrodružství</title>
       <link>https://www.themoviedb.org/tv/15260-adventure-time?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/15260-adventure-time?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dWUITdxSP9Rl2Nl3Gri0gflb9aW.jpg" alt="Čas na dobrodružství poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 05. dub. 2010</p>]]></description>
-    </item>
-    <item>
-      <title>Plamínek a čtyřkoláci</title>
-      <link>https://www.themoviedb.org/tv/64198-blaze-and-the-monster-machines?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/64198-blaze-and-the-monster-machines?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg" alt="Plamínek a čtyřkoláci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p><p>První vysílání: 13. říj. 2014</p>]]></description>
     </item>
     <item>
       <title>Miles from Tomorrowland</title>
