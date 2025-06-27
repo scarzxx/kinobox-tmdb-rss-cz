@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 27 Jun 2025 06:18:53 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 10:13:13 +0200</lastBuildDate>
+    <item>
+      <title>Turn Me On</title>
+      <link>https://www.kinobox.cz/film/3166360</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_10579958873288054647.jpg" alt="Turn Me On plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Sci-fi, Romantický, Drama</p>]]></description>
+    </item>
     <item>
       <title>Totální provar: Hovnivá plavba</title>
       <link>https://www.kinobox.cz/film/4675538</link>
@@ -161,11 +166,6 @@
       <title>Ztracená v svitu hvězd</title>
       <link>https://www.kinobox.cz/film/4530984</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/30/upload_17881988252910604181.png" alt="Ztracená v svitu hvězd plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Animovaný, Komedie, Anime</p>]]></description>
-    </item>
-    <item>
-      <title>Everything About My Wife</title>
-      <link>https://www.kinobox.cz/film/3181290</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/04/external_file_13815707398056920426.jpg" alt="Everything About My Wife plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Romantický</p>]]></description>
     </item>
   </channel>
 </rss>
