@@ -6,11 +6,26 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 28 Jun 2025 06:12:54 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 10:11:03 +0200</lastBuildDate>
+    <item>
+      <title>As Neves</title>
+      <link>https://www.kinobox.cz/film/3150850</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_17707669543566856899.jpg" alt="As Neves plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Pintu Pintu Surga</title>
+      <link>https://www.kinobox.cz/film/3305406</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/11/external_file_9132725883009649040.jpg" alt="Pintu Pintu Surga plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
     <item>
       <title>Probuď mě</title>
       <link>https://www.kinobox.cz/film/3166360</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/27/external_file_12445575815017124257.jpg" alt="Probuď mě plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Sci-fi, Romantický, Drama, Komedie</p>]]></description>
+    </item>
+    <item>
+      <title>Raid 2</title>
+      <link>https://www.kinobox.cz/film/3324501</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/13/external_file_16387292308420698655.jpg" alt="Raid 2 plagát" style="max-width: 100%; height: auto;" />]]></description>
     </item>
     <item>
       <title>Totální provar: Hovnivá plavba</title>
@@ -151,21 +166,6 @@
       <title>Černá vdova</title>
       <link>https://www.kinobox.cz/film/3181284</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/19/external_file_7921524903352175175.jpg" alt="Černá vdova plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Krimi, Drama, Thriller</p>]]></description>
-    </item>
-    <item>
-      <title>Hluboko v srdci</title>
-      <link>https://www.kinobox.cz/film/3748449</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/30/upload_5896651527156031271.png" alt="Hluboko v srdci plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>The Curse of the Necklace</title>
-      <link>https://www.kinobox.cz/film/3162261</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_14514671549509236192.jpg" alt="The Curse of the Necklace plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor, Mysteriozní, Thriller</p>]]></description>
-    </item>
-    <item>
-      <title>Ztracená v svitu hvězd</title>
-      <link>https://www.kinobox.cz/film/4530984</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/30/upload_17881988252910604181.png" alt="Ztracená v svitu hvězd plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Animovaný, Komedie, Anime</p>]]></description>
     </item>
   </channel>
 </rss>
