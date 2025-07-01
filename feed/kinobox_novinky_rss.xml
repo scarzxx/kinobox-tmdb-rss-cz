@@ -6,7 +6,17 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 01 Jul 2025 06:28:58 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 10:13:27 +0200</lastBuildDate>
+    <item>
+      <title>Mrak</title>
+      <link>https://www.kinobox.cz/film/4624909</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/26/external_file_18278033428003148888.jpg" alt="Mrak plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dobrodružný, Animovaný, Rodinný, Krátkometrážní</p>]]></description>
+    </item>
+    <item>
+      <title>Zaříkávačka žraloků</title>
+      <link>https://www.kinobox.cz/film/4652554</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/04/external_file_16832816000657735535.jpg" alt="Zaříkávačka žraloků plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
+    </item>
     <item>
       <title>Pintu Pintu Surga</title>
       <link>https://www.kinobox.cz/film/3305406</link>
@@ -156,16 +166,6 @@
       <title>Mountainhead</title>
       <link>https://www.kinobox.cz/film/3851767</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/02/external_file_7458898328793314824.jpg" alt="Mountainhead plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Život a láska</title>
-      <link>https://www.kinobox.cz/film/3142573</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_16185145992820243967.jpg" alt="Život a láska plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Černá vdova</title>
-      <link>https://www.kinobox.cz/film/3181284</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/19/external_file_7921524903352175175.jpg" alt="Černá vdova plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Krimi, Drama, Thriller</p>]]></description>
     </item>
   </channel>
 </rss>
