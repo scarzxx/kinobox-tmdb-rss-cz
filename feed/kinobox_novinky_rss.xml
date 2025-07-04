@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 04 Jul 2025 06:19:14 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 10:13:05 +0200</lastBuildDate>
+    <item>
+      <title>Dear Ms.: Revoluce v tisku</title>
+      <link>https://www.kinobox.cz/film/4480553</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/24/external_file_1600325569254823436.jpg" alt="Dear Ms.: Revoluce v tisku plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
+    </item>
     <item>
       <title>Nejlepší kámošky</title>
       <link>https://www.kinobox.cz/film/3153110</link>
@@ -16,6 +21,11 @@
       <title>Old Guard: Nesmrtelní 2</title>
       <link>https://www.kinobox.cz/film/2663070</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/09/upload_12088383631911204069.jpg" alt="Old Guard: Nesmrtelní 2 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Fantasy, Dobrodružný, Akční</p>]]></description>
+    </item>
+    <item>
+      <title>Tichá pošta</title>
+      <link>https://www.kinobox.cz/film/2682289</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/06/upload_11070827264796821178.jpg" alt="Tichá pošta plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Dobrodružný, Adaptace knižní, Rodinný, Válečný</p>]]></description>
     </item>
     <item>
       <title>Totální provar: American Apparel</title>
@@ -156,16 +166,6 @@
       <title>Jaat</title>
       <link>https://www.kinobox.cz/film/3227800</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/05/external_file_14666364485302372853.jpg" alt="Jaat plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Akční, Drama, Thriller</p>]]></description>
-    </item>
-    <item>
-      <title>Magnetický muž</title>
-      <link>https://www.kinobox.cz/film/3155832</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_327471003619973135.jpg" alt="Magnetický muž plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Dobrodružný, Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Mateřský instinkt</title>
-      <link>https://www.kinobox.cz/film/3149571</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_2950694465203517770.jpg" alt="Mateřský instinkt plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama</p>]]></description>
     </item>
   </channel>
 </rss>
