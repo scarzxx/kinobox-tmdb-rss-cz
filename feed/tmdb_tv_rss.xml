@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 04 Jul 2025 06:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 08:00:03 +0200</lastBuildDate>
     <item>
       <title>Hra na oliheň</title>
       <link>https://www.themoviedb.org/tv/93405?language=cs-CZ</link>
@@ -29,13 +29,7 @@
       <title>Omylem, ale naschvál</title>
       <link>https://www.themoviedb.org/tv/279060-fue-sin-querer-queriendo?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/279060-fue-sin-querer-queriendo?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8BbZGH0kmkSWqWUmy4zaJAlVbfe.jpg" alt="Omylem, ale naschvál poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 05. čer. 2025</p>]]></description>
-    </item>
-    <item>
-      <title>Námořní vyšetřovací služba</title>
-      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8BbZGH0kmkSWqWUmy4zaJAlVbfe.jpg" alt="Omylem, ale naschvál poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 05. čer. 2025</p>]]></description>
     </item>
     <item>
       <title>Brooklyn 99</title>
@@ -48,6 +42,12 @@
       <link>https://www.themoviedb.org/tv/33765-my-little-pony-friendship-is-magic?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/33765-my-little-pony-friendship-is-magic?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/euGCQuK9t3xK6ydUhr9YSQR2F1m.jpg" alt="Můj malý Pony: Přátelství je magické poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 10. říj. 2010</p>]]></description>
+    </item>
+    <item>
+      <title>Námořní vyšetřovací služba</title>
+      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
     </item>
     <item>
       <title>Zelenáč</title>
