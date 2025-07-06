@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 06 Jul 2025 10:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 12:00:04 +0200</lastBuildDate>
     <item>
       <title>Hra na oliheň</title>
       <link>https://www.themoviedb.org/tv/93405?language=cs-CZ</link>
@@ -53,7 +53,7 @@
       <title>Jake a piráti ze Země Nezemě</title>
       <link>https://www.themoviedb.org/tv/34891-jake-and-the-never-land-pirates?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/34891-jake-and-the-never-land-pirates?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/uet64gptwR7iDGc0laIRmYNtNH0.jpg" alt="Jake a piráti ze Země Nezemě poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 64%</p><p>První vysílání: 14. úno. 2011</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/uet64gptwR7iDGc0laIRmYNtNH0.jpg" alt="Jake a piráti ze Země Nezemě poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p><p>První vysílání: 14. úno. 2011</p>]]></description>
     </item>
     <item>
       <title>Zelenáč</title>
