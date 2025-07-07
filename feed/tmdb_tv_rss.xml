@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 07 Jul 2025 04:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 06:00:03 +0200</lastBuildDate>
     <item>
       <title>Hra na oliheň</title>
       <link>https://www.themoviedb.org/tv/93405?language=cs-CZ</link>
@@ -74,6 +74,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/WZLiPbT27ms9oKV58UpoDWFYpq.jpg" alt="Dr. House poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 16. lis. 2004</p>]]></description>
     </item>
     <item>
+      <title>Rick a Morty</title>
+      <link>https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4LnVjEIlDG4PCyY7PDSBJxgeRWD.jpg" alt="Rick a Morty poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 02. pro. 2013</p>]]></description>
+    </item>
+    <item>
       <title>Velká šestka: Baymax se vrací</title>
       <link>https://www.themoviedb.org/tv/68665-big-hero-6-the-series?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/68665-big-hero-6-the-series?language=cs-CZ</guid>
@@ -120,12 +126,6 @@
       <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
-    </item>
-    <item>
-      <title>Upíří deníky</title>
-      <link>https://www.themoviedb.org/tv/18165-the-vampire-diaries?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/18165-the-vampire-diaries?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/49WSEvAFYVtOzEM22Ee81JUKRI7.jpg" alt="Upíří deníky poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 10. zář. 2009</p>]]></description>
     </item>
   </channel>
 </rss>
