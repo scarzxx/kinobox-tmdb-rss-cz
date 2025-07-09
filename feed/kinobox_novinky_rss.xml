@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 09 Jul 2025 06:24:03 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 10:13:12 +0200</lastBuildDate>
+    <item>
+      <title>Totální provar: Skutečný Projekt X</title>
+      <link>https://www.kinobox.cz/film/4564296</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/19/external_file_18073594762374473036.jpg" alt="Totální provar: Skutečný Projekt X plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
+    </item>
     <item>
       <title>Hříšníci</title>
       <link>https://www.kinobox.cz/film/2670499</link>
@@ -161,11 +166,6 @@
       <title>V našich časech</title>
       <link>https://www.kinobox.cz/film/4589282</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/20/external_file_4316691513099659810.jpg" alt="V našich časech plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Sci-fi, Romantický, Komedie, Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Totální provar: Tragédie na festivalu Astroworld</title>
-      <link>https://www.kinobox.cz/film/4564088</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/10/external_file_18164329066836997242.jpg" alt="Totální provar: Tragédie na festivalu Astroworld plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
   </channel>
 </rss>
