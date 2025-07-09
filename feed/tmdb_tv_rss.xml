@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 09 Jul 2025 08:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 10:00:03 +0200</lastBuildDate>
     <item>
       <title>Hra na oliheň</title>
       <link>https://www.themoviedb.org/tv/93405?language=cs-CZ</link>
@@ -38,6 +38,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dWUITdxSP9Rl2Nl3Gri0gflb9aW.jpg" alt="Čas na dobrodružství poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 05. dub. 2010</p>]]></description>
     </item>
     <item>
+      <title>Myšlenky zločince</title>
+      <link>https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
+    </item>
+    <item>
       <title>Show Toma a Jerryho</title>
       <link>https://www.themoviedb.org/tv/47480-the-tom-and-jerry-show?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/47480-the-tom-and-jerry-show?language=cs-CZ</guid>
@@ -48,12 +54,6 @@
       <link>https://www.themoviedb.org/tv/279060-fue-sin-querer-queriendo?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/279060-fue-sin-querer-queriendo?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8BbZGH0kmkSWqWUmy4zaJAlVbfe.jpg" alt="Omylem, ale naschvál poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 05. čer. 2025</p>]]></description>
-    </item>
-    <item>
-      <title>Myšlenky zločince</title>
-      <link>https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
     </item>
     <item>
       <title>Pokémon</title>
