@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Fri, 11 Jul 2025 22:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 00:00:05 +0200</lastBuildDate>
     <item>
       <title>Hříšníci</title>
       <link>https://www.kinobox.cz/film/2670499</link>
@@ -94,20 +94,6 @@
       <pubDate>Fri, 22 May 1964 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Diplomat</title>
-      <link>https://www.kinobox.cz/film/3285958</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_820949916919460898.jpg" alt="The Diplomat plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 67%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Thriller, Drama&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 132 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_3285958</guid>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Babičky</title>
-      <link>https://www.kinobox.cz/film/3227733</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/04/10/external_file_1233618106098953107.jpg" alt="Babičky plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 69%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 112 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 10+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_3227733</guid>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Gentlemani</title>
       <link>https://www.kinobox.cz/film/438612</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2020/01/12/toff-guys-imdb172204842_1192.jpg" alt="Gentlemani plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 86%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2020&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Komedie, Krimi, Gangsterka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 113 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
@@ -122,11 +108,18 @@
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Diagnóza: Disent</title>
-      <link>https://www.kinobox.cz/film/3165775</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_15183251033768266189.jpg" alt="Diagnóza: Disent plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 73%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Historický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 118 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_3165775</guid>
-      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <title>Babičky</title>
+      <link>https://www.kinobox.cz/film/3227733</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/04/10/external_file_1233618106098953107.jpg" alt="Babičky plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 69%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 112 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 10+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_3227733</guid>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Diplomat</title>
+      <link>https://www.kinobox.cz/film/3285958</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_820949916919460898.jpg" alt="The Diplomat plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 67%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Thriller, Drama&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 132 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_3285958</guid>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Němá tajemství</title>
@@ -134,6 +127,13 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/08/30/external_file_11515338581731621082.jpg" alt="Němá tajemství plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 76%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2023&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Mysteriozní, Drama, Krimi, Romantický, Psychologický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 107 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_723287</guid>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diagnóza: Disent</title>
+      <link>https://www.kinobox.cz/film/3165775</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_15183251033768266189.jpg" alt="Diagnóza: Disent plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 73%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Historický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 118 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_3165775</guid>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lovec Kraven</title>
@@ -157,18 +157,18 @@
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>V dobrém i zlém</title>
-      <link>https://www.kinobox.cz/film/2672739</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/10/30/upload_15007884097453310638.jpg" alt="V dobrém i zlém plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 55%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 93 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2672739</guid>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Latinská krev: Balada o Neyi Matogrossovi</title>
       <link>https://www.kinobox.cz/film/3305573</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/02/11/external_file_99813335102672014.jpg" alt="Latinská krev: Balada o Neyi Matogrossovi plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 82%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 130 min&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_3305573</guid>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>V dobrém i zlém</title>
+      <link>https://www.kinobox.cz/film/2672739</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/10/30/upload_15007884097453310638.jpg" alt="V dobrém i zlém plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 55%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 93 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2672739</guid>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Green Bones</title>
@@ -185,11 +185,25 @@
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>ČERNÁK</title>
+      <link>https://www.kinobox.cz/film/2683420</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_5017595964920535520.png" alt="ČERNÁK plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 70%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Krimi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 109 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2683420</guid>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Společník</title>
       <link>https://www.kinobox.cz/film/2672138</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/15/upload_8199275422862711507.jpg" alt="Společník plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 67%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Sci-fi, Thriller, Horor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 97 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_2672138</guid>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tichá pošta</title>
+      <link>https://www.kinobox.cz/film/2682289</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/06/upload_11070827264796821178.jpg" alt="Tichá pošta plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 64%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Dobrodružný, Adaptace knižní, Rodinný, Válečný&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 97 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2682289</guid>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ztracená v svitu hvězd</title>
@@ -206,20 +220,6 @@
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ČERNÁK</title>
-      <link>https://www.kinobox.cz/film/2683420</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/12/10/upload_5017595964920535520.png" alt="ČERNÁK plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 70%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Krimi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 109 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2683420</guid>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exteritorium</title>
-      <link>https://www.kinobox.cz/film/4153589</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/03/15/external_file_9653364672679234002.jpg" alt="Exteritorium plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 54%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Thriller, Akční&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 109 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_4153589</guid>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Černá vdova</title>
       <link>https://www.kinobox.cz/film/3181284</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/05/19/external_file_7921524903352175175.jpg" alt="Černá vdova plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 55%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Krimi, Drama, Thriller&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 122 min&lt;/p&gt;</description>
@@ -227,11 +227,11 @@
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tichá pošta</title>
-      <link>https://www.kinobox.cz/film/2682289</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/06/upload_11070827264796821178.jpg" alt="Tichá pošta plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 65%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Dobrodružný, Adaptace knižní, Rodinný, Válečný&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 97 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2682289</guid>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <title>Exteritorium</title>
+      <link>https://www.kinobox.cz/film/4153589</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/03/15/external_file_9653364672679234002.jpg" alt="Exteritorium plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 54%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Thriller, Akční&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 109 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_4153589</guid>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
