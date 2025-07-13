@@ -6,7 +6,7 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 13 Jul 2025 06:28:01 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 10:11:40 +0200</lastBuildDate>
     <item>
       <title>Katie Taylor vs. Amanda Serrano III</title>
       <link>https://www.kinobox.cz/film/3910968</link>
@@ -31,6 +31,11 @@
       <title>Cihla</title>
       <link>https://www.kinobox.cz/film/2682436</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/16/external_file_17914717919024380853.jpg" alt="Cihla plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Sci-fi, Thriller, Mysteriozní</p>]]></description>
+    </item>
+    <item>
+      <title>Detective Ujjwalan</title>
+      <link>https://www.kinobox.cz/film/3359794</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/17/external_file_10282380629227662411.jpg" alt="Detective Ujjwalan plagát" style="max-width: 100%; height: auto;" />]]></description>
     </item>
     <item>
       <title>Malu</title>
@@ -161,11 +166,6 @@
       <title>Green Bones</title>
       <link>https://www.kinobox.cz/film/3169535</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_5210506000558674870.jpg" alt="Green Bones plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Krimi, Drama, Thriller</p>]]></description>
-    </item>
-    <item>
-      <title>Latinská krev: Balada o Neyi Matogrossovi</title>
-      <link>https://www.kinobox.cz/film/3305573</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/11/external_file_99813335102672014.jpg" alt="Latinská krev: Balada o Neyi Matogrossovi plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
   </channel>
 </rss>
