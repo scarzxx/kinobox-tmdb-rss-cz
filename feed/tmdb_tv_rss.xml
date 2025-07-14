@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 14 Jul 2025 04:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 06:00:02 +0200</lastBuildDate>
     <item>
       <title>Hra na oliheň</title>
       <link>https://www.themoviedb.org/tv/93405?language=cs-CZ</link>
@@ -92,12 +92,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
     </item>
     <item>
-      <title>Rick a Morty</title>
-      <link>https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4LnVjEIlDG4PCyY7PDSBJxgeRWD.jpg" alt="Rick a Morty poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 02. pro. 2013</p>]]></description>
-    </item>
-    <item>
       <title>Simpsonovi</title>
       <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</guid>
@@ -108,6 +102,12 @@
       <link>https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg" alt="Griffinovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 31. led. 1999</p>]]></description>
+    </item>
+    <item>
+      <title>Rick a Morty</title>
+      <link>https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4LnVjEIlDG4PCyY7PDSBJxgeRWD.jpg" alt="Rick a Morty poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 02. pro. 2013</p>]]></description>
     </item>
     <item>
       <title>CID</title>
