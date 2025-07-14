@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 14 Jul 2025 08:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 10:00:02 +0200</lastBuildDate>
     <item>
       <title>Hra na oliheň</title>
       <link>https://www.themoviedb.org/tv/93405?language=cs-CZ</link>
@@ -74,12 +74,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hgRMSOt7a1b8qyQR68vUixJPang.jpg" alt="Brooklyn 99 poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 17. zář. 2013</p>]]></description>
     </item>
     <item>
-      <title>Myšlenky zločince</title>
-      <link>https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
-    </item>
-    <item>
       <title>Tučňáci z Madagaskaru</title>
       <link>https://www.themoviedb.org/tv/7869-the-penguins-of-madagascar?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/7869-the-penguins-of-madagascar?language=cs-CZ</guid>
@@ -114,6 +108,12 @@
       <link>https://www.themoviedb.org/tv/15226-c-i-d?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/15226-c-i-d?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/26uEr3docGiJVEDlqepAjf99Vlq.jpg" alt="CID poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 61%</p><p>První vysílání: 21. led. 1998</p>]]></description>
+    </item>
+    <item>
+      <title>Myšlenky zločince</title>
+      <link>https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
     </item>
     <item>
       <title>Kouzelní kmotříčci</title>
