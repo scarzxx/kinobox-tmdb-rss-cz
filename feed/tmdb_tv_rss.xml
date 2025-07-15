@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 15 Jul 2025 02:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 04:00:03 +0200</lastBuildDate>
     <item>
       <title>Hra na oliheň</title>
       <link>https://www.themoviedb.org/tv/93405?language=cs-CZ</link>
