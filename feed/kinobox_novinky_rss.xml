@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 18 Jul 2025 06:29:41 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 10:13:40 +0200</lastBuildDate>
+    <item>
+      <title>Komu patřím</title>
+      <link>https://www.kinobox.cz/film/2659607</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/24/external_file_4660354972726046195.jpg" alt="Komu patřím plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
     <item>
       <title>Totální provar: Kluk z balónu</title>
       <link>https://www.kinobox.cz/film/4564298</link>
@@ -161,11 +166,6 @@
       <title>Grenfell: Odhalení</title>
       <link>https://www.kinobox.cz/film/4636606</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/29/upload_4322380394291468441.png" alt="Grenfell: Odhalení plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>K-pop: Lovkyně démonů</title>
-      <link>https://www.kinobox.cz/film/2679608</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/29/external_file_14829314578455255795.jpg" alt="K-pop: Lovkyně démonů plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dobrodružný, Animovaný, Akční, Fantasy, Anime</p>]]></description>
     </item>
   </channel>
 </rss>
