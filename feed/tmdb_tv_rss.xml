@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 18 Jul 2025 08:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 10:00:02 +0200</lastBuildDate>
     <item>
       <title>Hra na oliheň</title>
       <link>https://www.themoviedb.org/tv/93405?language=cs-CZ</link>
@@ -24,6 +24,12 @@
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lQybEErJhFc1jkrOjeo5bPTUeUB.jpg" alt="Chirurgové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 27. bře. 2005</p>]]></description>
+    </item>
+    <item>
+      <title>Pokémon</title>
+      <link>https://www.themoviedb.org/tv/60572?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60572?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg" alt="Pokémon poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 01. dub. 1997</p>]]></description>
     </item>
     <item>
       <title>Zelenáč</title>
@@ -102,12 +108,6 @@
       <link>https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg" alt="Griffinovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 31. led. 1999</p>]]></description>
-    </item>
-    <item>
-      <title>Pokémon</title>
-      <link>https://www.themoviedb.org/tv/60572?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/60572?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg" alt="Pokémon poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 01. dub. 1997</p>]]></description>
     </item>
     <item>
       <title>Právo a pořádek</title>
