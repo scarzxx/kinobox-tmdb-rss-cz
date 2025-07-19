@@ -6,18 +6,12 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 19 Jul 2025 14:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 16:00:03 +0200</lastBuildDate>
     <item>
       <title>Hra na oliheň</title>
       <link>https://www.themoviedb.org/tv/93405?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/93405?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3fslS7IiO4wwTpJXBZivpb9B41K.jpg" alt="Hra na oliheň poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 17. zář. 2021</p>]]></description>
-    </item>
-    <item>
-      <title>Hra o trůny</title>
-      <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
     </item>
     <item>
       <title>Omylem, ale naschvál</title>
@@ -26,22 +20,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mwsuIxLL84wfJGWhN7oOrFfpZ6d.jpg" alt="Omylem, ale naschvál poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 05. čer. 2025</p>]]></description>
     </item>
     <item>
-      <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
-      <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg" alt="Zákon a pořádek: Útvar pro zvláštní oběti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 20. zář. 1999</p>]]></description>
-    </item>
-    <item>
       <title>Chirurgové</title>
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lQybEErJhFc1jkrOjeo5bPTUeUB.jpg" alt="Chirurgové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 27. bře. 2005</p>]]></description>
     </item>
     <item>
-      <title>Pokémon</title>
-      <link>https://www.themoviedb.org/tv/60572?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/60572?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg" alt="Pokémon poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 01. dub. 1997</p>]]></description>
+      <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
+      <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg" alt="Zákon a pořádek: Útvar pro zvláštní oběti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 20. zář. 1999</p>]]></description>
+    </item>
+    <item>
+      <title>Hra o trůny</title>
+      <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
     </item>
     <item>
       <title>Zelenáč</title>
@@ -50,22 +44,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" alt="Zelenáč poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 16. říj. 2018</p>]]></description>
     </item>
     <item>
-      <title>2 Socky</title>
-      <link>https://www.themoviedb.org/tv/39340-2-broke-girls?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/39340-2-broke-girls?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/j3U5B0IB2sLTxhMYDRG1r2WFyuW.jpg" alt="2 Socky poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p><p>První vysílání: 19. zář. 2011</p>]]></description>
-    </item>
-    <item>
-      <title>Mickeyho klubík</title>
-      <link>https://www.themoviedb.org/tv/3934-mickey-mouse-clubhouse?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/3934-mickey-mouse-clubhouse?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/jzCtYDayzs33PGmmbhRs1vwOvC1.jpg" alt="Mickeyho klubík poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p><p>První vysílání: 05. kvě. 2006</p>]]></description>
-    </item>
-    <item>
-      <title>Čas na dobrodružství</title>
-      <link>https://www.themoviedb.org/tv/15260-adventure-time?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/15260-adventure-time?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dWUITdxSP9Rl2Nl3Gri0gflb9aW.jpg" alt="Čas na dobrodružství poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 05. dub. 2010</p>]]></description>
+      <title>Lovci duchů</title>
+      <link>https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
     </item>
     <item>
       <title>Léto, kdy jsem zkrásněla</title>
@@ -74,22 +56,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/1yWk3fsXUzgyuszocSNwRdDKPpD.jpg" alt="Léto, kdy jsem zkrásněla poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 16. čer. 2022</p>]]></description>
     </item>
     <item>
-      <title>Lovci duchů</title>
-      <link>https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
-    </item>
-    <item>
-      <title>John Oliver: Co týden dal a vzal</title>
-      <link>https://www.themoviedb.org/tv/60694-last-week-tonight-with-john-oliver?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/60694-last-week-tonight-with-john-oliver?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/b12eM3FXNjN7yM7XYTIdmeQRud9.jpg" alt="John Oliver: Co týden dal a vzal poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 27. dub. 2014</p>]]></description>
-    </item>
-    <item>
       <title>CID</title>
       <link>https://www.themoviedb.org/tv/15226-c-i-d?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/15226-c-i-d?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/26uEr3docGiJVEDlqepAjf99Vlq.jpg" alt="CID poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 61%</p><p>První vysílání: 21. led. 1998</p>]]></description>
+    </item>
+    <item>
+      <title>Pokémon</title>
+      <link>https://www.themoviedb.org/tv/60572?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60572?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg" alt="Pokémon poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 01. dub. 1997</p>]]></description>
     </item>
     <item>
       <title>Myšlenky zločince</title>
@@ -98,22 +74,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
     </item>
     <item>
-      <title>Námořní vyšetřovací služba</title>
-      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
-    </item>
-    <item>
-      <title>Poslední chlap</title>
-      <link>https://www.themoviedb.org/tv/39297-last-man-standing?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/39297-last-man-standing?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/uMPBLLx0cvOidaLLXnzsHdTq9A7.jpg" alt="Poslední chlap poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p><p>První vysílání: 11. říj. 2011</p>]]></description>
-    </item>
-    <item>
       <title>Griffinovi</title>
       <link>https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg" alt="Griffinovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 31. led. 1999</p>]]></description>
+    </item>
+    <item>
+      <title>John Oliver: Co týden dal a vzal</title>
+      <link>https://www.themoviedb.org/tv/60694-last-week-tonight-with-john-oliver?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60694-last-week-tonight-with-john-oliver?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/b12eM3FXNjN7yM7XYTIdmeQRud9.jpg" alt="John Oliver: Co týden dal a vzal poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 27. dub. 2014</p>]]></description>
+    </item>
+    <item>
+      <title>Námořní vyšetřovací služba</title>
+      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
     </item>
     <item>
       <title>Právo a pořádek</title>
@@ -126,6 +102,30 @@
       <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/poTtFCp1LjEl187NuqD6ekFplb6.jpg" alt="Simpsonovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 17. pro. 1989</p>]]></description>
+    </item>
+    <item>
+      <title>Rick a Morty</title>
+      <link>https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4LnVjEIlDG4PCyY7PDSBJxgeRWD.jpg" alt="Rick a Morty poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 02. pro. 2013</p>]]></description>
+    </item>
+    <item>
+      <title>Tlapková patrola</title>
+      <link>https://www.themoviedb.org/tv/57532-paw-patrol?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/57532-paw-patrol?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pghhyJGRs4EA03ka6WV1QOo4pUu.jpg" alt="Tlapková patrola poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 12. srp. 2013</p>]]></description>
+    </item>
+    <item>
+      <title>Dr. House</title>
+      <link>https://www.themoviedb.org/tv/1408-house?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1408-house?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/WZLiPbT27ms9oKV58UpoDWFYpq.jpg" alt="Dr. House poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 16. lis. 2004</p>]]></description>
+    </item>
+    <item>
+      <title>2 Socky</title>
+      <link>https://www.themoviedb.org/tv/39340-2-broke-girls?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/39340-2-broke-girls?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/j3U5B0IB2sLTxhMYDRG1r2WFyuW.jpg" alt="2 Socky poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p><p>První vysílání: 19. zář. 2011</p>]]></description>
     </item>
   </channel>
 </rss>
