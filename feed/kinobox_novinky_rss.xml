@@ -6,7 +6,32 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 19 Jul 2025 06:21:14 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 10:11:46 +0200</lastBuildDate>
+    <item>
+      <title>A Nice Jewish Boy</title>
+      <link>https://www.kinobox.cz/film/3139802</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_5042952921562034305.jpg" alt="A Nice Jewish Boy plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama</p>]]></description>
+    </item>
+    <item>
+      <title>I’m Still a Superstar</title>
+      <link>https://www.kinobox.cz/film/4759279</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/18/external_file_9567238649788601798.jpg" alt="I’m Still a Superstar plagát" style="max-width: 100%; height: auto;" />]]></description>
+    </item>
+    <item>
+      <title>Khamyazeye bozorg</title>
+      <link>https://www.kinobox.cz/film/2636932</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/02/26/upload_1651372570903128575.jpg" alt="Khamyazeye bozorg plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Ode zdi ke zdi</title>
+      <link>https://www.kinobox.cz/film/4709376</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/19/external_file_11594719553985346540.jpg" alt="Ode zdi ke zdi plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
+    </item>
+    <item>
+      <title>Rodina vocaď pocaď</title>
+      <link>https://www.kinobox.cz/film/4729978</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/04/external_file_11999485635243540086.jpg" alt="Rodina vocaď pocaď plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama</p>]]></description>
+    </item>
     <item>
       <title>Komu patřím</title>
       <link>https://www.kinobox.cz/film/2659607</link>
@@ -141,31 +166,6 @@
       <title>Probuď mě</title>
       <link>https://www.kinobox.cz/film/3166360</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/27/external_file_12445575815017124257.jpg" alt="Probuď mě plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Sci-fi, Romantický, Drama, Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Vánice</title>
-      <link>https://www.kinobox.cz/film/3150850</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/30/external_file_1730554501222327553.jpg" alt="Vánice plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Raid 2</title>
-      <link>https://www.kinobox.cz/film/3324501</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/13/external_file_16387292308420698655.jpg" alt="Raid 2 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Thriller</p>]]></description>
-    </item>
-    <item>
-      <title>Totální provar: Hovnivá plavba</title>
-      <link>https://www.kinobox.cz/film/4675538</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/10/external_file_17023146633984446038.jpg" alt="Totální provar: Hovnivá plavba plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Dva metry nad zemí</title>
-      <link>https://www.kinobox.cz/film/4720669</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/23/external_file_5432804038445598097.jpg" alt="Dva metry nad zemí plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Grenfell: Odhalení</title>
-      <link>https://www.kinobox.cz/film/4636606</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/29/upload_4322380394291468441.png" alt="Grenfell: Odhalení plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
   </channel>
 </rss>
