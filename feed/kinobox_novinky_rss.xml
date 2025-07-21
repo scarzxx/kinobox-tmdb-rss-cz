@@ -6,16 +6,16 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 21 Jul 2025 14:19:05 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 18:11:11 +0200</lastBuildDate>
+    <item>
+      <title>Jsem pořád stejná</title>
+      <link>https://www.kinobox.cz/film/4759279</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/21/external_file_17861432363879150293.jpg" alt="Jsem pořád stejná plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
+    </item>
     <item>
       <title>Ode zdi ke zdi</title>
       <link>https://www.kinobox.cz/film/4709376</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/19/external_file_11594719553985346540.jpg" alt="Ode zdi ke zdi plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
-    </item>
-    <item>
-      <title>Pořád jsem hvězda</title>
-      <link>https://www.kinobox.cz/film/4759279</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/18/external_file_9567238649788601798.jpg" alt="Pořád jsem hvězda plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
     <item>
       <title>Rodina vocaď pocaď</title>
@@ -33,9 +33,9 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/02/26/upload_1651372570903128575.jpg" alt="Velké zívnutí světa plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
     <item>
-      <title>Komu patřím</title>
+      <title>Komu patří můj život</title>
       <link>https://www.kinobox.cz/film/2659607</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/24/external_file_4660354972726046195.jpg" alt="Komu patřím plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/24/external_file_4660354972726046195.jpg" alt="Komu patří můj život plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
     <item>
       <title>Totální provar: Kluk z balónu</title>
