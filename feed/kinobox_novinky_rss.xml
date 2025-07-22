@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 22 Jul 2025 14:18:12 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 18:12:15 +0200</lastBuildDate>
+    <item>
+      <title>Jak se nám to mohlo stát!?</title>
+      <link>https://www.kinobox.cz/film/3228565</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/05/upload_14528455116159630008.jpg" alt="Jak se nám to mohlo stát!? plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
+    </item>
     <item>
       <title>Jsem pořád stejná</title>
       <link>https://www.kinobox.cz/film/4759279</link>
@@ -161,11 +166,6 @@
       <title>Zaříkávačka žraloků</title>
       <link>https://www.kinobox.cz/film/4652554</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/04/external_file_16832816000657735535.jpg" alt="Zaříkávačka žraloků plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Pintu Pintu Surga</title>
-      <link>https://www.kinobox.cz/film/3305406</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/11/external_file_9132725883009649040.jpg" alt="Pintu Pintu Surga plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
   </channel>
 </rss>
