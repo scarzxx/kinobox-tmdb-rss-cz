@@ -6,11 +6,16 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 22 Jul 2025 06:29:27 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 10:14:20 +0200</lastBuildDate>
     <item>
       <title>Jsem pořád stejná</title>
       <link>https://www.kinobox.cz/film/4759279</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/21/external_file_17861432363879150293.jpg" alt="Jsem pořád stejná plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
+    </item>
+    <item>
+      <title>Lilim</title>
+      <link>https://www.kinobox.cz/film/3270618</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/08/external_file_229768808710266458.jpg" alt="Lilim plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor, Thriller, Drama</p>]]></description>
     </item>
     <item>
       <title>Ode zdi ke zdi</title>
@@ -161,11 +166,6 @@
       <title>Pintu Pintu Surga</title>
       <link>https://www.kinobox.cz/film/3305406</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/11/external_file_9132725883009649040.jpg" alt="Pintu Pintu Surga plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Probuď mě</title>
-      <link>https://www.kinobox.cz/film/3166360</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/27/external_file_12445575815017124257.jpg" alt="Probuď mě plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Sci-fi, Romantický, Drama, Komedie</p>]]></description>
     </item>
   </channel>
 </rss>
