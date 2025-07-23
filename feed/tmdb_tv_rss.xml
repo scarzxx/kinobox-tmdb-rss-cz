@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 23 Jul 2025 12:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 14:00:03 +0200</lastBuildDate>
     <item>
       <title>Hra na oliheň</title>
       <link>https://www.themoviedb.org/tv/93405?language=cs-CZ</link>
@@ -122,10 +122,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg" alt="Havaj 5-0 poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 20. zář. 2010</p>]]></description>
     </item>
     <item>
-      <title>Jak jsem poznal vaši matku</title>
-      <link>https://www.themoviedb.org/tv/1100-how-i-met-your-mother?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1100-how-i-met-your-mother?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/gr6XHihcum2shCqy6kw3IVJcYmW.jpg" alt="Jak jsem poznal vaši matku poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 19. zář. 2005</p>]]></description>
+      <title>Živel</title>
+      <link>https://www.themoviedb.org/tv/248852-untamed?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/248852-untamed?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/g0ysgIcOnrPDXo15cJPRkivqIH5.jpg" alt="Živel poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p><p>První vysílání: 17. čvc. 2025</p>]]></description>
     </item>
   </channel>
 </rss>
