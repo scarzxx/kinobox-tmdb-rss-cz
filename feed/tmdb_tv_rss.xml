@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 24 Jul 2025 12:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 14:00:03 +0200</lastBuildDate>
     <item>
       <title>Hra na oliheň</title>
       <link>https://www.themoviedb.org/tv/93405?language=cs-CZ</link>
@@ -80,16 +80,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg" alt="Právo a pořádek poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 13. zář. 1990</p>]]></description>
     </item>
     <item>
-      <title>Rick a Morty</title>
-      <link>https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4LnVjEIlDG4PCyY7PDSBJxgeRWD.jpg" alt="Rick a Morty poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 02. pro. 2013</p>]]></description>
-    </item>
-    <item>
       <title>Myšlenky zločince</title>
       <link>https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
+    </item>
+    <item>
+      <title>Rick a Morty</title>
+      <link>https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60625-rick-and-morty?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4LnVjEIlDG4PCyY7PDSBJxgeRWD.jpg" alt="Rick a Morty poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 02. pro. 2013</p>]]></description>
     </item>
     <item>
       <title>Dr. House</title>
@@ -116,16 +116,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg" alt="Havaj 5-0 poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 20. zář. 2010</p>]]></description>
     </item>
     <item>
-      <title>Živel</title>
-      <link>https://www.themoviedb.org/tv/248852-untamed?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/248852-untamed?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/g0ysgIcOnrPDXo15cJPRkivqIH5.jpg" alt="Živel poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 17. čvc. 2025</p>]]></description>
-    </item>
-    <item>
       <title>Jak jsem poznal vaši matku</title>
       <link>https://www.themoviedb.org/tv/1100-how-i-met-your-mother?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1100-how-i-met-your-mother?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/gr6XHihcum2shCqy6kw3IVJcYmW.jpg" alt="Jak jsem poznal vaši matku poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 19. zář. 2005</p>]]></description>
+    </item>
+    <item>
+      <title>Americký táta</title>
+      <link>https://www.themoviedb.org/tv/1433-american-dad?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1433-american-dad?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/j84ZtVRoxKWTsQUya77um4l8Dqs.jpg" alt="Americký táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 06. úno. 2005</p>]]></description>
     </item>
   </channel>
 </rss>
