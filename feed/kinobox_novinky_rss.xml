@@ -6,11 +6,16 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 26 Jul 2025 06:26:23 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 10:11:46 +0200</lastBuildDate>
     <item>
       <title>Babygirl</title>
       <link>https://www.kinobox.cz/film/2666832</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/28/upload_5492895208029744324.png" alt="Babygirl plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller, Krimi, Mysteriozní</p>]]></description>
+    </item>
+    <item>
+      <title>Rivalové 2</title>
+      <link>https://www.kinobox.cz/film/2682439</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/14/external_file_13015919353007018327.jpg" alt="Rivalové 2 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Sportovní, Komedie</p>]]></description>
     </item>
     <item>
       <title>Mor</title>
@@ -36,6 +41,11 @@
       <title>Totální provar: Mámy vyšetřovatelky</title>
       <link>https://www.kinobox.cz/film/4607093</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/03/external_file_2927371028673670335.jpg" alt="Totální provar: Mámy vyšetřovatelky plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
+    </item>
+    <item>
+      <title>Robot Chicken: Self-Discovery Special</title>
+      <link>https://www.kinobox.cz/film/4830202</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/22/external_file_9982981908441041271.jpg" alt="Robot Chicken: Self-Discovery Special plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Animovaný</p>]]></description>
     </item>
     <item>
       <title>Jak se nám to mohlo stát!?</title>
@@ -156,16 +166,6 @@
       <title>Dear Ms.: Revoluce v tisku</title>
       <link>https://www.kinobox.cz/film/4480553</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/24/external_file_1600325569254823436.jpg" alt="Dear Ms.: Revoluce v tisku plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Un-ex You</title>
-      <link>https://www.kinobox.cz/film/4389423</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/04/external_file_2821210381411204843.jpg" alt="Un-ex You plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Romantický</p>]]></description>
-    </item>
-    <item>
-      <title>Nejlepší kámošky</title>
-      <link>https://www.kinobox.cz/film/3153110</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_13193187740416722424.jpg" alt="Nejlepší kámošky plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
     </item>
   </channel>
 </rss>
