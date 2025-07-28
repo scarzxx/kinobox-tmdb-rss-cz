@@ -4,7 +4,19 @@
     <title>Titulky.com Filmy</title>
     <link>https://www.titulky.com/</link>
     <description>Nové titulky k filmům</description>
-    <lastBuildDate>Mon, 28 Jul 2025 07:00:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 10:00:08 GMT</lastBuildDate>
+    <item>
+      <title>M3GAN 2.0 (2025) [CZ]</title>
+      <link>https://www.titulky.com/M3GAN-2-0-414337.htm</link>
+      <description>Film, rok: 2025, jazyk: CZ</description>
+      <guid>https://www.titulky.com/M3GAN-2-0-414337.htm</guid>
+    </item>
+    <item>
+      <title>La segretaria privata di mio padre (1976) [CZ]</title>
+      <link>https://www.titulky.com/La-segretaria-privata-di-mio-padre-414354.htm</link>
+      <description>Film, rok: 1976, jazyk: CZ</description>
+      <guid>https://www.titulky.com/La-segretaria-privata-di-mio-padre-414354.htm</guid>
+    </item>
     <item>
       <title>Thunderbolts* (2025) [SK]</title>
       <link>https://www.titulky.com/Thunderbolts-414349.htm</link>
@@ -94,12 +106,6 @@
       <link>https://www.titulky.com/The-Revenge-of-the-Living-Dead-Girls-414299.htm</link>
       <description>Film, rok: 1987, jazyk: CZ</description>
       <guid>https://www.titulky.com/The-Revenge-of-the-Living-Dead-Girls-414299.htm</guid>
-    </item>
-    <item>
-      <title>Sneakers (1992) [CZ]</title>
-      <link>https://www.titulky.com/Sneakers-414306.htm</link>
-      <description>Film, rok: 1992, jazyk: CZ</description>
-      <guid>https://www.titulky.com/Sneakers-414306.htm</guid>
     </item>
   </channel>
 </rss>
