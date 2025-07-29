@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 29 Jul 2025 12:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 14:00:03 +0200</lastBuildDate>
     <item>
       <title>Omylem, ale naschvál</title>
       <link>https://www.themoviedb.org/tv/279060-fue-sin-querer-queriendo?language=cs-CZ</link>
@@ -92,16 +92,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
     </item>
     <item>
-      <title>Americký táta</title>
-      <link>https://www.themoviedb.org/tv/1433-american-dad?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1433-american-dad?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/j84ZtVRoxKWTsQUya77um4l8Dqs.jpg" alt="Americký táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 06. úno. 2005</p>]]></description>
-    </item>
-    <item>
       <title>Dexter</title>
       <link>https://www.themoviedb.org/tv/1405-dexter?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1405-dexter?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/q8dWfc4JwQuv3HayIZeO84jAXED.jpg" alt="Dexter poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 01. říj. 2006</p>]]></description>
+    </item>
+    <item>
+      <title>Americký táta</title>
+      <link>https://www.themoviedb.org/tv/1433-american-dad?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1433-american-dad?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/j84ZtVRoxKWTsQUya77um4l8Dqs.jpg" alt="Americký táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 06. úno. 2005</p>]]></description>
     </item>
     <item>
       <title>Myšlenky zločince</title>
