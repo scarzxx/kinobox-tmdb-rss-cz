@@ -6,11 +6,26 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 31 Jul 2025 06:32:17 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 10:14:44 +0200</lastBuildDate>
+    <item>
+      <title>Pětka s hvězdičkou</title>
+      <link>https://www.kinobox.cz/film/3286336</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_17525810173220836156.jpg" alt="Pětka s hvězdičkou plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Rodinný</p>]]></description>
+    </item>
+    <item>
+      <title>Zimní přechod</title>
+      <link>https://www.kinobox.cz/film/3138447</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_18067109828804113277.jpg" alt="Zimní přechod plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
+    </item>
     <item>
       <title>Dusty Slay: Wet Heat</title>
       <link>https://www.kinobox.cz/film/4750235</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/22/external_file_4406357538839076191.jpg" alt="Dusty Slay: Wet Heat plagát" style="max-width: 100%; height: auto;" />]]></description>
+    </item>
+    <item>
+      <title>Totální provar: Nájezd na Oblast 51</title>
+      <link>https://www.kinobox.cz/film/4607098</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/03/upload_3419348351316890379.png" alt="Totální provar: Nájezd na Oblast 51 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
     <item>
       <title>Babygirl</title>
@@ -151,21 +166,6 @@
       <title>Totální provar: Skutečný Projekt X</title>
       <link>https://www.kinobox.cz/film/4564296</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/19/external_file_18073594762374473036.jpg" alt="Totální provar: Skutečný Projekt X plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Hříšníci</title>
-      <link>https://www.kinobox.cz/film/2670499</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/31/upload_523010654750631664.jpg" alt="Hříšníci plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Fantasy, Horor, Blockbuster</p>]]></description>
-    </item>
-    <item>
-      <title>Kyuka: Než skončí léto</title>
-      <link>https://www.kinobox.cz/film/3151153</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/26/external_file_10957462270067838832.jpg" alt="Kyuka: Než skončí léto plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Mezitím na Zemi</title>
-      <link>https://www.kinobox.cz/film/3155460</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_5199666700989446107.jpg" alt="Mezitím na Zemi plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Sci-fi</p>]]></description>
     </item>
   </channel>
 </rss>
