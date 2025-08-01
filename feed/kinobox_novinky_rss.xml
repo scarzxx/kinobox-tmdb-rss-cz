@@ -6,7 +6,17 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 01 Aug 2025 06:44:05 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 10:14:07 +0200</lastBuildDate>
+    <item>
+      <title>Nezvratný osud: Pokrevní linie</title>
+      <link>https://www.kinobox.cz/film/2684290</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/04/upload_17948381521363711571.jpg" alt="Nezvratný osud: Pokrevní linie plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor, Série/Franchise</p>]]></description>
+    </item>
+    <item>
+      <title>Poctivý život</title>
+      <link>https://www.kinobox.cz/film/4498803</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/02/external_file_18429912241502281106.jpg" alt="Poctivý život plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller, Mysteriozní</p>]]></description>
+    </item>
     <item>
       <title>Pětka s hvězdičkou</title>
       <link>https://www.kinobox.cz/film/3286336</link>
@@ -156,16 +166,6 @@
       <title>My Love Will Make You Disappear</title>
       <link>https://www.kinobox.cz/film/3270356</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/14/external_file_1200825538735790113.jpg" alt="My Love Will Make You Disappear plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Ziam</title>
-      <link>https://www.kinobox.cz/film/4675560</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/11/upload_5278595370832073653.png" alt="Ziam plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor, Thriller, Akční</p>]]></description>
-    </item>
-    <item>
-      <title>Totální provar: Skutečný Projekt X</title>
-      <link>https://www.kinobox.cz/film/4564296</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/19/external_file_18073594762374473036.jpg" alt="Totální provar: Skutečný Projekt X plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
   </channel>
 </rss>
