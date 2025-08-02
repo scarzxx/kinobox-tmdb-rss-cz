@@ -6,11 +6,36 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 02 Aug 2025 06:25:12 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 10:11:53 +0200</lastBuildDate>
+    <item>
+      <title>Marc Maron: Panicked</title>
+      <link>https://www.kinobox.cz/film/4730430</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/28/external_file_3750197530882858067.jpg" alt="Marc Maron: Panicked plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
+    </item>
+    <item>
+      <title>How To Survive A Shark Attack</title>
+      <link>https://www.kinobox.cz/film/4836467</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/27/external_file_17781862244888337284.jpg" alt="How To Survive A Shark Attack plagát" style="max-width: 100%; height: auto;" />]]></description>
+    </item>
+    <item>
+      <title>Můj oxfordský rok</title>
+      <link>https://www.kinobox.cz/film/4531357</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/30/upload_15626876470659914110.png" alt="Můj oxfordský rok plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Adaptace knižní</p>]]></description>
+    </item>
     <item>
       <title>Nezvratný osud: Pokrevní linie</title>
       <link>https://www.kinobox.cz/film/2684290</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/04/upload_17948381521363711571.jpg" alt="Nezvratný osud: Pokrevní linie plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor, Série/Franchise</p>]]></description>
+    </item>
+    <item>
+      <title>September Babies</title>
+      <link>https://www.kinobox.cz/film/3145746</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_16718927407631680566.jpg" alt="September Babies plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Akční, Drama, Thriller</p>]]></description>
+    </item>
+    <item>
+      <title>Natatorium</title>
+      <link>https://www.kinobox.cz/film/3140143</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_14674782545092915884.jpg" alt="Natatorium plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller, Drama</p>]]></description>
     </item>
     <item>
       <title>Poctivý život</title>
@@ -141,31 +166,6 @@
       <title>Svatba na Bahamách</title>
       <link>https://www.kinobox.cz/film/4412174</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/09/upload_15565114219396041242.png" alt="Svatba na Bahamách plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Série/Franchise, Drama, Romantický</p>]]></description>
-    </item>
-    <item>
-      <title>A Brother and 7 Siblings</title>
-      <link>https://www.kinobox.cz/film/3171031</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_1677693558057770894.jpg" alt="A Brother and 7 Siblings plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Rodinný</p>]]></description>
-    </item>
-    <item>
-      <title>Cihla</title>
-      <link>https://www.kinobox.cz/film/2682436</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/16/external_file_17914717919024380853.jpg" alt="Cihla plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Sci-fi, Thriller, Mysteriozní</p>]]></description>
-    </item>
-    <item>
-      <title>Detective Ujjwalan</title>
-      <link>https://www.kinobox.cz/film/3359794</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/17/external_file_10282380629227662411.jpg" alt="Detective Ujjwalan plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Mysteriozní</p>]]></description>
-    </item>
-    <item>
-      <title>Malu</title>
-      <link>https://www.kinobox.cz/film/3165760</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_12910447428213748177.jpg" alt="Malu plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>My Love Will Make You Disappear</title>
-      <link>https://www.kinobox.cz/film/3270356</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/14/external_file_1200825538735790113.jpg" alt="My Love Will Make You Disappear plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Komedie</p>]]></description>
     </item>
   </channel>
 </rss>
