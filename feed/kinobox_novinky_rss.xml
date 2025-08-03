@@ -6,7 +6,7 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 03 Aug 2025 06:38:49 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 10:11:52 +0200</lastBuildDate>
     <item>
       <title>Marc Maron: Panicked</title>
       <link>https://www.kinobox.cz/film/4730430</link>
@@ -61,6 +61,11 @@
       <title>Totální provar: Nájezd na Oblast 51</title>
       <link>https://www.kinobox.cz/film/4607098</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/03/upload_3419348351316890379.png" alt="Totální provar: Nájezd na Oblast 51 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
+    </item>
+    <item>
+      <title>Max Verstappen: Lev na trati</title>
+      <link>https://www.kinobox.cz/film/4862657</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/01/upload_13124335495041970311.jpg" alt="Max Verstappen: Lev na trati plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Biografický, Sportovní</p>]]></description>
     </item>
     <item>
       <title>Babygirl</title>
@@ -161,11 +166,6 @@
       <title>Není nikdo jako ty</title>
       <link>https://www.kinobox.cz/film/3181632</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/09/external_file_6320718720759373917.jpg" alt="Není nikdo jako ty plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Svatba na Bahamách</title>
-      <link>https://www.kinobox.cz/film/4412174</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/09/upload_15565114219396041242.png" alt="Svatba na Bahamách plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Série/Franchise, Drama, Romantický</p>]]></description>
     </item>
   </channel>
 </rss>
