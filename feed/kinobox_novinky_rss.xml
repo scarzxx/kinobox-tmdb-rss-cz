@@ -6,7 +6,7 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 07 Aug 2025 02:02:39 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 06:16:13 +0200</lastBuildDate>
     <item>
       <title>Marc Maron: Panika</title>
       <link>https://www.kinobox.cz/film/4730430</link>
@@ -56,6 +56,11 @@
       <title>Dusty Slay: Wet Heat</title>
       <link>https://www.kinobox.cz/film/4750235</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/22/external_file_4406357538839076191.jpg" alt="Dusty Slay: Wet Heat plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Stand-up, Komedie</p>]]></description>
+    </item>
+    <item>
+      <title>Jaws vs Mega Croc</title>
+      <link>https://www.kinobox.cz/film/4866136</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/07/external_file_7282576827925324334.jpg" alt="Jaws vs Mega Croc plagát" style="max-width: 100%; height: auto;" />]]></description>
     </item>
     <item>
       <title>Totální provar: Nájezd na Oblast 51</title>
@@ -161,11 +166,6 @@
       <title>Dva na ráně</title>
       <link>https://www.kinobox.cz/film/4607173</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/13/external_file_10638183374255113371.jpg" alt="Dva na ráně plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Akční, Krimi</p>]]></description>
-    </item>
-    <item>
-      <title>Není nikdo jako ty</title>
-      <link>https://www.kinobox.cz/film/3181632</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/09/external_file_6320718720759373917.jpg" alt="Není nikdo jako ty plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Drama</p>]]></description>
     </item>
   </channel>
 </rss>
