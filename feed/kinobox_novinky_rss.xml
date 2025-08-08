@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 08 Aug 2025 06:16:09 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 10:01:15 +0200</lastBuildDate>
+    <item>
+      <title>Salli</title>
+      <link>https://www.kinobox.cz/film/2683198</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/12/05/external_file_12171889099276009567.jpg" alt="Salli plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Komedie</p>]]></description>
+    </item>
     <item>
       <title>Marc Maron: Panika</title>
       <link>https://www.kinobox.cz/film/4730430</link>
@@ -41,6 +46,11 @@
       <title>Poctivý život</title>
       <link>https://www.kinobox.cz/film/4498803</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/02/external_file_18429912241502281106.jpg" alt="Poctivý život plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller, Mysteriozní</p>]]></description>
+    </item>
+    <item>
+      <title>Untold</title>
+      <link>https://www.kinobox.cz/film/3487706</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/08/external_file_3062224589003867894.jpg" alt="Untold plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor</p>]]></description>
     </item>
     <item>
       <title>Pětka s hvězdičkou</title>
@@ -156,16 +166,6 @@
       <title>Totální provar: Kluk z balónu</title>
       <link>https://www.kinobox.cz/film/4564298</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/20/external_file_6314747807534627494.jpg" alt="Totální provar: Kluk z balónu plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Apokalypsa v tropech</title>
-      <link>https://www.kinobox.cz/film/2667565</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/04/external_file_13870208716660171026.jpg" alt="Apokalypsa v tropech plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Dva na ráně</title>
-      <link>https://www.kinobox.cz/film/4607173</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/13/external_file_10638183374255113371.jpg" alt="Dva na ráně plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Akční, Krimi</p>]]></description>
     </item>
   </channel>
 </rss>
