@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 09 Aug 2025 06:06:39 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 10:00:48 +0200</lastBuildDate>
+    <item>
+      <title>Ukradeno: Loupež století</title>
+      <link>https://www.kinobox.cz/film/4813378</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/04/external_file_8291245129891963301.jpg" alt="Ukradeno: Loupež století plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Krimi</p>]]></description>
+    </item>
     <item>
       <title>Salli</title>
       <link>https://www.kinobox.cz/film/2683198</link>
@@ -161,11 +166,6 @@
       <title>Komu patří můj život</title>
       <link>https://www.kinobox.cz/film/2659607</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/24/external_file_4660354972726046195.jpg" alt="Komu patří můj život plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Totální provar: Kluk z balónu</title>
-      <link>https://www.kinobox.cz/film/4564298</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/20/external_file_6314747807534627494.jpg" alt="Totální provar: Kluk z balónu plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
   </channel>
 </rss>
