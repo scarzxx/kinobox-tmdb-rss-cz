@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 10 Aug 2025 06:15:06 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 10:00:57 +0200</lastBuildDate>
+    <item>
+      <title>Opojení lovem</title>
+      <link>https://www.kinobox.cz/film/2658793</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/21/external_file_4108148186478879736.jpg" alt="Opojení lovem plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Mysteriozní, Thriller</p>]]></description>
+    </item>
     <item>
       <title>Ukradeno: Loupež století</title>
       <link>https://www.kinobox.cz/film/4813378</link>
@@ -161,11 +166,6 @@
       <title>Velké zívnutí světa</title>
       <link>https://www.kinobox.cz/film/2636932</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/02/26/upload_1651372570903128575.jpg" alt="Velké zívnutí světa plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Komu patří můj život</title>
-      <link>https://www.kinobox.cz/film/2659607</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/24/external_file_4660354972726046195.jpg" alt="Komu patří můj život plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
   </channel>
 </rss>
