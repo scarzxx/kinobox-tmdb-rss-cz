@@ -6,7 +6,17 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 14 Aug 2025 06:07:01 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 10:01:03 +0200</lastBuildDate>
+    <item>
+      <title>Písničky z díry</title>
+      <link>https://www.kinobox.cz/film/3145324</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/04/external_file_14133124708461111991.jpg" alt="Písničky z díry plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
+    </item>
+    <item>
+      <title>Šmik, šmik</title>
+      <link>https://www.kinobox.cz/film/4480549</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/19/external_file_1974892987058858597.jpg" alt="Šmik, šmik plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Animovaný, Komedie</p>]]></description>
+    </item>
     <item>
       <title>Antes &amp; Depois</title>
       <link>https://www.kinobox.cz/film/4874737</link>
@@ -156,16 +166,6 @@
       <title>Ode zdi ke zdi</title>
       <link>https://www.kinobox.cz/film/4709376</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/19/external_file_11594719553985346540.jpg" alt="Ode zdi ke zdi plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
-    </item>
-    <item>
-      <title>Rodina vocaď pocaď</title>
-      <link>https://www.kinobox.cz/film/4729978</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/04/external_file_11999485635243540086.jpg" alt="Rodina vocaď pocaď plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Slušný židovský chlapec</title>
-      <link>https://www.kinobox.cz/film/3139802</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_5042952921562034305.jpg" alt="Slušný židovský chlapec plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama</p>]]></description>
     </item>
   </channel>
 </rss>
