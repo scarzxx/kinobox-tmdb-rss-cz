@@ -6,7 +6,22 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 15 Aug 2025 06:07:14 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 10:01:07 +0200</lastBuildDate>
+    <item>
+      <title>Elbow</title>
+      <link>https://www.kinobox.cz/film/3160034</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/28/external_file_14725095377692750762.jpg" alt="Elbow plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Sei fratelli</title>
+      <link>https://www.kinobox.cz/film/3149882</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_1170796651873941078.jpg" alt="Sei fratelli plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
+    </item>
+    <item>
+      <title>Killing the Competition</title>
+      <link>https://www.kinobox.cz/film/3647371</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/27/external_file_11461375607922897667.jpg" alt="Killing the Competition plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
     <item>
       <title>Písničky z díry</title>
       <link>https://www.kinobox.cz/film/3145324</link>
@@ -16,6 +31,11 @@
       <title>Šmik, šmik</title>
       <link>https://www.kinobox.cz/film/4480549</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/19/external_file_1974892987058858597.jpg" alt="Šmik, šmik plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Animovaný, Komedie</p>]]></description>
+    </item>
+    <item>
+      <title>The Last Goodbye</title>
+      <link>https://www.kinobox.cz/film/3910673</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/07/external_file_14438407367157178031.jpg" alt="The Last Goodbye plagát" style="max-width: 100%; height: auto;" />]]></description>
     </item>
     <item>
       <title>Antes &amp; Depois</title>
@@ -146,26 +166,6 @@
       <title>Robot Chicken: Self-Discovery Special</title>
       <link>https://www.kinobox.cz/film/4830202</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/22/external_file_9982981908441041271.jpg" alt="Robot Chicken: Self-Discovery Special plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Animovaný</p>]]></description>
-    </item>
-    <item>
-      <title>Jak se nám to mohlo stát!?</title>
-      <link>https://www.kinobox.cz/film/3228565</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/05/upload_14528455116159630008.jpg" alt="Jak se nám to mohlo stát!? plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Jsem pořád stejná</title>
-      <link>https://www.kinobox.cz/film/4759279</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/21/external_file_17861432363879150293.jpg" alt="Jsem pořád stejná plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Lilim</title>
-      <link>https://www.kinobox.cz/film/3270618</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/08/external_file_229768808710266458.jpg" alt="Lilim plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor, Thriller, Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Ode zdi ke zdi</title>
-      <link>https://www.kinobox.cz/film/4709376</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/19/external_file_11594719553985346540.jpg" alt="Ode zdi ke zdi plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
     </item>
   </channel>
 </rss>
