@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 15 Aug 2025 16:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 18:00:03 +0200</lastBuildDate>
     <item>
       <title>Wednesday</title>
       <link>https://www.themoviedb.org/tv/119051-wednesday?language=cs-CZ</link>
@@ -62,6 +62,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
     </item>
     <item>
+      <title>Motýlek</title>
+      <link>https://www.themoviedb.org/tv/227114-butterfly?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/227114-butterfly?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/5V3ns5N0TsiQE0RlWMHcuBwCO1o.jpg" alt="Motýlek poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 13. srp. 2025</p>]]></description>
+    </item>
+    <item>
       <title>Hra o trůny</title>
       <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
@@ -107,7 +113,7 @@
       <title>Cizinka: Krev mé krve</title>
       <link>https://www.themoviedb.org/tv/207484-outlander-blood-of-my-blood?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/207484-outlander-blood-of-my-blood?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hlwZbEKXLbZvgdfxCT1j54pRyE4.jpg" alt="Cizinka: Krev mé krve poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 91%</p><p>První vysílání: 08. srp. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hlwZbEKXLbZvgdfxCT1j54pRyE4.jpg" alt="Cizinka: Krev mé krve poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 92%</p><p>První vysílání: 08. srp. 2025</p>]]></description>
     </item>
     <item>
       <title>Simpsonovi</title>
@@ -120,12 +126,6 @@
       <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
-    </item>
-    <item>
-      <title>Hříšníci</title>
-      <link>https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg" alt="Hříšníci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. led. 2011</p>]]></description>
     </item>
   </channel>
 </rss>
