@@ -6,21 +6,26 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 15 Aug 2025 10:01:07 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 14:01:04 +0200</lastBuildDate>
     <item>
-      <title>Elbow</title>
-      <link>https://www.kinobox.cz/film/3160034</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/28/external_file_14725095377692750762.jpg" alt="Elbow plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+      <title>Vždycky přijde noc</title>
+      <link>https://www.kinobox.cz/film/3341795</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/18/external_file_3659239166741174690.jpg" alt="Vždycky přijde noc plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Thriller</p>]]></description>
     </item>
     <item>
-      <title>Sei fratelli</title>
+      <title>O rodinných věcech</title>
       <link>https://www.kinobox.cz/film/3149882</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_1170796651873941078.jpg" alt="Sei fratelli plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_1170796651873941078.jpg" alt="O rodinných věcech plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama</p>]]></description>
     </item>
     <item>
-      <title>Killing the Competition</title>
+      <title>Ostré lokty</title>
+      <link>https://www.kinobox.cz/film/3160034</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/28/external_file_14725095377692750762.jpg" alt="Ostré lokty plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Jak se zbavit konkurence</title>
       <link>https://www.kinobox.cz/film/3647371</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/27/external_file_11461375607922897667.jpg" alt="Killing the Competition plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/27/external_file_11461375607922897667.jpg" alt="Jak se zbavit konkurence plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
     </item>
     <item>
       <title>Písničky z díry</title>
@@ -35,7 +40,7 @@
     <item>
       <title>The Last Goodbye</title>
       <link>https://www.kinobox.cz/film/3910673</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/07/external_file_14438407367157178031.jpg" alt="The Last Goodbye plagát" style="max-width: 100%; height: auto;" />]]></description>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/07/external_file_14438407367157178031.jpg" alt="The Last Goodbye plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Romantický, Drama</p>]]></description>
     </item>
     <item>
       <title>Antes &amp; Depois</title>
@@ -161,11 +166,6 @@
       <title>Totální provar: Mámy vyšetřovatelky</title>
       <link>https://www.kinobox.cz/film/4607093</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/03/external_file_2927371028673670335.jpg" alt="Totální provar: Mámy vyšetřovatelky plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Robot Chicken: Self-Discovery Special</title>
-      <link>https://www.kinobox.cz/film/4830202</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/22/external_file_9982981908441041271.jpg" alt="Robot Chicken: Self-Discovery Special plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Animovaný</p>]]></description>
     </item>
   </channel>
 </rss>
