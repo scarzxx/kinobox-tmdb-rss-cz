@@ -6,7 +6,17 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 16 Aug 2025 06:03:15 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 10:00:57 +0200</lastBuildDate>
+    <item>
+      <title>Paddington v džungli</title>
+      <link>https://www.kinobox.cz/film/438707</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/14/upload_6501244649164498064.jpg" alt="Paddington v džungli plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Animovaný, Dětský, Rodinný, Komedie, Fantasy, Adaptace knižní, Dobrodružný</p>]]></description>
+    </item>
+    <item>
+      <title>Vyšehrad Dvje</title>
+      <link>https://www.kinobox.cz/film/2661698</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/24/external_file_7940342636014850476.jpg" alt="Vyšehrad Dvje plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Sportovní, Satira, Série/Franchise</p>]]></description>
+    </item>
     <item>
       <title>Vždycky přijde noc</title>
       <link>https://www.kinobox.cz/film/3341795</link>
@@ -156,16 +166,6 @@
       <title>Navzdory</title>
       <link>https://www.kinobox.cz/film/2667405</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/09/02/external_file_4116145233931564096.jpg" alt="Navzdory plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Fantasy</p>]]></description>
-    </item>
-    <item>
-      <title>Zlatovláska</title>
-      <link>https://www.kinobox.cz/film/2646133</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/18/external_file_13331063571545481992.jpg" alt="Zlatovláska plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Pohádka</p>]]></description>
-    </item>
-    <item>
-      <title>Totální provar: Mámy vyšetřovatelky</title>
-      <link>https://www.kinobox.cz/film/4607093</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/03/external_file_2927371028673670335.jpg" alt="Totální provar: Mámy vyšetřovatelky plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
   </channel>
 </rss>
