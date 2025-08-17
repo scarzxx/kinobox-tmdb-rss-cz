@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 17 Aug 2025 10:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 12:00:03 +0200</lastBuildDate>
     <item>
       <title>Wednesday</title>
       <link>https://www.themoviedb.org/tv/119051-wednesday?language=cs-CZ</link>
@@ -59,19 +59,13 @@
       <title>Motýlek</title>
       <link>https://www.themoviedb.org/tv/227114-butterfly?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/227114-butterfly?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/5V3ns5N0TsiQE0RlWMHcuBwCO1o.jpg" alt="Motýlek poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 13. srp. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/5V3ns5N0TsiQE0RlWMHcuBwCO1o.jpg" alt="Motýlek poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 13. srp. 2025</p>]]></description>
     </item>
     <item>
       <title>Lovci duchů</title>
       <link>https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
-    </item>
-    <item>
-      <title>Válečný velitel</title>
-      <link>https://www.themoviedb.org/tv/196890-chief-of-war?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/196890-chief-of-war?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8Mckh3qJRTzXTQNZtpb133RHmO4.jpg" alt="Válečný velitel poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 31. čvc. 2025</p>]]></description>
     </item>
     <item>
       <title>Hra o trůny</title>
@@ -96,6 +90,12 @@
       <link>https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg" alt="Griffinovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 31. led. 1999</p>]]></description>
+    </item>
+    <item>
+      <title>Válečný velitel</title>
+      <link>https://www.themoviedb.org/tv/196890-chief-of-war?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/196890-chief-of-war?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8Mckh3qJRTzXTQNZtpb133RHmO4.jpg" alt="Válečný velitel poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 31. čvc. 2025</p>]]></description>
     </item>
     <item>
       <title>Právo a pořádek</title>
