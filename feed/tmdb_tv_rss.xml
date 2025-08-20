@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 20 Aug 2025 04:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 06:00:03 +0200</lastBuildDate>
     <item>
       <title>Wednesday</title>
       <link>https://www.themoviedb.org/tv/119051-wednesday?language=cs-CZ</link>
@@ -35,13 +35,13 @@
       <title>V bahně</title>
       <link>https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9JWQYB7FkGtg47wFO7GOrUDgYrx.jpg" alt="V bahně poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 14. srp. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9JWQYB7FkGtg47wFO7GOrUDgYrx.jpg" alt="V bahně poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 14. srp. 2025</p>]]></description>
     </item>
     <item>
       <title>Motýlek</title>
       <link>https://www.themoviedb.org/tv/227114-butterfly?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/227114-butterfly?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/5V3ns5N0TsiQE0RlWMHcuBwCO1o.jpg" alt="Motýlek poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 13. srp. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/5V3ns5N0TsiQE0RlWMHcuBwCO1o.jpg" alt="Motýlek poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 13. srp. 2025</p>]]></description>
     </item>
     <item>
       <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
