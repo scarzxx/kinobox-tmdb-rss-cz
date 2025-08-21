@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 21 Aug 2025 06:01:05 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 10:01:05 +0200</lastBuildDate>
+    <item>
+      <title>The Bad Guardian</title>
+      <link>https://www.kinobox.cz/film/3151575</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_12518131921208490621.jpg" alt="The Bad Guardian plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
+    </item>
     <item>
       <title>Paddington v džungli</title>
       <link>https://www.kinobox.cz/film/438707</link>
@@ -161,11 +166,6 @@
       <title>Mor</title>
       <link>https://www.kinobox.cz/film/4841116</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/25/external_file_7363825065819269713.jpg" alt="Mor plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Historický</p>]]></description>
-    </item>
-    <item>
-      <title>Obyčejná žena</title>
-      <link>https://www.kinobox.cz/film/3228939</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/11/external_file_5956307959600962335.jpg" alt="Obyčejná žena plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
     </item>
   </channel>
 </rss>
