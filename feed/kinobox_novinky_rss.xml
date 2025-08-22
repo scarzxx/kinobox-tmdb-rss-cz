@@ -6,7 +6,22 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 22 Aug 2025 06:01:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 10:01:07 +0200</lastBuildDate>
+    <item>
+      <title>Chci jenom tebe</title>
+      <link>https://www.kinobox.cz/film/4741250</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/01/external_file_7512439651577443190.jpg" alt="Chci jenom tebe plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Thriller, Erotický</p>]]></description>
+    </item>
+    <item>
+      <title>Hvězda jednoho hitu</title>
+      <link>https://www.kinobox.cz/film/3181246</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/26/external_file_8015551533425337286.jpg" alt="Hvězda jednoho hitu plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Komedie, Hudební</p>]]></description>
+    </item>
+    <item>
+      <title>Zlato na kolejích</title>
+      <link>https://www.kinobox.cz/film/4874595</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/05/external_file_14185906018406748481.jpg" alt="Zlato na kolejích plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Komedie, Akční</p>]]></description>
+    </item>
     <item>
       <title>Špatná pečovatelka</title>
       <link>https://www.kinobox.cz/film/3151575</link>
@@ -151,21 +166,6 @@
       <title>Max Verstappen: Lev na trati</title>
       <link>https://www.kinobox.cz/film/4862657</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/01/upload_13124335495041970311.jpg" alt="Max Verstappen: Lev na trati plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Biografický, Sportovní</p>]]></description>
-    </item>
-    <item>
-      <title>Babygirl</title>
-      <link>https://www.kinobox.cz/film/2666832</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/28/upload_5492895208029744324.png" alt="Babygirl plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller, Krimi, Mysteriozní</p>]]></description>
-    </item>
-    <item>
-      <title>Rivalové 2</title>
-      <link>https://www.kinobox.cz/film/2682439</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/14/external_file_13015919353007018327.jpg" alt="Rivalové 2 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Sportovní, Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Mor</title>
-      <link>https://www.kinobox.cz/film/4841116</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/25/external_file_7363825065819269713.jpg" alt="Mor plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Historický</p>]]></description>
     </item>
   </channel>
 </rss>
