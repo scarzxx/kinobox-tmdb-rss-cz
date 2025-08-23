@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 23 Aug 2025 06:01:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 10:00:58 +0200</lastBuildDate>
+    <item>
+      <title>Maa</title>
+      <link>https://www.kinobox.cz/film/4010166</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/27/external_file_4136178410552177430.jpg" alt="Maa plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor</p>]]></description>
+    </item>
     <item>
       <title>Chci jenom tebe</title>
       <link>https://www.kinobox.cz/film/4741250</link>
@@ -83,6 +88,11 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/12/external_file_4064858368258836455.jpg" alt="Antes & Depois plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Rodinný, Dokumentární</p>]]></description>
     </item>
     <item>
+      <title>Maria</title>
+      <link>https://www.kinobox.cz/film/730449</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/21/upload_15261433727241052708.png" alt="Maria plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Biografický, Hudební</p>]]></description>
+    </item>
+    <item>
       <title>Opojení lovem</title>
       <link>https://www.kinobox.cz/film/2658793</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/06/21/external_file_4108148186478879736.jpg" alt="Opojení lovem plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Mysteriozní, Thriller</p>]]></description>
@@ -156,16 +166,6 @@
       <title>Jaws vs Mega Croc</title>
       <link>https://www.kinobox.cz/film/4866136</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/07/external_file_7282576827925324334.jpg" alt="Jaws vs Mega Croc plagát" style="max-width: 100%; height: auto;" />]]></description>
-    </item>
-    <item>
-      <title>Totální provar: Nájezd na Oblast 51</title>
-      <link>https://www.kinobox.cz/film/4607098</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/03/upload_3419348351316890379.png" alt="Totální provar: Nájezd na Oblast 51 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Max Verstappen: Lev na trati</title>
-      <link>https://www.kinobox.cz/film/4862657</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/01/upload_13124335495041970311.jpg" alt="Max Verstappen: Lev na trati plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Biografický, Sportovní</p>]]></description>
     </item>
   </channel>
 </rss>
