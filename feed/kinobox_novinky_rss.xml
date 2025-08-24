@@ -6,7 +6,7 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 24 Aug 2025 14:01:04 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 18:00:56 +0200</lastBuildDate>
     <item>
       <title>Maa</title>
       <link>https://www.kinobox.cz/film/4010166</link>
@@ -41,6 +41,11 @@
       <title>Špatná pečovatelka</title>
       <link>https://www.kinobox.cz/film/3151575</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_12518131921208490621.jpg" alt="Špatná pečovatelka plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Kukang Movie: Příběh o outloních a lidech</title>
+      <link>https://www.kinobox.cz/film/4940553</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/24/upload_11294380259185642333.jpg" alt="Kukang Movie: Příběh o outloních a lidech plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
     <item>
       <title>Paddington v džungli</title>
@@ -161,11 +166,6 @@
       <title>Pětka s hvězdičkou</title>
       <link>https://www.kinobox.cz/film/3286336</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/10/external_file_17525810173220836156.jpg" alt="Pětka s hvězdičkou plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Rodinný</p>]]></description>
-    </item>
-    <item>
-      <title>Zimní přechod</title>
-      <link>https://www.kinobox.cz/film/3138447</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_18067109828804113277.jpg" alt="Zimní přechod plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
     </item>
   </channel>
 </rss>
