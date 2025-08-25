@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 Aug 2025 02:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 04:00:02 +0200</lastBuildDate>
     <item>
       <title>Wednesday</title>
       <link>https://www.themoviedb.org/tv/119051-wednesday?language=cs-CZ</link>
@@ -44,12 +44,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/q8dWfc4JwQuv3HayIZeO84jAXED.jpg" alt="Dexter poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 01. říj. 2006</p>]]></description>
     </item>
     <item>
-      <title>V bahně</title>
-      <link>https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9JWQYB7FkGtg47wFO7GOrUDgYrx.jpg" alt="V bahně poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 14. srp. 2025</p>]]></description>
-    </item>
-    <item>
       <title>Chirurgové</title>
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</guid>
@@ -60,6 +54,12 @@
       <link>https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg" alt="Peacemaker poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 13. led. 2022</p>]]></description>
+    </item>
+    <item>
+      <title>V bahně</title>
+      <link>https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9JWQYB7FkGtg47wFO7GOrUDgYrx.jpg" alt="V bahně poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 14. srp. 2025</p>]]></description>
     </item>
     <item>
       <title>Lovci duchů</title>
