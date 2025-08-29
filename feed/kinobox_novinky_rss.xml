@@ -6,11 +6,21 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 29 Aug 2025 06:01:04 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 10:01:04 +0200</lastBuildDate>
     <item>
       <title>Čtvrteční klub amatérských detektivů</title>
       <link>https://www.kinobox.cz/film/2673377</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/12/upload_3908467243195360849.png" alt="Čtvrteční klub amatérských detektivů plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Krimi, Mysteriozní, Komedie, Adaptace knižní</p>]]></description>
+    </item>
+    <item>
+      <title>Duino</title>
+      <link>https://www.kinobox.cz/film/3148849</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_8905045027220428721.jpg" alt="Duino plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Simon of the Mountain</title>
+      <link>https://www.kinobox.cz/film/3165742</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_26882769557966681.jpg" alt="Simon of the Mountain plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
     <item>
       <title>Fantasy fotbal nám zničil život</title>
@@ -21,6 +31,11 @@
       <title>Planeta nezadaných: Řecký příběh</title>
       <link>https://www.kinobox.cz/film/4503768</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/03/external_file_16887336390183706759.jpg" alt="Planeta nezadaných: Řecký příběh plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Romantický</p>]]></description>
+    </item>
+    <item>
+      <title>Silver Star</title>
+      <link>https://www.kinobox.cz/film/3161002</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_15948147117723071277.jpg" alt="Silver Star plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Krimi, Drama, Historický</p>]]></description>
     </item>
     <item>
       <title>Kill Tony: Mayhem at Madison Square Garden</title>
@@ -151,21 +166,6 @@
       <title>Jak přežít útok žraloka</title>
       <link>https://www.kinobox.cz/film/4836467</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/27/external_file_17781862244888337284.jpg" alt="Jak přežít útok žraloka plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Můj oxfordský rok</title>
-      <link>https://www.kinobox.cz/film/4531357</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/30/upload_15626876470659914110.png" alt="Můj oxfordský rok plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Adaptace knižní</p>]]></description>
-    </item>
-    <item>
-      <title>Nezvratný osud: Pokrevní linie</title>
-      <link>https://www.kinobox.cz/film/2684290</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/04/upload_17948381521363711571.jpg" alt="Nezvratný osud: Pokrevní linie plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor, Série/Franchise</p>]]></description>
-    </item>
-    <item>
-      <title>Zářijové děti</title>
-      <link>https://www.kinobox.cz/film/3145746</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_16718927407631680566.jpg" alt="Zářijové děti plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Akční, Drama, Thriller</p>]]></description>
     </item>
   </channel>
 </rss>
