@@ -6,12 +6,18 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 30 Aug 2025 14:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 16:00:03 +0200</lastBuildDate>
     <item>
       <title>Wednesday</title>
       <link>https://www.themoviedb.org/tv/119051-wednesday?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/119051-wednesday?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/5bduv6AsBuQyoBpe91NWAz71KXl.jpg" alt="Wednesday poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 23. lis. 2022</p>]]></description>
+    </item>
+    <item>
+      <title>Vetřelec: Země</title>
+      <link>https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hdtRmBxs7LP4X3RcdKF4ilvhrpX.jpg" alt="Vetřelec: Země poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 12. srp. 2025</p>]]></description>
     </item>
     <item>
       <title>Léto, kdy jsem zkrásněla</title>
@@ -20,40 +26,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/1yWk3fsXUzgyuszocSNwRdDKPpD.jpg" alt="Léto, kdy jsem zkrásněla poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 16. čer. 2022</p>]]></description>
     </item>
     <item>
-      <title>Vetřelec: Země</title>
-      <link>https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hdtRmBxs7LP4X3RcdKF4ilvhrpX.jpg" alt="Vetřelec: Země poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 12. srp. 2025</p>]]></description>
-    </item>
-    <item>
-      <title>Perníkový táta</title>
-      <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
-    </item>
-    <item>
       <title>Zelenáč</title>
       <link>https://www.themoviedb.org/tv/79744-the-rookie?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/79744-the-rookie?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" alt="Zelenáč poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 16. říj. 2018</p>]]></description>
-    </item>
-    <item>
-      <title>Chirurgové</title>
-      <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lQybEErJhFc1jkrOjeo5bPTUeUB.jpg" alt="Chirurgové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 27. bře. 2005</p>]]></description>
-    </item>
-    <item>
-      <title>Dexter</title>
-      <link>https://www.themoviedb.org/tv/1405-dexter?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1405-dexter?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/q8dWfc4JwQuv3HayIZeO84jAXED.jpg" alt="Dexter poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 01. říj. 2006</p>]]></description>
-    </item>
-    <item>
-      <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
-      <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg" alt="Zákon a pořádek: Útvar pro zvláštní oběti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 20. zář. 1999</p>]]></description>
     </item>
     <item>
       <title>Peacemaker</title>
@@ -62,10 +38,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg" alt="Peacemaker poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 13. led. 2022</p>]]></description>
     </item>
     <item>
-      <title>Hra na oliheň</title>
-      <link>https://www.themoviedb.org/tv/93405?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/93405?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3fslS7IiO4wwTpJXBZivpb9B41K.jpg" alt="Hra na oliheň poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 17. zář. 2021</p>]]></description>
+      <title>Dexter</title>
+      <link>https://www.themoviedb.org/tv/1405-dexter?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1405-dexter?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/q8dWfc4JwQuv3HayIZeO84jAXED.jpg" alt="Dexter poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 01. říj. 2006</p>]]></description>
     </item>
     <item>
       <title>Lovci duchů</title>
@@ -74,22 +50,46 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
     </item>
     <item>
+      <title>Perníkový táta</title>
+      <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
+    </item>
+    <item>
+      <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
+      <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg" alt="Zákon a pořádek: Útvar pro zvláštní oběti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 20. zář. 1999</p>]]></description>
+    </item>
+    <item>
+      <title>Chirurgové</title>
+      <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lQybEErJhFc1jkrOjeo5bPTUeUB.jpg" alt="Chirurgové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 27. bře. 2005</p>]]></description>
+    </item>
+    <item>
+      <title>Hra na oliheň</title>
+      <link>https://www.themoviedb.org/tv/93405?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/93405?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3fslS7IiO4wwTpJXBZivpb9B41K.jpg" alt="Hra na oliheň poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 17. zář. 2021</p>]]></description>
+    </item>
+    <item>
       <title>Útěk z vězení</title>
       <link>https://www.themoviedb.org/tv/2288-prison-break?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/2288-prison-break?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6CSxAZPdpeKs1qGszO2g3XaqqHO.jpg" alt="Útěk z vězení poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 29. srp. 2005</p>]]></description>
     </item>
     <item>
-      <title>Kouzelná Beruška a Černý kocour</title>
-      <link>https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bg0sYGdpPETndv7fCsUwLxcBaXy.jpg" alt="Kouzelná Beruška a Černý kocour poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 19. říj. 2015</p>]]></description>
-    </item>
-    <item>
       <title>Válečný velitel</title>
       <link>https://www.themoviedb.org/tv/196890-chief-of-war?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/196890-chief-of-war?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8Mckh3qJRTzXTQNZtpb133RHmO4.jpg" alt="Válečný velitel poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 31. čvc. 2025</p>]]></description>
+    </item>
+    <item>
+      <title>Kouzelná Beruška a Černý kocour</title>
+      <link>https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bg0sYGdpPETndv7fCsUwLxcBaXy.jpg" alt="Kouzelná Beruška a Černý kocour poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 19. říj. 2015</p>]]></description>
     </item>
     <item>
       <title>Námořní vyšetřovací služba</title>
@@ -102,12 +102,6 @@
       <link>https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg" alt="Právo a pořádek poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 13. zář. 1990</p>]]></description>
-    </item>
-    <item>
-      <title>Hříšníci</title>
-      <link>https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg" alt="Hříšníci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. led. 2011</p>]]></description>
     </item>
     <item>
       <title>Hra o trůny</title>
@@ -126,6 +120,12 @@
       <link>https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/kfIuYMNPwFeP6FPSAW5fHmMoDVR.jpg" alt="Na seznamu smrti: Temný vlk poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 27. srp. 2025</p>]]></description>
+    </item>
+    <item>
+      <title>Hříšníci</title>
+      <link>https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg" alt="Hříšníci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. led. 2011</p>]]></description>
     </item>
   </channel>
 </rss>
