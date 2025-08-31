@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 31 Aug 2025 04:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 06:00:03 +0200</lastBuildDate>
     <item>
       <title>Wednesday</title>
       <link>https://www.themoviedb.org/tv/119051-wednesday?language=cs-CZ</link>
@@ -86,12 +86,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bg0sYGdpPETndv7fCsUwLxcBaXy.jpg" alt="Kouzelná Beruška a Černý kocour poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 19. říj. 2015</p>]]></description>
     </item>
     <item>
-      <title>Námořní vyšetřovací služba</title>
-      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
-    </item>
-    <item>
       <title>Peacemaker</title>
       <link>https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</guid>
@@ -120,6 +114,12 @@
       <link>https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/kfIuYMNPwFeP6FPSAW5fHmMoDVR.jpg" alt="Na seznamu smrti: Temný vlk poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 27. srp. 2025</p>]]></description>
+    </item>
+    <item>
+      <title>Námořní vyšetřovací služba</title>
+      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
     </item>
     <item>
       <title>Hříšníci</title>
