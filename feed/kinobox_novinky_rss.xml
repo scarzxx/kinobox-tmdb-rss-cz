@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 02 Sep 2025 06:00:55 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 10:01:11 +0200</lastBuildDate>
+    <item>
+      <title>The 4 Rascals</title>
+      <link>https://www.kinobox.cz/film/3324524</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/13/external_file_7008041500659209565.jpg" alt="The 4 Rascals plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Romantický</p>]]></description>
+    </item>
     <item>
       <title>Cena útěchy</title>
       <link>https://www.kinobox.cz/film/3152015</link>
@@ -113,6 +118,11 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_12518131921208490621.jpg" alt="Špatná pečovatelka plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
     <item>
+      <title>Kukang Movie: Příběh o outloních a lidech</title>
+      <link>https://www.kinobox.cz/film/4940553</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/24/upload_11294380259185642333.jpg" alt="Kukang Movie: Příběh o outloních a lidech plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
+    </item>
+    <item>
       <title>Paddington v džungli</title>
       <link>https://www.kinobox.cz/film/438707</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/14/upload_6501244649164498064.jpg" alt="Paddington v džungli plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Animovaný, Dětský, Rodinný, Komedie, Fantasy, Adaptace knižní, Dobrodružný</p>]]></description>
@@ -156,16 +166,6 @@
       <title>Šmik, šmik</title>
       <link>https://www.kinobox.cz/film/4480549</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/19/external_file_1974892987058858597.jpg" alt="Šmik, šmik plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Animovaný, Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>The Last Goodbye</title>
-      <link>https://www.kinobox.cz/film/3910673</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/07/external_file_14438407367157178031.jpg" alt="The Last Goodbye plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Romantický, Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Antes &amp; Depois</title>
-      <link>https://www.kinobox.cz/film/4874737</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/12/external_file_4064858368258836455.jpg" alt="Antes & Depois plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Rodinný, Dokumentární</p>]]></description>
     </item>
   </channel>
 </rss>
