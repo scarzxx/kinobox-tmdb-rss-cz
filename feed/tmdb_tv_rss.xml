@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 03 Sep 2025 06:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 08:00:03 +0200</lastBuildDate>
     <item>
       <title>Wednesday</title>
       <link>https://www.themoviedb.org/tv/119051-wednesday?language=cs-CZ</link>
@@ -14,16 +14,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/5bduv6AsBuQyoBpe91NWAz71KXl.jpg" alt="Wednesday poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 23. lis. 2022</p>]]></description>
     </item>
     <item>
-      <title>Vetřelec: Země</title>
-      <link>https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hdtRmBxs7LP4X3RcdKF4ilvhrpX.jpg" alt="Vetřelec: Země poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 12. srp. 2025</p>]]></description>
-    </item>
-    <item>
       <title>Léto, kdy jsem zkrásněla</title>
       <link>https://www.themoviedb.org/tv/194766-the-summer-i-turned-pretty?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/194766-the-summer-i-turned-pretty?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/1yWk3fsXUzgyuszocSNwRdDKPpD.jpg" alt="Léto, kdy jsem zkrásněla poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 16. čer. 2022</p>]]></description>
+    </item>
+    <item>
+      <title>Vetřelec: Země</title>
+      <link>https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hdtRmBxs7LP4X3RcdKF4ilvhrpX.jpg" alt="Vetřelec: Země poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 12. srp. 2025</p>]]></description>
     </item>
     <item>
       <title>Zelenáč</title>
@@ -62,12 +62,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg" alt="Peacemaker poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 13. led. 2022</p>]]></description>
     </item>
     <item>
-      <title>Perníkový táta</title>
-      <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
-    </item>
-    <item>
       <title>Útěk z vězení</title>
       <link>https://www.themoviedb.org/tv/2288-prison-break?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/2288-prison-break?language=cs-CZ</guid>
@@ -90,6 +84,12 @@
       <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
+    </item>
+    <item>
+      <title>Perníkový táta</title>
+      <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
     </item>
     <item>
       <title>Kouzelná Beruška a Černý kocour</title>
