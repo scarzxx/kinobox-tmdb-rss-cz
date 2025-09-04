@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 04 Sep 2025 06:01:02 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 10:00:59 +0200</lastBuildDate>
+    <item>
+      <title>High School Heist</title>
+      <link>https://www.kinobox.cz/film/4430398</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/14/upload_14332383913227307023.jpg" alt="High School Heist plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Krimi, Komedie</p>]]></description>
+    </item>
     <item>
       <title>Bo Tu Bao Thu</title>
       <link>https://www.kinobox.cz/film/3324524</link>
@@ -161,11 +166,6 @@
       <title>Jak se zbavit konkurence</title>
       <link>https://www.kinobox.cz/film/3647371</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/27/external_file_11461375607922897667.jpg" alt="Jak se zbavit konkurence plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
-    </item>
-    <item>
-      <title>Písničky z díry</title>
-      <link>https://www.kinobox.cz/film/3145324</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/04/external_file_14133124708461111991.jpg" alt="Písničky z díry plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
   </channel>
 </rss>
