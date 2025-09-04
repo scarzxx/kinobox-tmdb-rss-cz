@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Thu, 04 Sep 2025 22:00:05 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 00:00:05 +0200</lastBuildDate>
     <item>
       <title>K-pop: Lovkyně démonů</title>
       <link>https://www.kinobox.cz/film/2679608</link>
@@ -54,7 +54,7 @@
     <item>
       <title>Zlatovláska</title>
       <link>https://www.kinobox.cz/film/2646133</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/11/18/external_file_13331063571545481992.jpg" alt="Zlatovláska plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 72%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Pohádka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 116 min&lt;/p&gt;</description>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/11/18/external_file_13331063571545481992.jpg" alt="Zlatovláska plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 71%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Pohádka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 116 min&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_2646133</guid>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
@@ -122,18 +122,18 @@
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tichá pošta</title>
-      <link>https://www.kinobox.cz/film/2682289</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/06/upload_11070827264796821178.jpg" alt="Tichá pošta plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 65%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Dobrodružný, Adaptace knižní, Rodinný, Válečný&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 97 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2682289</guid>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sladký život</title>
       <link>https://www.kinobox.cz/film/734633</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/01/24/upload_16792485511958610485.jpg" alt="Sladký život plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 59%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 101 min&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_734633</guid>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tichá pošta</title>
+      <link>https://www.kinobox.cz/film/2682289</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/06/upload_11070827264796821178.jpg" alt="Tichá pošta plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 65%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Dobrodružný, Adaptace knižní, Rodinný, Válečný&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 97 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2682289</guid>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Apokalypsa v tropech</title>
@@ -171,6 +171,13 @@
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>High School Heist</title>
+      <link>https://www.kinobox.cz/film/4430398</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/04/14/upload_14332383913227307023.jpg" alt="High School Heist plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 72%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Krimi, Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 99 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_4430398</guid>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Mor</title>
       <link>https://www.kinobox.cz/film/4841116</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/07/25/external_file_7363825065819269713.jpg" alt="Mor plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 58%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Historický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 100 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
@@ -178,11 +185,11 @@
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Poklad na Stříbrném jezeře</title>
-      <link>https://www.kinobox.cz/film/16204</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/09/01/16204___external_file_9370996422117600870.jpg" alt="Poklad na Stříbrném jezeře plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 83%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 1962&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Dobrodružný, Western, Adaptace knižní&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 107 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_16204</guid>
-      <pubDate>Fri, 22 May 1964 00:00:00 +0000</pubDate>
+      <title>Chci jenom tebe</title>
+      <link>https://www.kinobox.cz/film/4741250</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/08/01/external_file_7512439651577443190.jpg" alt="Chci jenom tebe plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 53%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Romantický, Thriller, Erotický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 103 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_4741250</guid>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Klaus</title>
@@ -190,13 +197,6 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg" alt="Klaus plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 89%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2019&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 96 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 7+&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_715575</guid>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chci jenom tebe</title>
-      <link>https://www.kinobox.cz/film/4741250</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/08/01/external_file_7512439651577443190.jpg" alt="Chci jenom tebe plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 53%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Romantický, Thriller, Erotický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 103 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_4741250</guid>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Království Planeta opic</title>
