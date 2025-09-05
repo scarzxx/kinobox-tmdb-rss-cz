@@ -6,11 +6,26 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 05 Sep 2025 06:00:58 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 10:01:13 +0200</lastBuildDate>
+    <item>
+      <title>První případ</title>
+      <link>https://www.kinobox.cz/film/3149416</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/05/external_file_16020283744327727339.jpg" alt="První případ plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Strange Frequencies: Taiwan Killer Hospital</title>
+      <link>https://www.kinobox.cz/film/4099078</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/12/external_file_8156972966778392674.jpg" alt="Strange Frequencies: Taiwan Killer Hospital plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor</p>]]></description>
+    </item>
     <item>
       <title>High School Heist</title>
       <link>https://www.kinobox.cz/film/4430398</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/14/upload_14332383913227307023.jpg" alt="High School Heist plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Krimi, Komedie</p>]]></description>
+    </item>
+    <item>
+      <title>The Masterplan</title>
+      <link>https://www.kinobox.cz/film/4999836</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/05/upload_3133836924348109644.jpg" alt="The Masterplan plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Sportovní</p>]]></description>
     </item>
     <item>
       <title>Bo Tu Bao Thu</title>
@@ -151,21 +166,6 @@
       <title>Isolated</title>
       <link>https://www.kinobox.cz/film/4423744</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/13/external_file_5781588456583387218.jpg" alt="Isolated plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor</p>]]></description>
-    </item>
-    <item>
-      <title>O rodinných věcech</title>
-      <link>https://www.kinobox.cz/film/3149882</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_1170796651873941078.jpg" alt="O rodinných věcech plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Ostré lokty</title>
-      <link>https://www.kinobox.cz/film/3160034</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/28/external_file_14725095377692750762.jpg" alt="Ostré lokty plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Jak se zbavit konkurence</title>
-      <link>https://www.kinobox.cz/film/3647371</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/27/external_file_11461375607922897667.jpg" alt="Jak se zbavit konkurence plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
     </item>
   </channel>
 </rss>
