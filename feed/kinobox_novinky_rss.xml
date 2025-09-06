@@ -6,7 +6,17 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 06 Sep 2025 06:00:59 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 10:01:01 +0200</lastBuildDate>
+    <item>
+      <title>Inspektor Zende</title>
+      <link>https://www.kinobox.cz/film/4879854</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/26/external_file_18404791301374132741.jpg" alt="Inspektor Zende plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama, Krimi</p>]]></description>
+    </item>
+    <item>
+      <title>Barbie &amp; Teresa: Recipe for Friendship</title>
+      <link>https://www.kinobox.cz/film/3406526</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/22/external_file_14165630184290392438.jpg" alt="Barbie & Teresa: Recipe for Friendship plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Animovaný, Rodinný, Série/Franchise</p>]]></description>
+    </item>
     <item>
       <title>První případ</title>
       <link>https://www.kinobox.cz/film/3149416</link>
@@ -156,16 +166,6 @@
       <title>Vyšehrad Dvje</title>
       <link>https://www.kinobox.cz/film/2661698</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/24/external_file_7940342636014850476.jpg" alt="Vyšehrad Dvje plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Sportovní, Satira, Série/Franchise</p>]]></description>
-    </item>
-    <item>
-      <title>Vždycky přijde noc</title>
-      <link>https://www.kinobox.cz/film/3341795</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/18/external_file_3659239166741174690.jpg" alt="Vždycky přijde noc plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Thriller</p>]]></description>
-    </item>
-    <item>
-      <title>Isolated</title>
-      <link>https://www.kinobox.cz/film/4423744</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/13/external_file_5781588456583387218.jpg" alt="Isolated plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor</p>]]></description>
     </item>
   </channel>
 </rss>
