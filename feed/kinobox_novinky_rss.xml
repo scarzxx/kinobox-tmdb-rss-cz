@@ -6,11 +6,16 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 07 Sep 2025 06:01:02 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 10:01:07 +0200</lastBuildDate>
     <item>
       <title>Emilia Pérez</title>
       <link>https://www.kinobox.cz/film/2654636</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/11/27/upload_11614447536402728880.jpg" alt="Emilia Pérez plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Krimi, Muzikál</p>]]></description>
+    </item>
+    <item>
+      <title>This is My Mother</title>
+      <link>https://www.kinobox.cz/film/3145069</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_12189765935793106685.jpg" alt="This is My Mother plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Komedie</p>]]></description>
     </item>
     <item>
       <title>Inspektor Zende</title>
@@ -161,11 +166,6 @@
       <title>Špatná pečovatelka</title>
       <link>https://www.kinobox.cz/film/3151575</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_12518131921208490621.jpg" alt="Špatná pečovatelka plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Kukang Movie: Příběh o outloních a lidech</title>
-      <link>https://www.kinobox.cz/film/4940553</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/24/upload_11294380259185642333.jpg" alt="Kukang Movie: Příběh o outloních a lidech plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
   </channel>
 </rss>
