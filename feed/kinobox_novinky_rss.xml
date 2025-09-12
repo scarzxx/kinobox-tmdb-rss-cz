@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 12 Sep 2025 06:01:10 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 10:01:15 +0200</lastBuildDate>
+    <item>
+      <title>Akademie pro padouchy</title>
+      <link>https://www.kinobox.cz/film/3181250</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/16/external_file_8636864976281762386.jpg" alt="Akademie pro padouchy plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
+    </item>
     <item>
       <title>Emilia Pérez</title>
       <link>https://www.kinobox.cz/film/2654636</link>
@@ -46,6 +51,11 @@
       <title>The Masterplan</title>
       <link>https://www.kinobox.cz/film/4999836</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/05/upload_3133836924348109644.jpg" alt="The Masterplan plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Sportovní</p>]]></description>
+    </item>
+    <item>
+      <title>Tornando a Est</title>
+      <link>https://www.kinobox.cz/film/3284326</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/09/external_file_6385325308726456091.jpg" alt="Tornando a Est plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dobrodružný</p>]]></description>
     </item>
     <item>
       <title>Africká jízda</title>
@@ -156,16 +166,6 @@
       <title>Hvězda jednoho hitu</title>
       <link>https://www.kinobox.cz/film/3181246</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/26/external_file_8015551533425337286.jpg" alt="Hvězda jednoho hitu plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Komedie, Hudební</p>]]></description>
-    </item>
-    <item>
-      <title>Zlato na kolejích</title>
-      <link>https://www.kinobox.cz/film/4874595</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/05/external_file_14185906018406748481.jpg" alt="Zlato na kolejích plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Komedie, Akční</p>]]></description>
-    </item>
-    <item>
-      <title>Špatná pečovatelka</title>
-      <link>https://www.kinobox.cz/film/3151575</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_12518131921208490621.jpg" alt="Špatná pečovatelka plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
   </channel>
 </rss>
