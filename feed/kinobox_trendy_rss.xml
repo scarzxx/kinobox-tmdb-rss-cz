@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sat, 13 Sep 2025 22:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 00:00:05 +0200</lastBuildDate>
     <item>
       <title>K-pop: Lovkyně démonů</title>
       <link>https://www.kinobox.cz/film/2679608</link>
@@ -59,13 +59,6 @@
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Zlatovláska</title>
-      <link>https://www.kinobox.cz/film/2646133</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/11/18/external_file_13331063571545481992.jpg" alt="Zlatovláska plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 71%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Pohádka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 116 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2646133</guid>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>High School Heist</title>
       <link>https://www.kinobox.cz/film/4430398</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/04/14/upload_14332383913227307023.jpg" alt="High School Heist plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 70%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Krimi, Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 99 min&lt;/p&gt;</description>
@@ -73,11 +66,11 @@
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gentlemani</title>
-      <link>https://www.kinobox.cz/film/438612</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2020/01/12/toff-guys-imdb172204842_1192.jpg" alt="Gentlemani plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 86%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2020&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Komedie, Krimi, Gangsterka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 113 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_438612</guid>
-      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Zlatovláska</title>
+      <link>https://www.kinobox.cz/film/2646133</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/11/18/external_file_13331063571545481992.jpg" alt="Zlatovláska plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 71%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Pohádka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 116 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2646133</guid>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Můj oxfordský rok</title>
@@ -85,6 +78,13 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/06/30/upload_15626876470659914110.png" alt="Můj oxfordský rok plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 70%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Romantický, Adaptace knižní&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 113 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 13+&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_4531357</guid>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gentlemani</title>
+      <link>https://www.kinobox.cz/film/438612</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2020/01/12/toff-guys-imdb172204842_1192.jpg" alt="Gentlemani plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 86%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2020&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Komedie, Krimi, Gangsterka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 113 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_438612</guid>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Na plech</title>
@@ -136,18 +136,18 @@
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Apokalypsa v tropech</title>
-      <link>https://www.kinobox.cz/film/2667565</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/07/04/external_file_13870208716660171026.jpg" alt="Apokalypsa v tropech plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 72%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Dokumentární&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 109 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2667565</guid>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Vždycky přijde noc</title>
       <link>https://www.kinobox.cz/film/3341795</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/07/18/external_file_3659239166741174690.jpg" alt="Vždycky přijde noc plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 53%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Krimi, Thriller&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 108 min&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_3341795</guid>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apokalypsa v tropech</title>
+      <link>https://www.kinobox.cz/film/2667565</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/07/04/external_file_13870208716660171026.jpg" alt="Apokalypsa v tropech plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 72%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Dokumentární&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 109 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2667565</guid>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tichá pošta</title>
@@ -162,13 +162,6 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/08/01/external_file_7512439651577443190.jpg" alt="Chci jenom tebe plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 53%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Romantický, Thriller, Erotický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 103 min&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_4741250</guid>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cihla</title>
-      <link>https://www.kinobox.cz/film/2682436</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/06/16/external_file_17914717919024380853.jpg" alt="Cihla plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 56%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Sci-fi, Thriller, Mysteriozní&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 99 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2682436</guid>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Duna: Část druhá</title>
@@ -190,6 +183,13 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/05/27/external_file_4136178410552177430.jpg" alt="Maa plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 56%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Horor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 133 min&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_4010166</guid>
       <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cihla</title>
+      <link>https://www.kinobox.cz/film/2682436</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/06/16/external_file_17914717919024380853.jpg" alt="Cihla plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 56%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Sci-fi, Thriller, Mysteriozní&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 99 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2682436</guid>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mor</title>
