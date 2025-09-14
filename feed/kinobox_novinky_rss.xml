@@ -6,7 +6,17 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 14 Sep 2025 06:01:07 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 10:00:58 +0200</lastBuildDate>
+    <item>
+      <title>Není Paříž jako Paříž</title>
+      <link>https://www.kinobox.cz/film/4498798</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/07/external_file_660670796164447269.jpg" alt="Není Paříž jako Paříž plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Romantický</p>]]></description>
+    </item>
+    <item>
+      <title>Saiyaara</title>
+      <link>https://www.kinobox.cz/film/4503552</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/31/external_file_13206013580235425257.jpg" alt="Saiyaara plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický</p>]]></description>
+    </item>
     <item>
       <title>Akademie pro padouchy</title>
       <link>https://www.kinobox.cz/film/3181250</link>
@@ -156,16 +166,6 @@
       <title>Pravda o Jussie Smollettovi?</title>
       <link>https://www.kinobox.cz/film/4833029</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/05/upload_12273380126295265706.png" alt="Pravda o Jussie Smollettovi? plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Chci jenom tebe</title>
-      <link>https://www.kinobox.cz/film/4741250</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/01/external_file_7512439651577443190.jpg" alt="Chci jenom tebe plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Thriller, Erotický</p>]]></description>
-    </item>
-    <item>
-      <title>Hvězda jednoho hitu</title>
-      <link>https://www.kinobox.cz/film/3181246</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/26/external_file_8015551533425337286.jpg" alt="Hvězda jednoho hitu plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Komedie, Hudební</p>]]></description>
     </item>
   </channel>
 </rss>
