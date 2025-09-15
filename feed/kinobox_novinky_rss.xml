@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 15 Sep 2025 06:01:22 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 10:01:23 +0200</lastBuildDate>
+    <item>
+      <title>Canelo Alvarez vs. Terence Crawford</title>
+      <link>https://www.kinobox.cz/film/4675888</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/11/external_file_6661102385674628534.jpg" alt="Canelo Alvarez vs. Terence Crawford plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Akční</p>]]></description>
+    </item>
     <item>
       <title>Není Paříž jako Paříž</title>
       <link>https://www.kinobox.cz/film/4498798</link>
@@ -161,11 +166,6 @@
       <title>Opuštěný muž</title>
       <link>https://www.kinobox.cz/film/4675698</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/23/external_file_11189875033082962241.jpg" alt="Opuštěný muž plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Pravda o Jussie Smollettovi?</title>
-      <link>https://www.kinobox.cz/film/4833029</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/05/upload_12273380126295265706.png" alt="Pravda o Jussie Smollettovi? plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
   </channel>
 </rss>
