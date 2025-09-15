@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 15 Sep 2025 02:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 04:00:04 +0200</lastBuildDate>
     <item>
       <title>Wednesday</title>
       <link>https://www.themoviedb.org/tv/119051-wednesday?language=cs-CZ</link>
@@ -116,16 +116,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/k6LX0rJOYeF4fNzfVlCGxWPTmE5.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
     </item>
     <item>
+      <title>Bon Appétit, Vaše Výsosti</title>
+      <link>https://www.themoviedb.org/tv/280945?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/280945?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/exUXEOierAwZ597010TLQka9TFy.jpg" alt="Bon Appétit, Vaše Výsosti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 23. srp. 2025</p>]]></description>
+    </item>
+    <item>
       <title>Dr. House</title>
       <link>https://www.themoviedb.org/tv/1408-house?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1408-house?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/WZLiPbT27ms9oKV58UpoDWFYpq.jpg" alt="Dr. House poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 16. lis. 2004</p>]]></description>
-    </item>
-    <item>
-      <title>Nadace</title>
-      <link>https://www.themoviedb.org/tv/93740-foundation?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/93740-foundation?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oryPerRwZaJcMgoQB1J0qwU5s6F.jpg" alt="Nadace poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 23. zář. 2021</p>]]></description>
     </item>
   </channel>
 </rss>
