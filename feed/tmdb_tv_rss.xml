@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 16 Sep 2025 06:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 08:00:03 +0200</lastBuildDate>
     <item>
       <title>Wednesday</title>
       <link>https://www.themoviedb.org/tv/119051-wednesday?language=cs-CZ</link>
@@ -56,12 +56,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
     </item>
     <item>
-      <title>Na seznamu smrti: Temný vlk</title>
-      <link>https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/kfIuYMNPwFeP6FPSAW5fHmMoDVR.jpg" alt="Na seznamu smrti: Temný vlk poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 27. srp. 2025</p>]]></description>
-    </item>
-    <item>
       <title>Hra o trůny</title>
       <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
@@ -72,6 +66,12 @@
       <link>https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg" alt="Právo a pořádek poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 13. zář. 1990</p>]]></description>
+    </item>
+    <item>
+      <title>Na seznamu smrti: Temný vlk</title>
+      <link>https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/kfIuYMNPwFeP6FPSAW5fHmMoDVR.jpg" alt="Na seznamu smrti: Temný vlk poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 27. srp. 2025</p>]]></description>
     </item>
     <item>
       <title>Hříšníci</title>
@@ -86,10 +86,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lQybEErJhFc1jkrOjeo5bPTUeUB.jpg" alt="Chirurgové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 27. bře. 2005</p>]]></description>
     </item>
     <item>
-      <title>Peacemaker</title>
-      <link>https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg" alt="Peacemaker poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 13. led. 2022</p>]]></description>
+      <title>Perníkový táta</title>
+      <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
     </item>
     <item>
       <title>Mrtvý holky</title>
@@ -98,10 +98,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/29VlRRFkGiFJFRZJBrYGPF2Ypz9.jpg" alt="Mrtvý holky poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p><p>První vysílání: 10. zář. 2025</p>]]></description>
     </item>
     <item>
-      <title>Perníkový táta</title>
-      <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
+      <title>Peacemaker</title>
+      <link>https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg" alt="Peacemaker poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 13. led. 2022</p>]]></description>
     </item>
     <item>
       <title>Myšlenky zločince</title>
