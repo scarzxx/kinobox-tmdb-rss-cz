@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 17 Sep 2025 06:01:10 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 10:01:28 +0200</lastBuildDate>
+    <item>
+      <title>Rebel Royals: An Unlikely Love Story</title>
+      <link>https://www.kinobox.cz/film/4949124</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/12/external_file_17172980042142589421.jpg" alt="Rebel Royals: An Unlikely Love Story plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
+    </item>
     <item>
       <title>Canelo Álvarez vs. Terence Crawford</title>
       <link>https://www.kinobox.cz/film/4675888</link>
@@ -161,11 +166,6 @@
       <title>Maareesan</title>
       <link>https://www.kinobox.cz/film/4946265</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/26/external_file_8449171563693170309.jpg" alt="Maareesan plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller, Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Opuštěný muž</title>
-      <link>https://www.kinobox.cz/film/4675698</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/23/external_file_11189875033082962241.jpg" alt="Opuštěný muž plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
   </channel>
 </rss>
