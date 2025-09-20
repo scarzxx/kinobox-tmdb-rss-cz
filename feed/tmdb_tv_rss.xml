@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 20 Sep 2025 08:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 10:00:03 +0200</lastBuildDate>
     <item>
       <title>Wednesday</title>
       <link>https://www.themoviedb.org/tv/119051-wednesday?language=cs-CZ</link>
@@ -18,6 +18,12 @@
       <link>https://www.themoviedb.org/tv/194766-the-summer-i-turned-pretty?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/194766-the-summer-i-turned-pretty?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/1yWk3fsXUzgyuszocSNwRdDKPpD.jpg" alt="Léto, kdy jsem zkrásněla poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 16. čer. 2022</p>]]></description>
+    </item>
+    <item>
+      <title>The Ba***ds of Bollywood</title>
+      <link>https://www.themoviedb.org/tv/247043-stardom?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/247043-stardom?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yOXUBEAHPihOcS54A3JmDQICtEr.jpg" alt="The Ba***ds of Bollywood poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p><p>První vysílání: 18. zář. 2025</p>]]></description>
     </item>
     <item>
       <title>Vetřelec: Země</title>
@@ -48,6 +54,12 @@
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lQybEErJhFc1jkrOjeo5bPTUeUB.jpg" alt="Chirurgové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 27. bře. 2005</p>]]></description>
+    </item>
+    <item>
+      <title>Peacemaker</title>
+      <link>https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg" alt="Peacemaker poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 13. led. 2022</p>]]></description>
     </item>
     <item>
       <title>Lovci duchů</title>
@@ -92,6 +104,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6CSxAZPdpeKs1qGszO2g3XaqqHO.jpg" alt="Útěk z vězení poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 29. srp. 2005</p>]]></description>
     </item>
     <item>
+      <title>Černý králík</title>
+      <link>https://www.themoviedb.org/tv/249039-black-rabbit?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/249039-black-rabbit?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg" alt="Černý králík poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p><p>První vysílání: 18. zář. 2025</p>]]></description>
+    </item>
+    <item>
       <title>Perníkový táta</title>
       <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
@@ -108,24 +126,6 @@
       <link>https://www.themoviedb.org/tv/246485-las-muertas?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/246485-las-muertas?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/29VlRRFkGiFJFRZJBrYGPF2Ypz9.jpg" alt="Mrtvý holky poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 10. zář. 2025</p>]]></description>
-    </item>
-    <item>
-      <title>Myšlenky zločince</title>
-      <link>https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/k6LX0rJOYeF4fNzfVlCGxWPTmE5.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
-    </item>
-    <item>
-      <title>Peacemaker</title>
-      <link>https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg" alt="Peacemaker poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 13. led. 2022</p>]]></description>
-    </item>
-    <item>
-      <title>Griffinovi</title>
-      <link>https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg" alt="Griffinovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 31. led. 1999</p>]]></description>
     </item>
   </channel>
 </rss>
