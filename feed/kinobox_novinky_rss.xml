@@ -6,11 +6,26 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 20 Sep 2025 06:01:13 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 10:01:06 +0200</lastBuildDate>
+    <item>
+      <title>Řekla možná</title>
+      <link>https://www.kinobox.cz/film/4767780</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/27/upload_11499664495682733041.png" alt="Řekla možná plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Romantický, Komedie</p>]]></description>
+    </item>
     <item>
       <title>Superman</title>
       <link>https://www.kinobox.cz/film/435540</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/14/upload_15815050100572147515.jpg" alt="Superman plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Akční, Dobrodružný, Fantasy, Sci-fi, Komiksový</p>]]></description>
+    </item>
+    <item>
+      <title>Uma Advogada Brilhante</title>
+      <link>https://www.kinobox.cz/film/3635300</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/26/external_file_104907221033058702.jpg" alt="Uma Advogada Brilhante plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
+    </item>
+    <item>
+      <title>V bludném kruhu</title>
+      <link>https://www.kinobox.cz/film/4949129</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/27/external_file_9993489162586808763.jpg" alt="V bludném kruhu plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Romantický, Komedie</p>]]></description>
     </item>
     <item>
       <title>Rebel Royals: An Unlikely Love Story</title>
@@ -151,21 +166,6 @@
       <title>Planeta nezadaných: Řecký příběh</title>
       <link>https://www.kinobox.cz/film/4503768</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/03/external_file_16887336390183706759.jpg" alt="Planeta nezadaných: Řecký příběh plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Romantický</p>]]></description>
-    </item>
-    <item>
-      <title>Silver Star</title>
-      <link>https://www.kinobox.cz/film/3161002</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_15948147117723071277.jpg" alt="Silver Star plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Krimi, Drama, Historický</p>]]></description>
-    </item>
-    <item>
-      <title>Kill Tony: Mayhem at Madison Square Garden</title>
-      <link>https://www.kinobox.cz/film/4930258</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/24/external_file_16169701455483317143.jpg" alt="Kill Tony: Mayhem at Madison Square Garden plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Maa</title>
-      <link>https://www.kinobox.cz/film/4010166</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/27/external_file_4136178410552177430.jpg" alt="Maa plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor</p>]]></description>
     </item>
   </channel>
 </rss>
