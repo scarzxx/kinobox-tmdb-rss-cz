@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sun, 21 Sep 2025 22:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 00:00:04 +0200</lastBuildDate>
     <item>
       <title>K-pop: Lovkyně démonů</title>
       <link>https://www.kinobox.cz/film/2679608</link>
@@ -164,13 +164,6 @@
       <pubDate>Thu, 16 Nov 2000 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Brother and 7 Siblings</title>
-      <link>https://www.kinobox.cz/film/3171031</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_1677693558057770894.jpg" alt="A Brother and 7 Siblings plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 81%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Rodinný&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 131 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 7+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_3171031</guid>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Duna: Část druhá</title>
       <link>https://www.kinobox.cz/film/721984</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/02/29/upload_1082187277995497275.jpg" alt="Duna: Část druhá plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 89%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Dobrodružný, Drama, Adaptace knižní, Série/Franchise, Sci-fi, Epický, Blockbuster&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 167 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
@@ -185,18 +178,25 @@
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Klaus</title>
-      <link>https://www.kinobox.cz/film/715575</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg" alt="Klaus plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 89%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2019&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 96 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 7+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_715575</guid>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Top Gun: Maverick</title>
       <link>https://www.kinobox.cz/film/432659</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2022/04/04/top-gun-2-imdb0725011256_1862.jpg" alt="Top Gun: Maverick plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 87%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Drama, Blockbuster, Série/Franchise&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 131 min&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_432659</guid>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Brother and 7 Siblings</title>
+      <link>https://www.kinobox.cz/film/3171031</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_1677693558057770894.jpg" alt="A Brother and 7 Siblings plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 81%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Rodinný&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 131 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 7+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_3171031</guid>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klaus</title>
+      <link>https://www.kinobox.cz/film/715575</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg" alt="Klaus plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 89%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2019&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 96 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 7+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_715575</guid>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mor</title>
@@ -213,13 +213,6 @@
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gauneři</title>
-      <link>https://www.kinobox.cz/film/232150</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/09/01/232150___external_file_10621154222997284263.jpg" alt="Gauneři plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 85%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 1992&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Drama, Krimi, Thriller, Film Noir, Gangsterka, Kultovní, Nezávislý&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 99 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_232150</guid>
-      <pubDate>Thu, 01 Dec 1994 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Neznámé číslo: Toxické textovky</title>
       <link>https://www.kinobox.cz/film/4836564</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/08/05/external_file_2039155404978367542.jpg" alt="Neznámé číslo: Toxické textovky plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 59%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Dokumentární&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 94 min&lt;/p&gt;</description>
@@ -227,11 +220,18 @@
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Příchozí</title>
-      <link>https://www.kinobox.cz/film/433280</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2016/10/28/story-of-your-life133502945_1338.jpg" alt="Příchozí plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 82%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2016&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Mysteriozní, Sci-fi, Thriller, Adaptace knižní, Oscarový&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 117 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_433280</guid>
-      <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Gauneři</title>
+      <link>https://www.kinobox.cz/film/232150</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/09/01/232150___external_file_10621154222997284263.jpg" alt="Gauneři plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 85%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 1992&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Drama, Krimi, Thriller, Film Noir, Gangsterka, Kultovní, Nezávislý&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 99 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_232150</guid>
+      <pubDate>Thu, 01 Dec 1994 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Válka policajtů</title>
+      <link>https://www.kinobox.cz/film/734430</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/01/09/upload_6120403422963457881.jpg" alt="Válka policajtů plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 64%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Thriller, Krimi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 150 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_734430</guid>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
