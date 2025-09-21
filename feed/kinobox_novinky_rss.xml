@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 21 Sep 2025 06:01:03 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 10:01:07 +0200</lastBuildDate>
+    <item>
+      <title>Caleb Hearon: Model Comedian</title>
+      <link>https://www.kinobox.cz/film/4996518</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/05/external_file_10463108543536021963.jpg" alt="Caleb Hearon: Model Comedian plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
+    </item>
     <item>
       <title>Řekla možná</title>
       <link>https://www.kinobox.cz/film/4767780</link>
@@ -161,11 +166,6 @@
       <title>Fantasy fotbal nám zničil život</title>
       <link>https://www.kinobox.cz/film/4709976</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/01/external_file_3025032940685469628.jpg" alt="Fantasy fotbal nám zničil život plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Planeta nezadaných: Řecký příběh</title>
-      <link>https://www.kinobox.cz/film/4503768</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/03/external_file_16887336390183706759.jpg" alt="Planeta nezadaných: Řecký příběh plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Romantický</p>]]></description>
     </item>
   </channel>
 </rss>
