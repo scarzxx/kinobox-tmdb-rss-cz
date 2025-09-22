@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 22 Sep 2025 20:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 22:00:02 +0200</lastBuildDate>
     <item>
       <title>Wednesday</title>
       <link>https://www.themoviedb.org/tv/119051-wednesday?language=cs-CZ</link>
@@ -59,7 +59,7 @@
       <title>Bunkr pro miliardáře</title>
       <link>https://www.themoviedb.org/tv/245648-el-refugio-atomico?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/245648-el-refugio-atomico?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hNVb60dPG34wYjazGgFolJhqfxp.jpg" alt="Bunkr pro miliardáře poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 59%</p><p>První vysílání: 19. zář. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hNVb60dPG34wYjazGgFolJhqfxp.jpg" alt="Bunkr pro miliardáře poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p><p>První vysílání: 19. zář. 2025</p>]]></description>
     </item>
     <item>
       <title>Generace V</title>
@@ -125,7 +125,7 @@
       <title>Bon Appétit, Vaše Výsosti</title>
       <link>https://www.themoviedb.org/tv/280945?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/280945?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/exUXEOierAwZ597010TLQka9TFy.jpg" alt="Bon Appétit, Vaše Výsosti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 90%</p><p>První vysílání: 23. srp. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/exUXEOierAwZ597010TLQka9TFy.jpg" alt="Bon Appétit, Vaše Výsosti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 23. srp. 2025</p>]]></description>
     </item>
   </channel>
 </rss>
