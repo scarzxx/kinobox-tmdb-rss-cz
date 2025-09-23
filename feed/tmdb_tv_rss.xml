@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 23 Sep 2025 10:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 12:00:03 +0200</lastBuildDate>
     <item>
       <title>Wednesday</title>
       <link>https://www.themoviedb.org/tv/119051-wednesday?language=cs-CZ</link>
@@ -23,7 +23,7 @@
       <title>The Ba***ds of Bollywood</title>
       <link>https://www.themoviedb.org/tv/247043-stardom?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/247043-stardom?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6QFnXFx5XJAp0SxMd9g23cbti4m.jpg" alt="The Ba***ds of Bollywood poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 18. zář. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yOXUBEAHPihOcS54A3JmDQICtEr.jpg" alt="The Ba***ds of Bollywood poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 18. zář. 2025</p>]]></description>
     </item>
     <item>
       <title>Vetřelec: Země</title>
@@ -60,6 +60,12 @@
       <link>https://www.themoviedb.org/tv/245648-el-refugio-atomico?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/245648-el-refugio-atomico?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hNVb60dPG34wYjazGgFolJhqfxp.jpg" alt="Bunkr pro miliardáře poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 63%</p><p>První vysílání: 19. zář. 2025</p>]]></description>
+    </item>
+    <item>
+      <title>Král Tulsy</title>
+      <link>https://www.themoviedb.org/tv/153312-tulsa-king?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/153312-tulsa-king?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg" alt="Král Tulsy poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. lis. 2022</p>]]></description>
     </item>
     <item>
       <title>Generace V</title>
@@ -113,19 +119,13 @@
       <title>Černý králík</title>
       <link>https://www.themoviedb.org/tv/249039-black-rabbit?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/249039-black-rabbit?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg" alt="Černý králík poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 18. zář. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg" alt="Černý králík poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 69%</p><p>První vysílání: 18. zář. 2025</p>]]></description>
     </item>
     <item>
       <title>Na seznamu smrti: Temný vlk</title>
       <link>https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/kfIuYMNPwFeP6FPSAW5fHmMoDVR.jpg" alt="Na seznamu smrti: Temný vlk poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 27. srp. 2025</p>]]></description>
-    </item>
-    <item>
-      <title>Bon Appétit, Vaše Výsosti</title>
-      <link>https://www.themoviedb.org/tv/280945?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/280945?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/exUXEOierAwZ597010TLQka9TFy.jpg" alt="Bon Appétit, Vaše Výsosti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 90%</p><p>První vysílání: 23. srp. 2025</p>]]></description>
     </item>
   </channel>
 </rss>
