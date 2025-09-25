@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 25 Sep 2025 08:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 10:00:02 +0200</lastBuildDate>
     <item>
       <title>Vetřelec: Země</title>
       <link>https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</link>
@@ -68,6 +68,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg" alt="Král Tulsy poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. lis. 2022</p>]]></description>
     </item>
     <item>
+      <title>Na seznamu smrti: Temný vlk</title>
+      <link>https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/kfIuYMNPwFeP6FPSAW5fHmMoDVR.jpg" alt="Na seznamu smrti: Temný vlk poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 27. srp. 2025</p>]]></description>
+    </item>
+    <item>
       <title>Lovci duchů</title>
       <link>https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</guid>
@@ -102,12 +108,6 @@
       <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
-    </item>
-    <item>
-      <title>Bon Appétit, Vaše Výsosti</title>
-      <link>https://www.themoviedb.org/tv/280945?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/280945?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/exUXEOierAwZ597010TLQka9TFy.jpg" alt="Bon Appétit, Vaše Výsosti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 90%</p><p>První vysílání: 23. srp. 2025</p>]]></description>
     </item>
     <item>
       <title>Perníkový táta</title>
