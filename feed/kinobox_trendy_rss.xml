@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Fri, 26 Sep 2025 22:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 00:00:04 +0200</lastBuildDate>
     <item>
       <title>K-pop: Lovkyně démonů</title>
       <link>https://www.kinobox.cz/film/2679608</link>
@@ -94,6 +94,13 @@
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Vlny</title>
+      <link>https://www.kinobox.cz/film/723825</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/06/04/upload_11447653862362434444.jpg" alt="Vlny plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 85%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Thriller, Historický, Blockbuster&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 131 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_723825</guid>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Zlatovláska</title>
       <link>https://www.kinobox.cz/film/2646133</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/11/18/external_file_13331063571545481992.jpg" alt="Zlatovláska plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 69%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Pohádka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 116 min&lt;/p&gt;</description>
@@ -101,11 +108,11 @@
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Vlny</title>
-      <link>https://www.kinobox.cz/film/723825</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/06/04/upload_11447653862362434444.jpg" alt="Vlny plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 85%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Thriller, Historický, Blockbuster&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 131 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_723825</guid>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <title>Mahavatar Narsimha</title>
+      <link>https://www.kinobox.cz/film/4877311</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/08/07/external_file_13274385213825695722.jpg" alt="Mahavatar Narsimha plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 89%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Animovaný, Akční, Fantasy, Drama&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 131 min&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_4877311</guid>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hranice lásky</title>
@@ -157,20 +164,6 @@
       <pubDate>Thu, 16 Nov 2000 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mahavatar Narsimha</title>
-      <link>https://www.kinobox.cz/film/4877311</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/08/07/external_file_13274385213825695722.jpg" alt="Mahavatar Narsimha plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 89%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Animovaný, Akční, Fantasy, Drama&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 131 min&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_4877311</guid>
-      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Babygirl</title>
-      <link>https://www.kinobox.cz/film/2666832</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/11/28/upload_5492895208029744324.png" alt="Babygirl plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 55%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Thriller, Krimi, Mysteriozní&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 115 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2666832</guid>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Válka policajtů</title>
       <link>https://www.kinobox.cz/film/734430</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/01/09/upload_6120403422963457881.jpg" alt="Válka policajtů plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 64%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Thriller, Krimi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 150 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
@@ -183,6 +176,13 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/08/05/external_file_2039155404978367542.jpg" alt="Neznámé číslo: Toxické textovky plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 59%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Dokumentární&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 94 min&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_4836564</guid>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klaus</title>
+      <link>https://www.kinobox.cz/film/715575</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg" alt="Klaus plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 89%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2019&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 96 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 7+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_715575</guid>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Top Gun: Maverick</title>
@@ -199,11 +199,11 @@
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Klaus</title>
-      <link>https://www.kinobox.cz/film/715575</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_9051571277913831954.jpg" alt="Klaus plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 89%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2019&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Animovaný, Dobrodružný, Pohádka, Dětský, Komedie, Rodinný, Vánoční&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 96 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 7+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_715575</guid>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <title>Babygirl</title>
+      <link>https://www.kinobox.cz/film/2666832</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/11/28/upload_5492895208029744324.png" alt="Babygirl plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 55%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Thriller, Krimi, Mysteriozní&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 115 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2666832</guid>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tichá pošta</title>
