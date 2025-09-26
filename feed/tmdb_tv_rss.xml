@@ -6,7 +6,13 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 26 Sep 2025 14:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 16:00:02 +0200</lastBuildDate>
+    <item>
+      <title>Marvel Zombie</title>
+      <link>https://www.themoviedb.org/tv/138505-marvel-zombies?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/138505-marvel-zombies?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wofiHMsXxmp0lTafcBrgciSxBVx.jpg" alt="Marvel Zombie poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 24. zář. 2025</p>]]></description>
+    </item>
     <item>
       <title>Vetřelec: Země</title>
       <link>https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</link>
@@ -26,6 +32,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/5bduv6AsBuQyoBpe91NWAz71KXl.jpg" alt="Wednesday poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 23. lis. 2022</p>]]></description>
     </item>
     <item>
+      <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
+      <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/iofokHZoUB4Qhik4PflvJl8TT6a.jpg" alt="Zákon a pořádek: Útvar pro zvláštní oběti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 20. zář. 1999</p>]]></description>
+    </item>
+    <item>
       <title>Dexter</title>
       <link>https://www.themoviedb.org/tv/1405-dexter?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1405-dexter?language=cs-CZ</guid>
@@ -38,28 +50,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" alt="Zelenáč poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 16. říj. 2018</p>]]></description>
     </item>
     <item>
-      <title>Léto, kdy jsem zkrásněla</title>
-      <link>https://www.themoviedb.org/tv/194766-the-summer-i-turned-pretty?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/194766-the-summer-i-turned-pretty?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/1yWk3fsXUzgyuszocSNwRdDKPpD.jpg" alt="Léto, kdy jsem zkrásněla poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 16. čer. 2022</p>]]></description>
-    </item>
-    <item>
       <title>The Ba***ds of Bollywood</title>
       <link>https://www.themoviedb.org/tv/247043-stardom?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/247043-stardom?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yOXUBEAHPihOcS54A3JmDQICtEr.jpg" alt="The Ba***ds of Bollywood poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p><p>První vysílání: 18. zář. 2025</p>]]></description>
-    </item>
-    <item>
-      <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
-      <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/iofokHZoUB4Qhik4PflvJl8TT6a.jpg" alt="Zákon a pořádek: Útvar pro zvláštní oběti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 20. zář. 1999</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yOXUBEAHPihOcS54A3JmDQICtEr.jpg" alt="The Ba***ds of Bollywood poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p><p>První vysílání: 18. zář. 2025</p>]]></description>
     </item>
     <item>
       <title>Bunkr pro miliardáře</title>
       <link>https://www.themoviedb.org/tv/245648-el-refugio-atomico?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/245648-el-refugio-atomico?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hNVb60dPG34wYjazGgFolJhqfxp.jpg" alt="Bunkr pro miliardáře poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 66%</p><p>První vysílání: 19. zář. 2025</p>]]></description>
+    </item>
+    <item>
+      <title>Léto, kdy jsem zkrásněla</title>
+      <link>https://www.themoviedb.org/tv/194766-the-summer-i-turned-pretty?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/194766-the-summer-i-turned-pretty?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/1yWk3fsXUzgyuszocSNwRdDKPpD.jpg" alt="Léto, kdy jsem zkrásněla poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 16. čer. 2022</p>]]></description>
     </item>
     <item>
       <title>Chirurgové</title>
@@ -74,16 +80,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg" alt="Král Tulsy poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. lis. 2022</p>]]></description>
     </item>
     <item>
-      <title>Generace V</title>
-      <link>https://www.themoviedb.org/tv/205715-gen-v?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/205715-gen-v?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/zsRarMkmJ7226PejPJSYEebYTuw.jpg" alt="Generace V poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 28. zář. 2023</p>]]></description>
-    </item>
-    <item>
       <title>Na seznamu smrti: Temný vlk</title>
       <link>https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/219760-the-terminal-list-dark-wolf?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/kfIuYMNPwFeP6FPSAW5fHmMoDVR.jpg" alt="Na seznamu smrti: Temný vlk poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 27. srp. 2025</p>]]></description>
+    </item>
+    <item>
+      <title>Generace V</title>
+      <link>https://www.themoviedb.org/tv/205715-gen-v?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/205715-gen-v?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/zsRarMkmJ7226PejPJSYEebYTuw.jpg" alt="Generace V poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 28. zář. 2023</p>]]></description>
     </item>
     <item>
       <title>Hříšníci</title>
@@ -110,22 +116,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg" alt="Peacemaker poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 13. led. 2022</p>]]></description>
     </item>
     <item>
-      <title>Námořní vyšetřovací služba</title>
-      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
-    </item>
-    <item>
-      <title>Perníkový táta</title>
-      <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
-    </item>
-    <item>
       <title>Právo a pořádek</title>
       <link>https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg" alt="Právo a pořádek poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 13. zář. 1990</p>]]></description>
+    </item>
+    <item>
+      <title>Námořní vyšetřovací služba</title>
+      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
     </item>
   </channel>
 </rss>
