@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 27 Sep 2025 12:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 14:00:03 +0200</lastBuildDate>
     <item>
       <title>Alice in Borderland</title>
       <link>https://www.themoviedb.org/tv/110316?language=cs-CZ</link>
@@ -92,16 +92,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/zsRarMkmJ7226PejPJSYEebYTuw.jpg" alt="Generace V poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 28. zář. 2023</p>]]></description>
     </item>
     <item>
-      <title>Hříšníci</title>
-      <link>https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg" alt="Hříšníci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. led. 2011</p>]]></description>
-    </item>
-    <item>
       <title>Lovci duchů</title>
       <link>https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
+    </item>
+    <item>
+      <title>Hříšníci</title>
+      <link>https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg" alt="Hříšníci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. led. 2011</p>]]></description>
     </item>
     <item>
       <title>Hra o trůny</title>
