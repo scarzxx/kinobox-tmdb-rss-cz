@@ -6,7 +6,22 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 27 Sep 2025 06:01:05 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 10:01:08 +0200</lastBuildDate>
+    <item>
+      <title>Ella a černý jaguár</title>
+      <link>https://www.kinobox.cz/film/735031</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/02/29/upload_11705797450157984429.jpg" alt="Ella a černý jaguár plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Teenagerský, Dobrodružný, Komedie, Rodinný</p>]]></description>
+    </item>
+    <item>
+      <title>French Lover</title>
+      <link>https://www.kinobox.cz/film/2682437</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/12/external_file_7854266260070869597.jpg" alt="French Lover plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Komedie</p>]]></description>
+    </item>
+    <item>
+      <title>Rút a Bóaz</title>
+      <link>https://www.kinobox.cz/film/4385727</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/28/upload_16604592677395445761.png" alt="Rút a Bóaz plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Drama</p>]]></description>
+    </item>
     <item>
       <title>ConMom</title>
       <link>https://www.kinobox.cz/film/4589385</link>
@@ -151,21 +166,6 @@
       <title>Neznámé číslo: Toxické textovky</title>
       <link>https://www.kinobox.cz/film/4836564</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/05/external_file_2039155404978367542.jpg" alt="Neznámé číslo: Toxické textovky plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Čtvrteční klub amatérských detektivů</title>
-      <link>https://www.kinobox.cz/film/2673377</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/12/upload_3908467243195360849.png" alt="Čtvrteční klub amatérských detektivů plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Krimi, Mysteriozní, Komedie, Adaptace knižní</p>]]></description>
-    </item>
-    <item>
-      <title>Duino: Než zapomeneme</title>
-      <link>https://www.kinobox.cz/film/3148849</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_8905045027220428721.jpg" alt="Duino: Než zapomeneme plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Milionář</title>
-      <link>https://www.kinobox.cz/film/4859857</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/06/external_file_11739468658370081243.jpg" alt="Milionář plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
   </channel>
 </rss>
