@@ -6,7 +6,7 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 28 Sep 2025 06:01:08 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 10:01:06 +0200</lastBuildDate>
     <item>
       <title>Ella a černý jaguár</title>
       <link>https://www.kinobox.cz/film/735031</link>
@@ -31,6 +31,21 @@
       <title>Druhotná oběť</title>
       <link>https://www.kinobox.cz/film/4369739</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/26/external_file_4244614839920201738.jpg" alt="Druhotná oběť plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
+    </item>
+    <item>
+      <title>Son Of Sardaar 2</title>
+      <link>https://www.kinobox.cz/film/3406715</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/24/external_file_6610619862465167048.jpg" alt="Son Of Sardaar 2 plagát" style="max-width: 100%; height: auto;" />]]></description>
+    </item>
+    <item>
+      <title>धड़क २</title>
+      <link>https://www.kinobox.cz/film/3246836</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/07/external_file_14512271095593174748.jpg" alt="धड़क २ plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Drama</p>]]></description>
+    </item>
+    <item>
+      <title>ഓടും കുതിര ചാടും കുതിര</title>
+      <link>https://www.kinobox.cz/film/4438569</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/15/external_file_8033697058049511893.jpg" alt="ഓടും കുതിര ചാടും കുതിര plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
     </item>
     <item>
       <title>Caleb Hearon: Model-komik</title>
@@ -151,21 +166,6 @@
       <title>Den zúčtování</title>
       <link>https://www.kinobox.cz/film/3359880</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/27/external_file_4629117533977920068.jpg" alt="Den zúčtování plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Western, Akční</p>]]></description>
-    </item>
-    <item>
-      <title>Láska bez cuchání</title>
-      <link>https://www.kinobox.cz/film/4874604</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/05/external_file_2233784628125019808.jpg" alt="Láska bez cuchání plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Romantický, Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Metro.... In Dino</title>
-      <link>https://www.kinobox.cz/film/4142534</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/13/external_file_6415670761992782225.jpg" alt="Metro.... In Dino plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Romantický</p>]]></description>
-    </item>
-    <item>
-      <title>Neznámé číslo: Toxické textovky</title>
-      <link>https://www.kinobox.cz/film/4836564</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/05/external_file_2039155404978367542.jpg" alt="Neznámé číslo: Toxické textovky plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
     </item>
   </channel>
 </rss>
