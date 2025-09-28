@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 28 Sep 2025 02:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 04:00:03 +0200</lastBuildDate>
     <item>
       <title>Alice in Borderland</title>
       <link>https://www.themoviedb.org/tv/110316?language=cs-CZ</link>
@@ -71,13 +71,7 @@
       <title>The Ba***ds of Bollywood</title>
       <link>https://www.themoviedb.org/tv/247043-stardom?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/247043-stardom?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yOXUBEAHPihOcS54A3JmDQICtEr.jpg" alt="The Ba***ds of Bollywood poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p><p>První vysílání: 18. zář. 2025</p>]]></description>
-    </item>
-    <item>
-      <title>Léto, kdy jsem zkrásněla</title>
-      <link>https://www.themoviedb.org/tv/194766-the-summer-i-turned-pretty?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/194766-the-summer-i-turned-pretty?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/1yWk3fsXUzgyuszocSNwRdDKPpD.jpg" alt="Léto, kdy jsem zkrásněla poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 16. čer. 2022</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yOXUBEAHPihOcS54A3JmDQICtEr.jpg" alt="The Ba***ds of Bollywood poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p><p>První vysílání: 18. zář. 2025</p>]]></description>
     </item>
     <item>
       <title>Král Tulsy</title>
@@ -126,6 +120,12 @@
       <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
+    </item>
+    <item>
+      <title>Útěk z vězení</title>
+      <link>https://www.themoviedb.org/tv/2288-prison-break?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/2288-prison-break?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6CSxAZPdpeKs1qGszO2g3XaqqHO.jpg" alt="Útěk z vězení poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 29. srp. 2005</p>]]></description>
     </item>
   </channel>
 </rss>
