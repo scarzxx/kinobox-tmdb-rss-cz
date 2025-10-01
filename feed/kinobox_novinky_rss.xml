@@ -6,7 +6,17 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 01 Oct 2025 10:01:16 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 14:01:17 +0200</lastBuildDate>
+    <item>
+      <title>Není sever jako sever</title>
+      <link>https://www.kinobox.cz/film/5082309</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/01/upload_16645034744163575951.jpg" alt="Není sever jako sever plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Sportovní</p>]]></description>
+    </item>
+    <item>
+      <title>Harimau Merah: Konflik Bermula</title>
+      <link>https://www.kinobox.cz/film/5079395</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/30/external_file_6021816374676693173.jpg" alt="Harimau Merah: Konflik Bermula plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Akční</p>]]></description>
+    </item>
     <item>
       <title>Ella a černý jaguár</title>
       <link>https://www.kinobox.cz/film/735031</link>
@@ -16,6 +26,11 @@
       <title>French Lover</title>
       <link>https://www.kinobox.cz/film/2682437</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/12/external_file_7854266260070869597.jpg" alt="French Lover plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Komedie</p>]]></description>
+    </item>
+    <item>
+      <title>Kudlanka</title>
+      <link>https://www.kinobox.cz/film/5079396</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/30/external_file_12741940973424829482.jpg" alt="Kudlanka plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller, Akční</p>]]></description>
     </item>
     <item>
       <title>Rút a Bóaz</title>
@@ -151,21 +166,6 @@
       <title>Africká jízda</title>
       <link>https://www.kinobox.cz/film/4980438</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/01/external_file_9203310575196226048.jpg" alt="Africká jízda plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dobrodružný, Road Movie</p>]]></description>
-    </item>
-    <item>
-      <title>Bo Tu Bao Thu</title>
-      <link>https://www.kinobox.cz/film/3324524</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/13/external_file_7008041500659209565.jpg" alt="Bo Tu Bao Thu plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Romantický</p>]]></description>
-    </item>
-    <item>
-      <title>Cena útěchy</title>
-      <link>https://www.kinobox.cz/film/3152015</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_403986258449180301.jpg" alt="Cena útěchy plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Hudební</p>]]></description>
-    </item>
-    <item>
-      <title>Den zúčtování</title>
-      <link>https://www.kinobox.cz/film/3359880</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/27/external_file_4629117533977920068.jpg" alt="Den zúčtování plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Western, Akční</p>]]></description>
     </item>
   </channel>
 </rss>
