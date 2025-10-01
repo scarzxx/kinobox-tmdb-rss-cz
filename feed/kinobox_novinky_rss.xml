@@ -6,11 +6,16 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 01 Oct 2025 14:01:17 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 18:01:12 +0200</lastBuildDate>
     <item>
       <title>Není sever jako sever</title>
       <link>https://www.kinobox.cz/film/5082309</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/01/upload_16645034744163575951.jpg" alt="Není sever jako sever plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Sportovní</p>]]></description>
+    </item>
+    <item>
+      <title>Velký vlastenecký výlet</title>
+      <link>https://www.kinobox.cz/film/4817848</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/21/upload_4687107161415751062.png" alt="Velký vlastenecký výlet plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Road Movie, Válečný</p>]]></description>
     </item>
     <item>
       <title>Harimau Merah: Konflik Bermula</title>
@@ -161,11 +166,6 @@
       <title>Tornando a Est</title>
       <link>https://www.kinobox.cz/film/3284326</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/09/external_file_6385325308726456091.jpg" alt="Tornando a Est plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dobrodružný</p>]]></description>
-    </item>
-    <item>
-      <title>Africká jízda</title>
-      <link>https://www.kinobox.cz/film/4980438</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/01/external_file_9203310575196226048.jpg" alt="Africká jízda plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dobrodružný, Road Movie</p>]]></description>
     </item>
   </channel>
 </rss>
