@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 03 Oct 2025 16:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 18:00:02 +0200</lastBuildDate>
     <item>
       <title>Alice in Borderland</title>
       <link>https://www.themoviedb.org/tv/110316?language=cs-CZ</link>
