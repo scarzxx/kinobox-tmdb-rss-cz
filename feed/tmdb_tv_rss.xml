@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 04 Oct 2025 10:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 12:00:03 +0200</lastBuildDate>
     <item>
       <title>Alice in Borderland</title>
       <link>https://www.themoviedb.org/tv/110316?language=cs-CZ</link>
@@ -116,16 +116,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/zsRarMkmJ7226PejPJSYEebYTuw.jpg" alt="Generace V poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 28. zář. 2023</p>]]></description>
     </item>
     <item>
-      <title>Bon Appétit, Vaše Výsosti</title>
-      <link>https://www.themoviedb.org/tv/280945?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/280945?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/xnDFKpPeANnUaRmlNev4LBXogvb.jpg" alt="Bon Appétit, Vaše Výsosti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 88%</p><p>První vysílání: 23. srp. 2025</p>]]></description>
-    </item>
-    <item>
       <title>Perníkový táta</title>
       <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
+    </item>
+    <item>
+      <title>Griffinovi</title>
+      <link>https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg" alt="Griffinovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 31. led. 1999</p>]]></description>
     </item>
   </channel>
 </rss>
