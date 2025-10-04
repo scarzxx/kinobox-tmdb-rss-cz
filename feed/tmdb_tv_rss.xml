@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 04 Oct 2025 06:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 08:00:03 +0200</lastBuildDate>
     <item>
       <title>Alice in Borderland</title>
       <link>https://www.themoviedb.org/tv/110316?language=cs-CZ</link>
@@ -68,6 +68,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg" alt="Král Tulsy poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. lis. 2022</p>]]></description>
     </item>
     <item>
+      <title>Lovci duchů</title>
+      <link>https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
+    </item>
+    <item>
       <title>Právo a pořádek</title>
       <link>https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</guid>
@@ -78,12 +84,6 @@
       <link>https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hdtRmBxs7LP4X3RcdKF4ilvhrpX.jpg" alt="Vetřelec: Země poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 12. srp. 2025</p>]]></description>
-    </item>
-    <item>
-      <title>Lovci duchů</title>
-      <link>https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
     </item>
     <item>
       <title>Hříšníci</title>
