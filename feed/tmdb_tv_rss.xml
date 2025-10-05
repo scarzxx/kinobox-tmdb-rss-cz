@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 05 Oct 2025 02:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 04:00:03 +0200</lastBuildDate>
     <item>
       <title>Alice in Borderland</title>
       <link>https://www.themoviedb.org/tv/110316?language=cs-CZ</link>
@@ -92,12 +92,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg" alt="Hříšníci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. led. 2011</p>]]></description>
     </item>
     <item>
-      <title>Hra o trůny</title>
-      <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
-    </item>
-    <item>
       <title>Námořní vyšetřovací služba</title>
       <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
@@ -108,6 +102,12 @@
       <link>https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/k6LX0rJOYeF4fNzfVlCGxWPTmE5.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
+    </item>
+    <item>
+      <title>Hra o trůny</title>
+      <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
     </item>
     <item>
       <title>Perníkový táta</title>
