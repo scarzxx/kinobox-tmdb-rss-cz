@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sun, 05 Oct 2025 22:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 00:00:05 +0200</lastBuildDate>
     <item>
       <title>K-pop: Lovkyně démonů</title>
       <link>https://www.kinobox.cz/film/2679608</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/05/29/external_file_14829314578455255795.jpg" alt="K-pop: Lovkyně démonů plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 78%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Dobrodružný, Animovaný, Akční, Fantasy, Anime&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 96 min&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_2679608</guid>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hříšníci</title>
-      <link>https://www.kinobox.cz/film/2670499</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/03/31/upload_523010654750631664.jpg" alt="Hříšníci plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 77%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Fantasy, Horor, Blockbuster&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 138 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2670499</guid>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Velký vlastenecký výlet</title>
@@ -31,9 +24,16 @@
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Hříšníci</title>
+      <link>https://www.kinobox.cz/film/2670499</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/03/31/upload_523010654750631664.jpg" alt="Hříšníci plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 77%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Fantasy, Horor, Blockbuster&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 138 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2670499</guid>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Superman</title>
       <link>https://www.kinobox.cz/film/435540</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/05/14/upload_15815050100572147515.jpg" alt="Superman plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 75%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Dobrodružný, Fantasy, Sci-fi, Komiksový&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 130 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/05/14/upload_15815050100572147515.jpg" alt="Superman plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 74%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Dobrodružný, Fantasy, Sci-fi, Komiksový&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 130 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_435540</guid>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
     </item>
@@ -108,6 +108,13 @@
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Druhotná oběť</title>
+      <link>https://www.kinobox.cz/film/4369739</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/09/26/external_file_4244614839920201738.jpg" alt="Druhotná oběť plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 77%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 92 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_4369739</guid>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Hranice lásky</title>
       <link>https://www.kinobox.cz/film/722480</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2022/07/09/obrazy-lasky135259420_588.jpg" alt="Hranice lásky plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 56%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Erotický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 95 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
@@ -115,11 +122,11 @@
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Druhotná oběť</title>
-      <link>https://www.kinobox.cz/film/4369739</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/09/26/external_file_4244614839920201738.jpg" alt="Druhotná oběť plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 77%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 92 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_4369739</guid>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <title>Steve</title>
+      <link>https://www.kinobox.cz/film/3341794</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/08/13/external_file_3774204115943586950.jpg" alt="Steve plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 70%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Adaptace knižní&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 92 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_3341794</guid>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Maa</title>
@@ -157,13 +164,6 @@
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Substance</title>
-      <link>https://www.kinobox.cz/film/2652570</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/09/30/upload_5010775436198100271.jpg" alt="Substance plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 72%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Satira, Drama, Horor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 141 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2652570</guid>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Válka policajtů</title>
       <link>https://www.kinobox.cz/film/734430</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/01/09/upload_6120403422963457881.jpg" alt="Válka policajtů plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 64%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Thriller, Krimi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 150 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
@@ -178,11 +178,11 @@
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rivalové 2</title>
-      <link>https://www.kinobox.cz/film/2682439</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/07/14/external_file_13015919353007018327.jpg" alt="Rivalové 2 plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 63%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Sportovní, Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 118 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 13+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_2682439</guid>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <title>Substance</title>
+      <link>https://www.kinobox.cz/film/2652570</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/09/30/upload_5010775436198100271.jpg" alt="Substance plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 72%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Satira, Drama, Horor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 141 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 15+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2652570</guid>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Podfu(c)k</title>
@@ -190,6 +190,13 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2023/09/01/28107___external_file_4310628467453008699.jpg" alt="Podfu(c)k plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 86%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Komedie, Krimi, Thriller, Gangsterka, Heist&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 99 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_28107</guid>
       <pubDate>Thu, 16 Nov 2000 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rivalové 2</title>
+      <link>https://www.kinobox.cz/film/2682439</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/07/14/external_file_13015919353007018327.jpg" alt="Rivalové 2 plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 63%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Sportovní, Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 118 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 13+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2682439</guid>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Neznámé číslo: Toxické textovky</title>
@@ -206,13 +213,6 @@
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Steve</title>
-      <link>https://www.kinobox.cz/film/3341794</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/08/13/external_file_3774204115943586950.jpg" alt="Steve plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 70%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Adaptace knižní&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 92 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 18+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_3341794</guid>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Duna: Část druhá</title>
       <link>https://www.kinobox.cz/film/721984</link>
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/02/29/upload_1082187277995497275.jpg" alt="Duna: Část druhá plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 89%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Dobrodružný, Drama, Adaptace knižní, Série/Franchise, Sci-fi, Epický, Blockbuster&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 167 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
@@ -227,11 +227,11 @@
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Láska bez cuchání</title>
-      <link>https://www.kinobox.cz/film/4874604</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/08/05/external_file_2233784628125019808.jpg" alt="Láska bez cuchání plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 77%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Romantický, Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 121 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 14+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_4874604</guid>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <title>Čarodějnice a lovec</title>
+      <link>https://www.kinobox.cz/film/2656883</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/02/26/external_file_17380272543417064242.jpg" alt="Čarodějnice a lovec plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 47%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Dobrodružný, Fantasy, Sci-fi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 102 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_2656883</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
