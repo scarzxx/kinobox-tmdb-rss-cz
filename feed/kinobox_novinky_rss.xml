@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 05 Oct 2025 02:02:51 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 06:01:03 +0200</lastBuildDate>
+    <item>
+      <title>Krypto Saves the Day!</title>
+      <link>https://www.kinobox.cz/film/4902986</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/22/external_file_6122807304592489986.jpg" alt="Krypto Saves the Day! plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Animovaný, Komedie, Akční</p>]]></description>
+    </item>
     <item>
       <title>Steve</title>
       <link>https://www.kinobox.cz/film/3341794</link>
@@ -161,11 +166,6 @@
       <title>Strange Frequencies: Taiwan Killer Hospital</title>
       <link>https://www.kinobox.cz/film/4099078</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/12/external_file_8156972966778392674.jpg" alt="Strange Frequencies: Taiwan Killer Hospital plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor</p>]]></description>
-    </item>
-    <item>
-      <title>High School Heist</title>
-      <link>https://www.kinobox.cz/film/4430398</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/14/upload_14332383913227307023.jpg" alt="High School Heist plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Krimi, Komedie</p>]]></description>
     </item>
   </channel>
 </rss>
