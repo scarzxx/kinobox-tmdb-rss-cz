@@ -6,7 +6,22 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 06 Oct 2025 14:01:14 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 18:01:16 +0200</lastBuildDate>
+    <item>
+      <title>Dhamaka</title>
+      <link>https://www.kinobox.cz/film/5106556</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/06/external_file_15287978004825028793.jpg" alt="Dhamaka plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller, Komedie, Akční</p>]]></description>
+    </item>
+    <item>
+      <title>Qi zi</title>
+      <link>https://www.kinobox.cz/film/5106554</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/06/external_file_17023370772195598931.jpg" alt="Qi zi plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Akční</p>]]></description>
+    </item>
+    <item>
+      <title>The Stone</title>
+      <link>https://www.kinobox.cz/film/5106557</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/06/external_file_16557805819682579261.jpg" alt="The Stone plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Thriller</p>]]></description>
+    </item>
     <item>
       <title>Krypto Saves the Day!</title>
       <link>https://www.kinobox.cz/film/4902986</link>
@@ -151,21 +166,6 @@
       <title>Inspektor Zende</title>
       <link>https://www.kinobox.cz/film/4879854</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/26/external_file_18404791301374132741.jpg" alt="Inspektor Zende plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama, Krimi</p>]]></description>
-    </item>
-    <item>
-      <title>Barbie a Tereza: Recept na přátelství</title>
-      <link>https://www.kinobox.cz/film/3406526</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/22/external_file_14165630184290392438.jpg" alt="Barbie a Tereza: Recept na přátelství plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Animovaný, Rodinný, Série/Franchise</p>]]></description>
-    </item>
-    <item>
-      <title>První případ</title>
-      <link>https://www.kinobox.cz/film/3149416</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/05/external_file_16020283744327727339.jpg" alt="První případ plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Strange Frequencies: Taiwan Killer Hospital</title>
-      <link>https://www.kinobox.cz/film/4099078</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/03/12/external_file_8156972966778392674.jpg" alt="Strange Frequencies: Taiwan Killer Hospital plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor</p>]]></description>
     </item>
   </channel>
 </rss>
