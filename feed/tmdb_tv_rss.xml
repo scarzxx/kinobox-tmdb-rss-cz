@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 06 Oct 2025 08:00:04 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 10:00:04 +0200</lastBuildDate>
     <item>
       <title>Alice in Borderland</title>
       <link>https://www.themoviedb.org/tv/110316?language=cs-CZ</link>
@@ -14,16 +14,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg" alt="Alice in Borderland poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 10. pro. 2020</p>]]></description>
     </item>
     <item>
+      <title>Monstrum: Příběh Eda Geina</title>
+      <link>https://www.themoviedb.org/tv/286801-monster-ed-gein?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/286801-monster-ed-gein?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg" alt="Monstrum: Příběh Eda Geina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 03. říj. 2025</p>]]></description>
+    </item>
+    <item>
       <title>Peacemaker</title>
       <link>https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg" alt="Peacemaker poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 13. led. 2022</p>]]></description>
-    </item>
-    <item>
-      <title>Monstrum: Příběh Eda Geina</title>
-      <link>https://www.themoviedb.org/tv/286801-monster-ed-gein?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/286801-monster-ed-gein?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg" alt="Monstrum: Příběh Eda Geina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 03. říj. 2025</p>]]></description>
     </item>
     <item>
       <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
@@ -95,7 +95,7 @@
       <title>Džine, něco si přej</title>
       <link>https://www.themoviedb.org/tv/228689?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/228689?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg" alt="Džine, něco si přej poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 03. říj. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg" alt="Džine, něco si přej poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 03. říj. 2025</p>]]></description>
     </item>
     <item>
       <title>Hříšníci</title>
