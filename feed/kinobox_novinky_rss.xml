@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 07 Oct 2025 14:01:19 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 18:01:11 +0200</lastBuildDate>
+    <item>
+      <title>Breaking Girl Code</title>
+      <link>https://www.kinobox.cz/film/3097512</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/28/external_file_1735453940914696314.jpg" alt="Breaking Girl Code plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller, Drama</p>]]></description>
+    </item>
     <item>
       <title>Bomba</title>
       <link>https://www.kinobox.cz/film/5106556</link>
@@ -161,11 +166,6 @@
       <title>Tohle je moje matka</title>
       <link>https://www.kinobox.cz/film/3145069</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_12189765935793106685.jpg" alt="Tohle je moje matka plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Inspektor Zende</title>
-      <link>https://www.kinobox.cz/film/4879854</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/26/external_file_18404791301374132741.jpg" alt="Inspektor Zende plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama, Krimi</p>]]></description>
     </item>
   </channel>
 </rss>
