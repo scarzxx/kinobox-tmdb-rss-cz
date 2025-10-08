@@ -6,12 +6,12 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 08 Oct 2025 14:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 16:00:02 +0200</lastBuildDate>
     <item>
       <title>Monstrum: Příběh Eda Geina</title>
       <link>https://www.themoviedb.org/tv/286801-monster-ed-gein?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/286801-monster-ed-gein?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg" alt="Monstrum: Příběh Eda Geina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 03. říj. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg" alt="Monstrum: Příběh Eda Geina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 03. říj. 2025</p>]]></description>
     </item>
     <item>
       <title>Alice in Borderland</title>
@@ -20,16 +20,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg" alt="Alice in Borderland poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 10. pro. 2020</p>]]></description>
     </item>
     <item>
-      <title>Peacemaker</title>
-      <link>https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg" alt="Peacemaker poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 13. led. 2022</p>]]></description>
-    </item>
-    <item>
       <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
       <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/iofokHZoUB4Qhik4PflvJl8TT6a.jpg" alt="Zákon a pořádek: Útvar pro zvláštní oběti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 20. zář. 1999</p>]]></description>
+    </item>
+    <item>
+      <title>Peacemaker</title>
+      <link>https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/110492-peacemaker?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg" alt="Peacemaker poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 13. led. 2022</p>]]></description>
     </item>
     <item>
       <title>Dexter</title>
@@ -80,10 +80,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
     </item>
     <item>
-      <title>Simpsonovi</title>
-      <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/poTtFCp1LjEl187NuqD6ekFplb6.jpg" alt="Simpsonovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 17. pro. 1989</p>]]></description>
+      <title>Hříšníci</title>
+      <link>https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg" alt="Hříšníci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. led. 2011</p>]]></description>
     </item>
     <item>
       <title>Námořní vyšetřovací služba</title>
@@ -92,28 +92,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
     </item>
     <item>
-      <title>Hříšníci</title>
-      <link>https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg" alt="Hříšníci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. led. 2011</p>]]></description>
-    </item>
-    <item>
       <title>Hra o trůny</title>
       <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
     </item>
     <item>
+      <title>Simpsonovi</title>
+      <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/poTtFCp1LjEl187NuqD6ekFplb6.jpg" alt="Simpsonovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 17. pro. 1989</p>]]></description>
+    </item>
+    <item>
       <title>Vetřelec: Země</title>
       <link>https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/157239-alien?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hdtRmBxs7LP4X3RcdKF4ilvhrpX.jpg" alt="Vetřelec: Země poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 12. srp. 2025</p>]]></description>
-    </item>
-    <item>
-      <title>Marvel Zombie</title>
-      <link>https://www.themoviedb.org/tv/138505-marvel-zombies?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/138505-marvel-zombies?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/1fu3vZwqDEFOxFlitlDdYU86Ovr.jpg" alt="Marvel Zombie poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 24. zář. 2025</p>]]></description>
     </item>
     <item>
       <title>Griffinovi</title>
@@ -126,6 +120,12 @@
       <link>https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/4057-criminal-minds?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/k6LX0rJOYeF4fNzfVlCGxWPTmE5.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
+    </item>
+    <item>
+      <title>Marvel Zombie</title>
+      <link>https://www.themoviedb.org/tv/138505-marvel-zombies?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/138505-marvel-zombies?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/1fu3vZwqDEFOxFlitlDdYU86Ovr.jpg" alt="Marvel Zombie poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 24. zář. 2025</p>]]></description>
     </item>
   </channel>
 </rss>
