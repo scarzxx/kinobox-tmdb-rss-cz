@@ -6,7 +6,17 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 10 Oct 2025 14:01:08 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 18:01:42 +0200</lastBuildDate>
+    <item>
+      <title>Sbormistr</title>
+      <link>https://www.kinobox.cz/film/727063</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/03/external_file_30199874975840108.jpg" alt="Sbormistr plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Psychologický</p>]]></description>
+    </item>
+    <item>
+      <title>Žena z kajuty č. 10</title>
+      <link>https://www.kinobox.cz/film/4521612</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/26/external_file_18068276881400238043.jpg" alt="Žena z kajuty č. 10 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller, Psychologický, Adaptace knižní</p>]]></description>
+    </item>
     <item>
       <title>Zločin a Emily</title>
       <link>https://www.kinobox.cz/film/724923</link>
@@ -156,16 +166,6 @@
       <title>Mahavatar Narsimha</title>
       <link>https://www.kinobox.cz/film/4877311</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/07/external_file_13274385213825695722.jpg" alt="Mahavatar Narsimha plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Animovaný, Akční, Fantasy, Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Pojďme na to! Anpanman, záře! Curun a hvězda života</title>
-      <link>https://www.kinobox.cz/film/5123395</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/08/external_file_16335684808282999296.jpg" alt="Pojďme na to! Anpanman, záře! Curun a hvězda života plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dobrodružný, Animovaný, Rodinný</p>]]></description>
-    </item>
-    <item>
-      <title>Pojďme na to! Velké dobrodružství Anpanmana Happyho</title>
-      <link>https://www.kinobox.cz/film/667397</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/08/external_file_18250700391393670919.jpg" alt="Pojďme na to! Velké dobrodružství Anpanmana Happyho plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Animovaný, Pohádka</p>]]></description>
     </item>
   </channel>
 </rss>
