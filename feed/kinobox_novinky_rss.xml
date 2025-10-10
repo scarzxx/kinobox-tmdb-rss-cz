@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 09 Oct 2025 22:01:11 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 02:02:50 +0200</lastBuildDate>
+    <item>
+      <title>Zločin a Emily</title>
+      <link>https://www.kinobox.cz/film/724923</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/08/29/external_file_14353282870968223948.jpg" alt="Zločin a Emily plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Thriller</p>]]></description>
+    </item>
     <item>
       <title>Zrada mezi námi</title>
       <link>https://www.kinobox.cz/film/3097512</link>
@@ -161,11 +166,6 @@
       <title>Rebel Royals: An Unlikely Love Story</title>
       <link>https://www.kinobox.cz/film/4949124</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/12/external_file_17172980042142589421.jpg" alt="Rebel Royals: An Unlikely Love Story plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární</p>]]></description>
-    </item>
-    <item>
-      <title>Canelo Álvarez vs. Terence Crawford</title>
-      <link>https://www.kinobox.cz/film/4675888</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/11/external_file_6661102385674628534.jpg" alt="Canelo Álvarez vs. Terence Crawford plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Sportovní</p>]]></description>
     </item>
   </channel>
 </rss>
