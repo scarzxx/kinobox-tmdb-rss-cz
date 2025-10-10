@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Fri, 10 Oct 2025 14:00:06 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 16:00:03 +0200</lastBuildDate>
     <item>
       <title>K-pop: Lovkyně démonů</title>
       <link>https://www.kinobox.cz/film/2679608</link>
@@ -99,6 +99,13 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/09/26/external_file_4244614839920201738.jpg" alt="Druhotná oběť plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 77%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 92 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_4369739</guid>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sbormistr</title>
+      <link>https://www.kinobox.cz/film/727063</link>
+      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/07/03/external_file_30199874975840108.jpg" alt="Sbormistr plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 75%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Psychologický&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 106 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
+      <guid isPermaLink="false">kinobox_film_727063</guid>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Na plech</title>
@@ -225,13 +232,6 @@
       <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2024/02/29/upload_1082187277995497275.jpg" alt="Duna: Část druhá plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 89%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Akční, Dobrodružný, Drama, Adaptace knižní, Série/Franchise, Sci-fi, Epický, Blockbuster&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 167 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 12+&lt;/p&gt;</description>
       <guid isPermaLink="false">kinobox_film_721984</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Láska bez cuchání</title>
-      <link>https://www.kinobox.cz/film/4874604</link>
-      <description>&lt;img src="https://1263469901.rsc.cdn77.org/images/2025/08/05/external_file_2233784628125019808.jpg" alt="Láska bez cuchání plakát" style="max-width:100%; height:auto; margin-bottom:10px; display:block;" /&gt;&lt;p&gt;&lt;strong&gt;Hodnocení:&lt;/strong&gt; 78%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rok výroby:&lt;/strong&gt; 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Žánry:&lt;/strong&gt; Drama, Romantický, Komedie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka:&lt;/strong&gt; 121 min&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimální věk:&lt;/strong&gt; 14+&lt;/p&gt;</description>
-      <guid isPermaLink="false">kinobox_film_4874604</guid>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
