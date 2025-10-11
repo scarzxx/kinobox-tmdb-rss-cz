@@ -6,7 +6,7 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 11 Oct 2025 06:01:07 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 10:01:09 +0200</lastBuildDate>
     <item>
       <title>Sbormistr</title>
       <link>https://www.kinobox.cz/film/727063</link>
@@ -21,6 +21,11 @@
       <title>Zločin a Emily</title>
       <link>https://www.kinobox.cz/film/724923</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/08/29/external_file_14353282870968223948.jpg" alt="Zločin a Emily plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Thriller</p>]]></description>
+    </item>
+    <item>
+      <title>Dreaming of Lions</title>
+      <link>https://www.kinobox.cz/film/3166917</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_4984061101919007805.jpg" alt="Dreaming of Lions plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Komedie</p>]]></description>
     </item>
     <item>
       <title>Gaslit by My Husband: The Morgan Metzer Story</title>
@@ -161,11 +166,6 @@
       <title>Do toho! Anpanman Nanda a Runda z Planety hraček</title>
       <link>https://www.kinobox.cz/film/5123390</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/08/external_file_12211265396156136875.jpg" alt="Do toho! Anpanman Nanda a Runda z Planety hraček plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Animovaný, Rodinný, Dobrodružný</p>]]></description>
-    </item>
-    <item>
-      <title>Mahavatar Narsimha</title>
-      <link>https://www.kinobox.cz/film/4877311</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/07/external_file_13274385213825695722.jpg" alt="Mahavatar Narsimha plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Animovaný, Akční, Fantasy, Drama</p>]]></description>
     </item>
   </channel>
 </rss>
