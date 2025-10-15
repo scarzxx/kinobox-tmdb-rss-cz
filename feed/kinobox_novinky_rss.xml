@@ -6,11 +6,16 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 15 Oct 2025 14:01:26 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 18:01:09 +0200</lastBuildDate>
     <item>
       <title>Žena bez filtru</title>
       <link>https://www.kinobox.cz/film/3331944</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/04/external_file_17305334545568171114.jpg" alt="Žena bez filtru plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
+    </item>
+    <item>
+      <title>Martabat: Misi Berdarah</title>
+      <link>https://www.kinobox.cz/film/5148100</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/15/external_file_8493251501428646706.jpg" alt="Martabat: Misi Berdarah plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
     </item>
     <item>
       <title>Všichni mě milují až po smrti</title>
@@ -65,7 +70,7 @@
     <item>
       <title>Dendam Malam Kelam</title>
       <link>https://www.kinobox.cz/film/4423863</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/27/external_file_3835026162993403663.jpg" alt="Dendam Malam Kelam plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor, Thriller</p>]]></description>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/27/external_file_3835026162993403663.jpg" alt="Dendam Malam Kelam plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor, Thriller, Mysteriozní</p>]]></description>
     </item>
     <item>
       <title>Dreaming of Lions</title>
@@ -73,14 +78,14 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_4984061101919007805.jpg" alt="Dreaming of Lions plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Komedie</p>]]></description>
     </item>
     <item>
-      <title>Gaslit by My Husband: The Morgan Metzer Story</title>
-      <link>https://www.kinobox.cz/film/3153179</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_3468668145157334007.jpg" alt="Gaslit by My Husband: The Morgan Metzer Story plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
-    </item>
-    <item>
       <title>WWE Crown Jewel 2025</title>
       <link>https://www.kinobox.cz/film/4537616</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/25/external_file_18422857691377825092.jpg" alt="WWE Crown Jewel 2025 plagát" style="max-width: 100%; height: auto;" />]]></description>
+    </item>
+    <item>
+      <title>Život s manipulátorem: Příběh Morgan Metzerové</title>
+      <link>https://www.kinobox.cz/film/3153179</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_3468668145157334007.jpg" alt="Život s manipulátorem: Příběh Morgan Metzerové plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
     </item>
     <item>
       <title>Caramelo</title>
@@ -161,11 +166,6 @@
       <title>French Lover</title>
       <link>https://www.kinobox.cz/film/2682437</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/12/external_file_7854266260070869597.jpg" alt="French Lover plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Kudlanka</title>
-      <link>https://www.kinobox.cz/film/5079396</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/30/external_file_12741940973424829482.jpg" alt="Kudlanka plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller, Akční</p>]]></description>
     </item>
   </channel>
 </rss>
