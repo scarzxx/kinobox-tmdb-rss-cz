@@ -6,7 +6,22 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 16 Oct 2025 10:01:14 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 14:01:19 +0200</lastBuildDate>
+    <item>
+      <title>Lov: Ze zákulisí</title>
+      <link>https://www.kinobox.cz/film/5152504</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/16/upload_16898420747253271108.jpg" alt="Lov: Ze zákulisí plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Přírodopisný</p>]]></description>
+    </item>
+    <item>
+      <title>Six Kings Slam 2025</title>
+      <link>https://www.kinobox.cz/film/5049375</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/09/external_file_838068224004159535.jpg" alt="Six Kings Slam 2025 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Sportovní</p>]]></description>
+    </item>
+    <item>
+      <title>Zase Furioza</title>
+      <link>https://www.kinobox.cz/film/5106545</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/06/upload_3351098647045322925.png" alt="Zase Furioza plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Akční, Krimi</p>]]></description>
+    </item>
     <item>
       <title>Žena bez filtru</title>
       <link>https://www.kinobox.cz/film/3331944</link>
@@ -151,21 +166,6 @@
       <title>Velký vlastenecký výlet</title>
       <link>https://www.kinobox.cz/film/4817848</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/21/upload_4687107161415751062.png" alt="Velký vlastenecký výlet plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Road Movie, Válečný</p>]]></description>
-    </item>
-    <item>
-      <title>Harimau Merah: Konflik Bermula</title>
-      <link>https://www.kinobox.cz/film/5079395</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/30/external_file_6021816374676693173.jpg" alt="Harimau Merah: Konflik Bermula plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Akční</p>]]></description>
-    </item>
-    <item>
-      <title>Ella a černý jaguár</title>
-      <link>https://www.kinobox.cz/film/735031</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/02/29/upload_11705797450157984429.jpg" alt="Ella a černý jaguár plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Teenagerský, Dobrodružný, Komedie, Rodinný</p>]]></description>
-    </item>
-    <item>
-      <title>French Lover</title>
-      <link>https://www.kinobox.cz/film/2682437</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/12/external_file_7854266260070869597.jpg" alt="French Lover plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Komedie</p>]]></description>
     </item>
   </channel>
 </rss>
