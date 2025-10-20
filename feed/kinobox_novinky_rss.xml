@@ -6,7 +6,7 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 20 Oct 2025 06:04:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 10:01:17 +0200</lastBuildDate>
     <item>
       <title>27 nocí</title>
       <link>https://www.kinobox.cz/film/4377164</link>
@@ -33,9 +33,19 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/23/external_file_12960488152379325251.jpg" alt="Dokonalá sousedka plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Krimi</p>]]></description>
     </item>
     <item>
+      <title>Greater Kalesh</title>
+      <link>https://www.kinobox.cz/film/5148358</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/16/external_file_2984041429787405024.jpg" alt="Greater Kalesh plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Rodinný</p>]]></description>
+    </item>
+    <item>
       <title>Hlasy mrtvých</title>
       <link>https://www.kinobox.cz/film/734497</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2024/02/01/upload_4646326498768326858.jpg" alt="Hlasy mrtvých plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor</p>]]></description>
+    </item>
+    <item>
+      <title>Mikado</title>
+      <link>https://www.kinobox.cz/film/4383080</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/02/external_file_5799861231573029673.jpg" alt="Mikado plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie, Drama, Rodinný</p>]]></description>
     </item>
     <item>
       <title>Prevítovi</title>
@@ -56,6 +66,11 @@
       <title>Lov: Ze zákulisí</title>
       <link>https://www.kinobox.cz/film/5152504</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/16/upload_16898420747253271108.jpg" alt="Lov: Ze zákulisí plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Přírodopisný</p>]]></description>
+    </item>
+    <item>
+      <title>Neuilly-Poissy</title>
+      <link>https://www.kinobox.cz/film/3150624</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_15126491851088521577.jpg" alt="Neuilly-Poissy plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
     </item>
     <item>
       <title>Six Kings Slam 2025</title>
@@ -151,21 +166,6 @@
       <title>Caramelo</title>
       <link>https://www.kinobox.cz/film/4412186</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/05/external_file_12678283197692791664.jpg" alt="Caramelo plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Komedie, Rodinný</p>]]></description>
-    </item>
-    <item>
-      <title>Matt McCusker: A Humble Offering</title>
-      <link>https://www.kinobox.cz/film/5054186</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/29/external_file_5295366666107879483.jpg" alt="Matt McCusker: A Humble Offering plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
-    </item>
-    <item>
-      <title>Zrada mezi námi</title>
-      <link>https://www.kinobox.cz/film/3097512</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/28/external_file_1735453940914696314.jpg" alt="Zrada mezi námi plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller, Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Bomba</title>
-      <link>https://www.kinobox.cz/film/5106556</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/06/external_file_15287978004825028793.jpg" alt="Bomba plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller, Komedie, Akční</p>]]></description>
     </item>
   </channel>
 </rss>
