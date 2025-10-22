@@ -6,7 +6,17 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 22 Oct 2025 06:01:37 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 10:01:21 +0200</lastBuildDate>
+    <item>
+      <title>Rychlý jako vítr 2 - Vítězství</title>
+      <link>https://www.kinobox.cz/film/434518</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2020/07/24/ostwind-2114724779_1105.jpg" alt="Rychlý jako vítr 2 - Vítězství plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dobrodružný, Rodinný</p>]]></description>
+    </item>
+    <item>
+      <title>Montreal Expos: Kdo zničil baseballový fenomén?</title>
+      <link>https://www.kinobox.cz/film/5016213</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/06/external_file_12716362326411262045.jpg" alt="Montreal Expos: Kdo zničil baseballový fenomén? plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Sportovní</p>]]></description>
+    </item>
     <item>
       <title>27 nocí</title>
       <link>https://www.kinobox.cz/film/4377164</link>
@@ -156,16 +166,6 @@
       <title>WWE Crown Jewel 2025</title>
       <link>https://www.kinobox.cz/film/4537616</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/25/external_file_18422857691377825092.jpg" alt="WWE Crown Jewel 2025 plagát" style="max-width: 100%; height: auto;" />]]></description>
-    </item>
-    <item>
-      <title>Život s manipulátorem: Příběh Morgan Metzerové</title>
-      <link>https://www.kinobox.cz/film/3153179</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_3468668145157334007.jpg" alt="Život s manipulátorem: Příběh Morgan Metzerové plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller</p>]]></description>
-    </item>
-    <item>
-      <title>Caramelo</title>
-      <link>https://www.kinobox.cz/film/4412186</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/05/external_file_12678283197692791664.jpg" alt="Caramelo plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Komedie, Rodinný</p>]]></description>
     </item>
   </channel>
 </rss>
