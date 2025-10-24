@@ -6,7 +6,17 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 24 Oct 2025 06:01:15 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 10:01:19 +0200</lastBuildDate>
+    <item>
+      <title>Hodina zmizení</title>
+      <link>https://www.kinobox.cz/film/726822</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/24/upload_4944193882138399615.jpg" alt="Hodina zmizení plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Horor, Mysteriozní</p>]]></description>
+    </item>
+    <item>
+      <title>Elixír</title>
+      <link>https://www.kinobox.cz/film/3228945</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/23/upload_18178440067842591689.png" alt="Elixír plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor, Thriller</p>]]></description>
+    </item>
     <item>
       <title>Michelle Wolf: The Well</title>
       <link>https://www.kinobox.cz/film/5168001</link>
@@ -156,16 +166,6 @@
       <title>Zločin a Emily</title>
       <link>https://www.kinobox.cz/film/724923</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/08/29/external_file_14353282870968223948.jpg" alt="Zločin a Emily plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Thriller</p>]]></description>
-    </item>
-    <item>
-      <title>Dendam Malam Kelam</title>
-      <link>https://www.kinobox.cz/film/4423863</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/04/27/external_file_3835026162993403663.jpg" alt="Dendam Malam Kelam plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor, Thriller, Mysteriozní</p>]]></description>
-    </item>
-    <item>
-      <title>Dreaming of Lions</title>
-      <link>https://www.kinobox.cz/film/3166917</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/01/29/external_file_4984061101919007805.jpg" alt="Dreaming of Lions plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Komedie</p>]]></description>
     </item>
   </channel>
 </rss>
