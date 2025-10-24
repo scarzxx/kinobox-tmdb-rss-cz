@@ -6,7 +6,7 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 24 Oct 2025 10:01:19 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 14:01:21 +0200</lastBuildDate>
     <item>
       <title>Hodina zmizení</title>
       <link>https://www.kinobox.cz/film/726822</link>
@@ -76,6 +76,11 @@
       <title>Prevítovi</title>
       <link>https://www.kinobox.cz/film/2682440</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/08/external_file_6317773704467945629.jpg" alt="Prevítovi plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dobrodružný, Animovaný, Komedie, Adaptace knižní, Rodinný</p>]]></description>
+    </item>
+    <item>
+      <title>Roh</title>
+      <link>https://www.kinobox.cz/film/5177896</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/24/external_file_3398984496386820518.jpg" alt="Roh plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Horor, Mysteriozní</p>]]></description>
     </item>
     <item>
       <title>Čas, co nám zbývá</title>
@@ -161,11 +166,6 @@
       <title>Žena z kajuty č. 10</title>
       <link>https://www.kinobox.cz/film/4521612</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/08/26/external_file_18068276881400238043.jpg" alt="Žena z kajuty č. 10 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Thriller, Psychologický, Adaptace knižní</p>]]></description>
-    </item>
-    <item>
-      <title>Zločin a Emily</title>
-      <link>https://www.kinobox.cz/film/724923</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/08/29/external_file_14353282870968223948.jpg" alt="Zločin a Emily plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Thriller</p>]]></description>
     </item>
   </channel>
 </rss>
