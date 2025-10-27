@@ -6,12 +6,7 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 27 Oct 2025 13:01:25 +0100</lastBuildDate>
-    <item>
-      <title>Ninjago Legends: Monstrosity</title>
-      <link>https://www.kinobox.cz/film/4682635</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/06/12/external_file_15268191222119699089.jpg" alt="Ninjago Legends: Monstrosity plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Animovaný, Akční, Horor</p>]]></description>
-    </item>
+    <lastBuildDate>Mon, 27 Oct 2025 17:01:09 +0100</lastBuildDate>
     <item>
       <title>Dům plný dynamitu</title>
       <link>https://www.kinobox.cz/film/4321646</link>
@@ -166,6 +161,11 @@
       <title>Sbormistr</title>
       <link>https://www.kinobox.cz/film/727063</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/03/external_file_30199874975840108.jpg" alt="Sbormistr plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Psychologický</p>]]></description>
+    </item>
+    <item>
+      <title>War 2</title>
+      <link>https://www.kinobox.cz/film/3270650</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/08/external_file_7891091552881326451.jpg" alt="War 2 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Akční, Dobrodružný, Thriller</p>]]></description>
     </item>
   </channel>
 </rss>
