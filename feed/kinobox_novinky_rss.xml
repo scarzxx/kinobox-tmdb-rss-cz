@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Oct 2025 05:01:08 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 09:01:16 +0100</lastBuildDate>
+    <item>
+      <title>Šakal</title>
+      <link>https://www.kinobox.cz/film/20095</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/09/01/20095___external_file_13016493663693319447.jpg" alt="Šakal plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Akční, Dobrodružný, Krimi, Thriller, Adaptace knižní, Gangsterka, LGBTQ+, Remake</p>]]></description>
+    </item>
     <item>
       <title>Dům plný dynamitu</title>
       <link>https://www.kinobox.cz/film/4321646</link>
@@ -128,6 +133,11 @@
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/15/external_file_8493251501428646706.jpg" alt="Martabat: Misi Berdarah plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Komedie</p>]]></description>
     </item>
     <item>
+      <title>Uteč</title>
+      <link>https://www.kinobox.cz/film/434292</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_78926592881872377.jpg" alt="Uteč plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Horor, Mysteriozní, Nezávislý, Oscarový, Drama</p>]]></description>
+    </item>
+    <item>
       <title>Všichni mě milují až po smrti</title>
       <link>https://www.kinobox.cz/film/5035917</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/19/upload_2646208035992385604.png" alt="Všichni mě milují až po smrti plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Krimi, Thriller</p>]]></description>
@@ -156,16 +166,6 @@
       <title>Plav ke mně</title>
       <link>https://www.kinobox.cz/film/4607599</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/02/external_file_11790035454374460839.jpg" alt="Plav ke mně plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller, Adaptace knižní</p>]]></description>
-    </item>
-    <item>
-      <title>Sbormistr</title>
-      <link>https://www.kinobox.cz/film/727063</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/03/external_file_30199874975840108.jpg" alt="Sbormistr plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Psychologický</p>]]></description>
-    </item>
-    <item>
-      <title>War 2</title>
-      <link>https://www.kinobox.cz/film/3270650</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/02/08/external_file_7891091552881326451.jpg" alt="War 2 plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Akční, Dobrodružný, Thriller</p>]]></description>
     </item>
   </channel>
 </rss>
