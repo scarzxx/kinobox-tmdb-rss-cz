@@ -6,11 +6,21 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 29 Oct 2025 09:01:16 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 13:01:20 +0100</lastBuildDate>
+    <item>
+      <title>Babo: Haftbefehl a jeho příběh</title>
+      <link>https://www.kinobox.cz/film/5059907</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/25/upload_1873700087956515588.png" alt="Babo: Haftbefehl a jeho příběh plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Hudební</p>]]></description>
+    </item>
     <item>
       <title>Jarek</title>
       <link>https://www.kinobox.cz/film/4675697</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/18/upload_10830541768207455811.jpg" alt="Jarek plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Biografický</p>]]></description>
+    </item>
+    <item>
+      <title>Mo Amer: Wild World</title>
+      <link>https://www.kinobox.cz/film/5126444</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/10/29/external_file_5509018257483206336.jpg" alt="Mo Amer: Wild World plagát" style="max-width: 100%; height: auto;" />]]></description>
     </item>
     <item>
       <title>Dům plný dynamitu</title>
@@ -156,16 +166,6 @@
       <title>Můj otec, vrah zvaný BTK</title>
       <link>https://www.kinobox.cz/film/5049234</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/24/external_file_16916085587886547875.jpg" alt="Můj otec, vrah zvaný BTK plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Krimi</p>]]></description>
-    </item>
-    <item>
-      <title>Only We Know</title>
-      <link>https://www.kinobox.cz/film/4385355</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/05/15/external_file_15621747505260338279.jpg" alt="Only We Know plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Romantický, Drama</p>]]></description>
-    </item>
-    <item>
-      <title>Plav ke mně</title>
-      <link>https://www.kinobox.cz/film/4607599</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/02/external_file_11790035454374460839.jpg" alt="Plav ke mně plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Thriller, Adaptace knižní</p>]]></description>
     </item>
   </channel>
 </rss>
