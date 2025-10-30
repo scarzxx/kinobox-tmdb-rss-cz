@@ -6,7 +6,12 @@
     <description>Nejnovější filmy přidané na Kinobox.cz</description>
     <language>cs-cz</language>
     <ns0:link href="githuburl" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 30 Oct 2025 05:01:10 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 09:01:10 +0100</lastBuildDate>
+    <item>
+      <title>Rychlý jako vítr 3 - Cesta do Ory</title>
+      <link>https://www.kinobox.cz/film/532970</link>
+      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2023/08/31/external_file_1095634900296123062.jpg" alt="Rychlý jako vítr 3 - Cesta do Ory plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dobrodružný, Rodinný</p>]]></description>
+    </item>
     <item>
       <title>Babo: Haftbefehl a jeho příběh</title>
       <link>https://www.kinobox.cz/film/5059907</link>
@@ -161,11 +166,6 @@
       <title>Neříkej mi mami</title>
       <link>https://www.kinobox.cz/film/4655285</link>
       <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/07/14/external_file_14863914117123198136.jpg" alt="Neříkej mi mami plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Drama, Romantický</p>]]></description>
-    </item>
-    <item>
-      <title>Můj otec, vrah zvaný BTK</title>
-      <link>https://www.kinobox.cz/film/5049234</link>
-      <description><![CDATA[<img src="https://1263469901.rsc.cdn77.org/images/2025/09/24/external_file_16916085587886547875.jpg" alt="Můj otec, vrah zvaný BTK plagát" style="max-width: 100%; height: auto;" /><br/><p>Žánry: Dokumentární, Krimi</p>]]></description>
     </item>
   </channel>
 </rss>
