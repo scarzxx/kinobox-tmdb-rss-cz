@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Nov 2025 12:00:02 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 14:00:02 +0100</lastBuildDate>
     <item>
       <title>TO: Vítejte v Derry</title>
       <link>https://www.themoviedb.org/tv/200875-welcome-to-derry?language=cs-CZ</link>
@@ -32,6 +32,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wmNOonCg7cwEpqKloMMXrnQ48Sf.jpg" alt="Zaklínač poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 20. pro. 2019</p>]]></description>
     </item>
     <item>
+      <title>Do posledního samuraje</title>
+      <link>https://www.themoviedb.org/tv/252193-last-samurai-standing?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/252193-last-samurai-standing?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3RbkjosF3XYIHp0de2mzHjUwFr8.jpg" alt="Do posledního samuraje poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 13. lis. 2025</p>]]></description>
+    </item>
+    <item>
       <title>Zákon a pořádek: Útvar pro zvláštní oběti</title>
       <link>https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/2734-law-order-special-victims-unit?language=cs-CZ</guid>
@@ -47,31 +53,7 @@
       <title>Pluribus</title>
       <link>https://www.themoviedb.org/tv/225171-wycaro?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/225171-wycaro?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg" alt="Pluribus poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 06. lis. 2025</p>]]></description>
-    </item>
-    <item>
-      <title>Perníkový táta</title>
-      <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
-    </item>
-    <item>
-      <title>Do posledního samuraje</title>
-      <link>https://www.themoviedb.org/tv/252193-last-samurai-standing?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/252193-last-samurai-standing?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3RbkjosF3XYIHp0de2mzHjUwFr8.jpg" alt="Do posledního samuraje poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 13. lis. 2025</p>]]></description>
-    </item>
-    <item>
-      <title>Zelenáč</title>
-      <link>https://www.themoviedb.org/tv/79744-the-rookie?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/79744-the-rookie?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" alt="Zelenáč poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 16. říj. 2018</p>]]></description>
-    </item>
-    <item>
-      <title>Námořní vyšetřovací služba</title>
-      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg" alt="Pluribus poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 06. lis. 2025</p>]]></description>
     </item>
     <item>
       <title>Král Tulsy</title>
@@ -80,16 +62,34 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg" alt="Král Tulsy poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. lis. 2022</p>]]></description>
     </item>
     <item>
-      <title>Hotel Hazbin</title>
-      <link>https://www.themoviedb.org/tv/94954-hazbin-hotel?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/94954-hazbin-hotel?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg" alt="Hotel Hazbin poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 18. led. 2024</p>]]></description>
+      <title>Perníkový táta</title>
+      <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
+    </item>
+    <item>
+      <title>Námořní vyšetřovací služba</title>
+      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
+    </item>
+    <item>
+      <title>Zelenáč</title>
+      <link>https://www.themoviedb.org/tv/79744-the-rookie?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/79744-the-rookie?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" alt="Zelenáč poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 16. říj. 2018</p>]]></description>
     </item>
     <item>
       <title>Lovci duchů</title>
       <link>https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1622-supernatural?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3JsQBGAVXcpD0GsF1hQ7AcygtCH.jpg" alt="Lovci duchů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. zář. 2005</p>]]></description>
+    </item>
+    <item>
+      <title>Hotel Hazbin</title>
+      <link>https://www.themoviedb.org/tv/94954-hazbin-hotel?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/94954-hazbin-hotel?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg" alt="Hotel Hazbin poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 18. led. 2024</p>]]></description>
     </item>
     <item>
       <title>Dexter</title>
@@ -122,10 +122,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
     </item>
     <item>
-      <title>Dr. House</title>
-      <link>https://www.themoviedb.org/tv/1408-house?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1408-house?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/WZLiPbT27ms9oKV58UpoDWFYpq.jpg" alt="Dr. House poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 16. lis. 2004</p>]]></description>
+      <title>SkyMed</title>
+      <link>https://www.themoviedb.org/tv/133908-skymed?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/133908-skymed?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg" alt="SkyMed poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p><p>První vysílání: 10. čvc. 2022</p>]]></description>
     </item>
   </channel>
 </rss>
