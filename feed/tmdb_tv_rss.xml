@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 21 Nov 2025 04:00:02 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 06:00:04 +0100</lastBuildDate>
     <item>
       <title>TO: Vítejte v Derry</title>
       <link>https://www.themoviedb.org/tv/200875-welcome-to-derry?language=cs-CZ</link>
@@ -89,7 +89,7 @@
       <title>Pluribus</title>
       <link>https://www.themoviedb.org/tv/225171-wycaro?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/225171-wycaro?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg" alt="Pluribus poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 06. lis. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg" alt="Pluribus poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 06. lis. 2025</p>]]></description>
     </item>
     <item>
       <title>Hříšníci</title>
