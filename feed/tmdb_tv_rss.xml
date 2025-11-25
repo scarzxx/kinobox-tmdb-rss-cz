@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Nov 2025 06:00:04 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 08:00:04 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -62,16 +62,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" alt="Zelenáč poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 16. říj. 2018</p>]]></description>
     </item>
     <item>
-      <title>Zaklínač</title>
-      <link>https://www.themoviedb.org/tv/71912-the-witcher?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/71912-the-witcher?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wmNOonCg7cwEpqKloMMXrnQ48Sf.jpg" alt="Zaklínač poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 20. pro. 2019</p>]]></description>
-    </item>
-    <item>
       <title>Námořní vyšetřovací služba</title>
       <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
+    </item>
+    <item>
+      <title>Zaklínač</title>
+      <link>https://www.themoviedb.org/tv/71912-the-witcher?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/71912-the-witcher?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wmNOonCg7cwEpqKloMMXrnQ48Sf.jpg" alt="Zaklínač poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 20. pro. 2019</p>]]></description>
     </item>
     <item>
       <title>Dexter</title>
