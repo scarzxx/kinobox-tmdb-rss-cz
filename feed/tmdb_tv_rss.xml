@@ -6,18 +6,18 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Nov 2025 08:00:04 +0100</lastBuildDate>
-    <item>
-      <title>Stranger Things</title>
-      <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg" alt="Stranger Things poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 15. čvc. 2016</p>]]></description>
-    </item>
+    <lastBuildDate>Tue, 25 Nov 2025 10:00:04 +0100</lastBuildDate>
     <item>
       <title>TO: Vítejte v Derry</title>
       <link>https://www.themoviedb.org/tv/200875-welcome-to-derry?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/200875-welcome-to-derry?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wbhn67vGcB6i9AC7qtpprFiK6B3.jpg" alt="TO: Vítejte v Derry poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 26. říj. 2025</p>]]></description>
+    </item>
+    <item>
+      <title>Stranger Things</title>
+      <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg" alt="Stranger Things poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 15. čvc. 2016</p>]]></description>
     </item>
     <item>
       <title>Hotel Hazbin</title>
