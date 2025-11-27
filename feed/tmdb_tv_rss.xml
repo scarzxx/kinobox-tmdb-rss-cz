@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 27 Nov 2025 10:00:02 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 12:00:02 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -62,12 +62,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
     </item>
     <item>
-      <title>Hotel Hazbin</title>
-      <link>https://www.themoviedb.org/tv/94954-hazbin-hotel?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/94954-hazbin-hotel?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg" alt="Hotel Hazbin poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 18. led. 2024</p>]]></description>
-    </item>
-    <item>
       <title>Zaklínač</title>
       <link>https://www.themoviedb.org/tv/71912-the-witcher?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/71912-the-witcher?language=cs-CZ</guid>
@@ -90,6 +84,12 @@
       <link>https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg" alt="Hříšníci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. led. 2011</p>]]></description>
+    </item>
+    <item>
+      <title>Hotel Hazbin</title>
+      <link>https://www.themoviedb.org/tv/94954-hazbin-hotel?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/94954-hazbin-hotel?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg" alt="Hotel Hazbin poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 18. led. 2024</p>]]></description>
     </item>
     <item>
       <title>Právo a pořádek</title>
