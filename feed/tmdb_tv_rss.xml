@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 09 Dec 2025 08:00:04 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 10:00:03 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -68,12 +68,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/poTtFCp1LjEl187NuqD6ekFplb6.jpg" alt="Simpsonovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 17. pro. 1989</p>]]></description>
     </item>
     <item>
-      <title>Pluribus</title>
-      <link>https://www.themoviedb.org/tv/225171-wycaro?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/225171-wycaro?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg" alt="Pluribus poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 06. lis. 2025</p>]]></description>
-    </item>
-    <item>
       <title>Hříšníci</title>
       <link>https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</guid>
@@ -84,6 +78,12 @@
       <link>https://www.themoviedb.org/tv/223300-the-abandons?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/223300-the-abandons?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rQRzdfc0IlyiwM5HdzHdSYag9FG.jpg" alt="Opuštění poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 57%</p><p>První vysílání: 04. pro. 2025</p>]]></description>
+    </item>
+    <item>
+      <title>Pluribus</title>
+      <link>https://www.themoviedb.org/tv/225171-wycaro?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/225171-wycaro?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg" alt="Pluribus poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 06. lis. 2025</p>]]></description>
     </item>
     <item>
       <title>Černá listina</title>
