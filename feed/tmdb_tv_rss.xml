@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 09 Dec 2025 06:00:02 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 08:00:04 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -122,10 +122,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/wmNOonCg7cwEpqKloMMXrnQ48Sf.jpg" alt="Zaklínač poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 20. pro. 2019</p>]]></description>
     </item>
     <item>
-      <title>Král Tulsy</title>
-      <link>https://www.themoviedb.org/tv/153312-tulsa-king?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/153312-tulsa-king?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg" alt="Král Tulsy poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 13. lis. 2022</p>]]></description>
+      <title>Manipulátor</title>
+      <link>https://www.themoviedb.org/tv/239385-a-sculpture-city?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/239385-a-sculpture-city?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/nOj4nsomFyAVJgpp68L0xq3cREc.jpg" alt="Manipulátor poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 05. lis. 2025</p>]]></description>
     </item>
   </channel>
 </rss>
