@@ -4,7 +4,19 @@
     <title>Titulky.com Filmy</title>
     <link>https://www.titulky.com/</link>
     <description>Nové titulky k filmům</description>
-    <lastBuildDate>Wed, 10 Dec 2025 11:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 14:00:03 GMT</lastBuildDate>
+    <item>
+      <title>Shelby Oaks (2024) [CZ]</title>
+      <link>https://www.titulky.com/Shelby-Oaks-419046.htm</link>
+      <description>Film, rok: 2024, jazyk: CZ</description>
+      <guid>https://www.titulky.com/Shelby-Oaks-419046.htm</guid>
+    </item>
+    <item>
+      <title>Ne Zha 2 (2025) [CZ]</title>
+      <link>https://www.titulky.com/Ne-Zha-2-418916.htm</link>
+      <description>Film, rok: 2025, jazyk: CZ</description>
+      <guid>https://www.titulky.com/Ne-Zha-2-418916.htm</guid>
+    </item>
     <item>
       <title>El rugir de las llamas (2025) [CZ]</title>
       <link>https://www.titulky.com/El-rugir-de-las-llamas-419038.htm</link>
@@ -52,12 +64,6 @@
       <link>https://www.titulky.com/Sacramento-419068.htm</link>
       <description>Film, rok: 2024, jazyk: CZ</description>
       <guid>https://www.titulky.com/Sacramento-419068.htm</guid>
-    </item>
-    <item>
-      <title>The First Wives Club (1996) [CZ]</title>
-      <link>https://www.titulky.com/The-First-Wives-Club-419082.htm</link>
-      <description>Film, rok: 1996, jazyk: CZ</description>
-      <guid>https://www.titulky.com/The-First-Wives-Club-419082.htm</guid>
     </item>
   </channel>
 </rss>
