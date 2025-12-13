@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 13 Dec 2025 10:00:03 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 12:00:03 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -119,7 +119,7 @@
       <title>Record of Ragnarök</title>
       <link>https://www.themoviedb.org/tv/114868?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/114868?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/cKsFYtXCwxtViIHr5gw5hR7gf9n.jpg" alt="Record of Ragnarök poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 17. čer. 2021</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/t6GEKms3JgLhC6pXjFHhDvPP65y.jpg" alt="Record of Ragnarök poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 17. čer. 2021</p>]]></description>
     </item>
     <item>
       <title>Pluribus</title>
