@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 14 Dec 2025 18:00:03 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 20:00:03 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -23,7 +23,7 @@
       <title>Mimino na mušce</title>
       <link>https://www.themoviedb.org/tv/279601-man-vs-baby?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/279601-man-vs-baby?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6FMXVyeTCqv8FJVLCIjj5Yb9HUj.jpg" alt="Mimino na mušce poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p><p>První vysílání: 11. pro. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6FMXVyeTCqv8FJVLCIjj5Yb9HUj.jpg" alt="Mimino na mušce poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 72%</p><p>První vysílání: 11. pro. 2025</p>]]></description>
     </item>
     <item>
       <title>Lovci duchů</title>
