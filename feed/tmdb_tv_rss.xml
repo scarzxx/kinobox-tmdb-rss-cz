@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 17 Dec 2025 08:00:04 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 10:00:02 +0100</lastBuildDate>
     <item>
       <title>TO: Vítejte v Derry</title>
       <link>https://www.themoviedb.org/tv/200875-welcome-to-derry?language=cs-CZ</link>
@@ -74,6 +74,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
     </item>
     <item>
+      <title>Perníkový táta</title>
+      <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
+    </item>
+    <item>
       <title>Právo a pořádek</title>
       <link>https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</guid>
@@ -96,12 +102,6 @@
       <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
-    </item>
-    <item>
-      <title>Perníkový táta</title>
-      <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
     </item>
     <item>
       <title>Hříšníci</title>
