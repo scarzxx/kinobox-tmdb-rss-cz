@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 19 Dec 2025 16:00:03 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 18:00:03 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -125,7 +125,7 @@
       <title>City of Shadows</title>
       <link>https://www.themoviedb.org/tv/277752-ciudad-de-sombras?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/277752-ciudad-de-sombras?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/n4rguIB7Cf4h3l1IyqMo3THW5xn.jpg" alt="City of Shadows poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 69%</p><p>První vysílání: 12. pro. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/n4rguIB7Cf4h3l1IyqMo3THW5xn.jpg" alt="City of Shadows poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 12. pro. 2025</p>]]></description>
     </item>
   </channel>
 </rss>
