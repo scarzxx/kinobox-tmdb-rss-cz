@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 01 Jan 2026 10:00:02 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 12:00:03 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -110,16 +110,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2l2A2LYLlqDDUoGuv1s7NYWXgpZ.jpg" alt="Přátelé poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 22. zář. 1994</p>]]></description>
     </item>
     <item>
-      <title>Akta X</title>
-      <link>https://www.themoviedb.org/tv/4087-the-x-files?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4087-the-x-files?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9W1UseXDJjdypaleu6CwFGnG3jc.jpg" alt="Akta X poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 10. zář. 1993</p>]]></description>
-    </item>
-    <item>
       <title>Hříšníci</title>
       <link>https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg" alt="Hříšníci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. led. 2011</p>]]></description>
+    </item>
+    <item>
+      <title>Akta X</title>
+      <link>https://www.themoviedb.org/tv/4087-the-x-files?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4087-the-x-files?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9W1UseXDJjdypaleu6CwFGnG3jc.jpg" alt="Akta X poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 10. zář. 1993</p>]]></description>
     </item>
     <item>
       <title>Griffinovi</title>

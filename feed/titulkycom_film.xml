@@ -4,7 +4,19 @@
     <title>Titulky.com Filmy</title>
     <link>https://www.titulky.com/</link>
     <description>Nové titulky k filmům</description>
-    <lastBuildDate>Thu, 01 Jan 2026 08:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 11:00:04 GMT</lastBuildDate>
+    <item>
+      <title>About a Place in the Kinki Region (2025) [CZ]</title>
+      <link>https://www.titulky.com/About-a-Place-in-the-Kinki-Region-419776.htm</link>
+      <description>Film, rok: 2025, jazyk: CZ</description>
+      <guid>https://www.titulky.com/About-a-Place-in-the-Kinki-Region-419776.htm</guid>
+    </item>
+    <item>
+      <title>Redlands (2014) [CZ]</title>
+      <link>https://www.titulky.com/Redlands-419769.htm</link>
+      <description>Film, rok: 2014, jazyk: CZ</description>
+      <guid>https://www.titulky.com/Redlands-419769.htm</guid>
+    </item>
     <item>
       <title>Birgitt Haas Must Be Killed (1981) [CZ]</title>
       <link>https://www.titulky.com/Birgitt-Haas-Must-Be-Killed-419763.htm</link>
@@ -76,24 +88,6 @@
       <link>https://www.titulky.com/Sisu-Road-to-Revenge-419395.htm</link>
       <description>Film, rok: 2025, jazyk: SK</description>
       <guid>https://www.titulky.com/Sisu-Road-to-Revenge-419395.htm</guid>
-    </item>
-    <item>
-      <title>Elskling (2024) [CZ]</title>
-      <link>https://www.titulky.com/Elskling-419389.htm</link>
-      <description>Film, rok: 2024, jazyk: CZ</description>
-      <guid>https://www.titulky.com/Elskling-419389.htm</guid>
-    </item>
-    <item>
-      <title>Happyend (2024) [CZ]</title>
-      <link>https://www.titulky.com/Happyend-419388.htm</link>
-      <description>Film, rok: 2024, jazyk: CZ</description>
-      <guid>https://www.titulky.com/Happyend-419388.htm</guid>
-    </item>
-    <item>
-      <title>Voor de meisjes (2025) [SK]</title>
-      <link>https://www.titulky.com/Voor-de-meisjes-419701.htm</link>
-      <description>Film, rok: 2025, jazyk: SK</description>
-      <guid>https://www.titulky.com/Voor-de-meisjes-419701.htm</guid>
     </item>
   </channel>
 </rss>
