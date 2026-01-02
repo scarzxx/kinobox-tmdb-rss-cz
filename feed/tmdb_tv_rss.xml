@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 02 Jan 2026 10:00:02 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 12:00:04 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -104,6 +104,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lX6y6muNm5dkDMvEcuII4iBiwZq.jpg" alt="Ztraceni poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 79%</p><p>První vysílání: 22. zář. 2004</p>]]></description>
     </item>
     <item>
+      <title>Fargo</title>
+      <link>https://www.themoviedb.org/tv/60622-fargo?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60622-fargo?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/xTsn1BCDOWLIcIAqHwGoUGY3zOt.jpg" alt="Fargo poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 15. dub. 2014</p>]]></description>
+    </item>
+    <item>
       <title>Černá listina</title>
       <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</guid>
@@ -120,12 +126,6 @@
       <link>https://www.themoviedb.org/tv/4087-the-x-files?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/4087-the-x-files?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9W1UseXDJjdypaleu6CwFGnG3jc.jpg" alt="Akta X poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 10. zář. 1993</p>]]></description>
-    </item>
-    <item>
-      <title>Fargo</title>
-      <link>https://www.themoviedb.org/tv/60622-fargo?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/60622-fargo?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/xTsn1BCDOWLIcIAqHwGoUGY3zOt.jpg" alt="Fargo poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 15. dub. 2014</p>]]></description>
     </item>
   </channel>
 </rss>
