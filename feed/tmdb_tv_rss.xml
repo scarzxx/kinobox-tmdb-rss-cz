@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 23 Jan 2026 04:00:03 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 06:00:03 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -80,12 +80,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/gigxjNnACiXAfrwoMox5WJFgc0I.jpg" alt="Myšlenky zločince poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 22. zář. 2005</p>]]></description>
     </item>
     <item>
-      <title>Právo a pořádek</title>
-      <link>https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg" alt="Právo a pořádek poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 13. zář. 1990</p>]]></description>
-    </item>
-    <item>
       <title>Griffinovi</title>
       <link>https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1434-family-guy?language=cs-CZ</guid>
@@ -96,6 +90,12 @@
       <link>https://www.themoviedb.org/tv/71712-the-good-doctor?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/71712-the-good-doctor?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/luhKkdD80qe62fwop6sdrXK9jUT.jpg" alt="Dobrý doktor poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 25. zář. 2017</p>]]></description>
+    </item>
+    <item>
+      <title>Právo a pořádek</title>
+      <link>https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/549-law-order?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg" alt="Právo a pořádek poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 13. zář. 1990</p>]]></description>
     </item>
     <item>
       <title>Hříšníci</title>
