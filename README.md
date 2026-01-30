@@ -1,5 +1,5 @@
 # kinobox-rss
-Tento workflow slouží k automatickému generování a aktualizaci RSS feedu s aktuálními informacemi o filmech a seriálech, čerpanými z webu TMDB. Python skript získává data o filmech, trendech a novinkách, která jsou následně pravidelně aktualizována a prezentována v RSS formátu. To umožňuje snadné sledování nejčerstvějších zpráv a obsahu z Kinoboxu a TMDB. Tento feed je automaticky commitován na GitHubu pro využití v různých aplikacích.
+Tento workflow slouží k automatickému generování a aktualizaci RSS feedu s aktuálními informacemi o filmech a seriálech, čerpanými z webu TMDB. Python skript získává data o filmech, trendech a novinkách, která jsou následně pravidelně aktualizována a prezentována v RSS formátu. To umožňuje snadné sledování nejčerstvějších zpráv a obsahu z TMDB. Tento feed je automaticky commitován na GitHubu pro využití v různých aplikacích.
 
 ## Dostupné RSS kanály
 #  TMDB
