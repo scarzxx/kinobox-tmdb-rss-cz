@@ -2,3 +2,4 @@ venv/
 # Ignore the secrets files
 scripts/.env
 scripts/titulkycom.py
+.history
