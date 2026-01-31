@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 31 Jan 2026 13:01:10 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 17:01:56 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -50,6 +50,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
     </item>
     <item>
+      <title>Wonder Man</title>
+      <link>https://www.themoviedb.org/tv/198178-wonder-man?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/198178-wonder-man?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/qwSmwCEMzlUn9Y3XbBIx3CLMIAK.jpg" alt="Wonder Man poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p><p>První vysílání: 27. led. 2026</p>]]></description>
+    </item>
+    <item>
       <title>Hra o trůny</title>
       <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
@@ -62,16 +68,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg" alt="Hříšníci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. led. 2011</p>]]></description>
     </item>
     <item>
-      <title>Přátelé</title>
-      <link>https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2l2A2LYLlqDDUoGuv1s7NYWXgpZ.jpg" alt="Přátelé poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 22. zář. 1994</p>]]></description>
-    </item>
-    <item>
       <title>Černá listina</title>
       <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
+    </item>
+    <item>
+      <title>Přátelé</title>
+      <link>https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2l2A2LYLlqDDUoGuv1s7NYWXgpZ.jpg" alt="Přátelé poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 22. zář. 1994</p>]]></description>
     </item>
     <item>
       <title>Ve jménu vlasti</title>
@@ -104,28 +110,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dqZENchTd7lp5zht7BdlqM7RBhD.jpg" alt="Sósó no Frieren poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 88%</p><p>První vysílání: 29. zář. 2023</p>]]></description>
     </item>
     <item>
-      <title>Vikingové</title>
-      <link>https://www.themoviedb.org/tv/44217-vikings?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/44217-vikings?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6lnXo8SXcNL9wcAQPlotoHKYPlJ.jpg" alt="Vikingové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 03. bře. 2013</p>]]></description>
-    </item>
-    <item>
       <title>Upíří deníky</title>
       <link>https://www.themoviedb.org/tv/18165-the-vampire-diaries?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/18165-the-vampire-diaries?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/49WSEvAFYVtOzEM22Ee81JUKRI7.jpg" alt="Upíří deníky poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 10. zář. 2009</p>]]></description>
     </item>
     <item>
+      <title>Vikingové</title>
+      <link>https://www.themoviedb.org/tv/44217-vikings?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/44217-vikings?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6lnXo8SXcNL9wcAQPlotoHKYPlJ.jpg" alt="Vikingové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 03. bře. 2013</p>]]></description>
+    </item>
+    <item>
       <title>Gangy z Birminghamu</title>
       <link>https://www.themoviedb.org/tv/60574-peaky-blinders?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/60574-peaky-blinders?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/q5tUB3LY1FPgH0IDwtmw49bdR3t.jpg" alt="Gangy z Birminghamu poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 12. zář. 2013</p>]]></description>
-    </item>
-    <item>
-      <title>Kravaťáci</title>
-      <link>https://www.themoviedb.org/tv/37680-suits?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/37680-suits?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lDCy7EGJ0XQTcsccFTJuIZd5J81.jpg" alt="Kravaťáci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 23. čer. 2011</p>]]></description>
     </item>
   </channel>
 </rss>
