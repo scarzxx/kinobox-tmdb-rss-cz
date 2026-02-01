@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 31 Jan 2026 21:01:08 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 01:03:15 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -53,7 +53,7 @@
       <title>Wonder Man</title>
       <link>https://www.themoviedb.org/tv/198178-wonder-man?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/198178-wonder-man?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/qwSmwCEMzlUn9Y3XbBIx3CLMIAK.jpg" alt="Wonder Man poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 69%</p><p>První vysílání: 27. led. 2026</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/qwSmwCEMzlUn9Y3XbBIx3CLMIAK.jpg" alt="Wonder Man poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p><p>První vysílání: 27. led. 2026</p>]]></description>
     </item>
     <item>
       <title>Hra o trůny</title>
