@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 01 Feb 2026 09:02:22 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 13:01:14 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -86,6 +86,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/x1FANjzOEZZObmvMEf6duugiI6i.jpg" alt="Ve jménu vlasti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 02. říj. 2011</p>]]></description>
     </item>
     <item>
+      <title>Men on a Mission</title>
+      <link>https://www.themoviedb.org/tv/70672?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/70672?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2jIi55JtYKJTL1km8qHMuUilOWo.jpg" alt="Men on a Mission poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 05. pro. 2015</p>]]></description>
+    </item>
+    <item>
       <title>Perníkový táta</title>
       <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
@@ -120,12 +126,6 @@
       <link>https://www.themoviedb.org/tv/18165-the-vampire-diaries?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/18165-the-vampire-diaries?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/49WSEvAFYVtOzEM22Ee81JUKRI7.jpg" alt="Upíří deníky poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 10. zář. 2009</p>]]></description>
-    </item>
-    <item>
-      <title>Vikingové</title>
-      <link>https://www.themoviedb.org/tv/44217-vikings?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/44217-vikings?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6lnXo8SXcNL9wcAQPlotoHKYPlJ.jpg" alt="Vikingové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 03. bře. 2013</p>]]></description>
     </item>
   </channel>
 </rss>
