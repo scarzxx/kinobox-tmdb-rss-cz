@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 02 Feb 2026 05:37:37 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 09:07:31 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -92,12 +92,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/x1FANjzOEZZObmvMEf6duugiI6i.jpg" alt="Ve jménu vlasti poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 02. říj. 2011</p>]]></description>
     </item>
     <item>
-      <title>Men on a Mission</title>
-      <link>https://www.themoviedb.org/tv/70672?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/70672?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2jIi55JtYKJTL1km8qHMuUilOWo.jpg" alt="Men on a Mission poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 05. pro. 2015</p>]]></description>
-    </item>
-    <item>
       <title>Živí mrtví</title>
       <link>https://www.themoviedb.org/tv/1402-the-walking-dead?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1402-the-walking-dead?language=cs-CZ</guid>
@@ -126,6 +120,12 @@
       <link>https://www.themoviedb.org/tv/57532-paw-patrol?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/57532-paw-patrol?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pghhyJGRs4EA03ka6WV1QOo4pUu.jpg" alt="Tlapková patrola poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 12. srp. 2013</p>]]></description>
+    </item>
+    <item>
+      <title>Flash</title>
+      <link>https://www.themoviedb.org/tv/60735-the-flash?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60735-the-flash?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yZevl2vHQgmosfwUdVNzviIfaWS.jpg" alt="Flash poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 07. říj. 2014</p>]]></description>
     </item>
   </channel>
 </rss>
