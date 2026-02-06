@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 06 Feb 2026 05:30:58 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 09:07:50 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -50,16 +50,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
     </item>
     <item>
-      <title>Wonder Man</title>
-      <link>https://www.themoviedb.org/tv/198178-wonder-man?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/198178-wonder-man?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9lr5nZuEh8jdizLi4vM5qDP1gs5.jpg" alt="Wonder Man poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 27. led. 2026</p>]]></description>
-    </item>
-    <item>
       <title>Hra o trůny</title>
       <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
+    </item>
+    <item>
+      <title>Wonder Man</title>
+      <link>https://www.themoviedb.org/tv/198178-wonder-man?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/198178-wonder-man?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9lr5nZuEh8jdizLi4vM5qDP1gs5.jpg" alt="Wonder Man poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 27. led. 2026</p>]]></description>
     </item>
     <item>
       <title>Hříšníci</title>
@@ -110,6 +110,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6lnXo8SXcNL9wcAQPlotoHKYPlJ.jpg" alt="Vikingové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 03. bře. 2013</p>]]></description>
     </item>
     <item>
+      <title>Pokémon</title>
+      <link>https://www.themoviedb.org/tv/60572?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60572?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg" alt="Pokémon poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 01. dub. 1997</p>]]></description>
+    </item>
+    <item>
       <title>Flash</title>
       <link>https://www.themoviedb.org/tv/60735-the-flash?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/60735-the-flash?language=cs-CZ</guid>
@@ -120,12 +126,6 @@
       <link>https://www.themoviedb.org/tv/60574-peaky-blinders?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/60574-peaky-blinders?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/q5tUB3LY1FPgH0IDwtmw49bdR3t.jpg" alt="Gangy z Birminghamu poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 12. zář. 2013</p>]]></description>
-    </item>
-    <item>
-      <title>Pokémon</title>
-      <link>https://www.themoviedb.org/tv/60572?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/60572?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg" alt="Pokémon poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 01. dub. 1997</p>]]></description>
     </item>
   </channel>
 </rss>
