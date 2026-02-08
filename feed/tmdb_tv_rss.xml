@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 08 Feb 2026 01:07:04 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 05:42:10 +0100</lastBuildDate>
     <item>
       <title>Stranger Things</title>
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
@@ -20,16 +20,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/49HuUcsWajw6Ca3zc3xLARvm5Xm.jpg" alt="Rytíř Sedmi království poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 18. led. 2026</p>]]></description>
     </item>
     <item>
-      <title>Chirurgové</title>
-      <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lQybEErJhFc1jkrOjeo5bPTUeUB.jpg" alt="Chirurgové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 27. bře. 2005</p>]]></description>
-    </item>
-    <item>
       <title>Simpsonovi</title>
       <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/poTtFCp1LjEl187NuqD6ekFplb6.jpg" alt="Simpsonovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 17. pro. 1989</p>]]></description>
+    </item>
+    <item>
+      <title>Chirurgové</title>
+      <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lQybEErJhFc1jkrOjeo5bPTUeUB.jpg" alt="Chirurgové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 27. bře. 2005</p>]]></description>
     </item>
     <item>
       <title>Bridgertonovi</title>
@@ -98,6 +98,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ekZobS8isE6mA53RAiGDG93hBxL.jpg" alt="Lucifer poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 25. led. 2016</p>]]></description>
     </item>
     <item>
+      <title>Sósó no Frieren</title>
+      <link>https://www.themoviedb.org/tv/209867?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/209867?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dqZENchTd7lp5zht7BdlqM7RBhD.jpg" alt="Sósó no Frieren poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 88%</p><p>První vysílání: 29. zář. 2023</p>]]></description>
+    </item>
+    <item>
       <title>Wonder Man</title>
       <link>https://www.themoviedb.org/tv/198178-wonder-man?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/198178-wonder-man?language=cs-CZ</guid>
@@ -120,12 +126,6 @@
       <link>https://www.themoviedb.org/tv/1402-the-walking-dead?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1402-the-walking-dead?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/76HyQ3QJNzn9qICnm4L4Cmk5DpO.jpg" alt="Živí mrtví poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 31. říj. 2010</p>]]></description>
-    </item>
-    <item>
-      <title>Pokémon</title>
-      <link>https://www.themoviedb.org/tv/60572?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/60572?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg" alt="Pokémon poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 01. dub. 1997</p>]]></description>
     </item>
   </channel>
 </rss>
