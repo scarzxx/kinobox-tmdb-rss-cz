@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Feb 2026 01:04:46 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 05:28:16 +0100</lastBuildDate>
     <item>
       <title>Simpsonovi</title>
       <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
@@ -32,16 +32,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg" alt="Stranger Things poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 15. čvc. 2016</p>]]></description>
     </item>
     <item>
-      <title>Námořní vyšetřovací služba</title>
-      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
-    </item>
-    <item>
       <title>JUJUTSU KAISEN</title>
       <link>https://www.themoviedb.org/tv/95479?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/95479?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg" alt="JUJUTSU KAISEN poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 03. říj. 2020</p>]]></description>
+    </item>
+    <item>
+      <title>Námořní vyšetřovací služba</title>
+      <link>https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4614-ncis?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
     </item>
     <item>
       <title>Hra o trůny</title>
@@ -77,7 +77,7 @@
       <title>V bahně</title>
       <link>https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9JWQYB7FkGtg47wFO7GOrUDgYrx.jpg" alt="V bahně poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p><p>První vysílání: 14. srp. 2025</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9JWQYB7FkGtg47wFO7GOrUDgYrx.jpg" alt="V bahně poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 14. srp. 2025</p>]]></description>
     </item>
     <item>
       <title>Hvězdná brána</title>
@@ -110,6 +110,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2jIi55JtYKJTL1km8qHMuUilOWo.jpg" alt="Men on a Mission poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 05. pro. 2015</p>]]></description>
     </item>
     <item>
+      <title>Noční agent</title>
+      <link>https://www.themoviedb.org/tv/129552-the-night-agent?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/129552-the-night-agent?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vox3O68Li1DzezO2s43pvE2ll1Z.jpg" alt="Noční agent poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 23. bře. 2023</p>]]></description>
+    </item>
+    <item>
       <title>Bridgertonovi</title>
       <link>https://www.themoviedb.org/tv/91239-bridgerton?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/91239-bridgerton?language=cs-CZ</guid>
@@ -120,12 +126,6 @@
       <link>https://www.themoviedb.org/tv/18165-the-vampire-diaries?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/18165-the-vampire-diaries?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/49WSEvAFYVtOzEM22Ee81JUKRI7.jpg" alt="Upíří deníky poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 10. zář. 2009</p>]]></description>
-    </item>
-    <item>
-      <title>Tlapková patrola</title>
-      <link>https://www.themoviedb.org/tv/57532-paw-patrol?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/57532-paw-patrol?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pghhyJGRs4EA03ka6WV1QOo4pUu.jpg" alt="Tlapková patrola poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 12. srp. 2013</p>]]></description>
     </item>
   </channel>
 </rss>
