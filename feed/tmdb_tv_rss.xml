@@ -6,13 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Feb 2026 09:02:16 +0100</lastBuildDate>
-    <item>
-      <title>Simpsonovi</title>
-      <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/poTtFCp1LjEl187NuqD6ekFplb6.jpg" alt="Simpsonovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 17. pro. 1989</p>]]></description>
-    </item>
+    <lastBuildDate>Sat, 21 Feb 2026 13:01:15 +0100</lastBuildDate>
     <item>
       <title>Rytíř Sedmi království</title>
       <link>https://www.themoviedb.org/tv/224372-a-knight-of-the-seven-kingdoms-the-hedge-knight?language=cs-CZ</link>
@@ -24,6 +18,12 @@
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lQybEErJhFc1jkrOjeo5bPTUeUB.jpg" alt="Chirurgové poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 27. bře. 2005</p>]]></description>
+    </item>
+    <item>
+      <title>Simpsonovi</title>
+      <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/poTtFCp1LjEl187NuqD6ekFplb6.jpg" alt="Simpsonovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 17. pro. 1989</p>]]></description>
     </item>
     <item>
       <title>Stranger Things</title>
@@ -50,22 +50,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
     </item>
     <item>
-      <title>Přátelé</title>
-      <link>https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2l2A2LYLlqDDUoGuv1s7NYWXgpZ.jpg" alt="Přátelé poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 22. zář. 1994</p>]]></description>
-    </item>
-    <item>
       <title>Raw</title>
       <link>https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg" alt="Raw poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p><p>První vysílání: 11. led. 1993</p>]]></description>
-    </item>
-    <item>
-      <title>Perníkový táta</title>
-      <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
     </item>
     <item>
       <title>Hříšníci</title>
@@ -80,10 +68,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9JWQYB7FkGtg47wFO7GOrUDgYrx.jpg" alt="V bahně poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 14. srp. 2025</p>]]></description>
     </item>
     <item>
+      <title>Perníkový táta</title>
+      <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
+    </item>
+    <item>
       <title>Hvězdná brána</title>
       <link>https://www.themoviedb.org/tv/4629-stargate-sg-1?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/4629-stargate-sg-1?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg" alt="Hvězdná brána poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 27. čvc. 1997</p>]]></description>
+    </item>
+    <item>
+      <title>Přátelé</title>
+      <link>https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2l2A2LYLlqDDUoGuv1s7NYWXgpZ.jpg" alt="Přátelé poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 22. zář. 1994</p>]]></description>
     </item>
     <item>
       <title>Pokémon</title>
