@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Feb 2026 01:02:42 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 05:32:10 +0100</lastBuildDate>
     <item>
       <title>Rytíř Sedmi království</title>
       <link>https://www.themoviedb.org/tv/224372-a-knight-of-the-seven-kingdoms-the-hedge-knight?language=cs-CZ</link>
@@ -92,16 +92,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg" alt="Hvězdná brána poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 27. čvc. 1997</p>]]></description>
     </item>
     <item>
-      <title>Flash</title>
-      <link>https://www.themoviedb.org/tv/60735-the-flash?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/60735-the-flash?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yZevl2vHQgmosfwUdVNzviIfaWS.jpg" alt="Flash poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 07. říj. 2014</p>]]></description>
-    </item>
-    <item>
       <title>Noční agent</title>
       <link>https://www.themoviedb.org/tv/129552-the-night-agent?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/129552-the-night-agent?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vox3O68Li1DzezO2s43pvE2ll1Z.jpg" alt="Noční agent poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 23. bře. 2023</p>]]></description>
+    </item>
+    <item>
+      <title>Flash</title>
+      <link>https://www.themoviedb.org/tv/60735-the-flash?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60735-the-flash?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yZevl2vHQgmosfwUdVNzviIfaWS.jpg" alt="Flash poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 07. říj. 2014</p>]]></description>
     </item>
     <item>
       <title>Bridgertonovi</title>
