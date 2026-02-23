@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Feb 2026 13:06:01 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 17:13:46 +0100</lastBuildDate>
     <item>
       <title>Rytíř Sedmi království</title>
       <link>https://www.themoviedb.org/tv/224372-a-knight-of-the-seven-kingdoms-the-hedge-knight?language=cs-CZ</link>
@@ -56,6 +56,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg" alt="Raw poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p><p>První vysílání: 11. led. 1993</p>]]></description>
     </item>
     <item>
+      <title>Noční agent</title>
+      <link>https://www.themoviedb.org/tv/129552-the-night-agent?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/129552-the-night-agent?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vox3O68Li1DzezO2s43pvE2ll1Z.jpg" alt="Noční agent poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 23. bře. 2023</p>]]></description>
+    </item>
+    <item>
       <title>Hříšníci</title>
       <link>https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/34307-shameless?language=cs-CZ</guid>
@@ -68,6 +74,24 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
     </item>
     <item>
+      <title>Hvězdná brána</title>
+      <link>https://www.themoviedb.org/tv/4629-stargate-sg-1?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4629-stargate-sg-1?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg" alt="Hvězdná brána poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 27. čvc. 1997</p>]]></description>
+    </item>
+    <item>
+      <title>Přátelé</title>
+      <link>https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2l2A2LYLlqDDUoGuv1s7NYWXgpZ.jpg" alt="Přátelé poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 22. zář. 1994</p>]]></description>
+    </item>
+    <item>
+      <title>Černá listina</title>
+      <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
+    </item>
+    <item>
       <title>Flash</title>
       <link>https://www.themoviedb.org/tv/60735-the-flash?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/60735-the-flash?language=cs-CZ</guid>
@@ -78,30 +102,6 @@
       <link>https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9JWQYB7FkGtg47wFO7GOrUDgYrx.jpg" alt="V bahně poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 14. srp. 2025</p>]]></description>
-    </item>
-    <item>
-      <title>Černá listina</title>
-      <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
-    </item>
-    <item>
-      <title>Noční agent</title>
-      <link>https://www.themoviedb.org/tv/129552-the-night-agent?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/129552-the-night-agent?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/vox3O68Li1DzezO2s43pvE2ll1Z.jpg" alt="Noční agent poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 23. bře. 2023</p>]]></description>
-    </item>
-    <item>
-      <title>Přátelé</title>
-      <link>https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2l2A2LYLlqDDUoGuv1s7NYWXgpZ.jpg" alt="Přátelé poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 22. zář. 1994</p>]]></description>
-    </item>
-    <item>
-      <title>Hvězdná brána</title>
-      <link>https://www.themoviedb.org/tv/4629-stargate-sg-1?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4629-stargate-sg-1?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg" alt="Hvězdná brána poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 27. čvc. 1997</p>]]></description>
     </item>
     <item>
       <title>Bridgertonovi</title>
@@ -122,10 +122,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg" alt="Pokémon poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 01. dub. 1997</p>]]></description>
     </item>
     <item>
-      <title>Živí mrtví</title>
-      <link>https://www.themoviedb.org/tv/1402-the-walking-dead?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1402-the-walking-dead?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/76HyQ3QJNzn9qICnm4L4Cmk5DpO.jpg" alt="Živí mrtví poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 31. říj. 2010</p>]]></description>
+      <title>Gangy z Birminghamu</title>
+      <link>https://www.themoviedb.org/tv/60574-peaky-blinders?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60574-peaky-blinders?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/q5tUB3LY1FPgH0IDwtmw49bdR3t.jpg" alt="Gangy z Birminghamu poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 12. zář. 2013</p>]]></description>
     </item>
   </channel>
 </rss>
