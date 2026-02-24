@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Feb 2026 17:17:22 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 21:05:42 +0100</lastBuildDate>
     <item>
       <title>Rytíř Sedmi království</title>
       <link>https://www.themoviedb.org/tv/224372-a-knight-of-the-seven-kingdoms-the-hedge-knight?language=cs-CZ</link>
@@ -53,7 +53,7 @@
       <title>Raw</title>
       <link>https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg" alt="Raw poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p><p>První vysílání: 11. led. 1993</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/7wq6uV8YRdWNEyI9TY5k80yWENg.jpg" alt="Raw poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p><p>První vysílání: 11. led. 1993</p>]]></description>
     </item>
     <item>
       <title>Noční agent</title>
