@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Feb 2026 05:32:44 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 09:09:15 +0100</lastBuildDate>
     <item>
       <title>Rytíř Sedmi království</title>
       <link>https://www.themoviedb.org/tv/224372-a-knight-of-the-seven-kingdoms-the-hedge-knight?language=cs-CZ</link>
@@ -98,16 +98,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/yZevl2vHQgmosfwUdVNzviIfaWS.jpg" alt="Flash poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 78%</p><p>První vysílání: 07. říj. 2014</p>]]></description>
     </item>
     <item>
-      <title>V bahně</title>
-      <link>https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9JWQYB7FkGtg47wFO7GOrUDgYrx.jpg" alt="V bahně poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 14. srp. 2025</p>]]></description>
-    </item>
-    <item>
       <title>Bridgertonovi</title>
       <link>https://www.themoviedb.org/tv/91239-bridgerton?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/91239-bridgerton?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/sOAHEbew4TwNCf99WjqECj9ay2y.jpg" alt="Bridgertonovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 25. pro. 2020</p>]]></description>
+    </item>
+    <item>
+      <title>V bahně</title>
+      <link>https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/258462-en-el-barro?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/9JWQYB7FkGtg47wFO7GOrUDgYrx.jpg" alt="V bahně poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 74%</p><p>První vysílání: 14. srp. 2025</p>]]></description>
     </item>
     <item>
       <title>Upíří deníky</title>
