@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 06 Mar 2026 01:10:03 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 05:29:20 +0100</lastBuildDate>
     <item>
       <title>Bridgertonovi</title>
       <link>https://www.themoviedb.org/tv/91239-bridgerton?language=cs-CZ</link>
@@ -68,12 +68,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
     </item>
     <item>
-      <title>Monarch: Odkaz monster</title>
-      <link>https://www.themoviedb.org/tv/202411-monarch-legacy-of-monsters?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/202411-monarch-legacy-of-monsters?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hGX400Nqdo3c7q5MJnR89UmKUIR.jpg" alt="Monarch: Odkaz monster poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 16. lis. 2023</p>]]></description>
-    </item>
-    <item>
       <title>Raw</title>
       <link>https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</guid>
@@ -90,6 +84,12 @@
       <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
+    </item>
+    <item>
+      <title>Monarch: Odkaz monster</title>
+      <link>https://www.themoviedb.org/tv/202411-monarch-legacy-of-monsters?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/202411-monarch-legacy-of-monsters?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hGX400Nqdo3c7q5MJnR89UmKUIR.jpg" alt="Monarch: Odkaz monster poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 16. lis. 2023</p>]]></description>
     </item>
     <item>
       <title>Přátelé</title>
