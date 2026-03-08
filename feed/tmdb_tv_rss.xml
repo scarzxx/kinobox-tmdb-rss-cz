@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 08 Mar 2026 05:29:44 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 09:01:43 +0100</lastBuildDate>
     <item>
       <title>Bridgertonovi</title>
       <link>https://www.themoviedb.org/tv/91239-bridgerton?language=cs-CZ</link>
@@ -47,7 +47,7 @@
       <title>Rytíř Sedmi království</title>
       <link>https://www.themoviedb.org/tv/224372-a-knight-of-the-seven-kingdoms-the-hedge-knight?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/224372-a-knight-of-the-seven-kingdoms-the-hedge-knight?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/49HuUcsWajw6Ca3zc3xLARvm5Xm.jpg" alt="Rytíř Sedmi království poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 18. led. 2026</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/49HuUcsWajw6Ca3zc3xLARvm5Xm.jpg" alt="Rytíř Sedmi království poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 18. led. 2026</p>]]></description>
     </item>
     <item>
       <title>Stranger Things</title>
@@ -59,7 +59,7 @@
       <title>Můj kluk na vyžádání</title>
       <link>https://www.themoviedb.org/tv/281016?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/281016?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg" alt="Můj kluk na vyžádání poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 93%</p><p>První vysílání: 06. bře. 2026</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg" alt="Můj kluk na vyžádání poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 91%</p><p>První vysílání: 06. bře. 2026</p>]]></description>
     </item>
     <item>
       <title>Monarch: Odkaz monster</title>
