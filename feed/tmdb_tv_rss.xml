@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 08 Mar 2026 01:03:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 05:29:44 +0100</lastBuildDate>
     <item>
       <title>Bridgertonovi</title>
       <link>https://www.themoviedb.org/tv/91239-bridgerton?language=cs-CZ</link>
@@ -56,6 +56,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg" alt="Stranger Things poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 15. čvc. 2016</p>]]></description>
     </item>
     <item>
+      <title>Můj kluk na vyžádání</title>
+      <link>https://www.themoviedb.org/tv/281016?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/281016?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg" alt="Můj kluk na vyžádání poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 93%</p><p>První vysílání: 06. bře. 2026</p>]]></description>
+    </item>
+    <item>
       <title>Monarch: Odkaz monster</title>
       <link>https://www.themoviedb.org/tv/202411-monarch-legacy-of-monsters?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/202411-monarch-legacy-of-monsters?language=cs-CZ</guid>
@@ -89,7 +95,7 @@
       <title>BAKI-DOU: The Invincible Samurai</title>
       <link>https://www.themoviedb.org/tv/300054?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/300054?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/frtzbwANetYd0M4zdrZ5gx0E89q.jpg" alt="BAKI-DOU: The Invincible Samurai poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 26. úno. 2026</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/frtzbwANetYd0M4zdrZ5gx0E89q.jpg" alt="BAKI-DOU: The Invincible Samurai poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 90%</p><p>První vysílání: 26. úno. 2026</p>]]></description>
     </item>
     <item>
       <title>Perníkový táta</title>
@@ -114,12 +120,6 @@
       <link>https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2l2A2LYLlqDDUoGuv1s7NYWXgpZ.jpg" alt="Přátelé poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 22. zář. 1994</p>]]></description>
-    </item>
-    <item>
-      <title>Můj kluk na vyžádání</title>
-      <link>https://www.themoviedb.org/tv/281016?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/281016?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg" alt="Můj kluk na vyžádání poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 94%</p><p>První vysílání: 06. bře. 2026</p>]]></description>
     </item>
     <item>
       <title>Upíří deníky</title>
