@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 10 Mar 2026 13:04:33 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 17:17:30 +0100</lastBuildDate>
     <item>
       <title>Chirurgové</title>
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
@@ -26,12 +26,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" alt="Námořní vyšetřovací služba poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2003</p>]]></description>
     </item>
     <item>
-      <title>Bridgertonovi</title>
-      <link>https://www.themoviedb.org/tv/91239-bridgerton?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/91239-bridgerton?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/sOAHEbew4TwNCf99WjqECj9ay2y.jpg" alt="Bridgertonovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 25. pro. 2020</p>]]></description>
-    </item>
-    <item>
       <title>Hra o trůny</title>
       <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
@@ -42,6 +36,12 @@
       <link>https://www.themoviedb.org/tv/95479?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/95479?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg" alt="JUJUTSU KAISEN poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 03. říj. 2020</p>]]></description>
+    </item>
+    <item>
+      <title>Bridgertonovi</title>
+      <link>https://www.themoviedb.org/tv/91239-bridgerton?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/91239-bridgerton?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/sOAHEbew4TwNCf99WjqECj9ay2y.jpg" alt="Bridgertonovi poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 25. pro. 2020</p>]]></description>
     </item>
     <item>
       <title>Stranger Things</title>
@@ -62,30 +62,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg" alt="Hříšníci poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. led. 2011</p>]]></description>
     </item>
     <item>
-      <title>Přátelé</title>
-      <link>https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2l2A2LYLlqDDUoGuv1s7NYWXgpZ.jpg" alt="Přátelé poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 22. zář. 1994</p>]]></description>
-    </item>
-    <item>
-      <title>Můj kluk na vyžádání</title>
-      <link>https://www.themoviedb.org/tv/281016?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/281016?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/kYRpUkcHJGIrkuMiGGtEU1YHEkR.jpg" alt="Můj kluk na vyžádání poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 06. bře. 2026</p>]]></description>
-    </item>
-    <item>
-      <title>C.I.D.</title>
-      <link>https://www.themoviedb.org/tv/15226-c-i-d?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/15226-c-i-d?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg" alt="C.I.D. poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 57%</p><p>První vysílání: 21. led. 1998</p>]]></description>
-    </item>
-    <item>
-      <title>Cizinka</title>
-      <link>https://www.themoviedb.org/tv/56570-outlander?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/56570-outlander?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ckimC9OQsCotGAwBYfBLHysgwRu.jpg" alt="Cizinka poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. srp. 2014</p>]]></description>
-    </item>
-    <item>
       <title>Pokémon</title>
       <link>https://www.themoviedb.org/tv/60572?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/60572?language=cs-CZ</guid>
@@ -98,10 +74,10 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg" alt="Hvězdná brána poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 27. čvc. 1997</p>]]></description>
     </item>
     <item>
-      <title>Gangy z Birminghamu</title>
-      <link>https://www.themoviedb.org/tv/60574-peaky-blinders?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/60574-peaky-blinders?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/q5tUB3LY1FPgH0IDwtmw49bdR3t.jpg" alt="Gangy z Birminghamu poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 12. zář. 2013</p>]]></description>
+      <title>Přátelé</title>
+      <link>https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2l2A2LYLlqDDUoGuv1s7NYWXgpZ.jpg" alt="Přátelé poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 22. zář. 1994</p>]]></description>
     </item>
     <item>
       <title>Men on a Mission</title>
@@ -110,22 +86,46 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2jIi55JtYKJTL1km8qHMuUilOWo.jpg" alt="Men on a Mission poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 75%</p><p>První vysílání: 05. pro. 2015</p>]]></description>
     </item>
     <item>
+      <title>Cizinka</title>
+      <link>https://www.themoviedb.org/tv/56570-outlander?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/56570-outlander?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ckimC9OQsCotGAwBYfBLHysgwRu.jpg" alt="Cizinka poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. srp. 2014</p>]]></description>
+    </item>
+    <item>
+      <title>C.I.D.</title>
+      <link>https://www.themoviedb.org/tv/15226-c-i-d?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/15226-c-i-d?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg" alt="C.I.D. poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 57%</p><p>První vysílání: 21. led. 1998</p>]]></description>
+    </item>
+    <item>
+      <title>Můj kluk na vyžádání</title>
+      <link>https://www.themoviedb.org/tv/281016?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/281016?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/kYRpUkcHJGIrkuMiGGtEU1YHEkR.jpg" alt="Můj kluk na vyžádání poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 06. bře. 2026</p>]]></description>
+    </item>
+    <item>
       <title>Perníkový táta</title>
       <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
     </item>
     <item>
+      <title>Gangy z Birminghamu</title>
+      <link>https://www.themoviedb.org/tv/60574-peaky-blinders?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/60574-peaky-blinders?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/q5tUB3LY1FPgH0IDwtmw49bdR3t.jpg" alt="Gangy z Birminghamu poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 12. zář. 2013</p>]]></description>
+    </item>
+    <item>
+      <title>Tlapková patrola</title>
+      <link>https://www.themoviedb.org/tv/57532-paw-patrol?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/57532-paw-patrol?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pghhyJGRs4EA03ka6WV1QOo4pUu.jpg" alt="Tlapková patrola poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 12. srp. 2013</p>]]></description>
+    </item>
+    <item>
       <title>Černá listina</title>
       <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
-    </item>
-    <item>
-      <title>Monarch: Odkaz monster</title>
-      <link>https://www.themoviedb.org/tv/202411-monarch-legacy-of-monsters?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/202411-monarch-legacy-of-monsters?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/hGX400Nqdo3c7q5MJnR89UmKUIR.jpg" alt="Monarch: Odkaz monster poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 77%</p><p>První vysílání: 16. lis. 2023</p>]]></description>
     </item>
   </channel>
 </rss>
