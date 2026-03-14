@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 14 Mar 2026 13:01:51 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 17:03:14 +0100</lastBuildDate>
     <item>
       <title>ONE PIECE</title>
       <link>https://www.themoviedb.org/tv/111110-one-piece?language=cs-CZ</link>
@@ -50,6 +50,12 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
     </item>
     <item>
+      <title>Rodina Sopránů</title>
+      <link>https://www.themoviedb.org/tv/1398-the-sopranos?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1398-the-sopranos?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg" alt="Rodina Sopránů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 10. led. 1999</p>]]></description>
+    </item>
+    <item>
       <title>Zoufalé manželky</title>
       <link>https://www.themoviedb.org/tv/693-desperate-housewives?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/693-desperate-housewives?language=cs-CZ</guid>
@@ -62,16 +68,28 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg" alt="Stranger Things poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 15. čvc. 2016</p>]]></description>
     </item>
     <item>
-      <title>Malý Sheldon</title>
-      <link>https://www.themoviedb.org/tv/71728-young-sheldon?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/71728-young-sheldon?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/o8GddFodKDLRnxVRN9m0zBW30Gh.jpg" alt="Malý Sheldon poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 25. zář. 2017</p>]]></description>
+      <title>Sezame, otevři se</title>
+      <link>https://www.themoviedb.org/tv/502-sesame-street?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/502-sesame-street?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg" alt="Sezame, otevři se poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p><p>První vysílání: 10. lis. 1969</p>]]></description>
     </item>
     <item>
-      <title>Rodina Sopránů</title>
-      <link>https://www.themoviedb.org/tv/1398-the-sopranos?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1398-the-sopranos?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg" alt="Rodina Sopránů poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 87%</p><p>První vysílání: 10. led. 1999</p>]]></description>
+      <title>Černá listina</title>
+      <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
+    </item>
+    <item>
+      <title>Ranč Heartland</title>
+      <link>https://www.themoviedb.org/tv/14929-heartland?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/14929-heartland?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg" alt="Ranč Heartland poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 14. říj. 2007</p>]]></description>
+    </item>
+    <item>
+      <title>Raw</title>
+      <link>https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg" alt="Raw poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p><p>První vysílání: 11. led. 1993</p>]]></description>
     </item>
     <item>
       <title>Hříšníci</title>
@@ -92,40 +110,22 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pghhyJGRs4EA03ka6WV1QOo4pUu.jpg" alt="Tlapková patrola poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 70%</p><p>První vysílání: 12. srp. 2013</p>]]></description>
     </item>
     <item>
-      <title>Raw</title>
-      <link>https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4656-wwe-raw?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg" alt="Raw poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 68%</p><p>První vysílání: 11. led. 1993</p>]]></description>
-    </item>
-    <item>
-      <title>Černá listina</title>
-      <link>https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/46952-the-blacklist?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tDKIWzGgpy7MCUb2H9hs2SzDoGN.jpg" alt="Černá listina poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 76%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
-    </item>
-    <item>
-      <title>Přátelé</title>
-      <link>https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2l2A2LYLlqDDUoGuv1s7NYWXgpZ.jpg" alt="Přátelé poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 22. zář. 1994</p>]]></description>
-    </item>
-    <item>
       <title>Perníkový táta</title>
       <link>https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1396-breaking-bad?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ewxZ6LAr1g5Uosgi3wiKqxcfmbP.jpg" alt="Perníkový táta poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 89%</p><p>První vysílání: 20. led. 2008</p>]]></description>
     </item>
     <item>
-      <title>Sezame, otevři se</title>
-      <link>https://www.themoviedb.org/tv/502-sesame-street?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/502-sesame-street?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg" alt="Sezame, otevři se poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 71%</p><p>První vysílání: 10. lis. 1969</p>]]></description>
+      <title>Malý Sheldon</title>
+      <link>https://www.themoviedb.org/tv/71728-young-sheldon?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/71728-young-sheldon?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/o8GddFodKDLRnxVRN9m0zBW30Gh.jpg" alt="Malý Sheldon poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 25. zář. 2017</p>]]></description>
     </item>
     <item>
-      <title>Hvězdná brána</title>
-      <link>https://www.themoviedb.org/tv/4629-stargate-sg-1?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/4629-stargate-sg-1?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg" alt="Hvězdná brána poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 27. čvc. 1997</p>]]></description>
+      <title>Přátelé</title>
+      <link>https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1668-friends?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/2l2A2LYLlqDDUoGuv1s7NYWXgpZ.jpg" alt="Přátelé poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 84%</p><p>První vysílání: 22. zář. 1994</p>]]></description>
     </item>
   </channel>
 </rss>
