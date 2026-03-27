@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 27 Mar 2026 01:06:30 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 05:44:15 +0100</lastBuildDate>
     <item>
       <title>Simpsonovi</title>
       <link>https://www.themoviedb.org/tv/456-the-simpsons?language=cs-CZ</link>
@@ -38,16 +38,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/kIi3T7X0kmiV9vGDme146P2d979.jpg" alt="Máma poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
     </item>
     <item>
-      <title>Hra o trůny</title>
-      <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
-    </item>
-    <item>
       <title>JUJUTSU KAISEN</title>
       <link>https://www.themoviedb.org/tv/95479?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/95479?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg" alt="JUJUTSU KAISEN poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 03. říj. 2020</p>]]></description>
+    </item>
+    <item>
+      <title>Hra o trůny</title>
+      <link>https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/1399-game-of-thrones?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/oKYVK29pRpNUDAyHT27IjhFSOI7.jpg" alt="Hra o trůny poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 17. dub. 2011</p>]]></description>
     </item>
     <item>
       <title>Přátelé</title>
@@ -98,12 +98,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg" alt="Stranger Things poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 15. čvc. 2016</p>]]></description>
     </item>
     <item>
-      <title>Daredevil: Znovuzrození</title>
-      <link>https://www.themoviedb.org/tv/202555-daredevil-born-again?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/202555-daredevil-born-again?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/mVlhNu0tPPyPJWrpWO3vImZjjAj.jpg" alt="Daredevil: Znovuzrození poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 04. bře. 2025</p>]]></description>
-    </item>
-    <item>
       <title>ONE PIECE</title>
       <link>https://www.themoviedb.org/tv/111110-one-piece?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/111110-one-piece?language=cs-CZ</guid>
@@ -126,6 +120,12 @@
       <link>https://www.themoviedb.org/tv/1400-seinfeld?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1400-seinfeld?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" alt="Seinfeld poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 05. čvc. 1989</p>]]></description>
+    </item>
+    <item>
+      <title>Pursuit of Jade</title>
+      <link>https://www.themoviedb.org/tv/279388?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/279388?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/tKMqVzKi4dVvm9Bdpb4oEEgnZYH.jpg" alt="Pursuit of Jade poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 06. bře. 2026</p>]]></description>
     </item>
   </channel>
 </rss>
