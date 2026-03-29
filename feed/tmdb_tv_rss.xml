@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 29 Mar 2026 01:06:44 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 06:47:01 +0200</lastBuildDate>
     <item>
       <title>Chirurgové</title>
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
@@ -98,16 +98,16 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/kFHonOMGfAnhJWBtjBcqkXpUAff.jpg" alt="The Wire – Špína Baltimoru poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 02. čer. 2002</p>]]></description>
     </item>
     <item>
-      <title>Will Trent</title>
-      <link>https://www.themoviedb.org/tv/208569-will-trent?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/208569-will-trent?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/qG5O46gUxxYGImld03tl2zLhvrg.jpg" alt="Will Trent poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p><p>První vysílání: 03. led. 2023</p>]]></description>
-    </item>
-    <item>
       <title>Seinfeld</title>
       <link>https://www.themoviedb.org/tv/1400-seinfeld?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1400-seinfeld?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" alt="Seinfeld poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 83%</p><p>První vysílání: 05. čvc. 1989</p>]]></description>
+    </item>
+    <item>
+      <title>Záchranáři L. A.</title>
+      <link>https://www.themoviedb.org/tv/75219-9-1-1?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/75219-9-1-1?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/6njUqsd3By2mJsdZm1P0moPLzs3.jpg" alt="Záchranáři L. A. poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 03. led. 2018</p>]]></description>
     </item>
     <item>
       <title>Pursuit of Jade</title>
