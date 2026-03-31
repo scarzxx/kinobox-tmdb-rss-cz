@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 31 Mar 2026 10:19:24 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 14:11:18 +0200</lastBuildDate>
     <item>
       <title>Chirurgové</title>
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
@@ -80,12 +80,6 @@
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/kIi3T7X0kmiV9vGDme146P2d979.jpg" alt="Máma poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 73%</p><p>První vysílání: 23. zář. 2013</p>]]></description>
     </item>
     <item>
-      <title>Sósó no Frieren</title>
-      <link>https://www.themoviedb.org/tv/209867?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/209867?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dqZENchTd7lp5zht7BdlqM7RBhD.jpg" alt="Sósó no Frieren poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 88%</p><p>První vysílání: 29. zář. 2023</p>]]></description>
-    </item>
-    <item>
       <title>The Wire – Špína Baltimoru</title>
       <link>https://www.themoviedb.org/tv/1438-the-wire?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/1438-the-wire?language=cs-CZ</guid>
@@ -119,7 +113,13 @@
       <title>Pursuit of Jade</title>
       <link>https://www.themoviedb.org/tv/279388?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/279388?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/cQ6xWAf3LAjl6DSbWcNju2T1NVJ.jpg" alt="Pursuit of Jade poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 06. bře. 2026</p>]]></description>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/g2CSCJuWm7IcpuRjxySQvZcJYnp.jpg" alt="Pursuit of Jade poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 06. bře. 2026</p>]]></description>
+    </item>
+    <item>
+      <title>Sósó no Frieren</title>
+      <link>https://www.themoviedb.org/tv/209867?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/209867?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/dqZENchTd7lp5zht7BdlqM7RBhD.jpg" alt="Sósó no Frieren poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 88%</p><p>První vysílání: 29. zář. 2023</p>]]></description>
     </item>
     <item>
       <title>Tlapková patrola</title>
