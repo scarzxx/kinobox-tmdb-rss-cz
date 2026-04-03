@@ -6,7 +6,7 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 03 Apr 2026 10:12:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 14:06:33 +0200</lastBuildDate>
     <item>
       <title>Chirurgové</title>
       <link>https://www.themoviedb.org/tv/1416-grey-s-anatomy?language=cs-CZ</link>
@@ -36,6 +36,12 @@
       <link>https://www.themoviedb.org/tv/60574-peaky-blinders?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/60574-peaky-blinders?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/q5tUB3LY1FPgH0IDwtmw49bdR3t.jpg" alt="Gangy z Birminghamu poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 85%</p><p>První vysílání: 12. zář. 2013</p>]]></description>
+    </item>
+    <item>
+      <title>XO, Kitty</title>
+      <link>https://www.themoviedb.org/tv/195670-xo-kitty?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/195670-xo-kitty?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/lHXPlwi8RxPndGfvIY4gzvtP7Kb.jpg" alt="XO, Kitty poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 18. kvě. 2023</p>]]></description>
     </item>
     <item>
       <title>Hra o trůny</title>
@@ -72,6 +78,12 @@
       <link>https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/66732-stranger-things?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg" alt="Stranger Things poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 86%</p><p>První vysílání: 15. čvc. 2016</p>]]></description>
+    </item>
+    <item>
+      <title>Kouzelná Beruška a Černý kocour</title>
+      <link>https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir?language=cs-CZ</link>
+      <guid isPermaLink="true">https://www.themoviedb.org/tv/65334-miraculous-les-aventures-de-ladybug-et-chat-noir?language=cs-CZ</guid>
+      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/bg0sYGdpPETndv7fCsUwLxcBaXy.jpg" alt="Kouzelná Beruška a Černý kocour poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 19. říj. 2015</p>]]></description>
     </item>
     <item>
       <title>Černá listina</title>
@@ -114,18 +126,6 @@
       <link>https://www.themoviedb.org/tv/56570-outlander?language=cs-CZ</link>
       <guid isPermaLink="true">https://www.themoviedb.org/tv/56570-outlander?language=cs-CZ</guid>
       <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ckimC9OQsCotGAwBYfBLHysgwRu.jpg" alt="Cizinka poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 82%</p><p>První vysílání: 09. srp. 2014</p>]]></description>
-    </item>
-    <item>
-      <title>Živí mrtví</title>
-      <link>https://www.themoviedb.org/tv/1402-the-walking-dead?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/1402-the-walking-dead?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/76HyQ3QJNzn9qICnm4L4Cmk5DpO.jpg" alt="Živí mrtví poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 81%</p><p>První vysílání: 31. říj. 2010</p>]]></description>
-    </item>
-    <item>
-      <title>S.W.A.T.</title>
-      <link>https://www.themoviedb.org/tv/71790-s-w-a-t?language=cs-CZ</link>
-      <guid isPermaLink="true">https://www.themoviedb.org/tv/71790-s-w-a-t?language=cs-CZ</guid>
-      <description><![CDATA[<img src="https://media.themoviedb.org/t/p/w220_and_h330_face/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg" alt="S.W.A.T. poster" style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;" /><p>Hodnocení: 80%</p><p>První vysílání: 02. lis. 2017</p>]]></description>
     </item>
   </channel>
 </rss>
