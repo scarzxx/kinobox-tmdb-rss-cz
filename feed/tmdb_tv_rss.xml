@@ -6,6 +6,6 @@
     <description>Aktuálně nejoblíbenější seriály na TheMovieDB.org dostupné na vybraných streamovacích službách</description>
     <language>cs-cz</language>
     <ns0:link href="https://raw.githubusercontent.com/scarzxx/kinobox-rss/refs/heads/main/feed/tmdb_tv_rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 12 Apr 2026 22:05:32 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 02:08:58 +0200</lastBuildDate>
   </channel>
 </rss>
